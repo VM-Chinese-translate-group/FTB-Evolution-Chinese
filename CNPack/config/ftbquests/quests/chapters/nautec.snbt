@@ -1,0 +1,2098 @@
+{
+	autofocus_id: "666E8041E0754A3C"
+	default_hide_dependency_lines: false
+	default_min_width: 250
+	default_quest_shape: ""
+	filename: "nautec"
+	group: "293B0513F4340751"
+	icon: {
+		id: "nautec:diving_helmet"
+	}
+	id: "642768EC48CAFC60"
+	images: [
+		{
+			height: 4.0d
+			hover: ["Deep Sea Drain"]
+			image: "ftbevolution:textures/quests/nautec/sea_drain_complete_open.png"
+			rotation: -5.0d
+			width: 8.0d
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			height: 5.625d
+			hover: ["Bio Reactor"]
+			image: "ftbevolution:textures/quests/nautec/bioreactor_complete_o.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 18.0d
+			y: -1.0d
+		}
+		{
+			height: 6.0d
+			hover: ["Energizing a Prismarine Crystal"]
+			image: "ftbevolution:textures/quests/nautec/lasered_crystal_above.png"
+			rotation: 0.0d
+			width: 7.5d
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			alpha: 127
+			color: 9539985
+			height: 9.0d
+			image: "nautec:block/multiblock/bio_reactor/original/top"
+			order: -5
+			rotation: 0.0d
+			width: 9.0d
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			alpha: 127
+			color: 4870143
+			height: 11.0d
+			image: "minecraft:block/water_still"
+			order: -10
+			rotation: 0.0d
+			width: 33.0d
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			alpha: 239
+			color: 9539985
+			height: 3.0d
+			image: "nautec:block/polished_prismarine"
+			order: -4
+			rotation: 0.0d
+			width: 3.0d
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			height: 4.0d
+			image: "ftbevolution:textures/quests/nautec/nautec_logo.png"
+			rotation: 0.0d
+			width: 24.0d
+			x: 6.5d
+			y: -9.0d
+		}
+		{
+			alpha: 127
+			color: 9539985
+			height: 9.0d
+			image: "nautec:block/multiblock/bio_reactor/original/top"
+			order: -5
+			rotation: 0.0d
+			width: 9.0d
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			alpha: 127
+			color: 9539985
+			height: 9.0d
+			image: "nautec:block/multiblock/bio_reactor/original/top"
+			order: -5
+			rotation: 0.0d
+			width: 9.0d
+			x: 14.5d
+			y: -2.5d
+		}
+		{
+			alpha: 239
+			color: 9539985
+			height: 3.0d
+			image: "nautec:block/polished_prismarine"
+			order: -4
+			rotation: 0.0d
+			width: 3.0d
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			alpha: 239
+			color: 9539985
+			height: 3.0d
+			image: "nautec:block/polished_prismarine"
+			order: -4
+			rotation: 0.0d
+			width: 3.0d
+			x: 14.5d
+			y: -2.5d
+		}
+		{
+			dev: true
+			height: 1.0d
+			image: "nautec:item/grafting_tool"
+			rotation: 0.0d
+			width: 1.0d
+			x: 35.0d
+			y: 0.5d
+		}
+		{
+			dev: true
+			height: 1.0d
+			image: "nautec:item/grafting_tool"
+			rotation: 0.0d
+			width: 1.0d
+			x: 37.0d
+			y: 0.5d
+		}
+		{
+			dev: true
+			height: 1.0d
+			image: "nautec:item/grafting_tool"
+			rotation: 0.0d
+			width: 1.0d
+			x: 40.0d
+			y: 0.5d
+		}
+		{
+			dev: true
+			height: 1.0d
+			image: "nautec:item/grafting_tool"
+			rotation: 0.0d
+			width: 1.0d
+			x: 44.0d
+			y: 0.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["666E8041E0754A3C"]
+			icon: {
+				id: "nautec:diving_helmet"
+			}
+			id: "424089E985536C5E"
+			rewards: [
+				{
+					id: "6B644DAFFEFBBAE3"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "33F72893A2ECCDCE"
+					item: {
+						count: 1
+						id: "nautec:air_bottle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "7594D74212D5CA4F"
+					item: {
+						count: 1
+						id: "nautec:diving_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "58CE95E1BE4F9DA8"
+					item: {
+						count: 1
+						id: "nautec:diving_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "09DBF906524CBC42"
+					item: {
+						count: 1
+						id: "nautec:diving_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "64FA3B81F3F229FC"
+					item: {
+						count: 1
+						id: "nautec:diving_boots"
+					}
+					type: "item"
+				}
+				{
+					id: "68047A1A401E6951"
+					item: {
+						count: 1
+						id: "nautec:crowbar"
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["424089E985536C5E"]
+			id: "334A319CC010293A"
+			rewards: [
+				{
+					id: "369450AB1FED407F"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 2
+					id: "61984D0E1F793AFF"
+					item: {
+						count: 1
+						id: "nautec:aquatic_catalyst"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4DA7BC2D06C386B5"
+				item: {
+					count: 1
+					id: "nautec:aquatic_catalyst"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["334A319CC010293A"]
+			icon: {
+				id: "nautec:prismarine_crystal"
+			}
+			id: "48CADAFA7696B518"
+			min_width: 250
+			rewards: [
+				{
+					id: "7C8A8FFEDBCECAD2"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "729625F9CD178CFF"
+					item: {
+						count: 1
+						id: "minecraft:prismarine_shard"
+					}
+					random_bonus: 8
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					icon: {
+						id: "nautec:prismarine_crystal"
+					}
+					id: "386548BD7518EF9B"
+					structure: "nautec:stone_crystal_geode"
+					type: "structure"
+				}
+				{
+					count: 8L
+					id: "597214A67C13F6AA"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(minecraft:prismarine_shard)item(minecraft:prismarine_crystals))"
+							"minecraft:custom_name": "\"Prismarine\""
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["48CADAFA7696B518"]
+			icon: {
+				id: "nautec:aquarine_steel_ingot"
+			}
+			id: "58AA1E1E16977E47"
+			min_width: 250
+			rewards: [
+				{
+					id: "31E09440E5D551DE"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "19A3986096D8D36B"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "19DD567C846401AF"
+				item: {
+					count: 1
+					id: "nautec:aquarine_steel_ingot"
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"3BAE611AE4CEA7A6"
+				"48CADAFA7696B518"
+			]
+			icon: {
+				id: "nautec:rusty_gear"
+			}
+			id: "71C0BC71D3B45690"
+			rewards: [
+				{
+					id: "49ED14A7E9D5D792"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6EA7C749D7741A4F"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "5BDF22410CEE180A"
+					item: {
+						count: 1
+						id: "nautec:rusty_gear"
+					}
+					type: "item"
+				}
+				{
+					id: "782B6F64DCB9ED46"
+					item: {
+						count: 1
+						id: "nautec:broken_whisk"
+					}
+					type: "item"
+				}
+				{
+					id: "01E7AC9B34801992"
+					item: {
+						count: 1
+						id: "nautec:burnt_coil"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "3BA1125FEDB56399"
+					item: {
+						count: 1
+						id: "nautec:ancient_valve"
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["666E8041E0754A3C"]
+			hide_dependency_lines: true
+			icon: {
+				id: "nautec:etching_acid_bucket"
+			}
+			id: "3BAE611AE4CEA7A6"
+			rewards: [
+				{
+					id: "5C36BD4705F18E6D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6BA6A143DF063C34"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "46E4F5A85B31A620"
+				item: {
+					count: 1
+					id: "nautec:etching_acid_bucket"
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"71C0BC71D3B45690"
+				"58AA1E1E16977E47"
+			]
+			id: "2953423FCB0A3146"
+			rewards: [
+				{
+					id: "4D649F1D6EA5A730"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "18F289087B63D50B"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "76B33B10C55265FD"
+				item: {
+					count: 1
+					id: "nautec:mixer"
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			id: "666E8041E0754A3C"
+			rewards: [
+				{
+					id: "4DF570A0F803E93D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "0D7F10A51FC4C93A"
+					item: {
+						count: 1
+						id: "nautec:nautec_guide"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "7744FB79F32E6C8D"
+				item: {
+					count: 1
+					id: "nautec:brown_polymer"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1216065631D8B731"]
+			icon: {
+				id: "nautec:aquarine_steel_pickaxe"
+			}
+			id: "1E7FCA66EDB1BCF5"
+			rewards: [
+				{
+					id: "564B3819E9B010A6"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4C8FF2FD4049FE4B"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					count: 2
+					id: "7F8208594302023C"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_ingot"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "673F863058F62890"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_pickaxe"
+					}
+					type: "item"
+				}
+				{
+					id: "5ED5A668632F51EF"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_sword"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "3B97C4B41F67C4EF"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_axe"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "318AA482B0643DF9"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_shovel"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "1A06FB24EAE25F88"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_hoe"
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["03A7D3280ECF5076"]
+			icon: {
+				id: "nautec:aquarine_steel_helmet"
+			}
+			id: "75EE2E239783B03E"
+			rewards: [
+				{
+					id: "26AF96F49015379B"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "599CBCF42BE1271E"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "4A57B29E851BEEE3"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "3A5749209F0540F5"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "3D4A8D6DA182A233"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "4B9B39109C0BDF89"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_boots"
+					}
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"2953423FCB0A3146"
+				"36A1553B4CB88D44"
+			]
+			dependency_requirement: "one_completed"
+			id: "1216065631D8B731"
+			rewards: [
+				{
+					id: "07F3C5F8282D96F8"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A8FE135ECF23086"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "284688AD14304A46"
+				item: {
+					count: 1
+					id: "nautec:eas_bucket"
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1E7FCA66EDB1BCF5"]
+			id: "03A7D3280ECF5076"
+			rewards: [
+				{
+					id: "21BBD25265F7C82D"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3F099DA0851E13F8"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "1D2BE1C11EE900C1"
+				item: {
+					count: 1
+					id: "nautec:prismarine_crystal_shard"
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"58AA1E1E16977E47"
+				"71C0BC71D3B45690"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "nautec:deep_sea_drain"
+			}
+			id: "36A1553B4CB88D44"
+			min_width: 350
+			optional: true
+			rewards: [
+				{
+					id: "7372967B400CAC9A"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "33E08100AE33EDE9"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "357ACCD3F136EEBD"
+					item: {
+						count: 1
+						id: "nautec:deep_sea_drain"
+					}
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "41119589FB4F6CAF"
+					item: {
+						count: 8
+						id: "nautec:deep_sea_drain_wall"
+					}
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1E7FCA66EDB1BCF5"]
+			id: "72EBD96ED914471F"
+			rewards: [
+				{
+					id: "494DC0EF525A9388"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "632741BE76DED5D7"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "0333218AAF767FE7"
+				item: {
+					count: 1
+					id: "nautec:charger"
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["03A7D3280ECF5076"]
+			id: "600DE37317142D0D"
+			optional: true
+			rewards: [
+				{
+					id: "304FF4C9D9F243D2"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "538D2D4CEE3C58EF"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "79FC328DC4183DB5"
+				item: {
+					count: 1
+					id: "nautec:prismatic_battery"
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["03A7D3280ECF5076"]
+			icon: {
+				id: "nautec:eldritch_heart"
+			}
+			id: "2E1393EB3FAF322C"
+			min_width: 350
+			rewards: [
+				{
+					id: "7B61144198F65CF7"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "25C28D50130C4600"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "63798430615C1671"
+					item: {
+						count: 1
+						id: "nautec:guardian_eye"
+					}
+					type: "item"
+				}
+				{
+					id: "25DCD12490F50DD0"
+					item: {
+						count: 1
+						id: "nautec:dolphin_fin"
+					}
+					type: "item"
+				}
+				{
+					id: "5D80BBCE273D527E"
+					item: {
+						count: 1
+						id: "nautec:drowned_lungs"
+					}
+					type: "item"
+				}
+				{
+					id: "7F8D4BCE772E0F81"
+					item: {
+						count: 1
+						id: "nautec:eldritch_heart"
+					}
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2E1393EB3FAF322C"]
+			icon: {
+				id: "nautec:augmentation_station"
+			}
+			id: "55C9854AAC7DFB86"
+			min_width: 300
+			rewards: [
+				{
+					id: "432EA32DC50EBC81"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1EC64B8A4628B0ED"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "63BD5EC77AE02E12"
+					item: {
+						count: 1
+						id: "nautec:augmentation_station"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "5E0FA672F2503B02"
+					item: {
+						count: 4
+						id: "nautec:augmentation_station_extension"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "702251978C95EA48"
+					item: {
+						count: 4
+						id: "nautec:polished_prismarine"
+					}
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "47643989F856C875"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_block"
+					}
+					type: "item"
+				}
+				{
+					id: "17008B296043661C"
+					item: {
+						count: 4
+						id: "nautec:claw_robot_arm"
+					}
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["58AA1E1E16977E47"]
+			id: "5A637C0834B0D450"
+			optional: true
+			rewards: [
+				{
+					id: "5EFB54F07E3ED575"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "01021B9CE38374BC"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "57AFCD2336E2E11F"
+				item: {
+					count: 1
+					id: "nautec:prism_monocle"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["58AA1E1E16977E47"]
+			icon: {
+				id: "nautec:laser_junction"
+			}
+			id: "3489D7BD48A98E6D"
+			rewards: [
+				{
+					id: "59F3C3138F11D8CE"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "21213F1C7DA383CA"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "04225F875F526130"
+					item: {
+						count: 1
+						id: "nautec:laser_junction"
+					}
+					type: "item"
+				}
+				{
+					id: "07DAE28D9B77FD72"
+					item: {
+						count: 1
+						id: "nautec:prismarine_laser_relay"
+					}
+					type: "item"
+				}
+				{
+					id: "57DD414590A74173"
+					item: {
+						count: 1
+						id: "nautec:aquarine_steel_wrench"
+					}
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["03A7D3280ECF5076"]
+			id: "2B99D2032E80745D"
+			rewards: [
+				{
+					id: "1FF9FEF7E3895AA6"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7AF6C56971577C6A"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "14571D49F3CEC4AD"
+					item: {
+						count: 1
+						id: "nautec:long_distance_laser"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "58CADDDD7FB46935"
+				item: {
+					count: 1
+					id: "nautec:long_distance_laser"
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "nautec:petri_dish"
+			}
+			id: "2B75621C200D22BE"
+			rewards: [
+				{
+					id: "666E0A91E70908B7"
+					item: {
+						count: 1
+						id: "supplementaries:soap"
+					}
+					type: "item"
+				}
+				{
+					id: "1808DA1DEE8CCD88"
+					item: {
+						count: 1
+						id: "minecraft:wet_sponge"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "75B0C775BD14E77D"
+					item: {
+						count: 1
+						id: "nautec:grafting_tool"
+					}
+					type: "item"
+				}
+				{
+					id: "0FC2244FEC4D07CD"
+					item: {
+						count: 1
+						id: "nautec:petri_dish"
+					}
+					type: "item"
+				}
+			]
+			x: 14.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2B75621C200D22BE"]
+			icon: {
+				id: "nautec:bacterial_analyzer"
+			}
+			id: "5AF160C6E2843FBF"
+			optional: true
+			rewards: [{
+				id: "5881D6E5F7963DF9"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [
+				{
+					id: "3A4C5C7CE6A4317E"
+					item: {
+						count: 1
+						id: "nautec:bacterial_analyzer"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					disable_toast: true
+					id: "3F46F72C0F67F699"
+					optional_task: true
+					type: "checkmark"
+				}
+			]
+			x: 14.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5AF160C6E2843FBF"]
+			id: "33602F1595068496"
+			optional: true
+			rewards: [{
+				count: 5
+				id: "0BA491C145B20567"
+				item: {
+					count: 1
+					id: "nautec:aquarine_steel_ingot"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "68ED1DDE7D549266"
+				item: {
+					count: 1
+					id: "nautec:incubator"
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"58AA1E1E16977E47"
+				"71C0BC71D3B45690"
+			]
+			hide_dependency_lines: true
+			id: "745FB525C24614E0"
+			tasks: [{
+				id: "63792A6E11245934"
+				item: {
+					count: 1
+					id: "nautec:fishing_station"
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"5AF160C6E2843FBF"
+				"33602F1595068496"
+				"502C24ACE7A2E055"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "nautec:bio_reactor"
+			}
+			id: "67CA7FA8D63E315F"
+			optional: true
+			rewards: [
+				{
+					count: 4
+					id: "75101C31ED735C58"
+					item: {
+						count: 1
+						id: "nautec:prismarine_crystal_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "7205E7DAFD37D5F6"
+					type: "xp"
+					xp: 99
+				}
+			]
+			tasks: [
+				{
+					id: "52883DEB9902521F"
+					item: {
+						count: 1
+						id: "nautec:bio_reactor"
+					}
+					type: "item"
+				}
+				{
+					id: "153C12D95B06AF89"
+					item: {
+						count: 1
+						id: "nautec:polished_prismarine"
+					}
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "207E9318AA896C07"
+					item: {
+						count: 8
+						id: "nautec:bacterial_containment_shield"
+					}
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1F5CE630AE2E79EE"
+					item: {
+						count: 8
+						id: "nautec:dark_prismarine_pillar"
+					}
+					type: "item"
+				}
+			]
+			x: 14.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5AF160C6E2843FBF"]
+			id: "502C24ACE7A2E055"
+			optional: true
+			rewards: [
+				{
+					id: "0476967488C99078"
+					item: {
+						components: {
+							"minecraft:custom_name": "\"Mutater\""
+						}
+						count: 1
+						id: "minecraft:poisonous_potato"
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "6BFD8B485A305F47"
+					item: {
+						count: 1
+						id: "minecraft:prismarine_crystals"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7C29A0B957988C07"
+				item: {
+					count: 1
+					id: "nautec:mutator"
+				}
+				type: "item"
+			}]
+			x: 15.5d
+			y: -2.5d
+		}
+		{
+			id: "1EE22ED7E117506C"
+			optional: true
+			tasks: [{
+				icon: {
+					id: "nautec:prismarine_sand"
+				}
+				id: "301841E2EFD9CDF4"
+				observe_type: 0
+				timer: 0L
+				to_observe: "nautec:prismarine_sand"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["03955929EDFC5FBE"]
+			disable_toast: true
+			id: "7590D2B3223AE9A1"
+			optional: true
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "4533CB0BC0C7C8F5"
+				item: {
+					count: 1
+					id: "minecraft:sand"
+				}
+				type: "item"
+			}]
+			x: 34.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03955929EDFC5FBE"]
+			disable_toast: true
+			id: "107A91E462938A62"
+			optional: true
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "7E91C0021561F140"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				type: "item"
+			}]
+			x: 36.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03955929EDFC5FBE"]
+			disable_toast: true
+			id: "053CF91C6BBC5DB7"
+			optional: true
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "3E6108AF35BA61DE"
+				item: {
+					count: 1
+					id: "minecraft:podzol"
+				}
+				type: "item"
+			}]
+			x: 39.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03955929EDFC5FBE"]
+			disable_toast: true
+			id: "3A00E483E59FDDE4"
+			optional: true
+			shape: "none"
+			size: 1.5d
+			tasks: [{
+				id: "1A887AA3B7356116"
+				item: {
+					count: 1
+					id: "minecraft:netherrack"
+				}
+				type: "item"
+			}]
+			x: 43.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"107A91E462938A62"
+				"78A93AE0E688592C"
+			]
+			disable_toast: true
+			id: "2D8E1EDA6A0A84E1"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "74E5F59DC9BC2A89"
+				item: {
+					count: 1
+					id: "minecraft:sugar_cane"
+				}
+				type: "item"
+			}]
+			x: 35.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7590D2B3223AE9A1"]
+			disable_toast: true
+			id: "70C819404FE477E1"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "5AA40B14565A857D"
+				item: {
+					count: 1
+					id: "minecraft:seagrass"
+				}
+				type: "item"
+			}]
+			x: 33.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7590D2B3223AE9A1"]
+			disable_toast: true
+			id: "78A93AE0E688592C"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "52D89EEAF748D52B"
+				item: {
+					count: 1
+					id: "minecraft:kelp"
+				}
+				type: "item"
+			}]
+			x: 35.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["70C819404FE477E1"]
+			disable_toast: true
+			id: "2766E355814A9113"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "222DC2735262083E"
+				item: {
+					count: 1
+					id: "minecraft:blue_ice"
+				}
+				type: "item"
+			}]
+			x: 32.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2D8E1EDA6A0A84E1"]
+			disable_toast: true
+			id: "7BFEA3E8C9549F6C"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "30D52B23701F2A92"
+				item: {
+					count: 1
+					id: "minecraft:cactus"
+				}
+				type: "item"
+			}]
+			x: 36.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2D8E1EDA6A0A84E1"]
+			disable_toast: true
+			id: "49B93197C2167B76"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "4263016FA81A2289"
+				item: {
+					count: 1
+					id: "minecraft:wheat"
+				}
+				type: "item"
+			}]
+			x: 35.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["49B93197C2167B76"]
+			disable_toast: true
+			id: "2AC6F46ACF68746C"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "4D65551ED6C79BA3"
+				item: {
+					count: 1
+					id: "minecraft:pumpkin"
+				}
+				type: "item"
+			}]
+			x: 33.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["49B93197C2167B76"]
+			disable_toast: true
+			id: "33560A4321DAF991"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "2A9ECCF52A9D6963"
+				item: {
+					count: 1
+					id: "minecraft:carrot"
+				}
+				type: "item"
+			}]
+			x: 33.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["49B93197C2167B76"]
+			disable_toast: true
+			id: "57EA191C46B06923"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "457040A75725DFF8"
+				item: {
+					count: 1
+					id: "minecraft:potato"
+				}
+				type: "item"
+			}]
+			x: 34.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["49B93197C2167B76"]
+			disable_toast: true
+			id: "36477CC477F62D5F"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "7DB4A19F87F2DD6B"
+				item: {
+					count: 1
+					id: "minecraft:moss_block"
+				}
+				type: "item"
+			}]
+			x: 36.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["49B93197C2167B76"]
+			disable_toast: true
+			id: "5E531A6B38443F1A"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "54D75CEB6A270509"
+				item: {
+					count: 1
+					id: "minecraft:beetroot"
+				}
+				type: "item"
+			}]
+			x: 37.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["49B93197C2167B76"]
+			disable_toast: true
+			id: "390C3FF041283E06"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "4E96FF4417A4D656"
+				item: {
+					count: 1
+					id: "minecraft:bamboo"
+				}
+				type: "item"
+			}]
+			x: 35.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2AC6F46ACF68746C"]
+			disable_toast: true
+			id: "3E4310BFA314DF07"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "6EFDABE5E6F776F6"
+				item: {
+					count: 1
+					id: "minecraft:melon_slice"
+				}
+				type: "item"
+			}]
+			x: 32.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["053CF91C6BBC5DB7"]
+			disable_toast: true
+			id: "20575FC309DCD416"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "21CF520A8461E3AF"
+				item: {
+					count: 1
+					id: "minecraft:red_mushroom_block"
+				}
+				type: "item"
+			}]
+			x: 38.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["053CF91C6BBC5DB7"]
+			disable_toast: true
+			id: "3D331416FEBD4E70"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "089C107C05BFC5A3"
+				item: {
+					count: 1
+					id: "minecraft:brown_mushroom_block"
+				}
+				type: "item"
+			}]
+			x: 39.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["053CF91C6BBC5DB7"]
+			disable_toast: true
+			id: "08E6E02E6EA78A26"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "2B33DBD66072F5CA"
+				item: {
+					count: 1
+					id: "minecraft:oak_log"
+				}
+				type: "item"
+			}]
+			x: 39.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["053CF91C6BBC5DB7"]
+			disable_toast: true
+			id: "612402395BD46764"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "7828E9FA71FEB939"
+				item: {
+					count: 1
+					id: "minecraft:rotten_flesh"
+				}
+				type: "item"
+			}]
+			x: 41.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["20575FC309DCD416"]
+			disable_toast: true
+			id: "5107D72CE0828A52"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "4F5C90205D062379"
+				item: {
+					count: 1
+					id: "minecraft:warped_fungus"
+				}
+				type: "item"
+			}]
+			x: 37.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3D331416FEBD4E70"]
+			disable_toast: true
+			id: "0229207DEDBE6401"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "43C74F2621C246AE"
+				item: {
+					count: 1
+					id: "minecraft:crimson_fungus"
+				}
+				type: "item"
+			}]
+			x: 38.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["08E6E02E6EA78A26"]
+			disable_toast: true
+			id: "65B50AAC22CE8167"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "4A626A2A7F78AF26"
+				item: {
+					count: 1
+					id: "minecraft:jungle_log"
+				}
+				type: "item"
+			}]
+			x: 38.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["08E6E02E6EA78A26"]
+			disable_toast: true
+			id: "37397E9E59EE4863"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "61E1E41D71504ED2"
+				item: {
+					count: 1
+					id: "minecraft:dark_oak_log"
+				}
+				type: "item"
+			}]
+			x: 39.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["08E6E02E6EA78A26"]
+			disable_toast: true
+			id: "0EC98836D5F0BF26"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "735970A19A20C613"
+				item: {
+					count: 1
+					id: "minecraft:acacia_log"
+				}
+				type: "item"
+			}]
+			x: 41.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["08E6E02E6EA78A26"]
+			disable_toast: true
+			id: "444A4A61022EC990"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "42BA3987FFC0DFF7"
+				item: {
+					count: 1
+					id: "minecraft:warped_stem"
+				}
+				type: "item"
+			}]
+			x: 41.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["08E6E02E6EA78A26"]
+			disable_toast: true
+			id: "1070FADDC7C77542"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "64915C67836724D7"
+				item: {
+					count: 1
+					id: "minecraft:crimson_stem"
+				}
+				type: "item"
+			}]
+			x: 41.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["08E6E02E6EA78A26"]
+			disable_toast: true
+			id: "3BCA471DA872827B"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "6D9EEE96A3B55F6F"
+				item: {
+					count: 1
+					id: "minecraft:mangrove_log"
+				}
+				type: "item"
+			}]
+			x: 41.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08E6E02E6EA78A26"]
+			disable_toast: true
+			id: "351542F97076B3FB"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "78D598C8607E8DE7"
+				item: {
+					count: 1
+					id: "minecraft:birch_log"
+				}
+				type: "item"
+			}]
+			x: 37.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["08E6E02E6EA78A26"]
+			disable_toast: true
+			id: "6A0E6B2592D0EB3F"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "550A1053295EA452"
+				item: {
+					count: 1
+					id: "minecraft:cherry_log"
+				}
+				type: "item"
+			}]
+			x: 38.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["08E6E02E6EA78A26"]
+			disable_toast: true
+			id: "3006844BF9E95533"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "46A3A49FE2AEF68C"
+				item: {
+					count: 1
+					id: "minecraft:spruce_log"
+				}
+				type: "item"
+			}]
+			x: 40.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["65B50AAC22CE8167"]
+			disable_toast: true
+			id: "4AED4827CDE37AED"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "35351A11335FADDC"
+				item: {
+					count: 1
+					id: "minecraft:cocoa_beans"
+				}
+				type: "item"
+			}]
+			x: 37.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3A00E483E59FDDE4"]
+			disable_toast: true
+			id: "3EB2ABA32B07B2BC"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "54FF967725E251E0"
+				item: {
+					count: 1
+					id: "minecraft:stone"
+				}
+				type: "item"
+			}]
+			x: 43.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3EB2ABA32B07B2BC"]
+			disable_toast: true
+			id: "49B5297DCF3AA995"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "76B413147A221164"
+				item: {
+					count: 1
+					id: "minecraft:sand"
+				}
+				type: "item"
+			}]
+			x: 42.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3EB2ABA32B07B2BC"]
+			disable_toast: true
+			id: "462EFD220C850FC2"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "1923A8A7FBDDEC7C"
+				item: {
+					count: 1
+					id: "minecraft:coal"
+				}
+				type: "item"
+			}]
+			x: 43.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3EB2ABA32B07B2BC"]
+			disable_toast: true
+			id: "369967EAF8836DBC"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "58838ADBBF6E6BB5"
+				item: {
+					count: 1
+					id: "minecraft:bone_meal"
+				}
+				type: "item"
+			}]
+			x: 44.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["462EFD220C850FC2"]
+			disable_toast: true
+			id: "64060E2A049B0C80"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "0F8F6F9BFC6B7AA9"
+				item: {
+					count: 1
+					id: "minecraft:copper_ingot"
+				}
+				type: "item"
+			}]
+			x: 43.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["64060E2A049B0C80"]
+			disable_toast: true
+			id: "4969AF6538CD71AF"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "1FC5EF8662F67991"
+				item: {
+					count: 1
+					id: "minecraft:redstone"
+				}
+				type: "item"
+			}]
+			x: 42.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["64060E2A049B0C80"]
+			disable_toast: true
+			id: "1B60B591289432F8"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "3C84BEDC7811BDF6"
+				item: {
+					count: 1
+					id: "minecraft:iron_ingot"
+				}
+				type: "item"
+			}]
+			x: 43.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["64060E2A049B0C80"]
+			disable_toast: true
+			id: "29977654BCF79DAD"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "5353C1A9156453D8"
+				item: {
+					count: 1
+					id: "minecraft:lapis_lazuli"
+				}
+				type: "item"
+			}]
+			x: 44.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4969AF6538CD71AF"]
+			disable_toast: true
+			id: "6D78647A6D872544"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "185F2C87E6B1E7D2"
+				item: {
+					count: 1
+					id: "minecraft:gunpowder"
+				}
+				type: "item"
+			}]
+			x: 42.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1B60B591289432F8"]
+			disable_toast: true
+			id: "67D7B70119F584E9"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "234D53E611295025"
+				item: {
+					count: 1
+					id: "minecraft:gold_ingot"
+				}
+				type: "item"
+			}]
+			x: 43.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["67D7B70119F584E9"]
+			disable_toast: true
+			id: "725F992595BD54B2"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "41477DA190C48ED7"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			x: 43.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["725F992595BD54B2"]
+			disable_toast: true
+			id: "6AD01D1684178441"
+			optional: true
+			shape: "none"
+			size: 1.0d
+			tasks: [{
+				id: "12696E64CA17E13F"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			x: 42.5d
+			y: -6.0d
+		}
+		{
+			id: "03955929EDFC5FBE"
+			invisible: true
+			optional: true
+			tasks: [{
+				id: "6816E2D2D8B274C8"
+				type: "checkmark"
+			}]
+			x: 39.0d
+			y: 3.0d
+		}
+	]
+}

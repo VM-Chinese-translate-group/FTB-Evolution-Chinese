@@ -1,0 +1,1469 @@
+{
+	autofocus_id: "6852DF0C5017BFA2"
+	default_hide_dependency_lines: false
+	default_min_width: 250
+	default_quest_shape: ""
+	filename: "pagans_blessing"
+	group: "33401D44ADADF4FC"
+	icon: {
+		components: {
+			"minecraft:entity_data": {
+				id: "minecraft:pig"
+			}
+		}
+		id: "paganbless:pentacle"
+	}
+	id: "4DC3791895990DEA"
+	images: [
+		{
+			height: 4.5d
+			image: "ftbevolution:textures/quests/titles_and_logos/roots_classic_logo.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			height: 5.0d
+			image: "ftbevolution:textures/quests/titles_and_logos/pagan_logo.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 4.5d
+			y: -3.0d
+		}
+	]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4ACC2E0A6E8E38C5"]
+			icon: {
+				id: "paganbless:mandrake_root"
+			}
+			id: "1A285EBFFDBAE30A"
+			rewards: [
+				{
+					id: "3C35157B0A9700E4"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "537EA876E3912A21"
+					table_id: 8721787916292516836L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "36BEC946B5E6E49C"
+				item: {
+					components: {
+						"ftbfiltersystem:filter": "or(item(paganbless:belladonna)item(paganbless:hag_taper)item(paganbless:lavender)item(paganbless:mandrake_root)item(paganbless:winter_berries)item(paganbless:mugwort)item(paganbless:rue))"
+						"minecraft:custom_name": "\"Plants\""
+					}
+					count: 1
+					id: "ftbfiltersystem:smart_filter"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0BAFEEC6085A1D24"]
+			id: "6633EE3A02AA52E1"
+			min_width: 250
+			rewards: [
+				{
+					id: "47E18FCE5164963E"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "43041E36A3DBD9C7"
+					table_id: 352034913589945553L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "757AEFADBC2348CF"
+				item: {
+					count: 1
+					id: "paganbless:herbalist_bench"
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			id: "4ACC2E0A6E8E38C5"
+			rewards: [
+				{
+					id: "72F4C7D447F79720"
+					item: {
+						components: {
+							"modonomicon:book_id": "paganbless:pagan_guide"
+						}
+						count: 1
+						id: "paganbless:pagan_guide"
+					}
+					type: "item"
+				}
+				{
+					id: "2C3D9B399FB6B4D1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "42EFCEDA7D7AF508"
+				item: {
+					count: 1
+					id: "paganbless:black_thorn_log"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6633EE3A02AA52E1"]
+			id: "514A09DAD34C39EB"
+			rewards: [
+				{
+					id: "427428BCF7303131"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "784485B0E7351530"
+					table_id: 352034913589945553L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "60BB96E55CC4677B"
+				item: {
+					count: 1
+					id: "paganbless:boline"
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["514A09DAD34C39EB"]
+			id: "16484C884A6ACE7F"
+			optional: true
+			rewards: [
+				{
+					id: "5EE12D58007AFFDC"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A5E67CC6A61E5F2"
+					table_id: 352034913589945553L
+					type: "loot"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "6FD348A3D0B77F6B"
+				item: {
+					count: 1
+					id: "paganbless:essence_of_the_forest"
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6633EE3A02AA52E1"]
+			icon: {
+				id: "paganbless:imbuing_cauldron"
+			}
+			id: "40EAA60943D3E8B2"
+			rewards: [
+				{
+					id: "722AAE4BCB44FAFC"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "243C50E8541AC6C0"
+					table_id: 352034913589945553L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "5FF0014F6CFA7B45"
+				item: {
+					count: 1
+					id: "paganbless:imbuing_cauldron"
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["16484C884A6ACE7F"]
+			id: "3084698460182262"
+			optional: true
+			rewards: [
+				{
+					id: "20D709E625B7FC66"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3ADF82FA826CAD85"
+					table_id: 4634798818103374212L
+					type: "random"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "7CB113B54580745E"
+				item: {
+					count: 1
+					id: "paganbless:black_thorn_staff"
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1A285EBFFDBAE30A"]
+			icon: {
+				id: "paganbless:dried_hanging_lavender"
+			}
+			id: "7EF3DE47C8EF094A"
+			optional: true
+			rewards: [
+				{
+					id: "284EFA8E55A649C3"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "71D53E3ED02A5614"
+					table_id: 352034913589945553L
+					type: "loot"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "5A1A65112702EB49"
+				item: {
+					components: {
+						"ftbfiltersystem:filter": "or(item(paganbless:dried_hanging_rue)item(paganbless:dried_hanging_lavender))"
+					}
+					count: 1
+					id: "ftbfiltersystem:smart_filter"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"7EF3DE47C8EF094A"
+				"514A09DAD34C39EB"
+			]
+			id: "4E384E7EC467743D"
+			optional: true
+			rewards: [
+				{
+					id: "1FBCA0E83F3F276D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0A7130292232F2BB"
+					table_id: 352034913589945553L
+					type: "loot"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "664F4C7220D083B8"
+				item: {
+					count: 1
+					id: "paganbless:empty_incense"
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2ECEA768C938E76B"]
+			icon: {
+				id: "paganbless:athame"
+			}
+			id: "33E1A7CFF2B77F13"
+			rewards: [
+				{
+					id: "56251FFC056C6AC0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5DDAD91FDB21B98B"
+					table_id: 4634798818103374212L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [
+				{
+					id: "3D2F0610BDAA496E"
+					item: {
+						count: 1
+						id: "paganbless:athame"
+					}
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "51BAD3CC030517B1"
+					item: {
+						count: 6
+						id: "paganbless:rune_slab_diamond"
+					}
+					type: "item"
+				}
+			]
+			x: 11.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2ECEA768C938E76B"]
+			icon: {
+				id: "paganbless:eternal_snowball"
+			}
+			id: "0F9EBFD7BBC355D5"
+			rewards: [
+				{
+					id: "19FDD1A0CF396BE5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "49BFCD97F26D763B"
+					table_id: 4634798818103374212L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [
+				{
+					id: "5B79A2E55DCE7E1E"
+					item: {
+						count: 1
+						id: "paganbless:eternal_snowball"
+					}
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "60194C217064D87D"
+					item: {
+						count: 6
+						id: "paganbless:rune_slab_quartz"
+					}
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2ECEA768C938E76B"]
+			icon: {
+				id: "paganbless:wican_ward"
+			}
+			id: "172955F8F798D2D8"
+			rewards: [
+				{
+					id: "3AB528830ACD1413"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "56CFF671EF551407"
+					table_id: 4634798818103374212L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [
+				{
+					id: "051E6CB2CB591E9A"
+					item: {
+						count: 1
+						id: "paganbless:wican_ward"
+					}
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "1A18F63EFE5B4CC7"
+					item: {
+						count: 6
+						id: "paganbless:rune_slab_amethyst"
+					}
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2ECEA768C938E76B"]
+			icon: {
+				components: {
+					"minecraft:entity_data": {
+						id: "minecraft:pig"
+					}
+				}
+				id: "paganbless:pentacle"
+			}
+			id: "617600E59256CF84"
+			rewards: [
+				{
+					id: "28FB56162042CA2E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "17D5D9969DED24E8"
+					table_id: 4634798818103374212L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [
+				{
+					id: "798DEDB636A87546"
+					item: {
+						components: {
+							"minecraft:entity_data": {
+								id: "minecraft:pig"
+							}
+						}
+						count: 1
+						id: "paganbless:pentacle"
+					}
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "6BB72CC8CD2B8B51"
+					item: {
+						count: 6
+						id: "paganbless:rune_slab_cinnabar"
+					}
+					type: "item"
+				}
+			]
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2ECEA768C938E76B"]
+			icon: {
+				id: "paganbless:chalice"
+			}
+			id: "73B67097E3BC596B"
+			rewards: [
+				{
+					id: "5EF984FCC6C9BD5C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "20F3862D95F7199A"
+					table_id: 4634798818103374212L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [
+				{
+					id: "777807CB1655654C"
+					item: {
+						count: 1
+						id: "paganbless:chalice"
+					}
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "72AB04B87F47722B"
+					item: {
+						count: 1
+						id: "paganbless:rune_slab_lapis"
+					}
+					type: "item"
+				}
+			]
+			x: 11.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2ECEA768C938E76B"]
+			icon: {
+				id: "paganbless:wand"
+			}
+			id: "5593FBFD07336685"
+			rewards: [
+				{
+					id: "7DC91D7026DDFF11"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34F7676C8214A802"
+					table_id: 4634798818103374212L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [
+				{
+					id: "3211C01D13D6BB9D"
+					item: {
+						count: 1
+						id: "paganbless:wand"
+					}
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "1599E32CBCA0A5E6"
+					item: {
+						count: 6
+						id: "paganbless:rune_slab_emerald"
+					}
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3516206BF6762A6E"]
+			icon: {
+				id: "minecraft:anvil"
+			}
+			id: "2ECEA768C938E76B"
+			rewards: [
+				{
+					id: "6E6E707912D1DACC"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "312F25B703B5743C"
+					table_id: 352034913589945553L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "1E805F43A7C66DB6"
+					item: {
+						count: 1
+						id: "minecraft:anvil"
+					}
+					type: "item"
+				}
+				{
+					id: "2AA35E54CECC9130"
+					item: {
+						count: 1
+						id: "paganbless:winch"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "1E65EFBA1ED920B9"
+					item: {
+						count: 1
+						id: "paganbless:crank"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "06D557A6D97B8E6C"
+					item: {
+						count: 1
+						id: "paganbless:rope"
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["40EAA60943D3E8B2"]
+			id: "3516206BF6762A6E"
+			rewards: [
+				{
+					id: "19C060A84FBEAEA4"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "17AFBCB9F1F67021"
+					table_id: 352034913589945553L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "5C74C017A459A2C1"
+				item: {
+					count: 1
+					id: "paganbless:runic_core"
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4ACC2E0A6E8E38C5"]
+			id: "0BAFEEC6085A1D24"
+			rewards: [
+				{
+					id: "5E60FCD51A7F3C87"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "66AE6D1F3A6E6B2B"
+					table_id: 352034913589945553L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "6AB2552FBB6CE1E2"
+				item: {
+					count: 1
+					id: "paganbless:jar"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2ECEA768C938E76B"]
+			hide_dependency_lines: false
+			id: "5A387326C0C56255"
+			optional: true
+			rewards: [
+				{
+					id: "47F70F37A59BD708"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "212E717E8CE11283"
+					table_id: 4634798818103374212L
+					type: "random"
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [{
+				id: "054E765B1D9D672C"
+				item: {
+					count: 1
+					id: "paganbless:runic_charge"
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "rootsclassic:bark_knife"
+			}
+			id: "276D73B7CB872EB4"
+			rewards: [
+				{
+					id: "7E35E8D8C0616ECD"
+					item: {
+						count: 1
+						id: "rootsclassic:runic_tablet"
+					}
+					type: "item"
+				}
+				{
+					id: "50A0940D26028774"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "10B7DC4E8F3C50A5"
+					item: {
+						count: 1
+						id: "rootsclassic:bark_knife"
+					}
+					type: "item"
+				}
+				{
+					id: "79137957EC19FAE3"
+					item: {
+						components: {
+							"ftbfiltersystem:filter": "or(item(rootsclassic:oak_bark)item(rootsclassic:spruce_bark)item(rootsclassic:birch_bark)item(rootsclassic:jungle_bark)item(rootsclassic:acacia_bark)item(rootsclassic:dark_oak_bark))"
+							"minecraft:custom_name": "\"Barks\""
+						}
+						count: 1
+						id: "ftbfiltersystem:smart_filter"
+					}
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4D563409688A677A"]
+			icon: {
+				id: "rootsclassic:sylvan_hood"
+			}
+			id: "7A62124632A54C21"
+			optional: true
+			rewards: [
+				{
+					id: "4903AE9A40B94EAB"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4EA8DBB3EF2FF2A0"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "5BE29D6640FCF373"
+					item: {
+						count: 1
+						id: "rootsclassic:sylvan_hood"
+					}
+					type: "item"
+				}
+				{
+					id: "11FEA6A93EFF35AC"
+					item: {
+						count: 1
+						id: "rootsclassic:sylvan_robe"
+					}
+					type: "item"
+				}
+				{
+					id: "3AE83AD1470C3BD5"
+					item: {
+						count: 1
+						id: "rootsclassic:sylvan_tunic"
+					}
+					type: "item"
+				}
+				{
+					id: "63359FD9EA8D6A20"
+					item: {
+						count: 1
+						id: "rootsclassic:sylvan_boots"
+					}
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4D563409688A677A"]
+			icon: {
+				id: "rootsclassic:wildwood_mask"
+			}
+			id: "6D85B6C5DBC0DB9E"
+			optional: true
+			rewards: [
+				{
+					id: "1093B1ED7EFEBB2C"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "174EC9BCE66FAB56"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "28CD3ECD61A4052F"
+					item: {
+						count: 1
+						id: "rootsclassic:wildwood_mask"
+					}
+					type: "item"
+				}
+				{
+					id: "1B7B93C54F85E3D9"
+					item: {
+						count: 1
+						id: "rootsclassic:wildwood_plate"
+					}
+					type: "item"
+				}
+				{
+					id: "2A3741C6D43D97CA"
+					item: {
+						count: 1
+						id: "rootsclassic:wildwood_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "33CBEC9FB6F918FE"
+					item: {
+						count: 1
+						id: "rootsclassic:wildwood_boots"
+					}
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1BC985066A1B7A34"]
+			icon: {
+				id: "rootsclassic:living_sword"
+			}
+			id: "30BF3228B479E90E"
+			optional: true
+			rewards: [
+				{
+					id: "119EF711AD688C8D"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "06343CDEFE41A63F"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "3F9E782771BE1447"
+				item: {
+					components: {
+						"ftbfiltersystem:filter": "or(item(rootsclassic:living_sword)item(rootsclassic:living_pickaxe)item(rootsclassic:living_shovel)item(rootsclassic:living_axe)item(rootsclassic:living_hoe))"
+						"minecraft:custom_name": "\"Living Tools\""
+					}
+					count: 1
+					id: "ftbfiltersystem:smart_filter"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4335085FC6B1EEF4"]
+			icon: {
+				id: "rootsclassic:altar"
+			}
+			id: "0B1BDF71E95BC9D3"
+			min_width: 300
+			rewards: [
+				{
+					id: "0CE659E6AC808F4B"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D0B66C340BED8FC"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "4FE789065CD47F9E"
+					item: {
+						count: 1
+						id: "rootsclassic:altar"
+					}
+					type: "item"
+				}
+				{
+					id: "2996121DEDBE0C80"
+					item: {
+						count: 1
+						id: "rootsclassic:brazier"
+					}
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["276D73B7CB872EB4"]
+			icon: {
+				id: "rootsclassic:old_root"
+			}
+			id: "4335085FC6B1EEF4"
+			min_width: 300
+			rewards: [
+				{
+					id: "127E5AAAF0359934"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6D639318C9EAB527"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3758EAD6DDE4F602"
+					item: {
+						count: 1
+						id: "rootsclassic:old_root"
+					}
+					type: "item"
+				}
+				{
+					id: "3FAA4953E81869A2"
+					item: {
+						count: 1
+						id: "rootsclassic:verdant_sprig"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "3407A18DCF84BF5C"
+					item: {
+						count: 1
+						id: "rootsclassic:infernal_bulb"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "10692E70B7D0BE78"
+					item: {
+						count: 1
+						id: "rootsclassic:dragons_eye"
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"276D73B7CB872EB4"
+				"4335085FC6B1EEF4"
+			]
+			icon: {
+				id: "rootsclassic:mortar"
+			}
+			id: "3C25C86651ED40F0"
+			rewards: [
+				{
+					id: "7F59E499502C59B2"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1112689A88380422"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "2D2F56FF47875977"
+					item: {
+						count: 1
+						id: "rootsclassic:pestle"
+					}
+					type: "item"
+				}
+				{
+					id: "426802EE651823A6"
+					item: {
+						count: 1
+						id: "rootsclassic:mortar"
+					}
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3C25C86651ED40F0"]
+			icon: {
+				id: "rootsclassic:growth_powder"
+			}
+			id: "6FFE1E65585E14F7"
+			optional: true
+			rewards: [{
+				id: "12D93FA9A9BFCAB7"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			tasks: [
+				{
+					id: "1BDC9687F864C5B8"
+					item: {
+						count: 1
+						id: "rootsclassic:growth_powder"
+					}
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "2E63B3231DCBC833"
+					item: {
+						count: 1
+						id: "rootsclassic:healing_poultice"
+					}
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1F94EE798B7E6A74"]
+			icon: {
+				id: "rootsclassic:imbuer"
+			}
+			id: "7A9856F0E081944C"
+			rewards: [
+				{
+					id: "39199AA9501C52E0"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E0F09511443BC9A"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "79D0735F3420C6A5"
+				item: {
+					count: 1
+					id: "rootsclassic:imbuer"
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["276D73B7CB872EB4"]
+			icon: {
+				id: "rootsclassic:redcurrant"
+			}
+			id: "66B9795304E0E752"
+			optional: true
+			rewards: [
+				{
+					id: "14712EDB309A7DDD"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3371D1CE01B30AA9"
+					table_id: 8721787916292516836L
+					type: "loot"
+				}
+			]
+			shape: "gear"
+			tasks: [
+				{
+					id: "242CA87FF0A1BA23"
+					item: {
+						count: 1
+						id: "rootsclassic:blackcurrant"
+					}
+					type: "item"
+				}
+				{
+					id: "4EED9B9EC43B0B0E"
+					item: {
+						count: 1
+						id: "rootsclassic:redcurrant"
+					}
+					type: "item"
+				}
+				{
+					id: "2B3064458F38AE45"
+					item: {
+						count: 1
+						id: "rootsclassic:whitecurrant"
+					}
+					type: "item"
+				}
+				{
+					id: "5868F46179377B91"
+					item: {
+						count: 1
+						id: "rootsclassic:elderberry"
+					}
+					type: "item"
+				}
+				{
+					id: "01948D7BD9AC78E4"
+					item: {
+						count: 1
+						id: "rootsclassic:nightshade"
+					}
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7A9856F0E081944C"]
+			id: "04AB4805983D4AE1"
+			rewards: [
+				{
+					id: "6AD41FE755D4F550"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64CFFAF85FCBE21E"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5307E553E1BAC1C6"
+				item: {
+					count: 1
+					id: "rootsclassic:staff"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3C25C86651ED40F0"]
+			id: "1F94EE798B7E6A74"
+			rewards: [
+				{
+					id: "06D31E6F849D3B2C"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "201DB81AA02A1D01"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2A959687ED7C2A09"
+				item: {
+					count: 1
+					id: "rootsclassic:spell_powder"
+				}
+				match_components: "fuzzy"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"04AB4805983D4AE1"
+				"0D4F466475046F7F"
+			]
+			dependency_requirement: "one_completed"
+			id: "03E5AC0691822FB0"
+			rewards: [{
+				id: "6A8033B416A38E45"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "1FFF08C10BA75B7D"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4D563409688A677A"]
+			id: "7755246DDD1956F3"
+			min_width: 300
+			rewards: [
+				{
+					id: "5EC78EBB838EBE2E"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "38AD87F1C03D1271"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "45B72A961C2B9CB3"
+				item: {
+					count: 1
+					id: "rootsclassic:engraved_blade"
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0B1BDF71E95BC9D3"]
+			id: "1BC985066A1B7A34"
+			rewards: [
+				{
+					id: "3883F0538CC65DAB"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "050B32BE91E86F58"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "326E084D7A268CC8"
+				item: {
+					count: 1
+					id: "rootsclassic:mundane_standing_stone"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1BC985066A1B7A34"
+				"1F94EE798B7E6A74"
+			]
+			id: "0D4F466475046F7F"
+			rewards: [
+				{
+					id: "5F55BD4718C1E212"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "252C221245C5DB83"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "18FFF78EEB106CC5"
+				item: {
+					count: 1
+					id: "rootsclassic:crystal_staff"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1BC985066A1B7A34"]
+			id: "4D563409688A677A"
+			rewards: [
+				{
+					id: "72538D5C13C56EDD"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "778223A815E3BD3E"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "0B0875B0DAB2F327"
+				item: {
+					count: 1
+					id: "rootsclassic:attuned_standing_stone"
+				}
+				type: "item"
+			}]
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4D563409688A677A"]
+			icon: {
+				id: "rootsclassic:aesthetic_standing_stone"
+			}
+			id: "016821326AD093AF"
+			rewards: [
+				{
+					id: "2E3828EA7358C736"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3887E1AF99A7DF23"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "71287B1349E0A4AC"
+				item: {
+					components: {
+						"ftbfiltersystem:filter": "or(item(rootsclassic:vacuum_standing_stone)item(rootsclassic:repulsor_standing_stone)item(rootsclassic:accelerator_standing_stone)item(rootsclassic:entangler_standing_stone)item(rootsclassic:igniter_standing_stone)item(rootsclassic:grower_standing_stone)item(rootsclassic:healer_standing_stone))"
+						"minecraft:custom_name": "\"Energized Standing Stones\""
+					}
+					count: 1
+					id: "ftbfiltersystem:smart_filter"
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C25C86651ED40F0"]
+			id: "1C69B5FD59EE4E72"
+			rewards: [
+				{
+					id: "39919FEA1BE27986"
+					type: "xp"
+					xp: 15
+				}
+				{
+					exclude_from_claim_all: true
+					id: "76F38979609C2E9D"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5719EC4A486CF170"
+				item: {
+					count: 1
+					id: "rootsclassic:mutating_powder"
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+	]
+}
