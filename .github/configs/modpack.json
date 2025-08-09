@@ -1,0 +1,14 @@
+{
+  "packId": 125,
+  "packName": "FTB Evolution",
+  "infoFilePath": "CNPack/modpackinfo.json",
+  "sourceDir": "Source",
+  "attentionList": {
+    "folders": [
+      {
+        "path": "config/ftbquests/quests",
+        "ignoreDeletions": false
+      }
+    ]
+  }
+}
