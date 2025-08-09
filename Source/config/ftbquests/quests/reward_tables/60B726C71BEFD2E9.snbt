@@ -1,0 +1,19 @@
+{
+	icon: {
+		id: "ae2:item_storage_cell_4k"
+	}
+	id: "60B726C71BEFD2E9"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{ id: "29BAB8CBEDA8A7A5", item: { count: 1, id: "ae2things:disk_drive_4k" } }
+		{
+			count: 2
+			id: "00492936A3D654B0"
+			item: {
+				count: 1
+				id: "ae2:item_storage_cell_4k"
+			}
+		}
+	]
+}

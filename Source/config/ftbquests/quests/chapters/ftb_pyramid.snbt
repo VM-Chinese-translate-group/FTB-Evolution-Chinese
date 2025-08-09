@@ -1,0 +1,1031 @@
+{
+	autofocus_id: "755E80CFF2053CF8"
+	default_hide_dependency_lines: false
+	default_min_width: 250
+	default_quest_shape: "square"
+	filename: "ftb_pyramid"
+	group: "4E06BB3DD10B837B"
+	icon: {
+		id: "ftbevolution:pyramid_base"
+	}
+	id: "3883EC8201EE0E54"
+	images: [
+		{
+			height: 3.75d
+			image: "ftbevolution:textures/quests/titles_and_logos/ftb_pyramid_logo.png"
+			rotation: 0.0d
+			width: 9.58d
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:item/creative_ascension"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: 7.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: 9.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 9.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 9.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.0d
+			y: 10.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: 10.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 10.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 10.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: 10.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 10.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_top"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.0d
+			y: 10.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.0d
+			y: 12.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: 12.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: 12.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 12.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 12.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 7.5d
+			y: 12.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:item/creative_ascension"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			height: 2.0d
+			image: "ftbevolution:block/pyramid_base"
+			order: -2
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 6.5d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbevolution:item/evolutionary_matter"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "319098064145CF21"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0C114A82DB7D03D6"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "7E7128CDC23DD3A1"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [
+				{
+					count: 64L
+					id: "57757102A3B267D2"
+					item: { count: 64, id: "hostilenetworks:overworld_prediction" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "53B2F016983EB77A"
+					item: { count: 64, id: "hostilenetworks:nether_prediction" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "77E6B5F70EB682D0"
+					item: { count: 64, id: "hostilenetworks:end_prediction" }
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "26E3BA565712C3A9"
+					item: { components: { "hostilenetworks:data_model": "hostilenetworks:warden" }, count: 64, id: "hostilenetworks:prediction" }
+					match_components: "strict"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "30547BCA2C84B8BA"
+					item: { components: { "hostilenetworks:data_model": "hostilenetworks:wither" }, count: 64, id: "hostilenetworks:prediction" }
+					match_components: "strict"
+					type: "item"
+				}
+				{
+					count: 64L
+					id: "3EC3DD0040D24B46"
+					item: { components: { "hostilenetworks:data_model": "hostilenetworks:ender_dragon" }, count: 64, id: "hostilenetworks:prediction" }
+					match_components: "strict"
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			id: "7EE04D8B354DC5CB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0EE454E2A476D409"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "568A479EC8186528"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "3B130726886A52A2"
+				item: { count: 1, id: "ftbevolution:ender_transmitter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			id: "773C44B85A2A1042"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "41283656D52A2ECC"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "6A6EC142407523CC"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "272883C0A77A52A1"
+				item: { count: 1, id: "ftbevolution:supercritical_mass" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "0F2DD1EF4E57E523"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0EE98E2B3A969FF0"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "57808AF0781C9C12"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "2E453872616F0F35"
+				item: { count: 1, id: "ftbevolution:dimensional_memory_fragment" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "230A9E24A34690DE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "400F8E0C646D32C9"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "409826F1203297C1"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "0E452464ECE78E32"
+				item: { count: 1, id: "ftbevolution:time_prism" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"451FD4CA758C6019"
+				"6D8B17AD5ABEC7BC"
+				"0F2DD1EF4E57E523"
+				"230A9E24A34690DE"
+				"7EE04D8B354DC5CB"
+			]
+			hide_dependent_lines: true
+			icon: {
+				id: "ftbevolution:pyra_mid_lower"
+			}
+			id: "5B164374A2849270"
+			rewards: [{
+				count: 49
+				id: "6F87204577A55D17"
+				item: {
+					count: 1
+					id: "ftbevolution:pyra_mid_lower"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "757810F183F6346C"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			id: "1105D1809EB9ADEF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5AB1C2BF6FD2F5E9"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "111A73C9C2B5CFDA"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "461147855A1CBB68"
+				item: { count: 1, id: "ftbevolution:infinitely_compressed_circuit_board" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "5C825FB7E9A2F962"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7254F4BEE002F3A0"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "46C86AB314A1B4B1"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "25F6E45BF912A28D"
+				item: { count: 1, id: "ftbevolution:ethereal_essence" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "018258B166F270D8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D11913DBF5D1DB1"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "5B7461EB62BFC829"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "35E680E8C11C1385"
+				item: { count: 1, id: "ftbevolution:realized_transcendence" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"1105D1809EB9ADEF"
+				"028BF2D5CFCDA52A"
+				"773C44B85A2A1042"
+			]
+			hide_dependent_lines: true
+			icon: {
+				id: "ftbevolution:pyra_mid_upper"
+			}
+			id: "51DE4859912D1EB6"
+			rewards: [{
+				count: 25
+				id: "54E735D71D450C30"
+				item: {
+					count: 1
+					id: "ftbevolution:pyra_mid_upper"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1203293F62D3F55F"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			id: "5DA25070A4A1CF4E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "458D0EFC7F63DE6F"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "71843A6C8E7660BA"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "553F35BCF5331046"
+				item: { count: 1, id: "ftbevolution:dissolved_potential" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["60105BDA4CA76BD6"]
+			hide_dependent_lines: true
+			icon: {
+				id: "ftbevolution:pyramid_top"
+			}
+			id: "6C0B018694B279E1"
+			rewards: [{
+				count: 9
+				id: "50C89248D62A7C27"
+				item: {
+					count: 1
+					id: "ftbevolution:pyramid_top"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7811A2884A512908"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"5B164374A2849270"
+				"51DE4859912D1EB6"
+				"1BDE743ABCC3E78A"
+				"6C0B018694B279E1"
+			]
+			id: "755E80CFF2053CF8"
+			progression_mode: "linear"
+			rewards: [
+				{
+					auto: "invisible"
+					id: "648A123219C26A33"
+					ignore_reward_blocking: true
+					stage: "completed_pyramid"
+					type: "gamestage"
+				}
+				{
+					id: "434DEED888DAA6E7"
+					item: {
+						components: {
+							"minecraft:custom_name": "{\"extra\":[{\"color\":\"gold\",\"italic\":false,\"text\":\"Nether Star of Infinite Cacti\"}],\"text\":\"\"}"
+							"minecraft:lore": ["{\"extra\":[{\"italic\":false,\"text\":\"Used to Activate The FTB Pyramid\"}],\"text\":\"\"}"]
+						}
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					auto: "enabled"
+					description: "Fed The Beast"
+					icon: {
+						components: {
+							"ftbquests:icon": "ftbevolution:textures/quests/evolution_concept.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "5E71D2A58521E928"
+					type: "toast"
+				}
+			]
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "77F6AEE4BD3EC187"
+				item: { count: 1, id: "minecraft:beacon" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			id: "451FD4CA758C6019"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7742EB4335826155"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "76F5287E22D34EE8"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "37A8CC7EED89AC24"
+				item: { count: 1, id: "ftbevolution:evolutionary_arcanum" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "028BF2D5CFCDA52A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "67700B5F3CE5308C"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "41520F2AAC995950"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "35ABD78841632298"
+				item: { count: 1, id: "ftbevolution:mekanized_super_computer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			id: "60105BDA4CA76BD6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "386C785FC2F3F9D8"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "452548655C5776EA"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "6B1721A50D91999B"
+				item: { count: 1, id: "ftbevolution:bio_neural_circuit" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "3142B7C67CB8EEB3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6942645F1842440C"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "097E2B9D8560117B"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "276DF68ED07984D5"
+				item: { count: 1, id: "ftbevolution:omega_dragon_egg" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "4619BC2AB4CB9BD9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "67CF8C88EEB4F9D8"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "386E7B8587D825A3"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "4671E6299F81ADDA"
+				item: { count: 1, id: "ftbevolution:elemental_arcanite" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "6D8B17AD5ABEC7BC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "79D0FDBEE3CF900C"
+					table_id: 6877677034228860611L
+					type: "loot"
+				}
+				{
+					id: "251E86304E11AFA4"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "4C6360CFCF3DF147"
+				item: { count: 1, id: "ftbevolution:ultimate_singularity" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"4619BC2AB4CB9BD9"
+				"319098064145CF21"
+				"5C825FB7E9A2F962"
+				"018258B166F270D8"
+				"5DA25070A4A1CF4E"
+				"3142B7C67CB8EEB3"
+			]
+			hide_dependent_lines: true
+			icon: {
+				id: "ftbevolution:pyramid_base"
+			}
+			id: "1BDE743ABCC3E78A"
+			rewards: [{
+				count: 81
+				id: "73377436AFD5CD2D"
+				item: {
+					count: 1
+					id: "ftbevolution:pyramid_base"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A18F4F81AEA7421"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "jei:textures/jei/atlas/gui/icons/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7318F114EA136854"
+			min_width: 300
+			tasks: [{
+				id: "4FAE5B3549E023A9"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["1BDE743ABCC3E78A"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "ftbevolution:pyramid_base"
+			}
+			id: "44C154128D90ACB2"
+			rewards: [{
+				count: 81
+				id: "07A888DCEAEC57EC"
+				item: {
+					count: 1
+					id: "ftbevolution:pyramid_base"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "41292855B7B129B2"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["5B164374A2849270"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "ftbevolution:pyra_mid_lower"
+			}
+			id: "6BA77922132D132E"
+			rewards: [{
+				count: 49
+				id: "38740F827C06D7F9"
+				item: {
+					count: 1
+					id: "ftbevolution:pyra_mid_lower"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "53785B38F6D90C6D"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["51DE4859912D1EB6"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "ftbevolution:pyra_mid_upper"
+			}
+			id: "5484F0F27A60F614"
+			rewards: [{
+				count: 25
+				id: "3590D6DBD3C2D6BE"
+				item: {
+					count: 1
+					id: "ftbevolution:pyra_mid_upper"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5892FD1BCAC4D3ED"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["6C0B018694B279E1"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "ftbevolution:pyramid_top"
+			}
+			id: "4322977FABD58A5D"
+			rewards: [{
+				count: 9
+				id: "1D552F4D8C20CABC"
+				item: {
+					count: 1
+					id: "ftbevolution:pyramid_top"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "37A4930F3EA020C4"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+	]
+}

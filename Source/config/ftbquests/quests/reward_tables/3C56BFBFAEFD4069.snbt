@@ -1,0 +1,151 @@
+{
+	icon: {
+		id: "create:andesite_alloy"
+	}
+	id: "3C56BFBFAEFD4069"
+	loot_size: 1
+	order_index: 26
+	rewards: [
+		{
+			count: 4
+			id: "20CF15CF75B5EED8"
+			item: {
+				count: 1
+				id: "create:shaft"
+			}
+			random_bonus: 4
+			weight: 100.0f
+		}
+		{
+			count: 2
+			id: "43D98E9CDB9990DB"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+			random_bonus: 2
+			weight: 100.0f
+		}
+		{
+			count: 2
+			id: "2D7543839AB943B3"
+			item: {
+				count: 1
+				id: "create:large_cogwheel"
+			}
+			random_bonus: 2
+			weight: 100.0f
+		}
+		{
+			count: 2
+			id: "10CC46BB31B1F482"
+			item: {
+				count: 1
+				id: "create:belt_connector"
+			}
+			random_bonus: 2
+			weight: 100.0f
+		}
+		{
+			id: "79C391C74E86F3C5"
+			item: {
+				count: 1
+				id: "create:gearbox"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "402653773A7FCBE6"
+			item: {
+				count: 1
+				id: "create:gearshift"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "5F5F07096A144E41"
+			item: {
+				count: 1
+				id: "create:encased_chain_drive"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "69279A8988C6600D"
+			item: {
+				count: 1
+				id: "create:clutch"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "06E8702E3991127B"
+			item: {
+				count: 1
+				id: "create:encased_fan"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "26C862E17DC8CE25"
+			item: {
+				count: 1
+				id: "create:depot"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "3CC43E2C3F9168BB"
+			item: {
+				count: 1
+				id: "create:chute"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "38FC13B7DC392A84"
+			item: {
+				count: 1
+				id: "create:andesite_tunnel"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "4CBB71D5CBD26F6B"
+			item: {
+				count: 1
+				id: "create:andesite_funnel"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "7CD1CA66E8C9746D"
+			item: {
+				count: 1
+				id: "create:speedometer"
+			}
+			weight: 50.0f
+		}
+		{
+			count: 4
+			id: "7C89EA36AE3FDFC8"
+			item: {
+				count: 1
+				id: "create:white_sail"
+			}
+			random_bonus: 4
+			weight: 50.0f
+		}
+		{
+			count: 2
+			id: "181D859ED535C397"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+			random_bonus: 2
+			weight: 100.0f
+		}
+	]
+	use_title: true
+}

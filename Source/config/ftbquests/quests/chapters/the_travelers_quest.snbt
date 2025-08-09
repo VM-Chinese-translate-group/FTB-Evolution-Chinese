@@ -1,0 +1,1308 @@
+{
+	autofocus_id: "12468F8BF7B80737"
+	default_hide_dependency_lines: false
+	default_min_width: 250
+	default_quest_shape: "hexagon"
+	filename: "the_travelers_quest"
+	group: "293B0513F4340751"
+	icon: {
+		components: {
+			"ftbquests:icon": "minecraft:block/nether_portal"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "24B8C5083DAC9280"
+	images: [
+		{
+			height: 2.0d
+			image: "forbidden_arcanus:textures/gui/sprites/research/frame/advanced.png"
+			rotation: 45.0d
+			width: 2.0d
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			height: 3.0d
+			image: "the_bumblezone:block/royal_jelly_fluid/flow_diagonal"
+			order: -1
+			rotation: 0.0d
+			width: 3.0d
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			height: 3.5d
+			image: "the_bumblezone:textures/gui/dimension_teleporting_background.png"
+			order: -2
+			rotation: 0.0d
+			width: 3.5d
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			height: 3.0d
+			image: "the_bumblezone:textures/mob_effect/wrath_of_the_hive.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			height: 2.0d
+			image: "the_bumblezone:textures/mob_effect/wrath_of_the_hive.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.0d
+			y: 7.5d
+		}
+		{
+			height: 2.0d
+			image: "the_bumblezone:textures/mob_effect/wrath_of_the_hive.png"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			height: 3.0d
+			image: "the_bumblezone:textures/mob_effect/protection_of_the_hive.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.5d
+			y: 6.0d
+		}
+		{
+			height: 2.0d
+			image: "the_bumblezone:textures/mob_effect/protection_of_the_hive.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.0d
+			y: 7.5d
+		}
+		{
+			height: 2.0d
+			image: "the_bumblezone:textures/mob_effect/protection_of_the_hive.png"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.5d
+			y: 7.0d
+		}
+		{
+			height: 1.5d
+			image: "eternal_starlight:textures/gui/screen/book/book_back_cover.png"
+			rotation: -180.0d
+			width: 1.5d
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.5d
+			image: "minecraft:block/sculk_shrieker_can_summon_inner_top"
+			rotation: 0.0d
+			width: 1.5d
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 45.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			color: 5592575
+			height: 1.0d
+			image: "minecraft:entity/end_portal"
+			rotation: 45.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "hyperbox:block/hyperbox_wall"
+			rotation: 45.0d
+			width: 1.0d
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/entity/end_portal.png"
+			rotation: 45.0d
+			width: 1.0d
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/lava_still"
+			rotation: 45.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			height: 4.0d
+			image: "ftbevolution:textures/quests/titles_and_logos/travelers_quest_logo.png"
+			order: -1
+			rotation: 0.0d
+			width: 9.5d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			color: 9764864
+			height: 1.0d
+			image: "minecraft:block/crimson_stem"
+			rotation: 45.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.0d
+		}
+	]
+	order_index: 5
+	quest_links: [
+		{
+			id: "4A1AE0BC79BD0E35"
+			linked_quest: "53682D91399F1898"
+			shape: "diamond"
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			id: "322F518E92642A1E"
+			linked_quest: "76B7E898697F688F"
+			shape: "diamond"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "41205D7519567E72"
+			linked_quest: "447242EAC91413A9"
+			shape: "diamond"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "7184BB30527E8170"
+			linked_quest: "7768A4D80488E53D"
+			shape: "diamond"
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "240A18DB38773715"
+			linked_quest: "32F68E7AE8DEF05E"
+			shape: "diamond"
+			x: -1.5d
+			y: 1.0d
+		}
+	]
+	quests: [
+		{
+			id: "12468F8BF7B80737"
+			min_width: 250
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "7EAA8ABB633CEEE1"
+				item: { count: 1, id: "explorerscompass:explorerscompass" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "the_afterdark:teleport_block"
+			}
+			id: "35A96FBA7222DD74"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BBCF5D21FFEB15D"
+				table_id: 9029519111662458436L
+				type: "loot"
+			}]
+			shape: "square"
+			size: 1.0d
+			tasks: [
+				{
+					id: "1D3E877B9B347514"
+					item: { count: 1, id: "the_afterdark:teleport_catalyst" }
+					type: "item"
+				}
+				{
+					dimension: "the_afterdark:afterdark"
+					icon: {
+						id: "the_afterdark:teleport_block"
+					}
+					id: "0ABCE3537E92F6F2"
+					type: "dimension"
+				}
+			]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "2E742BCED0CDEAB9"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1D2E42981766B224"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "718C597836276FDD"
+					table_id: 6214073282519085671L
+					type: "loot"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "lootr:block/old_barrel_bottom"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "4D7A00AE354FCBB7"
+				structure: "dungeons_arise:keep_kayra"
+				type: "structure"
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			id: "6A5EC34554DB4B95"
+			min_width: 250
+			rewards: [
+				{
+					id: "2D89F96207ED2DC0"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "207550F69A557DA0"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				icon: {
+					components: {
+						"ftbquests:icon": "the_bumblezone:block/honeycomb_brood_block/stage_4_honeycomb_brood_block_4"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "269CF5B1D914AFC8"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			id: "333FB6E921401537"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0FB736C371F7581E"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6FDE01665F545983"
+					table_id: 6214073282519085671L
+					type: "loot"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				icon: {
+					id: "minecraft:blast_furnace"
+				}
+				id: "05182868F44C54F8"
+				structure: "dungeons_arise:foundry"
+				type: "structure"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			id: "49ECE2A618E86CBD"
+			min_width: 300
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5C6C56A72CD7DD27"
+					table_id: 4634798818103374212L
+					type: "choice"
+				}
+				{
+					id: "086E46ED836550B4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "351D270EA0EFA1F5"
+				item: { count: 1, id: "hyperbox:hyperbox" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A5EC34554DB4B95"]
+			hide_until_deps_complete: true
+			id: "2E6C0103BEF01BDD"
+			optional: true
+			rewards: [{
+				id: "4AFFFF7210DF841D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "the_bumblezone:teleportation/teleport_out_of_bumblezone"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "the_bumblezone:item/buzzing_briefcase"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "07FB5E0C90164FF9"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6A5EC34554DB4B95"]
+			id: "21B3B5604A31C75F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3D642F9801CAED25"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "373E3CF7D85A54AB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:biomes/discover_all_biomes"
+				criterion: ""
+				id: "62B65545FCBA5292"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A5EC34554DB4B95"]
+			icon: {
+				components: {
+					"ftbquests:icon": "the_bumblezone:block/essence/purple_backup"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "714E3D428D37EE24"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "550A36F7D1985398"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "721F9C9EEDD9A899"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:structures/enter_all_structures"
+				criterion: ""
+				id: "62AF8368C8A08920"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A5EC34554DB4B95"]
+			id: "6638E6BB63D5EE71"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7F845A0BF88C69CE"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "205C7527C9D9868A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:beehemoth/tamed_beehemoth"
+				criterion: ""
+				id: "5C1A44148EE9D1D2"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A5EC34554DB4B95"]
+			id: "7BCC6F2A109B4AFD"
+			min_width: 300
+			rewards: [{
+				id: "3E9EC6069DE5F073"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:effects/getting_protection"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "the_bumblezone:textures/mob_effect/protection_of_the_hive.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "034F70B81B3D5566"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A5EC34554DB4B95"]
+			id: "40BBCE1F8363235B"
+			rewards: [{
+				id: "37096669C2E13FA4"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "48858FC6F487FDA0"
+				item: { count: 1, id: "the_bumblezone:honey_compass" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["40BBCE1F8363235B"]
+			id: "679EFBF590E16AD4"
+			min_width: 250
+			rewards: [
+				{
+					id: "5A590DB3435A318C"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2BE3F3DF68F5579D"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "the_bumblezone:tools/obtain_throne_honey_compass"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "the_bumblezone:item/sentry_watcher_spawn_egg"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "1D994AFCBACFAEB9"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["679EFBF590E16AD4"]
+			id: "36D3EAF6F3660B2E"
+			min_width: 300
+			rewards: [
+				{
+					count: 8
+					id: "10D5EDE64E7807B9"
+					item: {
+						count: 1
+						id: "minecraft:sugar"
+					}
+					type: "item"
+				}
+				{
+					id: "7604FC8E3CFE7CBB"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "the_bumblezone:structures/enter_throne_pillar"
+				criterion: ""
+				id: "5BC5906D7F3E4D9E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36D3EAF6F3660B2E"]
+			hide_until_deps_visible: false
+			icon_scale: 2.0d
+			id: "673ABC4EB43B8576"
+			min_width: 250
+			rewards: [{
+				id: "4A66EF203BC21D6B"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/the_beginning"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "the_bumblezone:textures/entity_icon/bee_queen_angry.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0E8E5E4DCB34458A"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["673ABC4EB43B8576"]
+			icon: {
+				id: "minecraft:bee_nest"
+			}
+			id: "6081E348AE536CDA"
+			rewards: [{
+				id: "5930E16938EB3504"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/flooding_the_housing_market"
+				criterion: ""
+				id: "5488A71989419E7C"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6081E348AE536CDA"]
+			icon: {
+				id: "heads:spider_head"
+			}
+			id: "349A02A0278CB88E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "315E964DE78D0C30"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "4C82CC64E2F73BED"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:spider"
+					icon: {
+						id: "heads:spider_head"
+					}
+					id: "3EDDF62E803A56A4"
+					type: "kill"
+					value: 32L
+				}
+				{
+					advancement: "the_bumblezone:the_queens_desire/too_many_legs"
+					criterion: ""
+					id: "5EA42184F1134A11"
+					type: "advancement"
+				}
+			]
+			x: 1.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["349A02A0278CB88E"]
+			id: "6CADD814473DFA34"
+			rewards: [{
+				id: "3B2C93DAA0EDDBE4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/honey_drunk"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "the_bumblezone:block/honey_fluid/flow"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "4180CC29AD0E5CB7"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["6CADD814473DFA34"]
+			icon: {
+				components: {
+					"ftbquests:icon": "the_bumblezone:item/pollen_puff"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4E69128D8178DCBE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "27A0EDAB56560495"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "0C0490675EF84DEB"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/pollen_fight"
+				criterion: ""
+				id: "67A9718FCD855AEC"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["4E69128D8178DCBE"]
+			icon: {
+				id: "heads:silverfish_head"
+			}
+			id: "7D0D9CFE023C8AD3"
+			rewards: [
+				{
+					command: "/puffish_skills points add @p puffish_skills:melee 1"
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:textures/mob_effect/strength.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "3158B71C6BC533B3"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "5FCA299D663776DC"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:silverfish"
+					icon: {
+						id: "heads:silverfish_head"
+					}
+					id: "44BAE10F5714606E"
+					type: "kill"
+					value: 8L
+				}
+				{
+					advancement: "the_bumblezone:the_queens_desire/fighting_the_swarm"
+					criterion: ""
+					id: "3817C4BCE3CC0998"
+					type: "advancement"
+				}
+			]
+			x: 2.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7D0D9CFE023C8AD3"]
+			id: "322E4A433B1665F7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "16E1F0DE6FC07673"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "332DE8A11AF082E9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/poison_warfare"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:item/crossbow_pulling_2"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "5BCFC46660387EB7"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["322E4A433B1665F7"]
+			id: "031B9060B5055268"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "544A6AF9DF592EA3"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "216FCB1FAD7F23CA"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/slimy_mitosis"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "ftbchunks:textures/faces/minecraft/slime.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "714D731522B4751B"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["031B9060B5055268"]
+			icon: {
+				id: "heads:cave_spider_head"
+			}
+			id: "196CFDFF585A2E85"
+			rewards: [
+				{
+					command: "/puffish_skills points add @p puffish_skills:melee 1"
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:textures/mob_effect/strength.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "491B223EC2D1899F"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "5FD242766AAFF665"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/terror_fangs"
+				criterion: ""
+				icon: {
+					id: "heads:cave_spider_head"
+				}
+				id: "6869CEF80715C64A"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["196CFDFF585A2E85"]
+			id: "1E88395535AA93DC"
+			rewards: [{
+				id: "2141150D938137BC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/back_in_action"
+				criterion: ""
+				icon: {
+					id: "the_bumblezone:bee_stinger"
+				}
+				id: "54F0F5C856D8A6A5"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["1E88395535AA93DC"]
+			id: "57229B7D91D3DD38"
+			rewards: [{
+				id: "0A4A3D7636372778"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/the_crazy_florist"
+				criterion: ""
+				icon: {
+					id: "minecraft:poppy"
+				}
+				id: "1D0D8AE88C8062AB"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["57229B7D91D3DD38"]
+			id: "227EFF4851CA07D1"
+			rewards: [
+				{
+					command: "/puffish_skills points add @p puffish_skills:melee 1"
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:textures/mob_effect/strength.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "34C0F383E16E4F8B"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "04DB5886A8EE1EF4"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/peak_inefficiency"
+				criterion: ""
+				icon: {
+					id: "the_bumblezone:stinger_spear"
+				}
+				id: "4F2AE9F95E1AFE27"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["227EFF4851CA07D1"]
+			id: "3E692E6066ECB45B"
+			min_width: 200
+			rewards: [{
+				id: "7557C38427C8BC62"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/hungry_hungry_bees"
+				criterion: ""
+				icon: {
+					id: "the_bumblezone:sugar_water_bottle"
+				}
+				id: "5E8746E064502505"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["3E692E6066ECB45B"]
+			id: "3F18F0072624F4B0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "434FBC9D88BB7E0C"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "49A5EA8E27850C3F"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/love_bees"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "the_bumblezone:block/honeycomb_brood_block/stage_2_honeycomb_brood_block_1"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "7CE048762CA37ABC"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["3F18F0072624F4B0"]
+			id: "0EB231522990C9DA"
+			rewards: [
+				{
+					command: "/puffish_skills points add @p puffish_skills:melee 1"
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:textures/mob_effect/strength.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "5A114EF239CA0349"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "390B88F209AA2E7A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/otherworldly_mites"
+				criterion: ""
+				icon: {
+					id: "heads:endermite_head"
+				}
+				id: "66D5A71943349EE9"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0EB231522990C9DA"]
+			id: "757191CC5F6D98CC"
+			min_width: 300
+			rewards: [
+				{
+					command: "/puffish_skills points add @p puffish_skills:defense 1"
+					icon: {
+						components: {
+							"ftbquests:icon": "irons_spellbooks:textures/gui/spell_icons/shield.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "00D8E4E3DAD62114"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					id: "6BE22ABBD1CDD045"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/the_great_dragon_slayer"
+				criterion: ""
+				icon: {
+					id: "the_bumblezone:stingless_bee_helmet_1"
+				}
+				id: "633456CDF4ACDADF"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["757191CC5F6D98CC"]
+			id: "548800EFCB31F6F3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0EE97283DF412E9D"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "67DAD95E3D4B89C2"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/crazy_trader"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "the_bumblezone:textures/gui/bee_queen_randomize_trades.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "6E6C52750FE75ECE"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["548800EFCB31F6F3"]
+			hide_dependency_lines: true
+			id: "4F10BBE77BDD9F10"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "34C22BF5CB6B10D7"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					count: 4
+					id: "6503BE3B184EBC58"
+					item: {
+						count: 1
+						id: "the_bumblezone:royal_jelly_bottle"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "1DAC8BD06D0755EA"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				advancement: "the_bumblezone:the_queens_desire/journeys_end"
+				criterion: ""
+				id: "134499C1910252E0"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["209109642967A0E5"]
+			icon: {
+				components: {
+					"ftbquests:icon": "eternal_starlight:block/starlight_portal"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5A09605B5A2134B2"
+			min_width: 250
+			rewards: [
+				{
+					id: "18A529A5ECEB338F"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1EA6207281C79D6D"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "square"
+			size: 1.0d
+			tasks: [
+				{
+					dimension: "eternal_starlight:starlight"
+					id: "7D1CC440F9B6E58D"
+					type: "dimension"
+				}
+				{
+					id: "62B1A94EF15D4B72"
+					item: { count: 1, id: "eternal_starlight:seeking_eye" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			id: "2B4392602E94D3D8"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4A201DC82D5E095B"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+				{
+					id: "149F57EC2EC7A910"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "square"
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "fargostalismans:item/master_ninja_gear"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "6F50B64460D2EC3D"
+				structure: "fargostalismans:dungeon2"
+				type: "structure"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			id: "209109642967A0E5"
+			rewards: [
+				{
+					id: "3B490644D6075F9F"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3BD039AA0AD0A25C"
+					table_id: 9029519111662458436L
+					type: "random"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "083A732918C0670C"
+				item: { count: 1, id: "eternal_starlight:orb_of_prophecy" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A09605B5A2134B2"]
+			icon: {
+				components: {
+					"ftbquests:icon": "eternal_starlight:block/lunaris_cactus_fruit_lantern"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5AB25AAEDAA965C4"
+			rewards: [
+				{
+					id: "7C8F6F291D517782"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B769BE3FB88A26F"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					entity: "eternal_starlight:lunar_monstrosity"
+					icon: {
+						components: {
+							"ftbquests:icon": "eternal_starlight:block/lunaris_cactus_fruit_lantern"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "5A24652F0FB1E8F3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "4F63240EDC3DE945"
+					item: { count: 1, id: "eternal_starlight:thermal_springstone_sword" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5A09605B5A2134B2"]
+			id: "244681F38E9D5552"
+			rewards: [
+				{
+					id: "0A3E475BF5DFB0D5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2B029313FCC07164"
+					table_id: 9029519111662458436L
+					type: "loot"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				entity: "eternal_starlight:starlight_golem"
+				icon: {
+					components: {
+						"ftbquests:icon": "eternal_starlight:block/chiseled_golem_steel_block"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "16B63615064B8E17"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+	]
+}

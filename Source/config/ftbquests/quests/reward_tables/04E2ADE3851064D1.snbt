@@ -1,0 +1,626 @@
+{
+	hide_tooltip: true
+	icon: {
+		components: {
+			"ftbquests:icon": "ars_elemental:item/curio_bag"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "04E2ADE3851064D1"
+	loot_crate: {
+		color: 16733695
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "Box of Magical Goods"
+		string_id: "magic_bundle"
+	}
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			id: "7893EA372DFF764F"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"ars_nouveau:mana_boost": 1
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "3E209BDC63A1844F"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"ars_nouveau:mana_regen": 1
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7659282E5BEE5A84"
+			item: {
+				count: 1
+				id: "ars_nouveau:warp_scroll"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "33A13074204FCE0F"
+			item: {
+				count: 1
+				id: "ars_nouveau:blank_parchment"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "616028AFBFC448BE"
+			item: {
+				count: 1
+				id: "ars_nouveau:ring_of_lesser_discount"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "70E2AA82FBEA1F93"
+			item: {
+				count: 1
+				id: "ars_nouveau:amulet_of_mana_boost"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "62FE79153DF60A0A"
+			item: {
+				count: 1
+				id: "ars_nouveau:amulet_of_mana_regen"
+			}
+			weight: 3.0f
+		}
+		{ id: "28F7E304894CC8FE", item: { count: 1, id: "ars_nouveau:belt_of_unstable_gifts" } }
+		{ id: "64A2D80C18A95953", item: { count: 1, id: "ars_nouveau:ring_of_greater_discount" } }
+		{
+			id: "6111EAE8799E9A41"
+			item: {
+				count: 1
+				id: "ars_nouveau:jar_of_light"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "3B411D92DE0F0554"
+			item: {
+				count: 1
+				id: "ars_nouveau:abjuration_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "505D8FB24F744A83"
+			item: {
+				count: 1
+				id: "ars_nouveau:conjuration_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "3D3AD997B225D46F"
+			item: {
+				count: 1
+				id: "ars_nouveau:air_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "22277279828A8B4C"
+			item: {
+				count: 1
+				id: "ars_nouveau:earth_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "09E0B8E33BA751BE"
+			item: {
+				count: 1
+				id: "ars_nouveau:fire_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "01A7D582C104BA96"
+			item: {
+				count: 1
+				id: "ars_nouveau:manipulation_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "20AAD431CB4BD768"
+			item: {
+				count: 1
+				id: "ars_nouveau:water_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "368A1EFBB02B2438"
+			item: {
+				count: 1
+				id: "ars_nouveau:starby_gift"
+			}
+			weight: 2.0f
+		}
+		{ id: "27844DA509946A35", item: { count: 1, id: "irons_spellbooks:poisonward_ring" } }
+		{ id: "600D435AA95D3AF1", item: { count: 1, id: "irons_spellbooks:frostward_ring" } }
+		{ id: "2E68E05BF31E3A63", item: { count: 1, id: "irons_spellbooks:fireward_ring" } }
+		{ id: "37757CAB61C7744D", item: { count: 1, id: "irons_spellbooks:emerald_stoneplate_ring" } }
+		{
+			count: 2
+			id: "6EA6B9A1B8932247"
+			item: {
+				count: 1
+				id: "irons_spellbooks:magic_cloth"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{ id: "1E9C4D547C0F7C81", item: { count: 1, id: "irons_spellbooks:alchemist_cauldron" } }
+		{
+			id: "2A9598BC375596DD"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem_block"
+			}
+			random_bonus: 3
+			weight: 5.0f
+		}
+		{
+			id: "5C64BB3040B89CFE"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_jar"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "6BA4F20AE7F8C21E"
+			item: {
+				count: 1
+				id: "ars_nouveau:stable_warp_scroll"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "38830DE9C90C22DE"
+			item: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 8
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				count: 1
+				id: "irons_spellbooks:gold_spell_book"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "2554BA9BFB4F9E25"
+			item: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 6
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				count: 1
+				id: "irons_spellbooks:iron_spell_book"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "7901AE1C97B8379D"
+			item: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 5
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				count: 1
+				id: "irons_spellbooks:copper_spell_book"
+			}
+			weight: 5.0f
+		}
+		{ id: "1C3AC7C7C987A2A8", item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:raise_dead": 2 } }, "irons_spellbooks:spell_container": { data: [ { id: "irons_spellbooks:blood_slash", index: 0, level: 5, locked: 1b }, { id: "irons_spellbooks:blood_step", index: 1, level: 5, locked: 1b }, { id: "irons_spellbooks:ray_of_siphoning", index: 2, level: 5, locked: 1b }, { id: "irons_spellbooks:blaze_storm", index: 3, level: 5, locked: 1b } ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:necronomicon_spell_book" } }
+		{
+			id: "2FACED0E489120E2"
+			item: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 8
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				count: 1
+				id: "irons_spellbooks:rotten_spell_book"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "3496A995ABDD4021"
+			item: {
+				components: {
+					"irons_spellbooks:spell_container": {
+						data: [ ]
+						maxSpells: 10
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+				count: 1
+				id: "irons_spellbooks:blaze_spell_book"
+			}
+			weight: 3.0f
+		}
+		{ id: "5B2FC9A597F737E0", item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:villager_spell_book" } }
+		{ id: "408DC5AA83D521A6", item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:druidic_spell_book" } }
+		{ id: "489B4215852E7110", item: { count: 1, id: "irons_spellbooks:conjurers_talisman" } }
+		{ id: "4EF79038AC102082", item: { count: 1, id: "irons_spellbooks:affinity_ring" } }
+		{ id: "7652E7E5567AFAE2", item: { count: 1, id: "irons_spellbooks:concentration_amulet" } }
+		{ id: "1AD74C9F1C15EEC8", item: { count: 1, id: "irons_spellbooks:amethyst_resonance_charm" } }
+		{ id: "15F7EA7D2F78CADD", item: { count: 1, id: "irons_spellbooks:expulsion_ring" } }
+		{
+			count: 2
+			id: "118DF03EBCCDDFDB"
+			item: {
+				count: 1
+				id: "irons_spellbooks:common_ink"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "43F26B10D1D161E7"
+			item: {
+				count: 1
+				id: "irons_spellbooks:uncommon_ink"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "59E6BB2BA905DD27"
+			item: {
+				count: 1
+				id: "irons_spellbooks:rare_ink"
+			}
+			random_bonus: 1
+			weight: 3.0f
+		}
+		{ id: "4AC052D8CBEECF8B", item: { count: 1, id: "irons_spellbooks:epic_ink" } }
+		{ id: "7AD84354A563AF88", item: { count: 1, id: "irons_spellbooks:lesser_spell_slot_upgrade" } }
+		{
+			id: "5E14CAD80568198C"
+			item: {
+				count: 1
+				id: "irons_spellbooks:upgrade_orb"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{ id: "5FF104F4A56864CA", item: { count: 1, id: "irons_spellbooks:mana_upgrade_orb" } }
+		{ id: "7A93A521FCA4C5E9", item: { count: 1, id: "irons_spellbooks:cooldown_upgrade_orb" } }
+		{
+			count: 2
+			id: "4E61F486026C4682"
+			item: {
+				count: 1
+				id: "irons_spellbooks:raw_mithril"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "6F8907ADF4ABCF5F"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_essence"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "481445C565782BDD"
+			item: {
+				count: 1
+				id: "irons_spellbooks:cinder_essence"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			id: "1E4C9C93AA458C6B"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_ingot"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{ id: "3EEE80504E09D684", item: { count: 1, id: "irons_spellbooks:cooldown_ring" } }
+		{ id: "0215BBE353BD6685", item: { count: 1, id: "irons_spellbooks:silver_ring" } }
+		{ id: "55717F58C1D93191", item: { count: 1, id: "irons_spellbooks:mana_ring" } }
+		{ id: "4F528D45F50C8C18", item: { count: 1, id: "irons_spellbooks:heavy_chain_necklace" } }
+		{ id: "0263E061BE34EB4B", item: { count: 1, id: "irons_spellbooks:cast_time_ring" } }
+		{ id: "187A01BAF6AF31AE", item: { count: 1, id: "irons_spellbooks:weapon_parts" } }
+		{
+			id: "7CEDF447BBAACCDE"
+			item: {
+				count: 1
+				id: "irons_spellbooks:blank_rune"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{ id: "3898D746D3FA6DB2", item: { count: 1, id: "forbidden_arcanus:maledictus_pact" } }
+		{ id: "1A69CDCC3A9F8E02", item: { count: 1, id: "forbidden_arcanus:divine_pact" } }
+		{ id: "1F4E05F30D0BF8C2", item: { count: 1, id: "forbidden_arcanus:elementarium" } }
+		{ id: "1470F3E4F07C7F3F", item: { count: 1, id: "forbidden_arcanus:soul_crimson_stone" } }
+		{ id: "193AC786D7C543D5", item: { count: 1, id: "forbidden_arcanus:crimson_stone" } }
+		{ id: "538B8669AF708EAE", item: { count: 1, id: "forbidden_arcanus:crescent_moon" } }
+		{ id: "61580B50F7DFDAB3", item: { count: 1, id: "forbidden_arcanus:artisan_relic" } }
+		{ id: "0839D481D998A45B", item: { count: 1, id: "occultism:spirit_attuned_gem" } }
+		{ id: "00B71DDC7F3F0658", item: { count: 1, id: "occultism:soul_gem" } }
+		{ id: "185C9CA8E0D50BD0", item: { count: 1, id: "occultism:otherworld_goggles" } }
+		{
+			id: "7266D95D5FFBB58C"
+			item: {
+				count: 1
+				id: "occultism:spirit_attuned_crystal"
+			}
+			weight: 2.0f
+		}
+		{ id: "6F7F52B7307F5344", item: { count: 1, id: "apothic_enchanting:hellshelf" } }
+		{
+			id: "2C07E5BF72C0FC85"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:rune"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "5B92742002B9962C"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:stellarite_piece"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7A0EB482D7F45399"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:arcane_crystal_obelisk"
+			}
+			weight: 2.0f
+		}
+		{ id: "5658EFD7A5087E5D", item: { count: 1, id: "apothic_enchanting:extraction_tome" } }
+		{ id: "5BE417FC346ACE7B", item: { count: 1, id: "apothic_enchanting:library" } }
+		{ id: "4CB4A7F83C486D06", item: { count: 1, id: "apothic_enchanting:sightshelf" } }
+		{ id: "15AAE0B5F31A90E6", item: { count: 1, id: "apothic_enchanting:endshelf" } }
+		{ id: "3D0E06B1D0D16EA4", item: { count: 1, id: "apothic_enchanting:dormant_deepshelf" } }
+		{ id: "482E5DFA31A79734", item: { count: 1, id: "apothic_enchanting:seashelf" } }
+		{
+			count: 2
+			id: "0B5D81BEEF77A22A"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:xpetrified_orb"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "213464E966BDBEBE"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:arcane_crystal_dust"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "4A500B0840E20A9A"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:mundabitur_dust"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "555402F799CB9190"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:corrupti_dust"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "05608AB579F0BC32"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:soul"
+			}
+			random_bonus: 4
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "60BA22F4DC870DAF"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:aureal_bottle"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{ id: "7B04B21A580CF1A1", item: { count: 1, id: "forbidden_arcanus:spectral_eye_amulet" } }
+		{
+			count: 2
+			id: "095141F250CC9860"
+			item: {
+				count: 1
+				id: "forbidden_arcanus:arcane_bone_meal"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{ id: "7B91F67E477B10ED", item: { count: 1, id: "ars_nouveau:basic_spell_turret" } }
+		{
+			count: 4
+			id: "618763AC838BB546"
+			item: {
+				count: 1
+				id: "minecraft:blaze_powder"
+			}
+			random_bonus: 4
+			weight: 5.0f
+		}
+		{ id: "251F95C0BCC3770D", item: { count: 1, id: "rootsclassic:accelerator_standing_stone" } }
+		{ id: "3AFE84118FD0EBD9", item: { count: 1, id: "rootsclassic:grower_standing_stone" } }
+		{ id: "66AB2068C89991A2", item: { count: 1, id: "rootsclassic:healer_standing_stone" } }
+		{ id: "5A513A32B620928D", item: { count: 1, id: "rootsclassic:engraved_blade" } }
+		{
+			count: 4
+			id: "6195F99A9931C909"
+			item: {
+				count: 1
+				id: "rootsclassic:healing_poultice"
+			}
+			random_bonus: 4
+			weight: 5.0f
+		}
+		{ id: "2163CE0693E1995E", item: { count: 1, id: "rootsclassic:wildwood_mask" } }
+		{ id: "3C742B63CD0AD969", item: { count: 1, id: "rootsclassic:wildwood_plate" } }
+		{ id: "3D1798164155965B", item: { count: 1, id: "rootsclassic:wildwood_leggings" } }
+		{ id: "36A40920EC5C0EEA", item: { count: 1, id: "rootsclassic:wildwood_boots" } }
+		{
+			id: "35C80410BEF3019B"
+			item: {
+				count: 1
+				id: "rootsclassic:dragons_eye"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "1D929CD08FC61581"
+			item: {
+				count: 1
+				id: "rootsclassic:infernal_bulb"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "5745B4FC388D2A18"
+			item: {
+				count: 1
+				id: "rootsclassic:verdant_sprig"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{
+			id: "02317BCEE5E208F3"
+			item: {
+				count: 1
+				id: "rootsclassic:old_root"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			command: "/puffish_skills points add @p puffish_skills:magic 1"
+			feedback_message: "+1 Magic Skill"
+			icon: {
+				components: {
+					"ftbquests:icon": "relics:textures/abilities/holy_locket/blessing.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2619680E7E8465FA"
+			permission_level: 2
+			silent: true
+			type: "command"
+			weight: 7.0f
+		}
+		{ id: "66C2CE54C1A79E9C", item: { components: { "ftbquests:loot_crate": "reward_table" }, count: 1, id: "ftbquests:lootcrate" } }
+		{
+			count: 2
+			id: "65A9688CEA560198"
+			item: {
+				count: 1
+				id: "hexerei:infused_fabric"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "17B70603B233CE9E"
+			item: {
+				count: 1
+				id: "hexerei:moon_dust"
+			}
+			random_bonus: 2
+		}
+	]
+	use_title: true
+}

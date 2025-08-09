@@ -1,0 +1,281 @@
+{
+	icon: {
+		id: "create:brown_toolbox"
+	}
+	id: "49B86AAFA614A4EF"
+	loot_size: 1
+	order_index: 28
+	rewards: [
+		{
+			count: 4
+			id: "20CF15CF75B5EED8"
+			item: {
+				count: 1
+				id: "create:shaft"
+			}
+			random_bonus: 4
+			weight: 75.0f
+		}
+		{
+			count: 2
+			id: "43D98E9CDB9990DB"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+			random_bonus: 2
+			weight: 75.0f
+		}
+		{
+			count: 2
+			id: "2D7543839AB943B3"
+			item: {
+				count: 1
+				id: "create:large_cogwheel"
+			}
+			random_bonus: 2
+			weight: 75.0f
+		}
+		{
+			count: 2
+			id: "10CC46BB31B1F482"
+			item: {
+				count: 1
+				id: "create:belt_connector"
+			}
+			random_bonus: 2
+			weight: 75.0f
+		}
+		{
+			id: "79C391C74E86F3C5"
+			item: {
+				count: 1
+				id: "create:gearbox"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "402653773A7FCBE6"
+			item: {
+				count: 1
+				id: "create:gearshift"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "5F5F07096A144E41"
+			item: {
+				count: 1
+				id: "create:encased_chain_drive"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "69279A8988C6600D"
+			item: {
+				count: 1
+				id: "create:clutch"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "06E8702E3991127B"
+			item: {
+				count: 1
+				id: "create:encased_fan"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "26C862E17DC8CE25"
+			item: {
+				count: 1
+				id: "create:depot"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "3CC43E2C3F9168BB"
+			item: {
+				count: 1
+				id: "create:chute"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "4CBB71D5CBD26F6B"
+			item: {
+				count: 1
+				id: "create:andesite_funnel"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "76025B4D62B3847C"
+			item: {
+				count: 1
+				id: "create:steam_engine"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "34E49326C465E9B0"
+			item: {
+				count: 1
+				id: "create:fluid_tank"
+			}
+			weight: 75.0f
+		}
+		{
+			count: 2
+			id: "36DC02C78E3F93FF"
+			item: {
+				count: 1
+				id: "create:fluid_pipe"
+			}
+			random_bonus: 2
+			weight: 100.0f
+		}
+		{
+			id: "117D47D21E0831CF"
+			item: {
+				count: 1
+				id: "create:spout"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "6CBE9B1600E868FC"
+			item: {
+				count: 1
+				id: "create:item_drain"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "61289F7E6307E88E"
+			item: {
+				count: 1
+				id: "create:mechanical_pump"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "62B7ABCD5244BC96"
+			item: {
+				count: 1
+				id: "create:super_glue"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "508EE3C51503CDBB"
+			item: {
+				count: 1
+				id: "create:mechanical_press"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "0216F34DE1B3AAD3"
+			item: {
+				count: 1
+				id: "create:mechanical_mixer"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "67445DF6BD7D7267"
+			item: {
+				count: 1
+				id: "create:basin"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "3ABADF07CC003CD8"
+			item: {
+				count: 1
+				id: "create:empty_blaze_burner"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "4728361BB54BC592"
+			item: {
+				count: 1
+				id: "create:mechanical_saw"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "11D48FC18E2561B0"
+			item: {
+				count: 1
+				id: "create:mechanical_harvester"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "38DC41C73FA2C7DB"
+			item: {
+				count: 1
+				id: "create:mechanical_plough"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "011A2F85EB65255F"
+			item: {
+				count: 1
+				id: "create:stock_link"
+			}
+			random_bonus: 1
+			weight: 50.0f
+		}
+		{
+			id: "427CADD20AE3AC24"
+			item: {
+				count: 1
+				id: "create:redstone_link"
+			}
+			random_bonus: 1
+			weight: 50.0f
+		}
+		{
+			id: "5AA9AEAC15F349E9"
+			item: {
+				count: 1
+				id: "create:item_vault"
+			}
+			weight: 75.0f
+		}
+		{
+			id: "07EEEE50700C5CDD"
+			item: {
+				count: 1
+				id: "create:packager"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "3A73945904DA4787"
+			item: {
+				count: 1
+				id: "create:stock_ticker"
+			}
+			weight: 50.0f
+		}
+		{
+			count: 2
+			id: "2A002B9DFAF3F266"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+			random_bonus: 2
+			weight: 50.0f
+		}
+	]
+	use_title: true
+}

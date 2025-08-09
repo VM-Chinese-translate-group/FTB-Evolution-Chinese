@@ -1,0 +1,22 @@
+{
+	hide_tooltip: true
+	icon: {
+		components: {
+			"ftbquests:icon": "ftbquests:item/lootcrate/front"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "40521CF80673B184"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{ id: "7A3C0CD37272495D", item: { components: { "ftbquests:loot_crate": "grandma_s_treat" }, count: 1, id: "ftbquests:lootcrate" } }
+		{ id: "78E81A2852382318", item: { components: { "ftbquests:loot_crate": "technology_bundle" }, count: 1, id: "ftbquests:lootcrate" } }
+		{ id: "5BADADFAC98CCF84", item: { components: { "ftbquests:loot_crate": "adventurer_bundle" }, count: 1, id: "ftbquests:lootcrate" } }
+		{ id: "7C6765119EE86E22", item: { components: { "ftbquests:loot_crate": "magic_bundle" }, count: 1, id: "ftbquests:lootcrate" } }
+		{ id: "62B9AE2FB3229CCB", item: { components: { "ftbquests:loot_crate": "storage_box" }, count: 1, id: "ftbquests:lootcrate" } }
+		{ id: "2E5D2597EAA14018", item: { components: { "ftbquests:loot_crate": "random_tool_chest" }, count: 1, id: "ftbquests:lootcrate" } }
+		{ id: "608E262DE58B8DE6", item: { components: { "ftbquests:loot_crate": "chaos_bundle" }, count: 1, id: "ftbquests:lootcrate" } }
+	]
+	use_title: true
+}

@@ -1,0 +1,294 @@
+{
+	icon: {
+		id: "create:brass_hand"
+	}
+	id: "63F90206E51708AB"
+	loot_size: 1
+	order_index: 27
+	rewards: [
+		{
+			count: 4
+			id: "20CF15CF75B5EED8"
+			item: {
+				count: 1
+				id: "create:shaft"
+			}
+			random_bonus: 4
+			weight: 25.0f
+		}
+		{
+			count: 2
+			id: "43D98E9CDB9990DB"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{
+			count: 2
+			id: "2D7543839AB943B3"
+			item: {
+				count: 1
+				id: "create:large_cogwheel"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{
+			count: 2
+			id: "10CC46BB31B1F482"
+			item: {
+				count: 1
+				id: "create:belt_connector"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{
+			id: "79C391C74E86F3C5"
+			item: {
+				count: 1
+				id: "create:gearbox"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "5F5F07096A144E41"
+			item: {
+				count: 1
+				id: "create:encased_chain_drive"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "26C862E17DC8CE25"
+			item: {
+				count: 1
+				id: "create:depot"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "76025B4D62B3847C"
+			item: {
+				count: 1
+				id: "create:steam_engine"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "011A2F85EB65255F"
+			item: {
+				count: 1
+				id: "create:stock_link"
+			}
+			random_bonus: 1
+			weight: 50.0f
+		}
+		{
+			id: "427CADD20AE3AC24"
+			item: {
+				count: 1
+				id: "create:redstone_link"
+			}
+			random_bonus: 1
+			weight: 25.0f
+		}
+		{
+			id: "07EEEE50700C5CDD"
+			item: {
+				count: 1
+				id: "create:packager"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "3A73945904DA4787"
+			item: {
+				count: 1
+				id: "create:stock_ticker"
+			}
+			weight: 50.0f
+		}
+		{
+			count: 2
+			id: "0BAFDBCE95946E72"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{
+			count: 2
+			id: "77F81300DFAC60EA"
+			item: {
+				count: 1
+				id: "ftbmaterials:brass_ingot"
+			}
+			random_bonus: 2
+			weight: 100.0f
+		}
+		{
+			id: "6626C15AA152B071"
+			item: {
+				count: 1
+				id: "create:smart_chute"
+			}
+			weight: 100.0f
+		}
+		{
+			id: "727AF9D1815BFCB2"
+			item: {
+				count: 1
+				id: "create:brass_funnel"
+			}
+			weight: 100.0f
+		}
+		{
+			id: "3BCEAE23401E115F"
+			item: {
+				count: 1
+				id: "create:brass_tunnel"
+			}
+			weight: 100.0f
+		}
+		{
+			id: "3214207676741BFA"
+			item: {
+				count: 1
+				id: "create:deployer"
+			}
+			weight: 100.0f
+		}
+		{
+			id: "07761EA619A65443"
+			item: {
+				count: 1
+				id: "create:precision_mechanism"
+			}
+			weight: 65.0f
+		}
+		{
+			id: "74F6A6DD950F553A"
+			item: {
+				count: 1
+				id: "create:content_observer"
+			}
+			weight: 100.0f
+		}
+		{
+			id: "5D34CD768A3F76D3"
+			item: {
+				count: 1
+				id: "create:stockpile_switch"
+			}
+			weight: 100.0f
+		}
+		{
+			id: "1F1C6D4A61E701F9"
+			item: {
+				count: 1
+				id: "create:wand_of_symmetry"
+			}
+			weight: 15.0f
+		}
+		{
+			id: "65C12C3EB93FD897"
+			item: {
+				count: 1
+				id: "create:potato_cannon"
+			}
+			weight: 15.0f
+		}
+		{
+			id: "1CF07522430E6F11"
+			item: {
+				count: 1
+				id: "create:extendo_grip"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "5925534DB382C3ED"
+			item: {
+				count: 1
+				id: "create:mechanical_arm"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "479687E7ED9A7978"
+			item: {
+				count: 1
+				id: "create:rotation_speed_controller"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "32D5E577ED27A1BA"
+			item: {
+				count: 1
+				id: "create:factory_gauge"
+			}
+			random_bonus: 1
+			weight: 50.0f
+		}
+		{
+			count: 2
+			id: "6A698D572A8D566D"
+			item: {
+				count: 1
+				id: "ftbmaterials:obsidian_dust"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{
+			count: 2
+			id: "57220B9D6C11E1A7"
+			item: {
+				count: 1
+				id: "create:track"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{
+			id: "4A523CE8004E3151"
+			item: {
+				count: 1
+				id: "create:track_station"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "010D4D5B2E19E957"
+			item: {
+				count: 1
+				id: "create:controls"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "078CBFE9D161918A"
+			item: {
+				count: 1
+				id: "create:track_observer"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "50FF53D047E94E33"
+			item: {
+				count: 1
+				id: "create:track_signal"
+			}
+			weight: 25.0f
+		}
+	]
+	use_title: true
+}
