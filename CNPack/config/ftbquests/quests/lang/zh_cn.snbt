@@ -2852,7 +2852,7 @@
 	quest.1E88395535AA93DC.title: "&fPut It Back Where It Beelongs"
 	quest.1E9349AC359E058E.quest_desc: ["The &aMechanical Bearing&r rotates attached contraptions."]
 	quest.1E9349AC359E058E.title: "&fMechanical Bearing"
-	quest.1E95AD23243FEF87.quest_desc: ["You can now produce the best fuel &eActually Additions&r has to offer. Simply drop the &aEmpowered Canola Seed&r into &3Crystallized Oil&r and you have &dEmpowered Oil&r!"]
+	quest.1E95AD23243FEF87.quest_desc: ["现在你就可以制造&e实用拓展&r模组中的最强燃料了。只需简单地把&a充能油菜种子&r丢进&3晶化油&r里，然后你就有&d充能油&r了！"]
 	quest.1E95AD23243FEF87.title: "&d充能油菜种子"
 	quest.1E9AD94E5373BFAB.quest_desc: ["&aGearboxes&r allow you to change rotational axis and direction."]
 	quest.1E9AD94E5373BFAB.title: "&fGearboxes"
@@ -3005,13 +3005,13 @@
 	quest.201BB935C9972574.title: "&fSpell Slot Improvements"
 	quest.2061FEEF44253E13.title: "&fItem Card"
 	quest.206987FC6B1524F8.quest_desc: [
-		"The &aAtomic Reconstructor&r is used to crystalize materials and is one of the main machines used in &eActually Additions&r."
+		"&a原子再构机&r是&e实用拓展&r的重要机器，一般拿来做晶体材料。"
 		""
-		"When provided with power, it will shoot a laser beam up to ten blocks away, or until the laser comes into contact with another block."
+		"给它供应足够的能量后，它就会射出一道长10格的激光，假如有方块则激光会被挡住。"
 		""
-		"It will crystalize any dropped items or blocks placed on either side of the laser."
+		"它会把激光路径上的所有掉落物或放置的方块全部晶化。"
 	]
-	quest.206987FC6B1524F8.title: "&aAtomic Reconstructor"
+	quest.206987FC6B1524F8.title: "&a原子再构机"
 	quest.2075944B1DA3B63C.quest_subtitle: "Prevents Long Casts From Being Interrupted"
 	quest.2075944B1DA3B63C.title: "&aAmulet of Concentration"
 	quest.207CE761F35EB902.quest_desc: [
@@ -3058,15 +3058,15 @@
 	quest.210833F817D7AF9E.quest_desc: ["The &6Netherite Autocrafter&r has 81 &aPattern&r slots and works as fast as a fully upgraded &dDiamond Autocrafter&r."]
 	quest.210833F817D7AF9E.title: "&6Netherite Autocrafter"
 	quest.210E56AC8F66C19E.quest_desc: [
-		"The &3Experience Solidifier&r uses the player's experience and turns it into &bSolidified Experience&r."
+		"&3经验固化器&r可以将玩家的经验固化为&b固化经验&r。"
 		""
-		"&bSolidified Experience&r contains XP, which can be consumed by right-clicking (sneaking will consume a full stack)."
+		"&b固化经验&r就是经验的固化形态，右击使用即可取回已固化的经验（如果潜行右击则会消耗一组的固化经验）。"
 	]
-	quest.210E56AC8F66C19E.title: "&3Experience Solidifier"
+	quest.210E56AC8F66C19E.title: "&3经验固化器"
 	quest.212600F8D3C1E1EB.quest_desc: ["To make the best power storage in &aMekanism&r, we'll need to convert Lithium into &6Lithium Dust&r using a &aChemical Crystallizer&r. The Crystallizer requires &dUltimate Control Circuits&r to craft!"]
 	quest.212600F8D3C1E1EB.title: "&dLithium Dust"
 	quest.212F163A18A332A1.quest_desc: ["&3Empowered Palis Crystals&r are used to create &3Greenhouse Glass&r, which can be extremely useful as a roof above your farm."]
-	quest.212F163A18A332A1.title: "&3Empowered Palis Crystal"
+	quest.212F163A18A332A1.title: "&3充能青金石水晶"
 	quest.214D210F200CD11F.quest_desc: [
 		"The &dTime Twister&r records important events such as deaths or changing dimensions on a timeline. You can then teleport to the exact location of these timeline events, provided you have enough &bChronon&r."
 		""
