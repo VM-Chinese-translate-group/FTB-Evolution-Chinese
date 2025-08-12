@@ -1113,7 +1113,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(actuallyadditions:coal_generator)item(actuallyadditions:heat_collector)item(actuallyadditions:oil_generator))"
-						"minecraft:custom_name": "\"Power Generators\""
+						"minecraft:custom_name": "“发电机”"
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"

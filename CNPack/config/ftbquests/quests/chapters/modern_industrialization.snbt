@@ -20,7 +20,7 @@
 		}
 		{
 			height: 7.0d
-			hover: ["Steam Blast Furnace"]
+			hover: ["蒸汽高炉"]
 			image: "ftbevolution:textures/quests/modern_industrialization/steamblastfurnace.png"
 			rotation: 0.0d
 			width: 5.3637621023513145d
@@ -54,7 +54,7 @@
 		}
 		{
 			height: 10.0d
-			hover: ["The Steel Quarry"]
+			hover: ["钢铁采石场"]
 			image: "ftbevolution:textures/quests/modern_industrialization/steelquarry.png"
 			rotation: 0.0d
 			width: 7.187096774193549d
@@ -63,7 +63,7 @@
 		}
 		{
 			height: 4.0d
-			hover: ["Steam Boiler"]
+			hover: ["蒸汽锅炉"]
 			image: "ftbevolution:textures/quests/modern_industrialization/largesteamboiler.png"
 			rotation: 0.0d
 			width: 3.211267605633803d
@@ -72,7 +72,7 @@
 		}
 		{
 			height: 5.0d
-			hover: ["Custom Multiblock Tanks!"]
+			hover: ["自定义多方块储罐！"]
 			image: "ftbevolution:textures/quests/modern_industrialization/largesteeltank.png"
 			rotation: 0.0d
 			width: 4.872773536895674d
