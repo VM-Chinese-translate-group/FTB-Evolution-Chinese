@@ -32,17 +32,17 @@
 	chapter.6F0ED7CA1077DD3C.title: "EnderIO"
 	chapter.6F822DE2465C4A31.title: "Mekanism"
 	chapter.7598810BEF4F4370.title: "&aGetting Started&r"
-	chapter.78D9A0ADE8A319B1.title: "Malum"
+	chapter.78D9A0ADE8A319B1.title: "灵灾"
 	chapter.7B3ADCA4950CB4F0.title: "Oritech"
 	chapter.7ECA39E2497C35D1.title: "Generating Resources"
 	chapter.7F56138A835F29C1.title: "Logistics"
 	chapter.7FD6309F98258333.title: "Hexerei"
-	chapter_group.03201DC13AAA49AA.title: "Resource Automation"
-	chapter_group.17F6B0CF1E0B2038.title: "Logistics"
-	chapter_group.293B0513F4340751.title: "Exploration"
-	chapter_group.33401D44ADADF4FC.title: "Magic Mods"
-	chapter_group.3E3B6463983F18FB.title: "Tech Mods"
-	chapter_group.4E06BB3DD10B837B.title: "Main Questline"
+	chapter_group.03201DC13AAA49AA.title: "资源自动化"
+	chapter_group.17F6B0CF1E0B2038.title: "物流类模组"
+	chapter_group.293B0513F4340751.title: "外出探险"
+	chapter_group.33401D44ADADF4FC.title: "魔法类模组"
+	chapter_group.3E3B6463983F18FB.title: "科技类模组"
+	chapter_group.4E06BB3DD10B837B.title: "主线任务"
 	file.0000000000000001.title: "FTB Evolution"
 	quest.0017F48E23512C75.quest_desc: ["[\"You can now upgrade your existing \", {\"text\": \"Pentacles\", \"color\": \"#55FFFF\"}, \" with \", {\"text\": \"Orange\", \"color\": \"#FCA645\"}, \" and \", {\"text\": \"Gray\", \"color\": \"#929292\"}, {\"text\": \" Chalks\", \"color\": \"green\"}, \", and \", {\"text\": \"Spirit Attuned Crystals\", \"color\": \"#FF55FF\"}, \".\"]"]
 	quest.0017F48E23512C75.title: "[{\"text\": \"\", \"color\": \"#FFFFFF\"}, {\"text\": \"Orange\", \"color\": \"#FCA645\"}, \" & \", {\"text\": \"Gray\", \"color\": \"#929292\"}, \" Chalks\"]"
@@ -1045,9 +1045,9 @@
 	]
 	quest.0A9CA5D70C2FD76F.title: "&aImbuement Chamber"
 	quest.0AA1977AC1B5E5A9.quest_desc: [
-		"Anvils are all well and good for repairing mundane gear, but magical goods can be much more expensive or even impossible to repair in this manner. With a &aRepair Pylon&r, the &eSpirit Crucible&r is able to focus spirits and a repair material into a piece of gear, so long as it already has ties to &bcertain magics&r or is totally mundane."
+		"铁砧用来修复一般的装备非常合适，但用来修理魔法物品却会有非常昂贵的消耗，甚至可能无法修复。但只要有了&a修复基柱&r，你就可以用&e精魂坩埚&r来把精魂和修复材料集聚到装备上。无论是已经与&b特定种类的魔法&r相关联的装备，还是普通的装备，都可以修复。"
 		""
-		"This is also the only way to repair a &eFractured Impetus&r."
+		"此外，这也是唯一一种能够修复&e碎裂促符&r的方法。"
 	]
 	quest.0ABD10520EAB1C57.quest_desc: [
 		"&aStorage Controllers&r allow you to connect and interact with several drawers at once. These are amazing for automating items going in and out of your drawer system!"
@@ -2147,18 +2147,18 @@
 	]
 	quest.16C668B00B581A9C.title: "&fBee Types"
 	quest.16D89D5036F39756.quest_desc: [
-		"&eMalum&r is a magic mod centered around the elemental and mental aspects of souls, harnessing these traits to create a wide array of arcane effects on yourself and the world around you!"
+		"&e灵灾&r是一个围绕着灵魂的自然层面和精神层面展开的模组。这个模组将通过这些要素来为你和你所处的世界带来各种奥术影响！"
 		""
-		"This mod is still in active development, with the most recent addition being a system of pacts for players to accept in exchange for abilities."
+		"这个模组仍在积极更新中，其中最新的更新带来了一个新的系统，能让玩家通过签订条约来获得能力。"
 		""
-		"To get started in this mod, find &dSoulstone Ore&r  to create the two keystone features of the mod: the Spirit Altar, and the Crude Scythe."
+		"要想在这个模组里起步，你需要找到或自己做出&d灵魂石&r，才能造出这个模组里最基本的两个物品：精魂祭坛，以及粗制镰刀。"
 		""
-		"There are rumors of a &5structure&r somewhere deep in the earth, emitting whispers and tugging on certain materials. Perhaps you could seek it out and make a trade for some…"
+		"相传，虚空之中有一个&5结构&r，它散发着低语，向外界索取着某些材料。也许你能找到这个结构，并和它进行交易，从而换取一些…"
 		""
 		"&7As this mod is a late addition to FTB Evolution, you may need to explore brand new areas of existing worlds to find trees, ores, and structures from Malum..."
 	]
-	quest.16D89D5036F39756.quest_subtitle: "The beginning of Malum"
-	quest.16D89D5036F39756.title: "&dSoulstone"
+	quest.16D89D5036F39756.quest_subtitle: "灵灾之始"
+	quest.16D89D5036F39756.title: "&d灵魂石"
 	quest.16E0A9FD1B08D34E.quest_desc: [
 		"&6Concurrent Processors&r are high end processors used to calculate data on a &dquantum&r level."
 		""
@@ -2591,18 +2591,18 @@
 	]
 	quest.1BC985066A1B7A34.title: "&aStanding Stones"
 	quest.1BC994881BC225ED.quest_desc: [
-		"By combining magical spools with different materials and applying them to arcane armor in the &aWeaver's Workbench&r, the armor changes in appearance while keeping all of its defense and other benefits."
+		"你可以在&a织物工作台&r上把隐秘线轴与不同材料结合在一起，并把它们安置在奥术盔甲上。盔甲的外观会发生变化，但防御力和其他增益都会保留。"
 		""
-		"The &eAncient Weave&r converts the armor to an alternate version of itself, but all other weaves change the armor to one set look."
-		"&o&7Ex. a Soulhunter Robe and a Soulstained Chestplate will seem identical after a Cornered Weave is applied.&r"
+		"&e古代织物&r会把不同盔甲转化成不同独立的样式，而其他织物无论转化什么盔甲都是同一种样式。（注：实测都只有一套样式）"
+		"&o&7举个例子，用了指挥官织物后，灵魂猎手长袍会和魂染钢胸甲长得一模一样。&r"
 	]
 	quest.1BDE743ABCC3E78A.title: "&aThe First Layer"
 	quest.1C0024A48898FB90.quest_desc: [
-		"With an &aAlchemical Impetus&r as a focus, &aSpirit Crucibles&r are able to channel spirits into a physical form such as dusts or gems that align with their aspects. This slowly uses up the Impetus's material, but it can be repaired or made anew."
+		"只要以&a炼金促符&r作为核心材料，你就能用&a精魂坩埚&r来把精魂转化成其派别对应的物理形式，比如粉末或是宝石。这种转化会缓慢消耗促符的耐久度，不过你可以修复它，也可以重新制作。"
 		""
-		"Of note is the new material &e'blazing quartz'&r which can otherwise be found as ore in the Nether."
+		"值得一提的是，空岛上是不会自然生成&e“烈焰石英”&r的。"
 		""
-		"Other types of Impetus also can be crafted, allowing the conversion of spirits into a wider variety of resources."
+		"你还可以做出其他类型的促符，它们能把精魂转换成的资源种类会更加丰富。"
 	]
 	quest.1C044AAAA1306C6F.title: "&dFamiliar &fBeds"
 	quest.1C3D395850C1C4A4.quest_desc: [
@@ -3641,15 +3641,15 @@
 	]
 	quest.272C00767FDBD64F.title: "&fReed Nest"
 	quest.272E84656D0F133C.quest_desc: [
-		"With a base and up to five logs on top to form a pole, totems can be attuned to a particular spirit symbol by using the spirit on the logs. Once an appropriate set of symbols is made, right clicking the base will activate the totem pole to invoke a &eSpirit Rite&r. Doing so again will deactivate the Rite."
+		"将图腾基座放在底部，然后在基座上方放置至多五块图腾原木，使其形成一根柱子，你就可以用精魂来把它们变成特定的图腾柱了。只要全套图腾样式正确，你就可以右击基座来激活图腾柱，从而展开&e图腾仪式&r。再次右击基座可以停止仪式。"
 		""
-		"These Rites have a wide variety of effects either on the world or those who stand in its area."
-		"While multiple Rites can be invoked on an area, two ore more of the same Rite will cancel each other out."
+		"这些仪式会为这个世界及附近区域的人带来各种各样的影响。"
+		"虽然你可以在同一片区域内进行多个仪式，但是两个及以上的相同仪式会导致它们彼此抵消。"
 		""
-		"A &aTotemic Staff&r will let you see what this area is, and can be used on an attuned log to make it glow without activation."
+		"&a图腾法杖&r可以让你看到仪式作用范围，还可以调节图腾柱，使其在没激活时也能够发光。"
 	]
-	quest.272E84656D0F133C.quest_subtitle: "Few quests, countless uses"
-	quest.272E84656D0F133C.title: "Totemic Rites"
+	quest.272E84656D0F133C.quest_subtitle: "介绍虽少，用处繁多"
+	quest.272E84656D0F133C.title: "图腾仪式"
 	quest.27562CA8FEC4A764.quest_desc: [
 		"Storing items and liquids across dimensions has been made much easier through the use of &aDimStorage&r!"
 		""
@@ -6041,9 +6041,9 @@
 	quest.4004CA1BEBA2914C.quest_desc: ["&dVibrant Alloy&r is a high tier alloy and is used in several recipes, including the &aElectromagnet&r and the &dOctadic Capacitor&r."]
 	quest.4004CA1BEBA2914C.title: "&dVibrant Alloy"
 	quest.40066A9E17ADB45F.quest_desc: [
-		"&3Acrylic Acid&r is used to make &aDiethyl Ether&r."
+		"&3丙烯酸&r是&a乙醚&r的原材料。"
 		""
-		"It can also be used to make &eAcrylic Glue&r, in case you want to duplicate &aSlimeballs&r, for some reason."
+		"它也可以用来做&e丙烯酸胶&r，如果你想要复制&a黏液球&r的话就用它。"
 	]
 	quest.40066A9E17ADB45F.title: "&3丙烯酸"
 	quest.400EF0F598308431.quest_desc: [
@@ -6069,8 +6069,8 @@
 	quest.4020A8E11C423C7F.quest_subtitle: "Kill 2 Phantoms With A Single Piercing Arrow"
 	quest.4020A8E11C423C7F.title: "&fTwo Birds, &dOne Arrow"
 	quest.40255F6F1C60B588.title: "&fFluid Interfaces"
-	quest.403967C03F9A6054.quest_desc: ["With &bPolyethylene&r avaiable, we can craft &3Advanced Upgrades&r that are 8x more effective than the &aBasic Upgrade&r."]
-	quest.403967C03F9A6054.title: "&3Advanced Upgrade"
+	quest.403967C03F9A6054.quest_desc: ["有了&b聚乙烯&r，我们就可以制作&3进阶升级&r了，其效率比&a基本升级&r高8倍。"]
+	quest.403967C03F9A6054.title: "&3进阶升级"
 	quest.406EB9587F2298B8.quest_desc: [
 		"The &aCoffer&r is a storage chest that retains items when picked up by punching it."
 		""
@@ -6112,21 +6112,21 @@
 	]
 	quest.40B00524384110B9.title: "&fVortex Tube"
 	quest.40B9A5403390D8A1.quest_desc: [
-		"Now that you have bronze, you'll be able to make &eMI &aPipes&r. These are highly versatile and absolutely worth using."
+		"你现在有了青铜，就可以制作&e现代工业化&r&a管道&r了。这些管道用途非常广泛，值得你使用。"
 		""
-		"You can stack up to three &aPipes&r in the same block space. They can also be died so they won't connect to each other, and their connection states can be configured with the &eMI Wrench&r"
+		"你可以在一格内叠加3种不同的&a管道&r。它们还可以染色，这样不同颜色的管道就不会自己链接。并且它们的连接状态可以使用&e扳手&r进行配置。 "
 		"{@pagebreak}"
-		"You can go even further by creating a &bFacade&r out of any block to blend pipes seemlessly into your builds."
+		"你甚至可以制作&b伪装板&r来将管道无缝融入你的建筑之中。"
 		""
-		"To do this, Sneak + Right-click on the block you want the &aPipes&r to display as, then right-click any &aPipe&r in the world to apply the &bFacade&r."
+		"手持&b伪装&r潜行+右击你想伪装成的方块，然后右击&a管道&r来伪装它。"
 		""
-		"While this does consume blocks from your inventory, it can easily be popped back off by Sneak + Right-clicking with the &bFacade&r with the &eMI Wrench&r."
+		"虽然这会消耗你物品栏中的方块，但是用&e扳手&r潜行+右击&b伪装&r就可以轻松移除它。"
 		"{@pagebreak}"
-		"To make copying settings of pipes easier, you have been given a &aPipe Config Card&r."
+		"为了让你更轻松地复制管道设置，送你一张&a管道配置卡&r。"
 		""
-		"With this tool, you can copy settings of a &aPipe&r onto the card, then place it in your offhand. Any &aPipe&r you place like this will automatically copy the settings on the card."
+		"有了这个工具，你可以把&a管道配置&r复制进卡内，然后将它放到你的副手上。之后你每个放置的管道都会自动使用这张卡里的默认配置！"
 	]
-	quest.40B9A5403390D8A1.title: "&eMI &aPipes"
+	quest.40B9A5403390D8A1.title: "&eMI&a管道"
 	quest.40BBCE1F8363235B.quest_desc: [
 		"You'll find plenty of new resources in the &6Bumblezone&r, including &eHoney Crystals&r and &aPollen Puffs&r."
 		""
