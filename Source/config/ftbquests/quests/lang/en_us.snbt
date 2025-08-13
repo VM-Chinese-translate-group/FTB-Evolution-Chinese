@@ -7367,12 +7367,6 @@
 	quest.4E3A4B79573FC1F2.title: "&dAmethyst Rapier"
 	quest.4E455724E9CCA854.quest_desc: ["Have you run into any &aSuspicous Blocks&r? Trying using a &aBrush&r on them to see what they are hiding!"]
 	quest.4E455724E9CCA854.title: "&fAmateur &aArchaeologist"
-	quest.4E48ACEA714B5976.quest_desc: [
-		"Among the traders that &6I.E&r has, the &bMachinist&r can be made by placing down an &aEngineer's Crafting Table&r near a villager."
-		""
-		"Once at &dMaster&r rank, this villager will trade you the &aArc Furnace Electrode &bBlueprint&r."
-	]
-	quest.4E48ACEA714B5976.title: "&fArc Furnace Electrode &bBlueprint"
 	quest.4E4D77AD4D7F6262.quest_desc: [
 		"&aBindings&r can be added to most tools and weapons, but is a required part for &6Elytras&r."
 		""
@@ -9512,7 +9506,7 @@
 	quest.660443512BB2E867.quest_desc: [
 		"The &dGraphite Electrode&r is mainly used as a fuel source for the &dArc Furnace&r, but it can also be used as deadly ammunition for the &dRailgun&r."
 		""
-		"&dGraphite Electrodes&r can also be crafted through the metal press, without needing the blueprint, but will only have half of their usual durability."
+		"&dGraphite Electrodes&r can also be crafted through the metal press, without needing the bottling machine, but will only have half of their usual durability."
 	]
 	quest.660443512BB2E867.title: "&dGraphite Electrode"
 	quest.6633EE3A02AA52E1.quest_desc: [

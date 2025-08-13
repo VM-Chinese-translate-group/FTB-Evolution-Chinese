@@ -1388,7 +1388,7 @@
 				"4A41B30728ED1307"
 			]
 			icon: {
-				id: "mekanism:sulfuric_acid_bucket"
+				id: "modern_industrialization:sulfuric_acid_bucket"
 			}
 			id: "4EAE9F58776D84C8"
 			rewards: [{
@@ -1402,7 +1402,7 @@
 				{
 					fluid: {
 						amount: 1000
-						id: "mekanism:sulfuric_acid"
+						id: "modern_industrialization:sulfuric_acid"
 					}
 					id: "0FC6E89DD1C13CEA"
 					optional_task: true
@@ -1410,7 +1410,7 @@
 				}
 				{
 					id: "0B4D753BAE5A3568"
-					item: { count: 1, id: "mekanism:sulfuric_acid_bucket" }
+					item: { count: 1, id: "modern_industrialization:sulfuric_acid_bucket" }
 					optional_task: true
 					type: "item"
 				}
