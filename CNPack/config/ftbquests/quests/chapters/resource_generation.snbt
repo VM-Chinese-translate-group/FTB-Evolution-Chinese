@@ -3536,7 +3536,7 @@
 					item: {
 						components: {
 							"ftbfiltersystem:filter": "or(item(hostilenetworks:overworld_prediction)item(hostilenetworks:nether_prediction)item(hostilenetworks:end_prediction))"
-							"minecraft:custom_name": "\"Predictions\""
+							"minecraft:custom_name": "“预测产物”"
 						}
 						count: 1
 						id: "ftbfiltersystem:smart_filter"

@@ -34,7 +34,7 @@
 		{
 			click: "https://discord.com/invite/X5UGvBs"
 			height: 1.0d
-			hover: ["Join The Discord!"]
+			hover: ["加入Discord！"]
 			image: "ftbevolution:textures/quests/titles_and_logos/discord_logo.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -44,7 +44,7 @@
 		{
 			click: "https://github.com/FTBTeam/FTB-Modpack-Issues/issues"
 			height: 1.0d
-			hover: ["Report A Bug"]
+			hover: ["反馈Bug"]
 			image: "azurelib:icons/error"
 			rotation: 0.0d
 			width: 1.0d

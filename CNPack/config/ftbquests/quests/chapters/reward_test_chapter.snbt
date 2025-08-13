@@ -3668,7 +3668,7 @@
 									}
 								]
 							}
-							"minecraft:custom_name": "\"House #1\""
+							"minecraft:custom_name": "房屋一："
 							"minecraft:dyed_color": {
 								rgb: 11546150
 							}
@@ -7277,7 +7277,7 @@
 									}
 								]
 							}
-							"minecraft:custom_name": "\"House #2\""
+							"minecraft:custom_name": "房屋二："
 							"minecraft:dyed_color": {
 								rgb: 3949738
 							}
@@ -12102,7 +12102,7 @@
 									}
 								]
 							}
-							"minecraft:custom_name": "\"House #3\""
+							"minecraft:custom_name": "房屋三："
 							"minecraft:dyed_color": {
 								rgb: 6192150
 							}
@@ -16600,7 +16600,7 @@
 									}
 								]
 							}
-							"minecraft:custom_name": "\"House #4\""
+							"minecraft:custom_name": "房屋四："
 							"minecraft:dyed_color": {
 								rgb: 16701501
 							}
