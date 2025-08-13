@@ -504,60 +504,8 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["5E5BDCBF185E48E3"]
-			icon: {
-				components: {
-					"immersiveengineering:blueprint": "electrode"
-				}
-				id: "immersiveengineering:blueprint"
-			}
-			id: "4E48ACEA714B5976"
-			rewards: [
-				{
-					count: 4
-					id: "46BD38D0F5DFCA22"
-					item: {
-						count: 1
-						id: "minecraft:emerald"
-					}
-					random_bonus: 4
-					type: "item"
-				}
-				{
-					id: "77DF06B686A67DF7"
-					type: "xp"
-					xp: 25
-				}
-			]
-			tasks: [
-				{
-					id: "3A490C81008F4DB1"
-					item: {
-						count: 1
-						id: "immersiveengineering:craftingtable"
-					}
-					type: "item"
-				}
-				{
-					id: "6B420EA5EEB024D4"
-					item: {
-						components: {
-							"immersiveengineering:blueprint": "electrode"
-						}
-						count: 1
-						id: "immersiveengineering:blueprint"
-					}
-					match_components: "strict"
-					type: "item"
-				}
-			]
-			x: 8.0d
-			y: 2.0d
-		}
-		{
 			dependencies: [
 				"026A64F01C301119"
-				"4E48ACEA714B5976"
 				"7F6363864003FFC0"
 			]
 			dependency_requirement: "one_completed"
