@@ -29,7 +29,7 @@
 	chapter.663E3448E59F8F90.title: "奖励测试用章节"
 	chapter.6A58A6F56CD199A3.title: "Integrated Dynamics"
 	chapter.6CA0553DF634A937.title: "Ars Nouveau"
-	chapter.6F0ED7CA1077DD3C.title: "EnderIO"
+	chapter.6F0ED7CA1077DD3C.title: "末影接口"
 	chapter.6F822DE2465C4A31.title: "通用机械"
 	chapter.7598810BEF4F4370.title: "&aGetting Started&r"
 	chapter.78D9A0ADE8A319B1.title: "灵灾"
@@ -339,13 +339,13 @@
 	]
 	quest.036C11AC70835846.title: "&fThe Power Of The &dEnd"
 	quest.0376EEA8E8B3E66D.quest_desc: [
-		"Before you can make any powered machines, you'll need to some &aAlloys&r first."
+		"想要制作电器，你得先烧点&a合金&r。"
 		""
-		"The &7Primitive Alloy Smelter&r can do this, so this will be your first &eEnderIO&r machine."
+		"&7简易合金炉&r即可做到这一点，所以这将是你的第一台&e末影接口&r机器。"
 		""
-		"It works like a furnace and uses burnable fuel, but is extremely slow and cannot be configured or upgraded."
+		"它的工作模式和熔炉一样，可以用可燃物品当做燃料。但是处理速度极其缓慢，而且不支持配置或升级。"
 	]
-	quest.0376EEA8E8B3E66D.title: "&fPrimitive Alloy Smelter"
+	quest.0376EEA8E8B3E66D.title: "&f原始合金炉"
 	quest.03A7D3280ECF5076.quest_desc: [
 		"&aPrismarine Crystal Shards&r are a used for most of the advanced items and machinery."
 		""
@@ -1197,11 +1197,11 @@
 	]
 	quest.0BA9293108C64E51.title: "&6Hephaestus Forge:&f Tier 3"
 	quest.0BAA7E5F5FF7B93C.quest_desc: [
-		"The &3Double Layer Capacitor&r is the next tier of &2Capacitors&r."
+		"&3双层电容&r是更高级别的&2电容&r"
 		""
-		"It has a &bBase Modifier&r of 2, which means it will multiply both the energy storage and speed of the machine by 2."
+		"它拥有2的&b基础属性&r，也就是说，它能直接将机器的能量存储量和工作速度提升到原本的两倍。"
 	]
-	quest.0BAA7E5F5FF7B93C.title: "&3Double Layer Capacitor"
+	quest.0BAA7E5F5FF7B93C.title: "&3双层电容"
 	quest.0BAF0C06F01C4E80.quest_desc: [
 		"Improves energy capacity and energy transfer rate."
 		""
@@ -1537,13 +1537,13 @@
 	quest.0F3EDB9AE592016B.quest_desc: ["Improves energy capacity and energy transfer rate."]
 	quest.0F3EDB9AE592016B.title: "&fMachine Capacitor Addon"
 	quest.0F4ABB66EC22C066.quest_desc: [
-		"If you want to hide your &aConduits&r, you'll need to create some &bConduit Facades&r!"
+		"如果你想将&a导管&r隐藏起来的话，你就需要做一些&b导管框架&r！"
 		""
-		"These Facades can be changed to the appearance of any other block using the &aPainting Machine&r."
+		"通过&a喷涂机&r可以将框架变成任意方块的样子。"
 		""
-		"Inside of the &aPainting Machine&r, blocks inserted into the second input slot will be painted to look like the block placed in the template slot. Blocks placed into the Template slot are not consumed."
+		"在&a喷涂机&r中，会将模板槽中方块的样子喷涂到第二个槽中的方块上。放置在模板槽的方块不会消耗。"
 	]
-	quest.0F4ABB66EC22C066.title: "&fHiding Conduits"
+	quest.0F4ABB66EC22C066.title: "&f装饰导管"
 	quest.0F7F7C7ABF851D84.quest_desc: ["The &aChronon Generator&r passively generates &bChronon&r, charging various &eTempad&r devices while in your inventory."]
 	quest.0F7F7C7ABF851D84.title: "&aChronon Generator"
 	quest.0F8037316FBF818A.quest_desc: ["&e丁二烯&r可用于制造&7苯乙烯-丁二烯&r。"]
@@ -1637,17 +1637,17 @@
 	]
 	quest.107C26E8BF309BC1.title: "&f奥术战利品"
 	quest.109CB437DFAECDC6.quest_desc: [
-		"The &aAlloy Smelter&r will be your most used machine in &eEnderIO&r as it is an improved version of the &7Primitive Alloy Smelter&r, and can be upgraded with &bCapacitors&r."
+		"&a合金炉&r将是你&e末影接口&r旅途中最常用的机器，它比&7原始合金炉&r要好得多，且可以用&b电容&r升级。"
 		""
-		"In the &aAlloy Smelter's&r interface, you can configure it in many different ways to improve your automation. It allows for side input/output configuration, redstone configuration, and swapping between three modes:"
+		"在&a合金炉&r的UI内，你可以按需进行自动化配置，比如侧面输入/输出、红石控制，以及切换以下三种工作模式："
 		"{@pagebreak}"
-		"&eAlloy only mode&r: Only allows the Alloy Smelter to create alloys."
+		"&e仅合金配方&r：此模式下合金炉只处理合金配方。"
 		""
-		"&eFurnace only mode&r: Treats the Alloy Smelter as a furnace"
+		"&e仅熔炉配方&r：将合金炉作为熔炉使用。"
 		""
-		"&eAlloying and Smelting&r: This mode will do both alloying and smelting, which can be bad when automating as some items will be smelted before turning into alloys."
+		"&e合金和烧炼配方&r：这个模式下熔炼和合金配方不分离，实现自动化的时候可能会出现该做成合金的材料反而会被熔炼的问题。"
 	]
-	quest.109CB437DFAECDC6.title: "&aAlloy Smelter"
+	quest.109CB437DFAECDC6.title: "&a合金炉"
 	quest.10AB0C0930A5D77D.title: "&5Regeneration"
 	quest.10B7437F3E412D26.quest_desc: [
 		"对&a钻石蜜蜂&r使用&a下界合金块&r以将其转换成&6远古蜜蜂&r。"
@@ -1778,11 +1778,11 @@
 	]
 	quest.11EAC083A8DF86EC.title: "&fUpgrading Our &dSpell Book"
 	quest.1208CF1D5CA9E590.quest_desc: [
-		"The &aStirling Generator&r is the basic early game power generator for the mod. It burns items like Coal into a very small amount of power."
+		"&a斯特林发电机&r是末影接口提供的早期发电机，它可以燃烧可燃物（如煤炭）以产生极少能量。"
 		""
-		"Note: &eEnderIO&r machines can also be powered by other energy mods."
+		"注意：&e末影接口的机器也可以由其他模组的电力供能。"
 	]
-	quest.1208CF1D5CA9E590.title: "&fGenerating Power"
+	quest.1208CF1D5CA9E590.title: "&f发电"
 	quest.1216065631D8B731.quest_desc: [
 		"&aElectrolyte Algae Serum&r (&aEAS&r) is used to empower items and entities."
 		""
@@ -2351,19 +2351,19 @@
 	quest.197CF94F783E59DF.quest_subtitle: "跑得飞起！"
 	quest.197CF94F783E59DF.title: "&e升级：&f速度"
 	quest.1980C42D8CDBE51C.quest_desc: [
-		"The &dPowered Spawner&r is a powered version of the vanilla mob spawner."
+		"&d电动刷怪笼&r是原版刷怪笼的电动版本。"
 		""
-		"The mob is spawns is based on the &aBroken Spawner&r used to craft it. &aBroken Spawners&r can be acquired by breaking a vanilla Minecraft Spawner."
+		"刷出的怪物取决于合成时使用的&a破损的刷怪笼&r。&a破损的刷怪笼&r可以通过破坏原版的刷怪笼获得。"
 		""
-		"A &aBroken Spawner&r will retain the mob type of the original spawner, but can also be changed by combining it with a &3Filled Soul Vial&r of the desired mob type in a &aSoul Binder&r."
+		"&a破损的刷怪笼&r将保留原始刷怪笼的怪物种类，但也能通过在&a灵魂绑定器&r中与指定怪物的&3满灵魂瓶&r组合来改变刷出的怪物种类。"
 		"{@pagebreak}"
-		"When powered, it will spawn mobs up to 4 blocks away from the machine."
+		"通电后，会在以机器为中心半径4格的范围内刷出怪物。"
 		""
-		"Just like most powered machines, it can be upgraded by installing higher tier &bCapacitors&r."
+		"与大多数消耗电能工作的机器一样，你可以用更高级的&b电容&r来升级它的性能。"
 		""
-		"Note: The recipe for this can be found in JEI by hitting &eU&r on a Broken Spawner in your inventory."
+		"注意：在你的物品栏对着破损的刷怪笼按&eU&r键即可打开JEI查看配方。"
 	]
-	quest.1980C42D8CDBE51C.title: "&fPowered Spawner"
+	quest.1980C42D8CDBE51C.title: "&f电动刷怪笼"
 	quest.19874DF48B8B2A75.quest_desc: [
 		"Combining &dAtomic Alloys&r with &9Elite Control Circuits&r can upgrade them to &6Ultimate Control Circuits&r."
 		""
@@ -2508,8 +2508,8 @@
 	]
 	quest.1AE69DDE0FBE9E9F.quest_subtitle: "Transfers Items"
 	quest.1AE69DDE0FBE9E9F.title: "&fItem Pipe"
-	quest.1AF177BD838F7F69.quest_subtitle: "Tier 3 Energy Storage"
-	quest.1AF177BD838F7F69.title: "&dVibrant Capacitor Bank"
+	quest.1AF177BD838F7F69.quest_subtitle: "三阶能量存储"
+	quest.1AF177BD838F7F69.title: "&d振动电容库"
 	quest.1AF853BD7AFAF0C6.quest_desc: ["This upgrade will increase the efficency of chemical-based machines."]
 	quest.1AF853BD7AFAF0C6.title: "&fChemical Upgrade"
 	quest.1AFA348F161447F8.quest_desc: ["The &aGantry System&r moves an attached contraption on an axis and offer several redstone control options unlike &aMechanical Pistons&r."]
@@ -2932,11 +2932,11 @@
 	quest.1F804789D4AD363F.title: "&bDrowned Belt"
 	quest.1F88FD3D0365F788.title: "&fFerricore Shovel"
 	quest.1F8EC3339B8873B9.quest_desc: [
-		"The &aXP Obelisk&r is one of the best ways to store your experience, especially when combined with the &aXP Vacuum&r."
+		"&a经验方尖碑&r是存储经验的最好方式之一，如果与&a真空经验箱&r配合使用，体验更佳。"
 		""
-		"It allows you to store and pull levels from its tank one level at a time, ten levels at a time, or all at once."
+		"你可以一次储存或取出一级、十级、或者全部经验。"
 	]
-	quest.1F8EC3339B8873B9.title: "&fXP Obelisk"
+	quest.1F8EC3339B8873B9.title: "&f经验方尖碑"
 	quest.1F94EE798B7E6A74.quest_desc: [
 		"Mixing some modifiers into your spells can make them much more powerful."
 		""
@@ -3512,13 +3512,13 @@
 	quest.262464EE203C7A1B.quest_subtitle: "Take to the skies!"
 	quest.262464EE203C7A1B.title: "&fJetpacks"
 	quest.262F5FE957F52F5D.quest_desc: [
-		"&dMob Souls&r have special properties, and can be captured by using &aEmpty Soul Vials&r on a mob. These souls can be extracted to make end-game items in a &dSoul Binder&r."
+		"&d生物灵魂&r有特殊的属性，你可以用&a空灵魂瓶&r捕捉生物来获得它。通过&d灵魂绑定器&r，你可以提取灵魂，然后将其用于制作各种游戏后期的物品。"
 		""
-		"The &dSoul Binder&r consumes liquid experience and a filled &aSoul Vial&r to convert &7Broken Spawners&r or create new empowered items."
+		"&d灵魂绑定器&r会通过消耗经验汁和&a满灵魂瓶&r来改变&7破损的刷怪笼&r的类型，或制造注能物品。"
 		""
-		"Note: &aFused Quartz&r is made by smelting 4 Nether Quarts in an Alloy Smelter."
+		"注意：&a石英玻璃&r可以在合金炉用4个下界石英熔炼出来。"
 	]
-	quest.262F5FE957F52F5D.title: "&fBinding Souls"
+	quest.262F5FE957F52F5D.title: "&f绑定灵魂"
 	quest.2638544A28C99F78.title: "&fEngraved Blade"
 	quest.264C4CE122513D7B.quest_desc: [
 		"The &6Master Marid Miner&r is the most powerful miner &bSpirit&r."
@@ -11892,7 +11892,7 @@
 	task.02E6504A12BEF04F.title: "&eSummon&r: &6Marid Crusher"
 	task.033C0800D02082EF.title: "&eSummon&r: &aWater Animal"
 	task.03DFD823ACDCF36F.title: "操控流体"
-	task.047B3C49E817FA1F.title: "I already have power"
+	task.047B3C49E817FA1F.title: "我已经有了电力"
 	task.04A70E089DED1FFE.title: "&eObserve&f: Metal Press"
 	task.0530149F4E3FF764.title: "Kitchen Cabinets"
 	task.05B209B3FC005914.title: "Kill One Of Every Hostile Mob"
