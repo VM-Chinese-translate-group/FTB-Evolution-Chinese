@@ -93,7 +93,7 @@
 		}
 		{
 			height: 3.0d
-			hover: ["Fission Reactor & Industrial Turbine"]
+			hover: ["裂变反应堆与工业涡轮"]
 			image: "ftbevolution:textures/quests/mekanism/fission_bros.png"
 			rotation: 0.0d
 			width: 4.5d
@@ -102,7 +102,7 @@
 		}
 		{
 			height: 4.0d
-			hover: ["SPS & Fusion Reactor"]
+			hover: ["SPS与聚变反应堆"]
 			image: "ftbevolution:textures/quests/mekanism/polonium_snowman.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -111,7 +111,7 @@
 		}
 		{
 			height: 3.5d
-			hover: ["Induction Matrix"]
+			hover: ["能量感应矩阵"]
 			image: "ftbevolution:textures/quests/mekanism/induction.png"
 			rotation: 0.0d
 			width: 3.3373173970783534d
