@@ -14,7 +14,7 @@
 	chapter.36CCE93AEF16A4AF.title: "Forbidden \\&\\ Arcanus"
 	chapter.379AF25B6A994C19.title: "Industrial Foregoing"
 	chapter.3883EC8201EE0E54.title: "&aFTB&r的传统金字塔挑战"
-	chapter.391B65CD04A90459.title: "Power Generation"
+	chapter.391B65CD04A90459.title: "发电"
 	chapter.3AEDC4DBA9DD1E44.title: "Iron的法术与魔法书"
 	chapter.3B99F85218D37371.title: "实用物品和小贴士"
 	chapter.3C9226E63258D73B.title: "Tempad"
@@ -92,11 +92,11 @@
 	]
 	quest.00E7719300B02F8F.title: "&fWriting Sounds \\&\\ Effects"
 	quest.00EF9BD860108718.quest_desc: [
-		"You can convert your &aIron Furnace&r into a generator using the &aAugment: Generator&r!"
+		"你可以给你的&a铁熔炉&r安装&a强化组件：发电机&r，将其变为发电机！"
 		""
-		"By itself, this allows you to burn items like coal or wood to generate power depending on the tier of furnace you have. You can couple this generator with a &aBlasting Augment&r to allow you to burn metals like Iron or Diamond for even more power."
+		"升级后你就可以使用煤炭或木头等燃料发电，发电速率取决于熔炉的等级。如果你想用铁或者钻石之类的材料作为燃料，发更多的电的话，还可以给发电机安装&a强化组件：高炉&r！"
 	]
-	quest.00EF9BD860108718.title: "&fIron Furnace &aGenerator"
+	quest.00EF9BD860108718.title: "用&f铁熔炉&a发电&r"
 	quest.0110781538FD5DC2.quest_desc: [
 		"The &7Foliot Transporter&r can take from and deposit to any inventory, including machines and &bSpirit&r."
 		""
@@ -154,8 +154,8 @@
 	quest.0174ACD260158165.title: "&fGas Pipe"
 	quest.018027C0128159CB.title: "&fShield Blueprint"
 	quest.018258B166F270D8.title: "&a超脱证悟"
-	quest.018B19721F4404FF.quest_desc: ["Generates power by consuming Ender Pearls or Eyes of Ender."]
-	quest.018B19721F4404FF.title: "&fEnder Mycelial Generator"
+	quest.018B19721F4404FF.quest_desc: ["消耗末影珍珠或末影之眼发电。"]
+	quest.018B19721F4404FF.title: "&f菌丝网络末影发电机"
 	quest.019C7CBC9B62C803.quest_desc: [
 		"Don't like the look of Drawers? Make &aFramed Drawers&r instead!"
 		""
@@ -275,15 +275,15 @@
 	quest.02F6AC9E53029E0A.title: "&a制造处理器&r"
 	quest.030DA26E4A03A96B.title: "&c中级精华&f盔甲"
 	quest.030F1F8A4B0C1EBF.quest_desc: [
-		"&cReactor Heat Vents&r remove heat from the hottest neighboring component (&3Fuel Rods&r or &cHeat Pipes&r) and vent it out of the &dReactor&r."
+		"&c反应堆散热口&r从最热的相邻组件中移除热量（&3燃料棒&r或&c热管&r），并将其排出&d反应堆&r。"
 		""
-		"The amount of heat removed is based on the temperature of the neighboring component. Hotter components will result in more heat removed."
+		"移除热量的多少取决于相邻的组件，组件温度越高，被移除的热量就越多。"
 		""
-		"&cReactor Heat Pipes&r take heat from &3Fuel Rods&r and spread it among neighboring &cHeat Vents&r."
+		"&c反应堆热管&r从相邻的&3燃料棒&r吸收热量，然后将热量分散到相邻的&c散热口&r中。"
 		""
-		"The maximum transferred heat amount from a neighbor component is based on the temperature difference between them."
+		"从相邻组件转移的最大热量基于两个组件之间的温差。"
 	]
-	quest.030F1F8A4B0C1EBF.title: "&cHeat Vents &f\\&\\ &cHeat Pipes"
+	quest.030F1F8A4B0C1EBF.title: "&c散热口&f和&c热管"
 	quest.031B9060B5055268.quest_desc: [
 		"&6Honey Slimes&r can be bred together using &aSugar&r."
 		""
@@ -298,8 +298,8 @@
 		"While other mods offer better pipes, they are still useful for moving mobs that walk on top of them."
 	]
 	quest.032BAE6F419CA6C8.title: "&fMoving Items Around"
-	quest.033F3D2427ED6F40.quest_desc: ["Allows further redstone and comparator configuration."]
-	quest.033F3D2427ED6F40.title: "&fRedstone Control Unit Addon"
+	quest.033F3D2427ED6F40.quest_desc: ["可以用它更精密的控制红石和红石比较器。"]
+	quest.033F3D2427ED6F40.title: "&f红石控制单元插件"
 	quest.034B66770C749332.quest_desc: ["&d下界之星符石&r增加50%暴击伤害，玩家下落且不在水中时必定暴击。"]
 	quest.034B66770C749332.title: "&d下界之星护身符"
 	quest.034F63190B721D12.quest_desc: [
@@ -307,8 +307,8 @@
 		""
 		"You can also upgrade the generator with &aSpeed&r or &aProductivity: Alpha&r upgrades to increase the amount of power it generates."
 	]
-	quest.034F63190B721D12.quest_subtitle: "Bzz Bzz"
-	quest.034F63190B721D12.title: "&fHoney Generator"
+	quest.034F63190B721D12.quest_subtitle: "嗡嗡"
+	quest.034F63190B721D12.title: "&f蜂蜜发电机"
 	quest.0350C018A0E693ED.quest_desc: [
 		"&a气符石&r可以免疫摔落伤害。"
 		""
@@ -331,13 +331,13 @@
 	]
 	quest.03629D4D6106A625.title: "&d硅晶圆"
 	quest.036C11AC70835846.quest_desc: [
-		"&aEnderic Lasers&r are primarily used to create &aFluxite&r, but can also be used to transfer RF wirelessly or mine blocks in the world."
+		"&a末影激光器&r一般拿来制造&a辐水晶&r，不过它还有传输RF和挖掘方块的用途。"
 		""
-		"To link a machine or block to the &aEnderic Laser&r, use the &eTarget Designator&r by shift + right clicking the machine or block, then shift + right-clicking the Enderic Laser to link them."
+		"如果想把方块或机器链接到&a末影激光器&r上，首先拿着&e目标标识器&r潜行右击机器/方块，然后再潜行右击末影激光器即可。"
 		""
-		"&l&cWARNING!&r Removing a linked block without stopping the laser will mine all blocks in the laser's line of sight."
+		"&l&c千万小心！&r如果在没关闭激光的情况下就挖掉链接的方块，那么激光就会把一条线上的方块全部挖掉！"
 	]
-	quest.036C11AC70835846.title: "&fThe Power Of The &dEnd"
+	quest.036C11AC70835846.title: "&f末地之力"
 	quest.0376EEA8E8B3E66D.quest_desc: [
 		"想要制作电器，你得先烧点&a合金&r。"
 		""
@@ -429,11 +429,11 @@
 	]
 	quest.04AB4805983D4AE1.title: "&3Staff"
 	quest.04ABB8DD43099429.quest_desc: [
-		"The &aMagmator&r burns &cLava&r to generate power over time."
+		"&a岩浆发电机&r消耗&c熔岩&r以产生能量。"
 		""
-		"This is a great generator if you have a good way of generating &cLava&r!"
+		"如果你的&c熔岩&r产线够用的话，这台发电机在前期是个不错的选择！"
 	]
-	quest.04ABB8DD43099429.title: "&fMagmators"
+	quest.04ABB8DD43099429.title: "&f岩浆发电机"
 	quest.04D4223CC7A21FA4.quest_desc: [
 		"The &dAdvanced Portal Gun&r is perfect for teleporting around."
 		""
@@ -594,11 +594,11 @@
 	quest.069E5F18F03C1A78.title: "&aToolboxes"
 	quest.06C012946C919F68.quest_subtitle: "Transfers Power"
 	quest.06C012946C919F68.title: "&fMekanism's Energy Cable"
-	quest.06C9E9DBE25887D9.quest_desc: ["The &aLava Generator&r generates RF by consuming lava. RF generation can be increased with &bAddons&r."]
-	quest.06C9E9DBE25887D9.title: "&cLava &fPower"
+	quest.06C9E9DBE25887D9.quest_desc: ["&a岩浆发电机&r可以消耗熔岩产生RF，加装&b插件&r可以提升发电效率。"]
+	quest.06C9E9DBE25887D9.title: "&c熔岩&f和电力"
 	quest.06D54A3D73AB7DE8.title: "&a64B 化学品存储组件"
-	quest.06DA083C1726EE4C.quest_desc: ["Increases working area size of &aDestroyer Blocks&r and &aEnderic Lasers&r."]
-	quest.06DA083C1726EE4C.title: "&fQuarry Addon"
+	quest.06DA083C1726EE4C.quest_desc: ["增加&a方块破坏器&r和&a末影激光器&r的工作范围"]
+	quest.06DA083C1726EE4C.title: "&f矿场插件"
 	quest.06E1B8F90FA2EBB3.quest_subtitle: "猩红套装"
 	quest.06E1B8F90FA2EBB3.title: "&a猩红教徒套装"
 	quest.06EB93CCDBA3C0D4.quest_desc: ["&aPink Slime&r allows you to create &dAdvanced Machine Frames&r which are a key part of &6Industrial Foregoing&r's progression."]
@@ -740,8 +740,8 @@
 		"你也可以用特殊的&d增强箭&r来增强法术威力！"
 	]
 	quest.082551D21363A1D9.title: "&f巫师之弓和巫师之弩"
-	quest.0826EF3E7B15B219.quest_desc: ["Generates power by consuming Pink Items."]
-	quest.0826EF3E7B15B219.title: "&fPink Mycelial Generator"
+	quest.0826EF3E7B15B219.quest_desc: ["消耗粉色的物品发电。"]
+	quest.0826EF3E7B15B219.title: "&f菌丝网络粉色发电机"
 	quest.082DD19BC652E4FF.quest_desc: [
 		"&d工厂仪表&r用途广泛，既能保持物流网络中的物品库存充足也能实现自动物品制作。"
 		""
@@ -819,13 +819,13 @@
 	quest.08D03AA0E1D218F7.quest_subtitle: "自然套装"
 	quest.08D03AA0E1D218F7.title: "&7瘟疫术士套装"
 	quest.08E4BC23ACDC52EA.quest_desc: [
-		"When attached to the &aCentrifuge&r, this addon allows it to process &bFluids&r instead of items!"
+		"把它加装到&a离心机&r后，离心机就可以处理&b流体&r离心配方了！"
 		""
-		"When processing fluids, the Machine Fluid Addon must be added and initialized first before the Centrifuge will process any fluids."
+		"你必须在离心机上加装流体处理插件，这样它才能处理流体离心配方。"
 		""
-		"Make sure to pump in any fluids directly into the Centrifuge itself, not the addon!"
+		"注意，要输入的流体只能通入离心机本体，不要将流体输入到插件上去了！"
 	]
-	quest.08E4BC23ACDC52EA.title: "&fProcessing Fluids"
+	quest.08E4BC23ACDC52EA.title: "&f流体处理"
 	quest.09012B945D3AC7AE.quest_desc: [
 		"&a软管滑轮&r可以用于填充或排空大量液体。"
 		""
@@ -853,13 +853,13 @@
 	]
 	quest.091ACA18018FFD3E.title: "&fWorld Fluid Components"
 	quest.091B8E814908DEDF.quest_desc: [
-		"The &dAtomic Forge&r is a powerful machine capable of creating advanced computer chips, reinforcing deepslate, and even duplicating ores!"
+		"&d原子锻造器&r是个强大的机器，可以合成一些高阶芯片、强化深板岩……甚至可以复制矿物！"
 		""
-		"It's a pretty big multiblock, requiring &b8 Machine Cores&r in total to build."
+		"它是个特别大的多方块结构，需要共计&b八个机器核心&r。"
 		""
-		"Energy pipes cannot connect directly to an &dAtomic Forge&r; it needs to be wirelessly powered by an &aEnderic Laser&r."
+		"能量管道不能直接连接到&d原子锻造器&r，它需要用&a末影激光器&r来供能。"
 	]
-	quest.091B8E814908DEDF.title: "&dAtomic Forge"
+	quest.091B8E814908DEDF.title: "&d原子锻造器"
 	quest.093330A5C170F843.quest_desc: [
 		"&b环境之力&r提供用于制作它的所有符石的效果："
 		""
@@ -900,7 +900,7 @@
 		""
 		"Of course, these need access to the sky. Applying a &6Lens of Ender&r onto a Solar Panel will allow it to see through blocks, meaning you can use the panels underground!"
 	]
-	quest.096CD3C9ED1D4667.title: "&fSolar Panel"
+	quest.096CD3C9ED1D4667.title: "&f太阳能板"
 	quest.0971483C3C7A4259.quest_desc: [
 		"If you need some power to start out with, the &cPitiful Generator&r is cheap to make. It burns items like coal and wood to make energy."
 		""
@@ -990,8 +990,8 @@
 		"It is quite slow and inefficient, degrading its lamp much faster than other miners."
 	]
 	quest.0A51EA0A6CC0327F.title: "&7Foliot Miner"
-	quest.0A5D9AC59F2C2F2F.quest_desc: ["Allows access to specified inventory slots."]
-	quest.0A5D9AC59F2C2F2F.title: "&fMachine Inventory Proxy Addon"
+	quest.0A5D9AC59F2C2F2F.quest_desc: ["可以访问特定的缓存槽。"]
+	quest.0A5D9AC59F2C2F2F.title: "&f机器物品栏代理插件"
 	quest.0A63C6F9B76293DB.quest_desc: [
 		"The &aDivination Rod&r helps you find nearby &aOtherworld&r materials."
 		""
@@ -1019,7 +1019,7 @@
 		""
 		"Note: Some of these alloys can also be crafted by hand or other modded machines, but doing so often consumes more resources."
 	]
-	quest.0A6E103A6945D11E.title: "&fThe &6Foundry"
+	quest.0A6E103A6945D11E.title: "&6铸造器"
 	quest.0A81E251CAB36215.quest_desc: [
 		"充能时，&a细胞分析器&r可将&a有机物质&r转化为&a细胞&r。"
 		""
@@ -1452,8 +1452,8 @@
 	quest.0E19151FCABF4759.title: "&fReset Athletics"
 	quest.0E1F59CE575178C7.title: "&dCelestigem Leggings"
 	quest.0E33289A3EE45E1A.quest_desc: [""]
-	quest.0E610A03BB4007B6.quest_desc: ["Generates power by consuming some Mob Drops."]
-	quest.0E610A03BB4007B6.title: "&fDeath Mycelial Generator"
+	quest.0E610A03BB4007B6.quest_desc: ["消耗某些怪物的掉落物发电。"]
+	quest.0E610A03BB4007B6.title: "&f菌丝网络死灵发电机"
 	quest.0EA1B56A92D0403F.quest_desc: [
 		"将&b铝粉&r、&c铬粉&r和&d不锈钢粉&r放入&3搅拌机&r后，就会产出&e铁铬铝合金粉&r。"
 		""
@@ -1580,8 +1580,8 @@
 		"It can also be used to make the &aPlant Fertilizer&r."
 	]
 	quest.0FEE43187F69FA22.title: "&bSimple Machine Frame"
-	quest.0FFC6CBB213B30AD.quest_desc: ["Generates power by consuming Milk and Slimey Items."]
-	quest.0FFC6CBB213B30AD.title: "&fSlimey Mycelial Generator"
+	quest.0FFC6CBB213B30AD.quest_desc: ["消耗奶与黏液球发电。"]
+	quest.0FFC6CBB213B30AD.title: "&f菌丝网络史莱姆发电机"
 	quest.10143533A2437ABE.quest_desc: [
 		"AE2中大部分的设备材料都要用到&a硅&r，就连做&a处理器&r都要用硅。熔炼&b赛特斯石英粉&r就可以得到硅。"
 		""
@@ -1840,8 +1840,8 @@
 		"此外，你可以用它做出前期最棒的挖矿工具！"
 	]
 	quest.12B8D538B54497E2.title: "&f锤出一条通天大道"
-	quest.12CB62610FEAADA0.quest_desc: ["Generates power by consuming Dragon's Breath."]
-	quest.12CB62610FEAADA0.title: "&fHalitosis Mycelial Generator"
+	quest.12CB62610FEAADA0.quest_desc: ["消耗龙息发电。"]
+	quest.12CB62610FEAADA0.title: "&f菌丝网络口臭发电机"
 	quest.131199313AE3F5E9.quest_desc: ["The &aEnergized Smelter&r is essentially a powered furnace that can be upgraded!"]
 	quest.131199313AE3F5E9.title: "&fOur First &aPowered Furnace"
 	quest.1316B86CF011B016.quest_desc: [
@@ -2006,7 +2006,7 @@
 		""
 		"Infusing Agitated Rods with Dimensional Shards inside the Blazing Infuser also increases its power generation and burn time."
 	]
-	quest.1485655BFAE4A7C5.title: "&fBlazing Generator"
+	quest.1485655BFAE4A7C5.title: "&f烈焰发电机"
 	quest.14CA59973A2B33FF.quest_desc: [
 		"The &bDrying Basin&r will dry an item or fluid into a new item!"
 		""
@@ -2182,9 +2182,9 @@
 	quest.1706D0B9391ED8E1.quest_desc: [
 		"&6Powah&r actually has the fastest energy cables! However, these don't have a buffer for storage like Mekanism's cables."
 		""
-		"These are your basic cables for transferring energy between machines."
+		"这些线缆是机器间传递能量的桥梁。"
 	]
-	quest.1706D0B9391ED8E1.title: "&fEnergy Cables"
+	quest.1706D0B9391ED8E1.title: "&f能量线缆"
 	quest.170CE041C0312188.quest_desc: ["&aStock Tickers&r allow you to request a set of filtered items from a linked stock network."]
 	quest.170CE041C0312188.title: "&aStock Ticker"
 	quest.172955F8F798D2D8.quest_desc: ["The &dWican Ward&r stops mobs from spawning in a large area around it."]
@@ -2635,11 +2635,11 @@
 	]
 	quest.1C69B5FD59EE4E72.title: "&dMutating Powder"
 	quest.1C866721E1F2FF50.quest_desc: [
-		"It's like a &aCoal Generator&r that fits into your pocket!"
+		"这是个可以随身携带的&a煤炭发电机&r！"
 		""
-		"It burns fuel sources to generate energy to power the items in your inventory!"
+		"它会燃烧燃料来产生能量，为你的物品栏中的物品充电！"
 	]
-	quest.1C866721E1F2FF50.title: "&fPocket Generator"
+	quest.1C866721E1F2FF50.title: "&f便携发电器"
 	quest.1C88E4B44A1C55A9.quest_desc: ["&aKatanas&r are slightly slower than a regular sword, but does more damage!"]
 	quest.1C88E4B44A1C55A9.title: "&fKatana Blueprint"
 	quest.1C9A469C85F3425F.quest_desc: [
@@ -2719,9 +2719,9 @@
 	]
 	quest.1CF3364C49D91769.title: "&f用太阳给你的系统加压！"
 	quest.1CFBFD1CE648772F.quest_desc: [
-		"If you want to tap into your power storage wirelessly, you should pump your power into an &dEnder Cell&r."
+		"如果你想无线传输能量，试试把能量输入&d末影单元&r中。"
 		""
-		"These are used to store a massive amount of power into a &bfrequency&r, which can be accessed from any dimension using another Ender Cell or &6Ender Gate&r."
+		"末影单元能够存储大量能量，并在一个&b频道&r进行传输，你可以在任意维度使用相同频道的末影单元或&6末影道门&r取用能量。"
 	]
 	quest.1CFD4CE2704F2ADE.quest_desc: [
 		"搞到一些&b墨水&r后，就可以着手用&d法术撰写台（卷轴撰写台）&r制造新法术卷轴了。"
@@ -3261,8 +3261,8 @@
 	quest.234945ED1315945B.title: "&f子弹&b工程师蓝图"
 	quest.234A09F196E91BDD.quest_desc: ["生成资源的方式很多，本章节旨在帮助你了解能够大量获取物品的模组！"]
 	quest.234A09F196E91BDD.title: "&6资源生成&f！"
-	quest.23671BD388852F62.quest_desc: ["Generates power by consuming &bBiofuel&r."]
-	quest.23671BD388852F62.title: "&fBiofuel Generator"
+	quest.23671BD388852F62.quest_desc: ["消耗&b生物燃油&r发电。"]
+	quest.23671BD388852F62.title: "&f生物燃油发电机"
 	quest.2369D81BC32A5982.quest_desc: [
 		"&a吸血鬼符石&r治愈玩家相当于造成伤害20%的生命值。"
 		""
@@ -3866,7 +3866,7 @@
 	quest.2A5C2E704DE70301.title: "&cBlazegold Sword"
 	quest.2A65FC21A4BBF686.quest_subtitle: "Transfers Power"
 	quest.2A65FC21A4BBF686.title: "&fEnergy Pipe"
-	quest.2A6D6091E1A8F979.title: "&fNiotic Crystal"
+	quest.2A6D6091E1A8F979.title: "&f钻石水晶"
 	quest.2A8BA3D5BB4B3023.quest_desc: [
 		"Almost everything that generates power requires some &cRedstone&r to craft."
 		""
@@ -3955,8 +3955,8 @@
 	quest.2B0CFC423CE66AAE.title: "&f扭动耕作术"
 	quest.2B21D8D19E0413AC.quest_desc: ["A dormant archlich laying deep in the &bIron's Spells Catacombs.&r Interact with the 'corpse' to challenge its might."]
 	quest.2B21D8D19E0413AC.title: "&fKill The &6Dead King"
-	quest.2B2BB685DE246BCC.quest_desc: ["Generates power by consuming Lava (and optionally redstone)."]
-	quest.2B2BB685DE246BCC.title: "&fMagma Mycelial Generator"
+	quest.2B2BB685DE246BCC.quest_desc: ["消耗熔岩（加入红石可选）发电。"]
+	quest.2B2BB685DE246BCC.title: "&f菌丝网络熔岩发电机"
 	quest.2B2C42F215FD0385.quest_desc: ["&dClockwork Bearings&r turn attached contraptions relative to the time of day in minecraft, like a clock."]
 	quest.2B2C42F215FD0385.title: "&dClockwork Bearing"
 	quest.2B4392602E94D3D8.quest_desc: [
@@ -4087,8 +4087,8 @@
 		"This will cause the crops to autoharvest and collect into the bound inventory instead!"
 	]
 	quest.2CBB753B405D3888.title: "&dCelestigem Hoe"
-	quest.2CEF038B5DA1FF25.quest_desc: ["Generates power by consuming Fireworks."]
-	quest.2CEF038B5DA1FF25.title: "&fRocket Mycelial Generator"
+	quest.2CEF038B5DA1FF25.quest_desc: ["消耗烟花火箭发电。"]
+	quest.2CEF038B5DA1FF25.title: "&f菌丝网络烟花火箭发电机"
 	quest.2D09494ED3235CC8.quest_desc: [
 		"The &aMechanical Pump&r is the mechanism that actually allows fluid pipes to carry fluid."
 		""
@@ -4113,7 +4113,7 @@
 	quest.2D2EC0BCFF1DA68C.title: "&f蜜蜂属性"
 	quest.2D31E8D06F40EAA9.quest_desc: ["&e柴油&r可以直接当成燃料，也可以用&2乙醚&r将其强化为&6增压柴油&r。"]
 	quest.2D31E8D06F40EAA9.title: "&e柴油"
-	quest.2D4682CC6A524A50.title: "&fSpirited Crystal"
+	quest.2D4682CC6A524A50.title: "&f富生水晶"
 	quest.2D4CECA1F01E2E3B.title: "&b高级&f机器升级"
 	quest.2D7445BDE865635C.quest_desc: [
 		"&a咖啡机&r可以制作像药水一样的饮料，喝下后可以获得很多Buff。"
@@ -4658,11 +4658,11 @@
 	]
 	quest.322E4A433B1665F7.title: "&fA New Type Of &aArrow"
 	quest.323A230EB571C4CA.quest_desc: [
-		"&aReactors&r are where generating power starts to get serious!"
+		"&a反应堆&r才是真正的发电大户！"
 		""
-		"These will burn up &6Uraninite&r using &bCoal&r and &cRedstone&r to generate a ton of power. It also needs some sort of coolant inside, with the basic requirement being a bucket of water."
+		"反应堆使用&6晶质铀矿&r作为燃料，同时消耗&b煤炭&r与&c红石&r产生大量能量。里面还需要有冷却剂，水就是最基础的冷却剂。"
 		"{@pagebreak}"
-		"To build one, you'll need &a36 Reactor Blocks&r in your inventory. Right clicking to place it down will automatically build out the 3x4x3 structure if it has room."
+		"要建造反应堆，你的物品栏中必须有&a36个反应堆方块&r。右击放下方块的时候会自动搭建多方块反应堆（3x4x3体积），前提是放下的地方必须有空间。"
 	]
 	quest.3246845CBF6BD699.title: "&fFerricore Leggings"
 	quest.3251545A2BDA31AD.title: "&fFerricore Helmet"
@@ -5885,7 +5885,7 @@
 		"Just right click to throw it and capture a mob. To release it, just throw it again."
 	]
 	quest.3DCE47D571CF44E6.title: "&fCreature Catcher"
-	quest.3DD19431C3355798.title: "&fEnergized Steel"
+	quest.3DD19431C3355798.title: "&f充能钢"
 	quest.3DD5BAC2ADCDF36B.quest_subtitle: "可合成"
 	quest.3DD5BAC2ADCDF36B.title: "&a德鲁伊巨著"
 	quest.3DEA6BCF3DD509D9.quest_desc: [
@@ -7013,8 +7013,8 @@
 	]
 	quest.4A63B415FED7E777.quest_subtitle: "Binding Pentacle: Tier 4"
 	quest.4A63B415FED7E777.title: "&6Uphyxes Inverted Tower"
-	quest.4A68D2CD7437589E.quest_desc: ["Generates power by consuming Potions."]
-	quest.4A68D2CD7437589E.title: "&fPotion Mycelial Generator"
+	quest.4A68D2CD7437589E.quest_desc: ["消耗药水发电。"]
+	quest.4A68D2CD7437589E.title: "&f菌丝网络药水发电机"
 	quest.4A707D443EC2DE33.quest_desc: [
 		"&6Functional Drawers&r is a storage mod that aims to provide an easy solution to storing tons of items in a single block!"
 		""
@@ -7392,7 +7392,7 @@
 		"When attached to the face of a machine or inventory, these can be set to allow a specific item to go into the attached block."
 	]
 	quest.4E6B0E9C678618A3.title: "&fFiltering Items"
-	quest.4E6EC6E1A507A52B.quest_desc: ["&dEnder Gates&r are used to transfer power wirelessly."]
+	quest.4E6EC6E1A507A52B.quest_desc: ["&d末影道门&r可以无线传输能量。"]
 	quest.4E858EA44C329668.quest_desc: [
 		"有用不完的蜂蜜？把它们全部导入&a蜂蜜发电机&r里，生产一些能量！"
 		""
@@ -7408,11 +7408,11 @@
 	]
 	quest.4E90956E9A3ADAC9.title: "&aDemon's Dream Fruit"
 	quest.4E9EBB1268DEF8A6.quest_desc: [
-		"Generates power by consuming TNT."
+		"消耗TNT发电。"
 		""
-		"&7&oWhen working, this block generates explosions that deal significant player damage, but has not effect on terrain."
+		"&7工作时，发电机会产生对玩家造成高额伤害的爆炸，不会破坏地形。"
 	]
-	quest.4E9EBB1268DEF8A6.title: "&fExplosive Mycelial Generator"
+	quest.4E9EBB1268DEF8A6.title: "&f菌丝网络爆炸发电机"
 	quest.4EAB855FDFCD1955.quest_desc: [
 		"The &aWorld Reader&r gives you information about the Minecraft world you are currently in. Things like the time of day, the weather, a list of players in your world, etc..."
 		""
@@ -7462,15 +7462,15 @@
 	quest.4F025183EF92FFAB.quest_subtitle: "The Power of the SUN!"
 	quest.4F025183EF92FFAB.title: "&fThe &6Solar Neutron Activator"
 	quest.4F092D86017F37E9.quest_desc: [
-		"While we can make some of the basic generators using Iron, we'll need to make some stronger alloys by using the &aEnergizing Orb&r."
+		"用铁锭已经能做出一些基本的发电机，不过我们需要使用&a充能台&r才能制造更强的合金更进一步。"
 		""
-		"To use this, you'll need power going into &bEnergizing Rods&r within 4 blocks of the Orb. When given the right items, the Rods will zap power into the Orb to energize the items."
+		"首先你得在充能台周围四格内放置&b充能棒&r，然后给它供能。给充能台放入正确配方后，充能棒会自动给充能台充能以合成物品。"
 		""
-		"With the Energizing Orb, you should be able to make &aEnergized Steel&r using Iron and Gold."
+		"用铁和金在充能台上做点&a充能钢&r吧。"
 		"{@pagebreak}"
-		"The Energizing Orb is how you create the different tiers of items in the mod. &bBasic Energizing Rods&r will struggle to make the higher tier materials like &bNiotic Crystals&r, so upgrading those is a must as you progress!"
+		"充能台可以合成不同阶段的物品。&b基础充能棒&r合成&b钻石水晶&r就相当费劲了，所以随着合成的物品升级，你的充能设备也需要一起升级！"
 	]
-	quest.4F092D86017F37E9.title: "&fEnergizing Orb"
+	quest.4F092D86017F37E9.title: "&f充能台"
 	quest.4F10BBE77BDD9F10.title: "&6A Journey's End"
 	quest.4F3787D3DCAFBB6F.quest_desc: ["Who needs efficiency enchants when you can just break things instantly?"]
 	quest.4F3787D3DCAFBB6F.title: "&fUpgrade: Instant Break"
@@ -8380,11 +8380,11 @@
 	]
 	quest.58F29A199D553D29.title: "&3中压柴油发电机"
 	quest.5901B0375947AAE4.quest_desc: [
-		"Good ol' power from the sun!"
+		"太阳之力！"
 		""
-		"These &aSolar Panels&r from Mekanism are great for renewable energy in the early game, but it might be a good idea to have some energy storage for when the lights go out."
+		"通用机械的&a太阳能发电机&r在游戏前期是个不错的选择，我建议你存储一些能量以备太阳落山后使用。"
 	]
-	quest.5901B0375947AAE4.title: "&aSolar Panels"
+	quest.5901B0375947AAE4.title: "&a太阳能板"
 	quest.59090638A27CEC29.title: "&d终极精华&f盔甲"
 	quest.592271A09A5655D4.quest_desc: [
 		"Head into the mines, grab you some &braw Iron&r, and get ready to make some metal. The &aFurnace&r is how we're going to smelt down any &braw ores&r into &bIngots&r!"
@@ -8548,9 +8548,9 @@
 	quest.5B85AB4B095F240B.title: "&fCharging Up"
 	quest.5B9742FB9474DB3A.title: "&fTome of Weaponry"
 	quest.5B9E15BA5FDF0F24.quest_desc: [
-		"Generates &bBiofuel&r by consuming Biodegradeable Items."
+		"消耗可分解的物品生产&b生物燃油&r"
 		""
-		"The more the &mmerrier&r more efficient."
+		"&m生命力&r就是效率。"
 	]
 	quest.5B9E15BA5FDF0F24.title: "&fBioreactor"
 	quest.5BA74A759CC43BBB.quest_desc: [
@@ -11897,7 +11897,7 @@
 	task.0530149F4E3FF764.title: "厨房橱柜"
 	task.05B209B3FC005914.title: "Kill One Of Every Hostile Mob"
 	task.05BA59C2F9E1F43B.title: "&fKill 10 &cBlazes"
-	task.07417ECE0AFC0BDA.title: "Solar Panels"
+	task.07417ECE0AFC0BDA.title: "太阳能板"
 	task.074CA59C4911AD67.title: "&eSummon&r: &dPossessed Shulker"
 	task.07A28AE0ECC4CDDE.title: "&d魔法&f腰带！"
 	task.07B3E353519E2FE6.title: "&9至高木"
@@ -11962,7 +11962,7 @@
 	task.1B7ED750DCA724D1.title: "&eSummon&r: &dPossessed Elder Guardian"
 	task.1BB51471E9C7949F.title: "&bPentacle &fComplete"
 	task.1C0BB83393437BDF.title: "&fComponent Interfaces"
-	task.1C1B6CA8991CBB5D.title: "&fMagmators"
+	task.1C1B6CA8991CBB5D.title: "&f岩浆发电机"
 	task.1C70AB93B6A0F1A6.title: "&6一些有用的方块&r"
 	task.1CE8A62210A2D217.title: "&e观察&f：合金窑"
 	task.1D13D516425A8FDE.title: "&bPentacle&r Complete"
@@ -12124,7 +12124,7 @@
 	task.4B48F3912AE46B3C.title: "&eSummon&r: &aPossessed Phantom"
 	task.4B65088186551D3C.title: "&fVoid Upgrades"
 	task.4BB1855917140E38.title: "&b施放法术"
-	task.4BEC813158265CFD.title: "&fSolar Panel"
+	task.4BEC813158265CFD.title: "&f太阳能板"
 	task.4BEC99EFB3F7A310.title: "&bSurvival Of The Fittest"
 	task.4C1919EBB6897E10.title: "进阶蜂箱"
 	task.4C37818287E9D1ED.title: "&e观察&f：柴油发电机"
@@ -12137,8 +12137,8 @@
 	task.4FAE5B3549E023A9.title: "&aFTB金字塔"
 	task.506C293E06A5C513.title: "&fThermo Gens"
 	task.5110161504E22255.title: "&eRitual&r: &aPurify Vex"
-	task.51876BE373B08431.title: "&dEnder &fGates"
-	task.51960CB0D71494BF.title: "&fReactors"
+	task.51876BE373B08431.title: "&d末影&f道门"
+	task.51960CB0D71494BF.title: "&f反应堆"
 	task.519E1F80092719D1.title: "报告Bug"
 	task.51E0FB26781697CB.title: "Tier Upgrades!"
 	task.52DC2C96BC93F381.title: "&eSummon&r: &7Foliot Transporter"
@@ -12156,9 +12156,9 @@
 	task.55B1C70507F60EDF.title: "&bAE2内置指南书&r"
 	task.55CC22F0E7476029.title: "&eSummon&r: &6Iesnium Golem"
 	task.55F2E8D6E339FE04.title: "&c三级&f生物种子"
-	task.55F5BD3470BD58A4.title: "Energizing Rods"
+	task.55F5BD3470BD58A4.title: "充能棒"
 	task.56A35A967954A4C2.title: "&aDrawers"
-	task.56AEAE6BD791EA6C.title: "&fEnergy Cables"
+	task.56AEAE6BD791EA6C.title: "&f能量线缆"
 	task.56BA1011DDE093D0.title: "&fRaw Osmium Ore"
 	task.56E777FE460B3ED0.title: "&fPlates"
 	task.575F4232C0E9D957.title: "魔法装备"
@@ -12241,7 +12241,7 @@
 	task.6A495CBF42B6447E.title: "Find a &cPyromancer"
 	task.6A8905866514F79D.title: "&eRitual&r: &aRessurect Familiar"
 	task.6AA28ACC00B467BA.title: "农夫乐事的刀"
-	task.6ADC311A6F201C21.title: "&dEnder &fCells"
+	task.6ADC311A6F201C21.title: "&d末影&r单元"
 	task.6B0602266368826B.title: "&ePossession Rituals"
 	task.6B8157688CD23283.title: "&eSummon&r: &aBlacksmith"
 	task.6B9EDB6F4966725F.title: "&6Building Gadgets"
