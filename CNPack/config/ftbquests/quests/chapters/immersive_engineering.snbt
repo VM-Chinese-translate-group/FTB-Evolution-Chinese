@@ -12,7 +12,7 @@
 	images: [
 		{
 			height: 8.0d
-			hover: ["Arc Furnace"]
+			hover: ["电弧炉"]
 			image: "ftbevolution:textures/quests/immersive/arc_furnace.png"
 			rotation: 0.0d
 			width: 10.745098039215685d
