@@ -2,7 +2,7 @@
 	chapter.09B8904201B564C3.title: "应用能源2"
 	chapter.0FC6D9571E0C2EDC.title: "沉浸工程"
 	chapter.1C63D973F178FD60.title: "欢迎"
-	chapter.1E741D8D60A01B78.title: "General Storage"
+	chapter.1E741D8D60A01B78.title: "通用存储"
 	chapter.22C89CB46E794365.title: "机械动力"
 	chapter.24B8C5083DAC9280.title: "The Traveler's Quest"
 	chapter.2ECC43B3B70CFFE5.title: "烹饪和酿造"
@@ -27,7 +27,7 @@
 	chapter.6237554E573576FE.title: "Modular Force Field"
 	chapter.642768EC48CAFC60.title: "NauTec"
 	chapter.663E3448E59F8F90.title: "奖励测试用章节"
-	chapter.6A58A6F56CD199A3.title: "Integrated Dynamics"
+	chapter.6A58A6F56CD199A3.title: "动态联合"
 	chapter.6CA0553DF634A937.title: "新生魔艺"
 	chapter.6F0ED7CA1077DD3C.title: "末影接口"
 	chapter.6F822DE2465C4A31.title: "通用机械"
@@ -53,17 +53,17 @@
 	]
 	quest.0056517EDF3DAB08.title: "&f测量&bRPM&f和&b应力"
 	quest.006014B382FCF6E6.quest_desc: [
-		"While the previous quest contains a lot of information, here is an example of how you could use this!"
+		"尽管前面的任务中已经写满了大量信息，这里也还有一个例子来教你如何使用它。"
 		""
-		"Let's say you want to export only &3Coal&r from your storage to fuel your furnace. Inside of the &aLogic Programmer&r, you would start by placing in a &aVariable Card&r in the bottom right slot."
+		"假设你只想把&3煤炭&r从网络输入到熔炉中。使用&a逻辑编辑器&r，将一张&a变量卡&r放到右下方的槽位里。"
 		""
-		"From here, you would click on &7Item&r in the top left. This will give you a slot in the middle of the interface to drag and drop an item into to set as a &bVariable&r. You can drag an item from your inventory or directly from JEI into this slot!"
+		"然后点击左上角的&7Item&r类型。界面中间就会出现一个槽位，你可以从背包或JEI中选择一个物品放入空槽位，作为&b变量&r。"
 		"{@pagebreak}"
 		"Now when you place the Variable Card into the &aItem Exporter&r, you would place it in the &aExport Item&r slot in the middle."
 		""
 		"You can still set the settings to change how fast you want the coal to be exported by click the &a+&r button beside the Variable Card."
 	]
-	quest.006014B382FCF6E6.title: "&fFilter Examples"
+	quest.006014B382FCF6E6.title: "&f过滤器实例演示"
 	quest.007707B4F0DAD692.quest_desc: ["&a知识库升级&r可以让你在&6任意门&r中阅读所有的&e任意门模组文档&r。"]
 	quest.007707B4F0DAD692.title: "&a知识库升级"
 	quest.007CD364F96C2912.quest_desc: ["想跑的比兔子还快吗？&a自由助跑器&r就像闪电靴一样，可以优化你的机动性。"]
@@ -157,16 +157,16 @@
 	quest.018B19721F4404FF.quest_desc: ["消耗末影珍珠或末影之眼发电。"]
 	quest.018B19721F4404FF.title: "&f菌丝网络末影发电机"
 	quest.019C7CBC9B62C803.quest_desc: [
-		"Don't like the look of Drawers? Make &aFramed Drawers&r instead!"
+		"不喜欢抽屉的样子？那就做个&a镶框抽屉&r吧！"
 		""
-		"These drawers can be crafted together with other items to change the look of the drawer to your liking. Each slot in the crafting table corresponds to a specific texture on the drawer."
+		"你可以把别的物品和这些抽屉合成以改变外观。每个合成槽都代表抽屉上的一块纹理。"
 		""
-		"- 1st Slot: Outside Texture"
-		"- 2nd Slot: Inside Texture"
-		"- 3rd Slot: Framed Drawer"
-		"- 4th Slot: Divider Texture"
+		"- 1号槽位：外部纹理"
+		"- 2号槽位：内部纹理"
+		"- 3号槽位：镶框抽屉"
+		"- 4号槽位：分割线纹理"
 	]
-	quest.019C7CBC9B62C803.title: "&fFramed Drawers"
+	quest.019C7CBC9B62C803.title: "&f镶框抽屉"
 	quest.01D2CEAF59872C33.quest_desc: [
 		"The &aGem Cutting Table&r is used to upgrade &bGems&r."
 		""
@@ -317,13 +317,13 @@
 	quest.0350C018A0E693ED.title: "&a风之护身符"
 	quest.0354E57671DAFDF3.title: "&cBlazegold Boots"
 	quest.03569C25419223DC.quest_desc: [
-		"Just like &6Sophisticated Backpacks&r, you can upgrade your storage to the different metal tiers."
+		"你可以把你的存储方块升级到不同的金属等级，和&e精妙背包&r一样。"
 		""
-		"This can be done by crafting the metal storage tier directly, or by making a &aBasic To Iron&r upgrade and using it on your storage in the world."
+		"你可以直接选择合成出升级版，或者做个&a基础->铁升级&r，然后对你的存储方块使用它。"
 		""
-		"Note: You can also upgrade to the higher tiers from the basic tier as well!"
+		"注意：你也可以直接从基础等级升级到更高等级！"
 	]
-	quest.03569C25419223DC.title: "&fTier Upgrades"
+	quest.03569C25419223DC.title: "&f升级等级"
 	quest.03629D4D6106A625.quest_desc: [
 		"下一步，你需要将&a氩气&r和一些&2硅粉&r结合起来，烧制成&d单晶硅&r。"
 		""
@@ -420,8 +420,8 @@
 		"然而，它无法为你的结构和机器持久供应动力，因此你真的应该考虑一个更持久的解决方案。"
 	]
 	quest.048C3FE50857E86F.title: "&f手摇曲柄"
-	quest.049DE43A1B31C38F.quest_desc: ["This chapter covers most of the basic ways to store your items!"]
-	quest.049DE43A1B31C38F.title: "&aGeneral Storage Options"
+	quest.049DE43A1B31C38F.quest_desc: ["这个章节会着重介绍大多数存储物品的办法！"]
+	quest.049DE43A1B31C38F.title: "&a通用存储选项"
 	quest.04AB4805983D4AE1.quest_desc: [
 		"This magic &3Staff&r allows you to cast its spell by holding down right-click and releasing it."
 		""
@@ -551,13 +551,13 @@
 	quest.05C37B2A26DF8F2C.quest_subtitle: "可合成"
 	quest.05C37B2A26DF8F2C.title: "&f附魔法术书"
 	quest.05CEF45909A11F60.quest_desc: [
-		"Your inventory is going to get full pretty quick. &oIt is modded MC afterall.&r"
+		"你的物品栏肯定会满的很快，&o毕竟这是个整合包。&r"
 		""
-		"The solution is to make a &2Sophisticated Backpack&r. These Backpacks provide a simple solution to your inventory problems! They can also be upgraded to hold even more items, and have tons of cool upgrades to help you in your adventures, like the &aCrafting Upgrade&r for a portable crafting table."
+		"制作&2精妙背包&r解决这个难题。这些背包可以简单粗暴地解决你的物品栏问题！背包升级后还能保存更多物品，还有一大堆居家必备的酷炫升级，比如&a合成升级&r能让你随身使用工作台。"
 		""
-		"You can place these in a curio slot as well for easy access using a keybind. These can also be placed down in the world by sneak-right clicking while it's in your main hand."
+		"你可以把它放到饰品栏，然后按快捷键就能打开。如果背包在主手的话直接右击就能放下。"
 	]
-	quest.05CEF45909A11F60.title: "&6Sophisticated Backpacks"
+	quest.05CEF45909A11F60.title: "&6精妙背包"
 	quest.05D58770A092F5E6.quest_desc: [
 		"充能时，&3质粒注入器&r可将&3质粒&r加入&c装满的注射器&r中。"
 		""
@@ -730,8 +730,8 @@
 		"This will require a tier 2 &aPossession Pentacle&r."
 	]
 	quest.081F9BFA0347582F.title: "&3Cursed Honey"
-	quest.08204AA5ACCC914E.quest_desc: ["&aBackpacks&r can also be dyed! This is useful for color-coding your backpacks, or if you just want to look really cool with a black backpack on."]
-	quest.08204AA5ACCC914E.title: "&fColorful Backpacks!"
+	quest.08204AA5ACCC914E.quest_desc: ["&a背包&r可以染色！这样一来，无论是用颜色来区分不同的背包，还是单纯想背着黑色背包耍酷，两者皆可。"]
+	quest.08204AA5ACCC914E.title: "&f五颜六色的背包！"
 	quest.082551D21363A1D9.quest_desc: [
 		"&d巫师之弓&r和&d巫师之弩&r其实挺好用的。"
 		""
@@ -877,15 +877,15 @@
 	]
 	quest.0934AB6290F7BCF6.title: "&a自动炼药机"
 	quest.093FB6A70B7243F9.quest_desc: [
-		"When setting up automation, pushing and pulling items into Drawers can get complicated. That's where the Storage Tools come in!"
+		"建立自动化产线的时候，要想从抽屉中存入或取出物品会很麻烦，所以存储工具就派上用场了！"
 		""
-		"The &3Configuration Tool&r is used to lock Drawers to only interact with certain items. This is super useful when you are constantly pulling or pushing items from Drawers!"
+		"&3配置工具&r是用来锁定抽屉存放物品种类的，如果你要从抽屉中一直存取同类物品的话，那么它就能派上用场了！"
 		""
-		"&ePro Tip&r: If you've connected Drawers to a &aStorage Controller&r, you can use the Configuration Tool on the Controller to lock all of the Drawers that are linked, all at once!"
+		"&e专业提示&r：如果你把抽屉都连上了&a存储控制器&r，那么可以对存储控制器使用配置工具，这样一次就能锁定所有抽屉！"
 		"{@pagebreak}"
-		"You can also sneak-use the tool in the air to change modes. There are several modes that you can configure for drawers, like hiding the count amount or disabling the render of items on a Drawer to save FPS."
+		"潜行使用配置工具可以改变模式。配置工具有很多模式，比如隐藏物品存储数量，又或者为了节省FPS而隐藏抽屉物品显示。"
 	]
-	quest.093FB6A70B7243F9.title: "&fConfiguring Drawers"
+	quest.093FB6A70B7243F9.title: "&f配置抽屉"
 	quest.095A405D88EF0250.quest_desc: [
 		"&c红石遥控器&r可无线控制红石设备，如拉杆和按钮。"
 		""
@@ -1050,13 +1050,13 @@
 		"此外，这也是唯一一种能够修复&e碎裂促符&r的方法。"
 	]
 	quest.0ABD10520EAB1C57.quest_desc: [
-		"&aStorage Controllers&r allow you to connect and interact with several drawers at once. These are amazing for automating items going in and out of your drawer system!"
+		"&a存储控制器&r能连接大量抽屉并与其进行交互。对于要进进出出的自动化抽屉系统来说，这玩意简直是神器啊！"
 		""
-		"Once you've linked your drawers to the controller using the &3Linking Tool&r, you can double right click the controller to deposit all items from your inventory directly into the drawer network! This also means you can pipe in items into the controller as well."
+		"将抽屉用&3链接工具&r链接到控制器后，只需双击控制器就可以将身上物品全部存入抽屉网络！意思就是你可以把外部输入直接通到控制器进行存储。"
 		""
-		"&aController Access Points&r can be used as extra controllers as long as it is linked to the main controller."
+		"&a控制器扩展器&r在链接一个特定控制器后，可以当做该抽屉控制器使用。"
 	]
-	quest.0ABD10520EAB1C57.title: "&fStorage Controllers"
+	quest.0ABD10520EAB1C57.title: "&f存储控制器"
 	quest.0ABE3ABD2CDF6A45.quest_desc: [
 		"你会需要大量的&6反应堆组件&r，所以我为你列了个物品及其作用的清单，你可以照着它们来合成自己的反应堆方块！"
 		""
@@ -1229,13 +1229,13 @@
 	]
 	quest.0BF770CB2B6312CF.title: "&aPressing Plates"
 	quest.0BFACB0AAEE7F4C2.quest_desc: [
-		"Inventory management is pretty important, and that's what &ePocket Storage&r is for!"
+		"物品栏管理很重要，所以这个整合包添加了&e口袋存储&r模组！"
 		""
-		"These devices will automatically pickup items that you collect based on what is placed inside of them. This is perfect for keeping your inventory clear of cobblestone on your mining trips."
+		"这个设备会自动拾取内部标记的物品，挖矿的时候用它存储挖到的圆石刚刚好。"
 		""
-		"&eNote&r: These will automatically void excess items, meaning once you've collected the stack limit, those items will be voided. Upgrade the tier to store more at once!"
+		"&e注意&r：它会自动销毁过量物品。也就是说，到达存储上限后，收集的过量物品会直接销毁。升级可以扩大储存空间！"
 	]
-	quest.0BFACB0AAEE7F4C2.title: "&dPocket Storage"
+	quest.0BFACB0AAEE7F4C2.title: "&d口袋存储"
 	quest.0BFC8B66AF86846E.quest_desc: [
 		"&a自动饲育机&r在有合适的食物后，会自动饲喂周边9x9范围内的生物。"
 		""
@@ -1962,13 +1962,13 @@
 	]
 	quest.1403ABF77D987200.title: "&fExtracting &bMenril"
 	quest.141CE17C25D2A53A.quest_desc: [
-		"To make any of the upgrades for your backpack, you'll first need to craft an &aUpgrade Base&r."
+		"如果想要合成背包升级，你得先做&a空白升级&r。"
 		""
-		"There are a ton of useful upgrades you can make, like &aStack Upgrades&r to increase the slot stack limit for storing tons of items, or the &aFeeding Upgrade&r that can automatically feed you when you are hungry!"
+		"你可以制作很多有用的升级，比如&a堆叠升级&r可以提升背包的单格物品最大数量，&a喂食升级&r可以让你吃东西！"
 		""
-		"Make sure to check them all out!"
+		"有空都看一遍吧！"
 	]
-	quest.141CE17C25D2A53A.title: "&fUpgrade Base"
+	quest.141CE17C25D2A53A.title: "&f空白升级"
 	quest.143E07D2565798AB.quest_desc: [
 		"&6Oritech&r is all about building &bMultiblock Machines&r, most of which require using &aMachine Cores&r. You can always check to see how many cores are needed by checking the tooltip of the machine."
 		""
@@ -2469,9 +2469,9 @@
 	quest.1A984CF299959C96.quest_desc: ["The &aCharger&r is used to charge or fill items and equipment up using power or &cTurbofuel&r."]
 	quest.1A984CF299959C96.title: "&fThe &aCharger"
 	quest.1AA08B095A8B378F.quest_desc: [
-		"If you plan on creating a &aDrawer Wall&r, you'll need to make the &3Linking Tool&r!"
+		"如果你想搭一面&a抽屉墙&r，那你得先做一个&3链接工具&r！"
 		""
-		"The &3Linking Tool&r is used to link drawers to a &aStorage Controller&r, or to link separate &dEnder Drawers&r together. For more on how to use it, check the next page!"
+		"&3链接工具&r可以将抽屉链接到&a存储控制器&r上，还可以将两地的&d末影抽屉&r链接起来。具体使用说明请看下一页！"
 		"{@pagebreak}"
 		"By default, this tool is set to link a single drawer at a time. To do this, first sneak-use the tool on a Controller, then use the tool on the drawer you wish to add to the Controller's network."
 		""
@@ -2479,7 +2479,7 @@
 		""
 		"While looking into the air, using the tool will switch between adding or removing drawers. If you sneak-use the tool in the air, it will switch between adding a single drawer at a time, or multiple!"
 	]
-	quest.1AA08B095A8B378F.title: "&fLinking Drawers"
+	quest.1AA08B095A8B378F.title: "&f链接抽屉"
 	quest.1ABA5F2ECAA6D9D2.quest_desc: [
 		"&eMekanism&r offers some of the best logistics cables and pipes in the pack! These items can be upgraded in the world, and also have an internal buffer."
 		""
@@ -10183,7 +10183,7 @@
 	quest.6FEF508F7DDDB261.quest_subtitle: "Walking On Hard Mode"
 	quest.6FEF508F7DDDB261.title: "&cRoller Skates"
 	quest.6FF752712E99A936.quest_desc: ["To craft any of the upgrades, you'll need to make an &aUpgrade Base&r."]
-	quest.6FF752712E99A936.title: "&fUpgrade Base"
+	quest.6FF752712E99A936.title: "&f空白升级"
 	quest.6FFE1E65585E14F7.quest_desc: [
 		"&aGrowth Powder&r is used to grow grass on dirt in a small area."
 		""
@@ -11933,7 +11933,7 @@
 	task.110E6C2DF4533110.title: "Obsidian Dust"
 	task.1114E07F8446FAA0.title: "方块管理"
 	task.1203293F62D3F55F.title: "第三层：完成"
-	task.1211B7B1BC40225B.title: "Storage Controllers"
+	task.1211B7B1BC40225B.title: "存储控制器"
 	task.1257CB86BCFAFF54.title: "&6觉醒精华&f盔甲"
 	task.1367AF5545964395.title: "&f漫游"
 	task.145F4045BA952DD9.title: "&eSummon&r: &3Beholder"
@@ -11955,7 +11955,7 @@
 	task.19FEB64A680EC482.title: "MI Fluid Pipes"
 	task.1A3819027110CDC5.title: "&eSummon&r: &aCommon Animal"
 	task.1A4A5A59FFF815E2.title: "&cHeater&r"
-	task.1A712E5D65A28EF4.title: "&dPocket Storage&f!"
+	task.1A712E5D65A28EF4.title: "&d口袋存储&f！"
 	task.1AE6891519569A4C.title: "&fFurnators"
 	task.1B49CC94C54373F4.title: "&eSummon&r: &dPossessed Hoglin"
 	task.1B724AA2EDADE92A.title: "&fKill 10 &dNecromancers"
@@ -11997,7 +11997,7 @@
 	task.268F689AFA620C03.title: "&fKill 20 &cSkeletons"
 	task.2694B69E0E2DA5CD.title: "&2二级&f种子"
 	task.269CF5B1D914AFC8.title: "Visit The &6Bumblezone&r"
-	task.279F53EDDE82D182.title: "Iron Storage"
+	task.279F53EDDE82D182.title: "铁质存储"
 	task.27F8AF789DE14145.title: "任意处理器"
 	task.27FFF0492348277F.title: "&d生长加速器&r"
 	task.281F47BF78FD194B.title: "&9It's Hammer Time&r"
@@ -12014,7 +12014,7 @@
 	task.2C1245371800E1E7.title: "蜜蜂种类"
 	task.2C8687501A9C54A8.title: "&2初级精华&f工具"
 	task.2CA99A333EDFB6FC.title: "&a精华耕地&r"
-	task.2CC8184A4A0C3AED.title: "In World Upgrading"
+	task.2CC8184A4A0C3AED.title: "就地升级"
 	task.2D6AEF337BEAFA58.title: "Any crucible augment"
 	task.2DCE94139CB2078D.title: "&aUtility Upgrades"
 	task.2E079C677B170563.title: "&fFoundation Chalks"
@@ -12028,7 +12028,7 @@
 	task.307A38BAB131FECA.title: "Collecting Souls"
 	task.30C463CFF560647D.title: "&fRepair a Chalk"
 	task.310335F073D442F0.title: "Hopper Upgrades"
-	task.31D3D8C34525AC97.title: "&fFilter Examples"
+	task.31D3D8C34525AC97.title: "&f过滤器实例演示"
 	task.327D6E2AE8863BC1.title: "&fKill: 1x &cPyromancer"
 	task.329BA2B5EB3185FC.title: "Salvaged Materials"
 	task.32FB3083ABF6FFB4.title: "&fMekanism's Energy Cable"
@@ -12093,7 +12093,7 @@
 	task.4231E260B5663246.title: "&eSummon&r: &7Otherstone Trader"
 	task.424E4C3828D04E2F.title: "&eSummon&r: &3Djinni Crusher"
 	task.42740D7113007531.title: "&aMarkers"
-	task.42D7392235F0A913.title: "&fFramed Drawers"
+	task.42D7392235F0A913.title: "&f镶框抽屉"
 	task.4305EB1ACB09AEB9.title: "处理升级"
 	task.4309B43CD4447705.title: "&b建筑棒&r"
 	task.43333831CA15EA20.title: "&eSummon&r: &dPossessed Warden"
@@ -12181,7 +12181,7 @@
 	task.5AF5D5EBA8E1E158.title: "枪支改造"
 	task.5B0B7A1B78FA15B6.title: "&f能量单元"
 	task.5B5BB0C38EB99A40.title: "&a预测掉落物"
-	task.5B8D61770B7554D0.title: "&fGeneral Storage"
+	task.5B8D61770B7554D0.title: "&f通用存储"
 	task.5B97CEFB80FF361B.title: "&fKill 10 &dShulkers"
 	task.5BE8C72BDBCC78CE.title: "&eFamiliar Rituals"
 	task.5BF75EED8F2F48DC.title: "&eSummon&r: &3Cthulhu"
@@ -12197,7 +12197,7 @@
 	task.5E063386FFA425A1.title: "升级"
 	task.5E0907252C228A2D.title: "Reactor Fuel"
 	task.5E214290F8243825.title: "焦炭粉"
-	task.5E3DB978C813B92A.title: "&fController Access Points"
+	task.5E3DB978C813B92A.title: "&f控制器扩展器"
 	task.5E6E40F20674A956.title: "&d范围升级"
 	task.5E824F724F133342.title: "&e观察&f：发酵机"
 	task.5F37B6A58234D49E.title: "Grading Catalysts"
@@ -12307,7 +12307,7 @@
 	task.7EA1CB8D304927B8.title: "On A STICK!"
 	task.7F31E6F7A6728CF1.title: "时运升级"
 	task.7F7F60B4E9A074FE.title: "水晶块"
-	task.7FAA87B19ACACCBC.title: "Dye"
+	task.7FAA87B19ACACCBC.title: "染料"
 	task.7FB4D75ADDA4D50D.title: "Ore Boulders"
 	task.7FF1BA8529B79913.title: "离心机"
 }
