@@ -1355,7 +1355,7 @@
 			id: "7C8E0FEEEF80F70B"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:magic"
-				feedback_message: "Magic Skills Have Been Reset"
+				feedback_message: "魔法技能树已被重置"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_magic"
@@ -3598,7 +3598,7 @@
 					id: "53EA6240F6816649"
 					item: {
 						components: {
-							"minecraft:custom_name": "\"AlfredGG's Prized Trophy\""
+							"minecraft:custom_name": "“AlfredGG的荣耀奖杯”"
 						}
 						count: 1
 						id: "heads:wandering_trader_head"
