@@ -4,7 +4,7 @@
 	chapter.1C63D973F178FD60.title: "欢迎"
 	chapter.1E741D8D60A01B78.title: "通用存储"
 	chapter.22C89CB46E794365.title: "机械动力"
-	chapter.24B8C5083DAC9280.title: "The Traveler's Quest"
+	chapter.24B8C5083DAC9280.title: "旅行家的探索"
 	chapter.2ECC43B3B70CFFE5.title: "烹饪和酿造"
 	chapter.2EF5133328945047.title: "穿戴整齐"
 	chapter.30644C8F44EB6CC0.title: "Just Dire Things"
@@ -25,7 +25,7 @@
 	chapter.4DC3791895990DEA.title: "Roots \\&\\ Pagan's Blessing"
 	chapter.618927B4ED1733F6.title: "现代工业化"
 	chapter.6237554E573576FE.title: "Modular Force Field"
-	chapter.642768EC48CAFC60.title: "NauTec"
+	chapter.642768EC48CAFC60.title: "海蓝科技（NauTec）"
 	chapter.663E3448E59F8F90.title: "奖励测试用章节"
 	chapter.6A58A6F56CD199A3.title: "动态联合"
 	chapter.6CA0553DF634A937.title: "新生魔艺"
@@ -100,9 +100,9 @@
 	quest.0110781538FD5DC2.quest_desc: [
 		"The &7Foliot Transporter&r can take from and deposit to any inventory, including machines and &bSpirit&r."
 		""
-		"To set the blocks the &7Foliot Transporter&r can interact with, simply Sneak + Right-click with the &aTransporter Book of Calling&r on the inventory you want to deposit to or extract from."
+		"为了给&7魔精搬运工&r设置交互点，需要手持&a召唤之书：魔精搬运工&r潜行右击那个你选中的容器"
 		""
-		"By default the &7Foliot Transporter&r is in whitelist mode and will not move anything. Sneak + Right-click it to open the config UI where you can then add items to the filter list to make it move only those items, or set it to blacklist to move everything except the filtered items. You can also enter a tag in the text field below to filter by tag."
+		"&7魔精搬运工&r默认为白名单模式，即不会搬运任何物品。潜行右击它以打开它的设置界面，之后你就可以在它的过滤列表里添加物品了，它也只会搬运那些你添加进过滤列表的物品。当然，设置其为黑名单模式时，就只会搬运除了添加进过滤列表的物品了。你可以使用标签功能来一次性选定所有拥有该标签的物品"
 	]
 	quest.0110781538FD5DC2.title: "&7魔精&f搬运工"
 	quest.01177027CE208375.quest_desc: ["当你获得了一些不锈钢粉后，就可以将其放入&6电力高炉&r中，烧制出&6热不锈钢锭&r。"]
@@ -137,19 +137,19 @@
 	quest.012AEBFDB1F1512E.title: "&f核源铁胸甲"
 	quest.012DA013C192D30E.quest_subtitle: "流体管道"
 	quest.013375F170CE6A2F.quest_desc: [
-		"[\"Using \", {\"text\": \"Lime\", \"color\": \"#E2FC97\"}, \" and \", {\"text\": \"Light Gray\", \"color\": \"#D6D6D6\"}, {\"text\": \" Chalks\", \"color\": \"green\"}, \", you can now attract a \", {\"text\": \"Djinni\", \"color\": \"dark_aqua\"}, \", allowing possession and summoning of stronger creatures.\"]"
+		"[\"有了\", {\"text\": \"黄绿色\", \"color\": \"#E2FC97\"}, \"和\", {\"text\": \"淡灰色\", \"color\": \"#D6D6D6\"}, {\"text\": \"粉笔后\", \"color\": \"green\"}, \",你现在可以引诱\", {\"text\": \"巨灵\", \"color\": \"dark_aqua\"}, \",以召唤被附身的强大生物。\"]"
 		""
-		"Most &ePossesion&r and &eFamiliar Rituals&r are optional, but you will still need to complete their &bPentacles&r to reach the &5End-Game&r."
+		"大多数&e附身&r和&e使魔仪式&r是可选的，但你仍然需要为了完成游戏的&5最终目标&r而绘制它们的&b五芒星&r"
 		""
-		"Simply click on the checkmark to progress the questline."
+		"只需要点击这个复选标记来推进任务流程就行"
 	]
-	quest.013375F170CE6A2F.quest_subtitle: "Possession Pentacle: Tier 2"
-	quest.013375F170CE6A2F.title: "&3Ihagan's Enthrallment"
+	quest.013375F170CE6A2F.quest_subtitle: "附身五芒星：级别2"
+	quest.013375F170CE6A2F.title: "&3伊哈根奴役术"
 	quest.016821326AD093AF.quest_desc: ["Each &dEnergized Standing Stone&r provides its own function in an area around them forever, without any cost."]
 	quest.016821326AD093AF.title: "&dEnergized Standing Stones"
-	quest.016E959A387A1E03.quest_desc: ["[\"Crushing endstone allows you to craft \", {\"text\": \"Purple Chalk\", \"color\": \"#9D7AD0\"}, \", which is the next tier of \", {\"text\": \"Chalk\", \"color\": \"green\"}, \" we'll need to perform better \", {\"text\": \"Rituals\", \"color\": \"aqua\"}, \".\"]"]
-	quest.016E959A387A1E03.quest_subtitle: "Chalk of Infusion"
-	quest.016E959A387A1E03.title: "{\"text\": \"Purple Chalk\", \"color\": \"#9D7AD0\"}"
+	quest.016E959A387A1E03.quest_desc: ["[\"粉碎末地石能让你制作\", {\"text\": \"紫色粉笔\", \"color\": \"#9D7AD0\"}, \",它是更高级的\", {\"text\": \"粉笔\", \"color\": \"green\"}, \"也是我们接下来举行仪式所需的\", {\"text\": \"粉笔\", \"color\": \"aqua\"}, \".\"]"]
+	quest.016E959A387A1E03.quest_subtitle: "灌注粉笔"
+	quest.016E959A387A1E03.title: "{\"text\": \"紫色粉笔\", \"color\": \"#9D7AD0\"}"
 	quest.0174ACD260158165.quest_subtitle: "传输气体和化学品"
 	quest.0174ACD260158165.title: "&f气体管道"
 	quest.018027C0128159CB.title: "&f盾牌蓝图"
@@ -347,13 +347,13 @@
 	]
 	quest.0376EEA8E8B3E66D.title: "&f原始合金炉"
 	quest.03A7D3280ECF5076.quest_desc: [
-		"&aPrismarine Crystal Shards&r are a used for most of the advanced items and machinery."
+		"&a海蓝水晶碎片&r可用于制造大多数高级物品和先进机器。"
 		""
-		"In order to obtain them you have to use the &cAquarine Steel Pickaxe&r with its ability enabled and mine a &bPrimarine Crystal&r. "
+		"为了获得它们，你必须启用&c海蓝钢镐&r的能力，然后开采&b海蓝水晶&r。"
 		""
-		"Make sure the &bPrismarine Crystal&r has more than 100 power."
+		"确保&b海蓝水晶&r拥有超过100的能量。"
 	]
-	quest.03A7D3280ECF5076.title: "&cPrismarine Crystal Shard"
+	quest.03A7D3280ECF5076.title: "&c海蓝水晶碎片"
 	quest.03BEFC2150D09E7A.quest_desc: [
 		"&d无线终端&r可在&3无线发送器&r的信号范围内远程访问你的存储网络。"
 		""
@@ -409,11 +409,11 @@
 	quest.0467ED23E790F1C4.quest_desc: ["&3物品保险库&r是一种无交互界面的存储设备，把更多的&3物品保险库&r组合可以对其进行扩容。"]
 	quest.0467ED23E790F1C4.title: "&3物品保险库"
 	quest.047AA74F1CED211E.quest_desc: [
-		"Combine the &aStorage Actuator Base&r with a &3Dimensional Crystal Matrix&r to make a &aDimensional Storage Actuator&r, and place it down to begin storing your items."
+		"将&a存储促动器基座&r和一颗&3维度水晶矩阵&r结合以制作&a维度存储促动器&r，把它放下来以存储你的物品"
 		""
-		"Without &aStabilizers&r, the &aDimensional Storage Actuator&r can hold 256000 items with 128 item types."
+		"若不提供&a稳定器&r，&a维度存储促动器&r可以存储256000个物品，128个物品种类"
 	]
-	quest.047AA74F1CED211E.title: "&3Dimensional Storage"
+	quest.047AA74F1CED211E.title: "&3维度存储"
 	quest.048C3FE50857E86F.quest_desc: [
 		"&a手摇曲柄&r是快速产生&b旋转力&r的最基础方案。"
 		""
@@ -625,12 +625,12 @@
 		"&7焦炉&r需要一个用于&7蒸汽&r输入和一个用于煤炭输入的输入仓。这样就能生产出&b杂酚油&r和&b煤焦&r。"
 	]
 	quest.0733AB66BFEB220E.quest_desc: [
-		"Using &dSevira's Permanent Confinement&r, you can craft &0Black Chalk&r."
+		"你可以通过&d塞维拉永囚咒&r制作出&0黑色粉笔&r。"
 		""
-		"This can be used to upgrade your existing &bPentacles&r, as well as being the highest tier &eFoundation Chalk&r."
+		"可用于升级你现有的&b五芒星&r，同时它也是最高等级的&e基础粉笔&r。"
 	]
-	quest.0733AB66BFEB220E.quest_subtitle: "Perfected Foundation"
-	quest.0733AB66BFEB220E.title: "&fBlack Chalk"
+	quest.0733AB66BFEB220E.quest_subtitle: "最完美的基础粉笔"
+	quest.0733AB66BFEB220E.title: "&f黑色粉笔"
 	quest.073546F80EDA632E.quest_desc: [
 		"想要获得特定作物的种子？欢迎光临本地农民开的&a贸易站&r！"
 		""
@@ -661,8 +661,8 @@
 		"To keep up with which foods you've eaten and your current Diversity stat, you can always look in the &aFood Book&r."
 	]
 	quest.077F5C3829CA7300.title: "&f饮食多样性"
-	quest.078CAC5AA9A2D84D.quest_desc: ["Sneak + Right-click a &aDimensional Storage Actuator&r with a &3Storage Accesor&r to link them, allowing you to access your items from anywhere in the world, even across dimensions."]
-	quest.078CAC5AA9A2D84D.title: "&3Storage Access On-The-Go"
+	quest.078CAC5AA9A2D84D.quest_desc: ["手持&3存储访问器&r潜行右击&a维度存储促动器&r以连接它，然后你就可以通过这个物品在世界的任何角落访问你的存储，甚至跨维度。"]
+	quest.078CAC5AA9A2D84D.title: "&3忙个不停看存储"
 	quest.07AF1D05C1825417.quest_desc: [
 		"你想没想过把生物装进罐子里观赏？或者你想用德格米做个刷怪场？又或者你讨厌那帮敌对怪物在你家乱搞破坏了？"
 		""
@@ -723,13 +723,13 @@
 	]
 	quest.08145422E66D2B7D.title: "&dQuantum Entangloporters"
 	quest.081F9BFA0347582F.quest_desc: [
-		"The next color of &aChalk&r requires you to get some &3Cursed Honey&r."
+		"你需要获得一些&3诅咒蜂蜜&r来制作下一种颜色的&a粉笔&r。"
 		""
-		"To get this material, we'll need to use &3Ihagan's Enthrallment&r to summon a possessed bee."
+		"为此，你需要使用&3伊哈根奴役术&r来召唤一只被附身的蜜蜂。"
 		""
-		"This will require a tier 2 &aPossession Pentacle&r."
+		"这将涉及到级别2的&a附身五芒星&r。"
 	]
-	quest.081F9BFA0347582F.title: "&3Cursed Honey"
+	quest.081F9BFA0347582F.title: "&3诅咒蜂蜜"
 	quest.08204AA5ACCC914E.quest_desc: ["&a背包&r可以染色！这样一来，无论是用颜色来区分不同的背包，还是单纯想背着黑色背包耍酷，两者皆可。"]
 	quest.08204AA5ACCC914E.title: "&f五颜六色的背包！"
 	quest.082551D21363A1D9.quest_desc: [
@@ -910,15 +910,15 @@
 	quest.0973638AADE1B61C.quest_desc: ["&d聚氯乙烯&r是进阶电路板元件、各种升级以及超导体线缆的原材料。"]
 	quest.0973638AADE1B61C.title: "&d聚氯乙烯"
 	quest.097B18EFDA7DC983.quest_desc: [
-		"&aSoul Gems&r are used to capture a single entity."
+		"&a灵魂宝石&r可用于捕捉一个实体。"
 		""
-		"Bosses cannot be captured."
+		"但不能捕捉boss。"
 		""
-		"Using a &aSoul Gem&r that has a captured spirit, you can create a &3Familiar Ring&r."
+		"用已经捕获了生物的&a灵魂宝石&r可以制作出&3使魔之戒&r。"
 		""
-		"The &aFamiliar Ring&r provides a buff depending on the &eFamiliar&r captured within."
+		"&a使魔之戒&r会根据其封存的&e使魔&r为主人提供对应的效果。"
 	]
-	quest.097B18EFDA7DC983.title: "&3Soul Gems"
+	quest.097B18EFDA7DC983.title: "&3灵魂宝石"
 	quest.099481C1F0718B67.quest_desc: [
 		"修行巫术的&6牧师&r常驻于村庄中，好在他们并不介意别人拿走所需的物品。"
 		""
@@ -985,33 +985,33 @@
 	]
 	quest.0A41D90ACE89B59B.title: "&6Experience &fEssence"
 	quest.0A51EA0A6CC0327F.quest_desc: [
-		"The &7Foliot Miner&r harvests random blocks, returning anything it finds."
+		"&7劳工魔精&r会采集随机方块，并把它挖到的一切东西都传输回来。"
 		""
-		"It is quite slow and inefficient, degrading its lamp much faster than other miners."
+		"它相当地慢且效率低下，装载其的神灯耐久度消耗的也比其他采矿魔灵快。"
 	]
-	quest.0A51EA0A6CC0327F.title: "&7Foliot Miner"
+	quest.0A51EA0A6CC0327F.title: "&7劳工魔精"
 	quest.0A5D9AC59F2C2F2F.quest_desc: ["可以访问特定的缓存槽。"]
 	quest.0A5D9AC59F2C2F2F.title: "&f机器物品栏代理插件"
 	quest.0A63C6F9B76293DB.quest_desc: [
-		"The &aDivination Rod&r helps you find nearby &aOtherworld&r materials."
+		"&a探测杖&r能帮助你寻找附近的&a异界&r材料。"
 		""
-		"To do this, the &aDivination Rod&r must first be attuned to the normal world equivalent by Sneak + Right-clicking the corresponding block."
+		"首先，&a探测杖&r必须通过潜行右击世界的某个方块，以将其同调到对应的异界方块。"
 		""
-		"Once attuned, you can hold down right click to use the &aDivination Rod&r until the animation in the gem finishes. This will highlight the closest corresponding block."
+		"同调完成后，你可以长按右键使用&a探测杖&r，动画完成后它将高亮最近的相应方块。"
 		""
-		"To see a list of items you can attune to, check the next page!"
+		"查看下一页来确定你能同调哪些方块！"
 		"{@pagebreak}"
-		"Andesite -> Otherstone"
-		"Oak Wood -> Otherworld Log"
-		"Oak Leaves -> Otherworld Leaves"
-		"Netherrack -> Iesnium Ore"
+		"安山岩 -> 异界石"
+		"橡木 -> 异界原木"
+		"橡树树叶 -> 异界树叶"
+		"下界岩 -> 艾瑟金属矿石"
 		""
-		"Right-clicking the &aDivination Rod&r without holding after a successful search will show the last found target block again."
+		"成功探测后，&a探测杖&r只需轻按一次右键即可再次显示最后找到的方块。"
 		""
-		"The crystal changes between white and purple to indicate how close you are to the block found. White means nothing was found. The more purple you see, the closer you are to the block."
+		"探测杖宝石的颜色能够指示你离目标方块的距离。白色表示没有找到目标方块。紫色部分越多，你离目标方块越近。"
 	]
-	quest.0A63C6F9B76293DB.quest_subtitle: "The Intented Occultism Experience"
-	quest.0A63C6F9B76293DB.title: "&fDivination Rod"
+	quest.0A63C6F9B76293DB.quest_subtitle: "神秘学完整流程体验"
+	quest.0A63C6F9B76293DB.title: "&f探测杖"
 	quest.0A6E103A6945D11E.quest_desc: [
 		"The &aFoundry&r is key for proression and specializes in creating all of the alloys needed to make &6Oritech&r machines."
 		""
@@ -1186,8 +1186,8 @@
 		"&a装配交互设备&r控制配方的输入和输出。必须在面积为3x3的区域内拥有箱子和装配平台之类的存储空间。"
 	]
 	quest.0B9781072E9E935C.title: "&f装配线"
-	quest.0BA61DBFC36F585E.quest_desc: ["The &6Marid Crusher&r functions like all other &bCrushers&r, but provides 6x the output."]
-	quest.0BA61DBFC36F585E.title: "&6Marid Crusher"
+	quest.0BA61DBFC36F585E.quest_desc: ["&6魔王碎矿者&r的功能与其他所有的&b碎矿者&r相同，但它的产出量是六倍。"]
+	quest.0BA61DBFC36F585E.title: "&6魔王碎矿者"
 	quest.0BA876EC757BBE6F.quest_desc: ["&d钻石自动合成仓&r有63个&a样板&r槽位，基础工作速度相当于满速度升级的&3金自动合成仓&r。"]
 	quest.0BA876EC757BBE6F.title: "&d钻石自动合成仓"
 	quest.0BA9293108C64E51.quest_desc: [
@@ -1248,19 +1248,19 @@
 		"&7&o物品的提示文本中有具体的工作速度。"
 	]
 	quest.0C0B04B6FEFD2928.title: "&e多级线缆&f输入器"
-	quest.0C0E16939C8567C6.quest_desc: ["You can also repair armor and tools with the power of an &dAfrit&r."]
-	quest.0C0E16939C8567C6.title: "&dOther Repairing Rituals"
+	quest.0C0E16939C8567C6.quest_desc: ["你也可以通过&d火灵&r的力量修复盔甲和工具"]
+	quest.0C0E16939C8567C6.title: "&d其余修理仪式"
 	quest.0C24D8CD961D86B2.quest_desc: [
 		"[\"With \", {\"text\": \"Gray\", \"color\": \"#929292\"}, \" and \", {\"text\": \"Orange\", \"color\": \"#FCA645\"}, {\"text\": \" Chalks\", \"color\": \"green\"}, \", you can now upgrade your \", {\"text\": \"Ophynx' Calling\", \"color\": \"dark_aqua\"}, \" to \", {\"text\": \"Kandar's Opened Conjure\", \"color\": \"#FF55FF\"}, \".\"]"
 		""
-		"This &bRitual&r is only used to summon an &dUnbound Afrit&r. Killing it will grant you its essence, allowing you to make &cRed Chalk&r."
+		"此仪式只能用于召唤&d未约束火灵&r。杀死它可以获得一些火灵灵髓，进而制作出&c红色粉笔&r。"
 		""
-		"Unfortunately, you might have to sacrifice ol' Bessy."
+		"不过，进行此仪式需要献祭一只可怜的牛牛。"
 		""
-		"This item is also needed to complete the &6FTB Pyramid&r."
+		"火灵灵髓也是完成&6FTB金字塔&r的所需物品。"
 	]
-	quest.0C24D8CD961D86B2.quest_subtitle: "Summoning Pentacle: Tier 3"
-	quest.0C24D8CD961D86B2.title: "&cKandar's Opened Conjure"
+	quest.0C24D8CD961D86B2.quest_subtitle: "召唤五芒星：级别3"
+	quest.0C24D8CD961D86B2.title: "&c阿巴拉斯开环召唤术"
 	quest.0C259021A652EFCE.quest_desc: [
 		"虽然别的模组也有很多加速作物生长的东西，但这里要说的是&e神秘农业&r。&a神秘农业&r有两个办法加速作物生长，第一个东西叫生长加速器。"
 		""
@@ -1319,13 +1319,13 @@
 	]
 	quest.0CEB6ADF1306381D.title: "&f查看数据"
 	quest.0D0892AD0DB44795.quest_desc: [
-		"&aSpirit Attuned Gems&r can be used in a variety of crafting recipes and &bRituals&r, but is most commonly used to make the &aDivination Rod&r and &dSpirit Attuned Crystals&r."
+		"&a魔灵同调宝石&r被广泛用于&b仪式&r的合成配方中，但最主要还是用于合成&a探测杖&r和&d魔灵同调水晶&r。"
 		""
-		"To acquire a &aSpirit Attuned Gems&r, simply toss a diamond into &aSpirit Fire&r."
+		"把钻石丢入&a灵火&r中即可得到&a魔灵同调宝石&r，"
 		""
-		"Note: &dSpirit Attuned Crystals&r are great to use in your Enchanting setups!"
+		"注：&d魔灵同调水晶&r在搭建附魔台时很有用！"
 	]
-	quest.0D0892AD0DB44795.title: "&fSpirit Attuned Gem"
+	quest.0D0892AD0DB44795.title: "&f魔灵同调宝石"
 	quest.0D35D0D33922A201.title: "&f打败十波&d永恒之门"
 	quest.0D467902BA828734.quest_desc: [
 		"The &cBlood Sigil&r is used inside the &aMixing Cauldron&r to extract blood from entities who jump into it."
@@ -1371,8 +1371,8 @@
 	]
 	quest.0D864FD6A668D8C6.title: "&a系统输入与输出"
 	quest.0D877E94710B32B1.title: "&f矿工宝典"
-	quest.0D926066D3D83196.quest_desc: ["The &3Djinni Smelter&r functions like all other &bSmelters&r, but process things 50% faster than normal."]
-	quest.0D926066D3D83196.title: "&3Djinni Smelter"
+	quest.0D926066D3D83196.quest_desc: ["&3巨灵熔炼工&r的功能与其他所有的&b熔炼工&r相同，但它处理的速度比普通的快50%。"]
+	quest.0D926066D3D83196.title: "&3巨灵熔炼工"
 	quest.0D92EFDB73114B0C.quest_desc: [
 		"有了&2初级精华&r后，你现在就可以制作&b生物种子&r了。"
 		""
@@ -1463,11 +1463,11 @@
 	]
 	quest.0EA1B56A92D0403F.title: "&e铁铬铝合金线圈"
 	quest.0EB231522990C9DA.quest_desc: [
-		"The &6Queen&r wants you to kill 4 &dEndermites&r because she hates them."
+		"&6蜂后&r想要你做掉四只&d末影螨&r，因为她恨它恨得牙痒痒。"
 		""
-		"These have a 5% chance of spawning every time an Ender Pearl lands."
+		"每个末影珍珠着地后，都有5%的概率生成一只末影螨。"
 		""
-		"&8&oWhat is the Bee Queen doing with Ender Pearls?&r"
+		"&8&o这蜂后和末影珍珠是有多大仇多大怨啊？&r"
 	]
 	quest.0EB231522990C9DA.title: "&dEndermites &fAre Evil"
 	quest.0EBA58B7FD2AF36D.quest_desc: [
@@ -1479,11 +1479,11 @@
 	]
 	quest.0EBA58B7FD2AF36D.title: "&a提取一些特殊材料&r"
 	quest.0EBEF0B2D2F13C3D.quest_desc: [
-		"&ePossession Rituals&r bind &bSpirits&r into living beings, giving the summoner a degree of control over the possessed being."
+		"&e附身仪式&r将&b魔灵&r绑定到生物体内，让召唤者对被附身的生物有一定程度的控制权。"
 		""
-		"As such, these &bRituals&r are used to obtain rare items without having to venture into dangerous places."
+		"因此，这些&b仪式r是用于获取稀有物品的，免去了你亲自进入危险地方的麻烦。"
 	]
-	quest.0EBEF0B2D2F13C3D.title: "&ePossession Rituals"
+	quest.0EBEF0B2D2F13C3D.title: "&e附身仪式"
 	quest.0EC122E853F2083C.quest_desc: [
 		"&d高级压力管道&r可承受20&bBar&r的危险压力，同时瞬时传输容积是压力管道的四倍。当处于25&bBar&r气压时，管道会炸裂！"
 		""
@@ -1565,13 +1565,13 @@
 	quest.0FC3672189B0854D.quest_desc: [
 		"&3Iesnium&r is a rare metal found in the nether. It looks like netherrack to the naked eye and can only be mined with the &aInfused Pickaxe&r, or the &3Iesnium Pickaxe&r while wearing &aOtherworld Goggles&r."
 		""
-		"&3Iesnium&r ore can be processed like most other ores. You can also place it down, which enables it to be mined with any other pickaxe, dropping &aRaw Iesnium&r."
+		"&3艾瑟金属&r可以像其他大多数矿石那样被加工，你也可以将其矿石放在地上，然后就可以被任何一种镐采集，并掉落&a粗艾瑟金属&r。"
 		""
-		"&3Iesnium Ingots&r can be used to craft the &3Iesnium Pickaxe&r, &3Spirit Lamps&r, or other powerful items."
+		"&3艾瑟金属锭&r可以用于合成&3艾瑟金属镐&r，&3神灯&r，还有其他各种强大的物品。"
 		""
-		"Don't forget that you can use a &aDivination Rod&r to highlight nearby ore blocks in the Nether!"
+		"别忘了你可以用&a探测杖&r来高亮下界的矿石方块！"
 	]
-	quest.0FC3672189B0854D.title: "&3Iesnium"
+	quest.0FC3672189B0854D.title: "&3艾瑟金属"
 	quest.0FEE43187F69FA22.quest_desc: [
 		"你可以用&a化学溶解室&r升级机器框架！"
 		""
@@ -1656,61 +1656,61 @@
 	]
 	quest.10B7437F3E412D26.title: "&7远古蜜蜂"
 	quest.10E3AB8F0B7B9F30.quest_desc: [
-		"Throwing a regular &2Oak Sapling&r into &dSpirit Fire&r will convert it into an &aOak Sapling&r from the &9Otherworld&r."
+		"将&2橡树树苗&r丢入&d灵火&r即可将其转化为来自异界的&a橡树树苗&r。"
 		""
-		"When planted and grown, this tree will look like a regular sapling. Those under the effects of the &bThird Eye&r can see what it really is!"
+		"种下并成长后，这棵树看起来就像是一般的橡树。只有获得&b第三只眼&r的效果后才能看到它的真实面貌！"
 		""
-		"Chopping this tree down while under the effects of the Third Eye should drop you &9Otherworld Logs&r, which can be used in crafting recipes or rituals."
+		"在第三只眼生效时砍倒这棵树能够获得&9异界原木&r，能够用于合成物品或举行仪式。"
 		""
-		"Throwing the logs into &dSpirit Fire&r will give you &9Otherworld Ashes&r - a key component used to craft &aWhite Chalk&r."
+		"把异界原木丢入&d灵火&r会得到&9异界灰烬&r，它是制作&a白色粉笔&r的关键材料。"
 	]
-	quest.10E3AB8F0B7B9F30.quest_subtitle: "Same Same, But Different"
-	quest.10E3AB8F0B7B9F30.title: "&9Otherworld &fLog"
+	quest.10E3AB8F0B7B9F30.quest_subtitle: "一样，但是有点不太一样"
+	quest.10E3AB8F0B7B9F30.title: "&9异界原木"
 	quest.10E8E47BEFCA8F97.quest_desc: [
-		"&dOsorin's Unbound Calling&r is used to contact a variety of wild &bSpirits&r for many purposes."
+		"&d奥索林的无约束呼唤&r用于和各种荒野&b灵体&r接触，并以此达成各种目的"
 		""
-		"There are a LOT of summons, so you can simply click the checkmark to progress the questline."
+		"它提供了超级多的召唤，所以你简单点点复选标记就可以完成这个任务"
 		"{@pagebreak}"
-		"&lTrial Summons:&r"
-		"&aWeak Breeze&r: &cTrial Key&r, &cOminous Bottle&r, and related pottery sherds and music discs"
-		"&aBreeze&r: &dOminous Trial Key&r, and related music discs, banner patterns, and smithing templates"
-		"&aStrong Breeze&r: &6Heavy Core&r, and related pottery sherds, music discs, banner patterns, and smithing templates"
+		"&l试炼召唤：&r"
+		"&a虚弱荒野旋风人&r：&c试炼钥匙&r，&c不详之瓶&r，以及试炼密室相关的陶片和音乐唱片"
+		"&a荒野旋风人&r：&d不详试炼钥匙&r，试炼密室相关的音乐唱片，旗帜图案，和锻造模板"
+		"&a强壮荒野旋风人&r：&c沉重核心&r，以及试炼密室相关的陶片，音乐唱片，旗帜图案和锻造模板"
 		""
-		"&lWild Summons:&r"
-		"&aWild Hunt&r: &dWither Skeleton Skull&r (1)"
-		"&aWild Illagers&r: &dTotem of Undying&r (1) and related smithing templates"
+		"&l荒野召唤：&r"
+		"&a狂猎凋灵骷髅&r：&d凋灵骷髅头颅&r (1)"
+		"&a荒野唤魔者&r：&d不死图腾&r (1) 以及相关的锻造模板"
 		""
-		"&lHorde Summons:&r"
-		"&aCreeper Horde&r: Vanilla music discs"
+		"&l群聚召唤：&r"
+		"&a荒野群聚苦力怕&r：随机原版唱片"
 		"&aDrowned Horde&r: Sniffer Egg, Turtle Egg, and Ocean related pottery sherds"
 		"&aHusk Horde&r: Desert related smithing templates and pottery sherds"
-		"&aSilverfish Horde&r: Ruin related smithing templates, music discs, and pottery sherds"
+		"&a荒野群聚蠹虫&r：古迹废墟相关的锻造模板，音乐唱片，和陶片"
 		"{@pagebreak}"
-		"&lGroup Summons:&r"
-		"&aCommon Animals&r: Chickens, Cows, Pigs, Sheep, Squid, or Wolves"
-		"&aRideable Animals&r: Camels, Donkeys, Horses, Llamas, Pigs, Skeleton Horses, Trader Llamas, or Zombie Horses"
-		"&aSmall Animals&r: Allay, Bats, Bees, Parrots, Cats, Ocelots, Foxes, or Rabbits"
-		"&aSpecial Animals&r: Armadillos, Goats, Iron Golems, Mooshrooms, Pandas, Polar Bears, or Sniffers"
-		"&aWater Animals&r: Axolotl, Frogs, Dolphins, Cod, Salmon, Tropical Fishes, Pufferfishes, Squids/Glow Squids, Tadpoles, Turtles, or Snow Golems"
-		"&aVillager&r: Villagers and Wandering Traders"
+		"&l族群召唤：&r"
+		"&a常见动物群&r：鸡，牛，猪，羊，鱿鱼，以及狼"
+		"&a可骑乘动物&r：骆驼、驴、马、羊驼、猪、骷髅马、行商羊驼以及僵尸马"
+		"&a小型动物&r：悦灵，蝙蝠，蜜蜂，鹦鹉，猫，豹猫，狐狸以及兔子"
+		"&a特殊动物&r：犰狳、山羊、铁傀儡、哞菇、熊猫、北极熊以及嗅探兽"
+		"&a水生动物&r：美西螈，青蛙，海豚，鳕鱼，鲑鱼，热带鱼，河豚，鱿鱼/发光鱿鱼，蝌蚪，海龟以及雪傀儡"
+		"&a村民&r：村民以及流浪商人"
 		""
-		"&lItem Summons:&r"
-		"&aBee Nest"
-		"&aBell"
-		"&aBudding Amethyst"
-		"&aReinforced Deepslate"
-		"&aSmithing Template"
+		"&l物品召唤：&r"
+		"&a蜂巢"
+		"&a钟"
+		"&a紫水晶母岩"
+		"&a强化深板岩"
+		"&a锻造模板"
 	]
-	quest.10E8E47BEFCA8F97.quest_subtitle: "Contact Wild Spirits Pentacle"
-	quest.10E8E47BEFCA8F97.title: "&dOsorin's Unbound Calling"
+	quest.10E8E47BEFCA8F97.quest_subtitle: "荒野灵体通灵五芒星"
+	quest.10E8E47BEFCA8F97.title: "&d奥索林的无约束呼唤"
 	quest.10F792474C01A594.quest_desc: [
-		"&eOccultism&r is a magic mod focused around summoning &bSpirits&r and using their powers and skills to your advantage."
+		"&e神秘学&r是个魔法模组，能够让你学会召唤&b魔灵&r并使用它们的能力与技能助你一臂之力。"
 		""
-		"To get started, break some grass to find &aDemon's Dream Seeds&r."
+		"首先，你需要打一些草以获得&a魔鬼之梦种子&r。"
 		""
-		"The &6Dictionary of Spirits&r is the ultimate guidebook for the mod. It's also needed for certain recipes, and can be used to create holograms to help you build out &bRituals&r!"
+		"&6魔灵全典&r提供此模组的全部入门指导。同时它也作为某些物品的合成材料之一，还能用于展示全息图来辅助你搭建&b仪式&r！"
 	]
-	quest.10F792474C01A594.title: "&fWelcome to &eOccultism&f!"
+	quest.10F792474C01A594.title: "&f欢迎游玩&e神秘学&f！"
 	quest.1105D1809EB9ADEF.title: "&e无限压缩电路板"
 	quest.11078789ACAB91CE.quest_desc: [
 		"Once you have Ender Pearls and some Blaze Powder, you can craft &6Eyes of Ender&r."
@@ -1784,13 +1784,13 @@
 	]
 	quest.1208CF1D5CA9E590.title: "&f发电"
 	quest.1216065631D8B731.quest_desc: [
-		"&aElectrolyte Algae Serum&r (&aEAS&r) is used to empower items and entities."
+		"&a电解海藻血清&r（&aEAS&r）用于增强物品和实体。"
 		""
 		"To obtain the &bSea Water&r used to craft &aEAS&r, you can either grab some water with a bucket in an ocean biome, or set up the &aDeep Sea Drain&r."
 		""
 		"This is also a key ingredient used to craft &6FTB Pyramid's&r &dInfinitely Compressed Circuit Board&r."
 	]
-	quest.1216065631D8B731.title: "&aElectrolyte Algae Serum"
+	quest.1216065631D8B731.title: "&a电解藻类血清"
 	quest.1237537100194BED.quest_desc: [
 		"作为掌管腐朽之神，&d凋灵&r被击败后掉落的&6下界之星&r愈发成为彰显实力的重要象征。"
 		""
@@ -1801,13 +1801,13 @@
 	]
 	quest.1237537100194BED.title: "&f击杀&d凋灵"
 	quest.12468F8BF7B80737.quest_desc: [
-		"Exploring every dimension might take a lot of time, especially when you are hunting for very specific structures like portals!"
+		"探索一大堆维度会花费非常多时间，尤其找类似传送门一样的结构最累人！"
 		""
-		"Try making the &6Explorer's Compass&r! This compass allows you to search up any structure and will point you in the right direction."
+		"尝试制作&6探险家指南针&r！这块指南针能帮你找到任何建筑结构，并为你指明方向。"
 		""
 		"Safe Travels!"
 	]
-	quest.12468F8BF7B80737.title: "&2Adventuring Beyond&f!"
+	quest.12468F8BF7B80737.title: "&2探索永无边界&f！"
 	quest.12662BF53A31F0B4.quest_desc: [
 		"不想让别的玩家乱动你的东西？做个&a驱逐塔&r！"
 		""
@@ -1845,15 +1845,15 @@
 	quest.131199313AE3F5E9.quest_desc: ["The &aEnergized Smelter&r is essentially a powered furnace that can be upgraded!"]
 	quest.131199313AE3F5E9.title: "&fOur First &aPowered Furnace"
 	quest.1316B86CF011B016.quest_desc: [
-		"The &6Iesnium Anvil&r is a &6Marid&r infusion improving regular anvil functions:"
+		"&6艾瑟金属砧&r是一种&6魔王&r灌注，可以改进普通铁砧的功能。"
 		""
-		"- It is &3Unbreakable&r."
-		"- It can exceed the maximum level of enchantments by 1."
-		"- &6Marid&r will pay half of the showed level cost."
-		"- The cost increase of working with the same item is reduced."
-		"- The maximum cost limit is increased."
+		"- 它是&3不可毁坏的&r。"
+		"- 它可以将附魔最高等级提高一级。"
+		"- &6魔王&r会帮你支付显示所需经验等级的一半。"
+		"- 减少对同一物品附魔增加的附魔惩罚。"
+		"- 最大等级限制提升。"
 	]
-	quest.1316B86CF011B016.title: "&6Iesnium Anvil"
+	quest.1316B86CF011B016.title: "&6艾瑟金属砧"
 	quest.132D9163A97ED955.quest_desc: [
 		"盔甲可以通过加装&a内衬&r来升级。"
 		""
@@ -2249,15 +2249,15 @@
 	]
 	quest.1820069FEA2237E6.title: "&a装饰用石英"
 	quest.1841C1DAEC960312.quest_desc: [
-		"All tiers of &bSmelter Spirits&r are summoned to do furnace, blast furnace, smoker, and campfire processes without using fuel."
+		"所有等级的&b魔灵熔炼工&r都可被召唤来进行熔炉、高炉、烟熏炉和营火的相关操作，且无需使用燃料。"
 		""
-		"They will pick up the appropriate items, smelt them, and then drop them back into the world. "
+		"它们会捡起相关的物品，并对其进行熔炼，然后再把熔炼后的物品扔出来。"
 		""
-		"A fire particle effect and a flame sound indicate the &bSmelter&r is at work."
+		"一道火焰粒子特效以及一阵火焰燃烧的声音就表明&b熔炼工&r正在工作。"
 		""
-		"To automate this, summon a &7Foliot Transporter&r to place items from chests in the &bSmelter's&r inventory, and a &7Foliot Janitor&r to collect the processed items."
+		"为了实现这一过程的自动化，你可以召唤一个&7魔精搬运工&r，它会将箱子里的物品放入到&b熔炼工&r的物品栏中；再召唤一个&7魔精清洁工&r来收集已处理好的物品。"
 	]
-	quest.1841C1DAEC960312.title: "&7Foliot &fSmelter"
+	quest.1841C1DAEC960312.title: "&7魔精&f熔炼工"
 	quest.186BE7F6DFA8C41E.quest_desc: [
 		"&3火药&r可以将药水变为&a喷溅药水&r。"
 		""
@@ -2412,9 +2412,9 @@
 		"Later on, you'll also be able to right-click the herbs with a &aBoline&r to drop the plant item and cut the herb simultaneously."
 	]
 	quest.1A285EBFFDBAE30A.title: "&fPlants \\&\\ Herbs"
-	quest.1A3C52B662D8237B.quest_desc: ["With the power of &9Blue Chalk&r, you are capable of drawing &6Fatma's Incentivized Attraction&r to summon and bind &6Marids&r to your will."]
-	quest.1A3C52B662D8237B.quest_subtitle: "Summoning Pentacle: Tier 6"
-	quest.1A3C52B662D8237B.title: "&6Fatma's Incentivized Attraction"
+	quest.1A3C52B662D8237B.quest_desc: ["通过使用&9蓝色粉笔&r，你可以画出&6法特玛极效引诱&r，其可以召唤并绑定&6魔王&r，并让你驱使它们为你效劳。"]
+	quest.1A3C52B662D8237B.quest_subtitle: "召唤五芒星：级别6"
+	quest.1A3C52B662D8237B.title: "&6法特玛极效引诱"
 	quest.1A43F480970FEBBB.quest_desc: [
 		"&d蚀空合金锄&r可以耕出最强大的耕地：&5暗影脉壤&r。"
 		""
@@ -2558,12 +2558,12 @@
 	quest.1B3B2B9697D7AEA6.quest_desc: ["把你目前能做出的最佳工具组合起来！"]
 	quest.1B3B2B9697D7AEA6.title: "&5蚀空合金镐尖斧"
 	quest.1B9C122BAE5A64BC.quest_desc: [
-		"&cDemonic Partners&r are a nice way to get rid of that feeling of loneliness."
+		"&6恶魔伴侣&r是个脱单的好法子。"
 		""
-		"They will keep you company, cook for you, and extend your potion effects."
+		"它们会陪伴你，为你做饭，以及延长你的药水效果"
 	]
-	quest.1B9C122BAE5A64BC.quest_subtitle: "Alone no Longer!"
-	quest.1B9C122BAE5A64BC.title: "&3Love at First Summon?"
+	quest.1B9C122BAE5A64BC.quest_subtitle: "今朝缔连理！"
+	quest.1B9C122BAE5A64BC.title: "&c一见倾心？"
 	quest.1BAF60BB97FE304B.quest_desc: [
 		"All generators (except the &aBasic Generator&r) can be converted to produce &bSteam&r instead of RF by using the &aSteam Boiler Addon&r."
 		""
@@ -2571,17 +2571,17 @@
 	]
 	quest.1BAF60BB97FE304B.title: "&fConverting To &bSteam&f!"
 	quest.1BC0E8258FBDBF56.quest_desc: [
-		"Using &3Ihagan's Enthrallment&r you can summon &ePossessed Animals&r that can be tamed or killed for loot."
+		"你可以使用&3伊哈根奴役术&r召唤&e被附身的动物&r，召唤的动物可以驯服，也可以杀掉获取战利品。"
 		""
-		"&aDrikwing&r: Summons a Drikwing"
+		"&a具翼&r：召唤一只具翼"
 		""
-		"&aVillager&r: Summons a Villager"
+		"&a村民&r：召唤一只村民"
 		""
-		"&aRandom Rideable Animal&r: One of - Camel, Donkey, Horse, Llama, Pig, Skeleton Horse, Trader Llama, or Zombie Horse"
+		"&a随机可骑乘动物&r：以下动物的其中一个——骆驼、驴、马、羊驼、猪、骷髅马、行商羊驼或僵尸马"
 		""
-		"&aRandom Special Animal&r: One of - Armadillo, Goat, Iron Golem, Mooshroom, Panda, Polar Bear, or Sniffer"
+		"&a随机特殊动物&r：以下动物的其中一个——犰狳、山羊、铁傀儡、哞菇、熊猫、北极熊或嗅探兽"
 	]
-	quest.1BC0E8258FBDBF56.title: "&3Ihagan's Enthrallment Animals"
+	quest.1BC0E8258FBDBF56.title: "&3伊哈根奴役术动物"
 	quest.1BC985066A1B7A34.quest_desc: [
 		"&aStanding Stones&r grant you access to more powerful &bRituals&r by drawing in more natural magic energy."
 		""
@@ -2664,8 +2664,8 @@
 	quest.1CA7E96F42B75C2F.title: "&fThe &aPowered Furnace"
 	quest.1CA8D89EE7C50CFD.quest_desc: ["末地城的隐秘守卫。"]
 	quest.1CA8D89EE7C50CFD.title: "&f击杀10只&d潜影贝"
-	quest.1CAA9A2F7F3EDAD3.quest_subtitle: "Chalk of Flesh"
-	quest.1CAA9A2F7F3EDAD3.title: "{\"text\": \"Pink Chalk\", \"color\": \"#FCB1D0\"}"
+	quest.1CAA9A2F7F3EDAD3.quest_subtitle: "血肉粉笔"
+	quest.1CAA9A2F7F3EDAD3.title: "{\"text\": \"粉色粉笔\", \"color\": \"#FCB1D0\"}"
 	quest.1CAC300C14A023BB.quest_desc: [
 		"&d荒野召唤仪式&r在放入增强物后可以召唤出新生魔艺的boss：&5荒野奇美拉&r。"
 		""
@@ -2692,8 +2692,8 @@
 	quest.1CBB7F801A4C554C.title: "&61048576b 流体存储组件"
 	quest.1CCED3AEA33EBC1E.quest_subtitle: "怪物掉落物"
 	quest.1CCED3AEA33EBC1E.title: "&f唤魔者典籍"
-	quest.1CD21F10064581B4.quest_subtitle: "Chalk of Nature"
-	quest.1CD21F10064581B4.title: "&aGreen Chalk"
+	quest.1CD21F10064581B4.quest_subtitle: "自然粉笔"
+	quest.1CD21F10064581B4.title: "&a绿色粉笔"
 	quest.1CEA8C4CF222E70B.quest_desc: [
 		"Just as a recap so we don't get lost, a Tier 3 chain looks like this!"
 		""
@@ -2787,12 +2787,12 @@
 	]
 	quest.1DC5DE6E9F0D0B2C.title: "&b施放法术"
 	quest.1DCCF9A58A557282.quest_desc: [
-		"With &6Marid Essence&r, you can now craft &9Blue Chalk&r."
+		"使用&6魔王灵髓&r，你就能够制作出：&c蓝色粉笔&r。"
 		""
-		"This is used to upgrade your existing &bPentacles&r to the next tier."
+		"可用于升级你现有的&b五芒星&r到下一等级"
 	]
-	quest.1DCCF9A58A557282.quest_subtitle: "Chalk of Seven Seas"
-	quest.1DCCF9A58A557282.title: "&9Blue Chalk"
+	quest.1DCCF9A58A557282.quest_subtitle: "七海粉笔"
+	quest.1DCCF9A58A557282.title: "&9蓝色粉笔"
 	quest.1E0B67C6A341C817.quest_desc: ["The &aRope Pulley&r controls y-axis movement of a block or contraption."]
 	quest.1E0B67C6A341C817.title: "&aRope Pulley"
 	quest.1E0BB50868F951A3.quest_desc: ["&a水果篮&r本质上和其他存储方块一样，能在&b多方块厨房&r中存储物品，但不同的是，它能可视化存储&2水果&r！"]
@@ -2835,13 +2835,13 @@
 	quest.1E7B5442F153ED3B.quest_subtitle: "猪灵是好朋友"
 	quest.1E7B5442F153ED3B.title: "&e堡垒戒指"
 	quest.1E7FCA66EDB1BCF5.quest_desc: [
-		"&aAquarine Steel Tools&r all have special abilities."
+		"&a海蓝钢制工具&r是具有特殊能力的工具。"
 		""
-		"To infuse a tool, you will need to infuse it with &bAquatic power&r in a &aCharger&r. You will also need to drop it in some &aEAS&r, which will consume a full bucket to activate the powers."
+		"要给一件工具注入能量，你需要在&a充能器&r中用&b海蓝能量&r为其充能。你还需要将该工具放入一些&a电解藻类血清&r中，这将消耗满满一桶（血清）来激活其能量。"
 		""
-		"Shift + Right-clicking an infused tool will activate its special ability, which can be found on their tooltip."
+		"按下 Shift 键并右击充能后的工具将激活其特殊能力，该能力可以在工具的提示信息中查看。"
 	]
-	quest.1E7FCA66EDB1BCF5.title: "&cAquarine Steel Tools"
+	quest.1E7FCA66EDB1BCF5.title: "&c海蓝钢制工具"
 	quest.1E88395535AA93DC.quest_desc: [
 		"Bees can get quite defensive, and will easily trade their lives just to sting you. You can save them by putting their &astingers&r back!"
 		""
@@ -2857,13 +2857,13 @@
 	quest.1E9AD94E5373BFAB.quest_desc: ["&aGearboxes&r allow you to change rotational axis and direction."]
 	quest.1E9AD94E5373BFAB.title: "&fGearboxes"
 	quest.1EAF085D3C13253B.quest_desc: [
-		"&9Otherworld&r ores usually can only be mined with &9Otherworld&r metal tools."
+		"&9异界&r矿石通常只能被&9异界&r金属制成的工具采集。"
 		""
-		"The &aInfused Pickaxe&r is a makeshift solution to this problem."
+		"要解决这一问题，可以临时做一把&a灌注镐&r使用。"
 		""
-		"Brittle &aSpirit Attuned Gems&r house a &3Djinni&r that allows harvesting the ores, but the durability is extremely low."
+		"&a魔灵同调宝石&r中蕴封着&3巨灵&r，因此其制成的镐可以采掘异界矿石，但是耐久度很低。"
 	]
-	quest.1EAF085D3C13253B.title: "&3Infused Pickaxe"
+	quest.1EAF085D3C13253B.title: "&3灌注镐"
 	quest.1ED979557DB19A2D.quest_desc: [
 		"现在你有了钻石蜜蜂，总算可以开始繁育&6绿宝石蜜蜂&r了！"
 		""
@@ -2871,8 +2871,8 @@
 	]
 	quest.1ED979557DB19A2D.title: "&a绿宝石蜜蜂"
 	quest.1EE22ED7E117506C.quest_desc: ["Found uncommonly on beaches, this deposit of crystalline minerals can be harvested to yield &bprismarine shards and crystals&r. There is also a slight chance at finding a &enautilus shell&r buried inside."]
-	quest.1EE22ED7E117506C.quest_subtitle: "It shore is pretty"
-	quest.1EE22ED7E117506C.title: "Prismarine Sand"
+	quest.1EE22ED7E117506C.quest_subtitle: "看起来好漂亮"
+	quest.1EE22ED7E117506C.title: "海晶沙"
 	quest.1EE339A0DCABD78E.quest_subtitle: "并不会让猪灵对你保持中立"
 	quest.1EE339A0DCABD78E.title: "&6光明使者胸甲"
 	quest.1EFED5AC265CDB0C.quest_desc: [
@@ -2882,20 +2882,20 @@
 	]
 	quest.1EFED5AC265CDB0C.title: "&f金属板和线"
 	quest.1F09A28387DA18A6.quest_desc: [
-		"Items with unique properties (NBT Data), such as damaged or enchanted equipment will take up one item type for each variation."
+		"如果两样相同物品的耐久度、附魔等独特属性（也即NBT数据）不同，那么其在存储中会算作两个不同的种类。"
 		""
-		"For example, two wooden swords with two different damage values will take up two item types."
+		"比如，两把耐久的不同木剑存入后就会视为两个种类。"
 		""
-		"Other mods can access the storage controller just like a shulker box, but some mods may struggle to read stack sizes."
+		"装有物品的维度存储促动器在你的物品栏中时，有些模组虽然能显示其内容物，但可能无法正确显示物品数量。"
 		"{@pagebreak}"
-		"&lLogistics:&r"
-		"When inserting items, the &aStorage Actuator&r will maximize performance automatically, minimizing impact on game performance."
+		"&l物流：&r"
+		"当物品输入时，&a存储促动器&r将最大化对性能的利用，最小化对游戏性能的影响"
 		""
-		"When extracting items, however, it is recommended to use a &7Foliot Transporter&r, even if it only places the items inside a chest next to the &aStorage Actuator&r."
+		"当输出物品时，好吧，推荐使用&7魔精搬运工&r，即使它所做的只是把物品放入&a存储促动器&r相邻的箱子里"
 		""
-		"This is because, when extracting a specific item from the &aStorage Actuator&r, most pipes will cycle through every single stored item one by one, massively impacting game performance, especially on servers."
+		"这是因为，当&a存储促动器&r输出物品时，绝大多数管道会遍历整个存储系统，这将对游戏性能造成极大的影响，尤其是服务器"
 	]
-	quest.1F09A28387DA18A6.title: "&fNBT Tags \\&\\ Storage Logistics"
+	quest.1F09A28387DA18A6.title: "&fNBT标签与存储物流"
 	quest.1F0ADF87B63B50AC.quest_subtitle: "雷霆套装"
 	quest.1F0ADF87B63B50AC.title: "&3雷霆术士套装"
 	quest.1F2E5FBD59466D57.quest_desc: [
@@ -3083,11 +3083,11 @@
 	quest.215E7EB95A7C64A3.quest_subtitle: "时不我“袋”！"
 	quest.215E7EB95A7C64A3.title: "&d时间之袋"
 	quest.2160C6D61B76C8FE.quest_desc: [
-		"&eOccultism's&r upgradeable storage system allows you to store your items in a separate dimension of &9The Otherworld&r."
+		"&e神秘学的&r可升级的存储系统能让你在单独的&9异界&r维度储存物品。"
 		""
-		"&7&oDon't worry about your items floating away in the void, we have insurance for that."
+		"我们保证它们不会在虚空消失，别担心。"
 	]
-	quest.2160C6D61B76C8FE.title: "&eMagical Storage"
+	quest.2160C6D61B76C8FE.title: "&e魔法存储"
 	quest.21672A342A11A0DE.quest_desc: [
 		"&7僵尸符石&r在至少5秒未攻击后，提高接下来3次攻击的攻击速度。"
 		""
@@ -3305,12 +3305,12 @@
 	quest.23B06AB674CC7193.quest_desc: [
 		"[\"Upgrading \", {\"text\": \"Strigeor's Higher Binding\", \"color\": \"dark_aqua\"}, \" with \", {\"text\": \"Orange\", \"color\": \"#FCA645\"}, \" and \", {\"text\": \"Gray\", \"color\": \"#929292\"}, \" chalks, and \", {\"text\": \"Spirit Attuned Crystals\", \"color\": \"#FF55FF\"}, \" allows you to permanently bind the powerful \", {\"text\": \"Afrit\", \"color\": \"#FF55FF\"}, \" to an item.\"]"
 		""
-		"Some &eBinding Rituals&r are optional, but you will need most of them if you want to reach &eOccultism &5End-Game."
+		"某些&e绑定仪式&r不是必须的，但想要达到&6神秘学&r的&5终局&r，你可能会经常用到它们。"
 		""
-		"Click on the checkmark to progress the questline."
+		"点击复选标记来推进任务流程。"
 	]
-	quest.23B06AB674CC7193.quest_subtitle: "Binding Pentacle: Tier 3"
-	quest.23B06AB674CC7193.title: "&dSevira's Permanent Confinement"
+	quest.23B06AB674CC7193.quest_subtitle: "绑定五芒星：级别3"
+	quest.23B06AB674CC7193.title: "&d赛维拉永囚咒"
 	quest.23B63CC05AA3EAAB.quest_desc: [
 		"&a龙符石&r使玩家免疫直接和非直接魔法伤害。"
 		""
@@ -3521,11 +3521,11 @@
 	quest.262F5FE957F52F5D.title: "&f绑定灵魂"
 	quest.2638544A28C99F78.title: "&fEngraved Blade"
 	quest.264C4CE122513D7B.quest_desc: [
-		"The &6Master Marid Miner&r is the most powerful miner &bSpirit&r."
+		"&6矿脉领主魔王&r是最强大的&b魔灵&r矿工。"
 		""
-		"It has the fastest mining speed and best lamp preservation. Unlike other miners, they can also mine rare ores like &dAncient Debris&r and &dIesnium Ore&r."
+		"它有着最快的挖掘速度和最少的耐久度耗损。不像其他矿工，魔王可以挖掘像&d远古残骸&r，&d艾瑟金属&r之类的稀有矿物。"
 	]
-	quest.264C4CE122513D7B.title: "&6Master Marid Miner"
+	quest.264C4CE122513D7B.title: "&6矿脉领主魔王"
 	quest.26567E1596ADB808.quest_desc: [
 		"耐久这个数值该被扫进历史的故纸堆里了！"
 		""
@@ -3704,8 +3704,8 @@
 	quest.27C5F8272212B35A.title: "&aCreating &dFactories"
 	quest.27D28CC22BB5C665.quest_subtitle: "用于合成其他升级"
 	quest.27D28CC22BB5C665.title: "&f升级基板"
-	quest.27E0738B56C6ED8C.quest_desc: ["Binding a &7Foliot&r to the satchel significantly increases its storage capacity, making it a great travel companion."]
-	quest.27E0738B56C6ED8C.title: "&aSurprisingly Substantial Satchel"
+	quest.27E0738B56C6ED8C.quest_desc: ["将&7魔精&r绑定到背包上可以显著增加其存储容量，使其成为旅行的好伙伴。"]
+	quest.27E0738B56C6ED8C.title: "&a意外结实的挎包"
 	quest.27E867855AC60BF0.quest_desc: [
 		"&a高级符石基底&r是&7普通符石基底&r的升级。"
 		""
@@ -3721,8 +3721,8 @@
 		"物品在&a物品展示台&r上的位置不重要，你只需要给它们充能即可。"
 	]
 	quest.283EA4E7BA93DA11.title: "&f水晶充能"
-	quest.28493A960B770451.quest_desc: ["Each &dTier 3 Dimensional Storage Stablizer&r adds 2048000 items, and 256 item types, up to four &aStablizers&r."]
-	quest.28493A960B770451.title: "&dTier 3 Dimensional Storage Stabilizer"
+	quest.28493A960B770451.quest_desc: ["每个&d三阶维度存储稳定器&r能增加2048000个物品和256个物品种类，最多支持四个&a稳定器&r。"]
+	quest.28493A960B770451.title: "&d三阶维度存储稳定器"
 	quest.285560808B9ED997.quest_desc: [
 		"&dEnder Pearls&r are dropped by &aEndermen&r, and can be thrown to teleport you around."
 		""
@@ -3784,13 +3784,13 @@
 	]
 	quest.294FEC9B0B58EFDC.title: "&f切换符石效果"
 	quest.2953423FCB0A3146.quest_desc: [
-		"One of the most important machines you can make in NauTec is the &aMixer&r. This machine requires &bLaser Power&r from the &aCatalyst&r and &bCrystal&r."
+		"在海蓝科技（NauTec）中最重要的机器之一就是&a搅拌机&r。它需要&b海蓝水晶&r和&a催化剂&r产出的&b激光能量&r。"
 		""
-		"This allows you to create new types of liquids, most importantly, &aElectrolyte Algae Serum&r that is used in end-game items!"
+		"这能让你制造出新的液体，其中最为重要的是&a电解海藻血清&r，它是终局物品的材料！"
 		""
 		"Keep in mind that each item in a recipe needs to be placed into the machine from a different side."
 	]
-	quest.2953423FCB0A3146.title: "&fUnderwater Brewing"
+	quest.2953423FCB0A3146.title: "&f水下酿造"
 	quest.296C424C7D2C7589.quest_subtitle: "Gas/Chemical Pipes"
 	quest.296C424C7D2C7589.title: "{\"text\": \"Basic Pressurized Tube\", \"color\": \"#5EFCB6\"}"
 	quest.298BFB73F3B2E3D5.quest_desc: [
@@ -3874,19 +3874,19 @@
 	]
 	quest.2A8BA3D5BB4B3023.title: "&fThe Start of &cPower"
 	quest.2AAD4463A90C639B.quest_desc: [
-		"The &3Dimensional Mineshaft&r is used to harverst resources from an uninhabited mining dimension."
+		"&3维度矿井&r可以用于从荒无人烟的挖矿维度中采集资源。"
 		""
-		"The &3Dimensional Mineshaft&r will discard any items it cannot store, so it is important to regularly empty the mineshaft."
+		"不过若&3维度矿井&r已满，则挖到的无法存下的物品都会被直接销毁，所以最好定期清空矿井，腾出空槽。"
 		""
-		"&bSpirits&r in lamps can be inserted from the top, and items can be extracted from all other sides."
+		"绑定了&b魔灵&r的神灯可以从矿井顶部输入矿井，其余面都能用作输出面。"
 		"{@pagebreak}"
-		"The &3Dimensional Mineshaft&r has two interactions with redstone:"
+		"&3维度矿井&r有两种红石交互方式："
 		""
-		"The &bSpirit&r will stop working when receiving a redstone signal."
+		"1）接收到红石信号后，矿井中的&b魔灵&r就会停止工作。"
 		""
-		"A comparator can be used to get a redstone signal based on occupied slots and lamp durability."
+		"红石比较器会检测矿井中存有物品的槽位数量与神灯的剩余耐久度，以此输出红石信号。"
 	]
-	quest.2AAD4463A90C639B.title: "&3Dimensional Mineshaft"
+	quest.2AAD4463A90C639B.title: "&3维度矿井"
 	quest.2AB2D27FB7E13E98.quest_desc: ["&aCopper Casings&r are the foundation for fluid-related blocks in &6Create&r."]
 	quest.2AB2D27FB7E13E98.title: "&fCopper Casing"
 	quest.2AE9ADF578ABEA11.quest_desc: ["1个终级精华=256个下级精华"]
@@ -3988,7 +3988,7 @@
 	]
 	quest.2B6FC4E870E364E0.title: "&7虚空护身符"
 	quest.2B75621C200D22BE.quest_desc: ["Different biomes and terrain are host to a wide variety of &emicrobes&r. With a &aGrafting Tool&r in one hand and a &aPetri Dish&r in the offhand, you can collect a sample with right click from some of these locations to bring home with you!"]
-	quest.2B75621C200D22BE.quest_subtitle: "Obtaining bacteria"
+	quest.2B75621C200D22BE.quest_subtitle: "获取细菌"
 	quest.2B75621C200D22BE.title: "Scraping By"
 	quest.2B7E7CFF01172556.quest_desc: [
 		"&aDisplay Boards&r are scalable signs that allow for quite a lot of customization in how they display text or information about a network."
@@ -4011,11 +4011,11 @@
 	]
 	quest.2B8B225CF404A351.title: "&fEnchanter"
 	quest.2B99D2032E80745D.quest_desc: [
-		"The &cLong Distance Laser&r increases the range of your &bLaser&r beams up to 64 blocks, instead of the usual 16."
+		"&c长距离激光&r能将你的&b激光&r射程增加到64格，而不是通常的16格。"
 		""
-		"&eNote&r: This might cause more lag than other &bLaser&r devices"
+		"&e注意&r：这可能会比其他&b激光&r设备造成更多的卡顿。"
 	]
-	quest.2B99D2032E80745D.title: "&cLong Distance Laser&r"
+	quest.2B99D2032E80745D.title: "&c长距离激光&r"
 	quest.2BA10689E508FACC.quest_desc: [
 		"&dSniffer Eggs&r can be found rarely by &6brushing Suspicious Sand&r generated in ruins found in warm ocean biomes."
 		""
@@ -4148,27 +4148,27 @@
 	quest.2D8FF6CCB5220982.quest_subtitle: "让你免疫中毒"
 	quest.2D8FF6CCB5220982.title: "&2毒护之戒"
 	quest.2D913EC86DC39C3C.quest_desc: [
-		"The &3Djinni Sunshine Spirit&r can be used to clear the weather."
+		"&3晴天魔灵&r可以用来清除天气"
 		""
-		"&eWeather Spirits&r will modify the weather once before vanishing."
+		"&e天气魔灵&r只会改变一次天气，然后就会消失"
 	]
-	quest.2D913EC86DC39C3C.title: "&3Djinni Weather Mage"
+	quest.2D913EC86DC39C3C.title: "&3巨灵天气法师"
 	quest.2DA5BB792D9C2E30.quest_desc: [
-		"Using &aHedyrin's Lure&r you can summon &eFamiliars&r that can perform tasks or provide buffs to the player."
+		"使用&a海德林诱惑术&r可以让你召唤&e使魔&r，它们可以协助玩家完成任务或者为玩家提供正面效果。"
 		""
-		"&aBeaver&r: Chops down nearby small trees, and increases wood break speed"
-		"- Upgraded: Gives free snacks when right-clicked with an empty hand"
+		"&a河狸&r：砍伐附近的小型树木，并提升主人的伐木速度"
+		"- 升级后：空手右击它给予免费小零食"
 		""
-		"&aDeer&r: Step Assist, Increased Speed, and Jump Boost"
-		"- Upgraded: Extra Step Assist and attacks nearby enemies with a hammer."
+		"&a小鹿&r：提升步伐高度，移动速度和跳跃高度"
+		"- 升级后：再次提升步伐高度，并使用大锤轰击附近的敌人"
 		""
-		"&aGreedy&r: Picks up neargy items and increases pickup range"
-		"- Upgraded: Looks for items for its master."
+		"&a贪婪&r：自动拾取物品，主人的拾取范围提升"
+		"- 升级后：仅对其主人开放自身库存"
 		""
-		"&aParrot&r: Provides company to its caring owner."
-		"- Has no upgradeable Effect, as such, it cannot be upgraded."
+		"&a鹦鹉&r：陪着那个爱它的你"
+		"- 无升级效果，仅此而已，它不能被升级"
 	]
-	quest.2DA5BB792D9C2E30.title: "&aHedyrin's Familiars"
+	quest.2DA5BB792D9C2E30.title: "&a海德林使魔"
 	quest.2DD91C033DC7C87B.quest_desc: ["&a动物资源收获机&r可以提取它面前友好生物的副产品，比如羊生产的羊毛，或者牛生产的牛奶。"]
 	quest.2DD91C033DC7C87B.title: "&a动物资源收获机"
 	quest.2DDAFF4BE2B4D6E4.quest_desc: ["把&b乙烯&r和&a铅粉末&r混合起来，然后你就可以得到&3聚乙烯&r。"]
@@ -4213,25 +4213,25 @@
 	]
 	quest.2E01CCF4FC7D949F.title: "&fThe Ender"
 	quest.2E1393EB3FAF322C.quest_desc: [
-		"Specific mobs can drop rare items that you can use to augment your body!"
+		"特定的生物可掉落稀有物品，你可以用这些物品来强化你的身体！"
 		""
-		"The &aGuardian Eye&r gives you the ability to shoot a Laser at an entity you are looking at within a 15 block radius. Dropped from Guardians."
+		"&a守卫之眼&r能让你向半径 15 格范围内所注视的实体发射一道激光。它是由守卫者掉落的物品。"
 		""
-		"The &aDolphin Fin&r gives you the Dolphin's Grace effect while swimming. Dropped from Dolphins."
+		"&a海豚鳍&r能让你在游泳时获得海豚的恩惠效果。它是由海豚掉落的物品。"
 		""
-		"The &aDrowned Lungs&r allow you to breathe underwater. Dropped from Drowned."
+		"&a溺尸之肺&r能让你在水下呼吸。它是由溺尸掉落的物品。"
 		""
-		"The &aEldritch Heart&r increases your regeneration while under water. It is also required to craft the &dAugmentation Station&r. Dropped from Elder Guardians."
+		"&a邪能之心&r能在水下提升你的生命恢复速度。它也是制作&d强化站&r的必备材料，由远古守卫者掉落。"
 	]
-	quest.2E1393EB3FAF322C.title: "&aAugments&r"
+	quest.2E1393EB3FAF322C.title: "&a强化&r"
 	quest.2E1BE6F344F285D2.quest_desc: ["The &aEnergy Upgrade&r increases the power capacity of the machine, as well as reducing the power consumption per tick!"]
 	quest.2E1BE6F344F285D2.title: "&fEnergy Upgrade"
 	quest.2E1CE18A917C637C.quest_desc: [
-		"The &3Ore Miner Djinni&r only harvests ores."
+		"&3掘矿者巨灵&r只会采集矿物，不会采集普通的石头。"
 		""
-		"It is able to mine faster more efficiently than the &7Foliot&r. Because of it's speed, however, it damages its lamp faster."
+		"它能够比&7劳工魔精&r更快、更高效地开采。然而，由于它的速度，会更快地消耗它的神灯。"
 	]
-	quest.2E1CE18A917C637C.title: "&3Ore Miner Djinni"
+	quest.2E1CE18A917C637C.title: "&3掘矿者巨灵"
 	quest.2E283756BD053685.quest_desc: [
 		"&d镭射钻&r可以从虚空中采集矿藏。"
 		""
@@ -4347,9 +4347,9 @@
 	quest.2EEE782146096F9C.quest_desc: ["&6建筑小帮手&r应该是最适合建筑师的模组了。该模组增加的几种小帮手能大幅提高你的建造体验！"]
 	quest.2EEE782146096F9C.title: "&6建筑小帮手"
 	quest.2F057F981B68EB95.title: "&f初级流体放置器"
-	quest.2F0C6EA5380AA661.quest_desc: ["With &cAfrit Essence&r, you can create the next tier of Chalk: &cRed Chalk&r."]
-	quest.2F0C6EA5380AA661.quest_subtitle: "Chalk of Control"
-	quest.2F0C6EA5380AA661.title: "&cRed Chalk"
+	quest.2F0C6EA5380AA661.quest_desc: ["使用&c火灵灵髓&r，你就能够制作出下一级别的粉笔：&c红色粉笔&r。"]
+	quest.2F0C6EA5380AA661.quest_subtitle: "控制粉笔"
+	quest.2F0C6EA5380AA661.title: "&c红色粉笔"
 	quest.2F15D918EF183051.quest_desc: [
 		"&6FTB Evolution&r是个沙盒模式为主任务为辅的整合包，你可以按自己的方式游玩！"
 		""
@@ -4464,19 +4464,19 @@
 	]
 	quest.302C29E7007A61D9.title: "&f世界能量交互"
 	quest.3031334952FA6DCC.quest_desc: [
-		"&bRituals&r will require more than just some symbols drawn on the ground!"
+		"举行&b仪式&r可不是在地上随便画两笔那么简单！"
 		""
-		"Each &bRitual&r will need a different amount of &aSacrificial Bowls&r, which are used to place items that will be sacrificed."
+		"每个仪式都需要一些&b献祭之碗&r，用于摆放献祭于仪式的所需物品。"
 		""
 		"The &6Golden Sacrificial Bowl&r is the centerpiece of the &bRitual Pentacle&r. This bowl will hold the key item, which is usually a &dBound Book&r."
 		""
-		"For the regular &aSacrificial Bowls&r, the exact placement does not matter as long as they are within 8 blocks of the &6Golden Sacrificial Bowl&r."
+		"普通的&a献祭之碗&r只需要放在&6黄金献祭之碗&r为中心的八个方块以内就能被识别到，没有特定的摆放位置。"
 		"{@pagebreak}"
-		"What type of &aRitual&r is it if it doesn't require some &2Candles&r! Any vanilla candle will do."
+		"无论什么仪式都少不了&a蜡烛&r！准备一些原版蜡烛就可以了。"
 		""
-		"If you want to get special with it, you can also make &aLarge Candles&r using &aTallow&r."
+		"但如果你想来点特别的，你也可以用动物油脂制作神秘学的&a大蜡烛&r。"
 		""
-		"To get &aTallow&r, you will need to kill large animals with a &2Butcher's Knife&r."
+		"使用&a屠刀&r杀死大型动物来获得&a动物油脂&r："
 		""
 		"Large animals include Cows, Horses, Llamas, Pigs, and Sheep."
 	]
@@ -4497,17 +4497,17 @@
 	]
 	quest.30689B890F5E7A03.title: "&3深入探索"
 	quest.30798DFEB47F36F1.quest_desc: [
-		"Using &aHedyrin's Lure&r you can summon &ePossessed Mobs&r that drop loot when killed."
+		"你可以使用&a海德林诱惑术&r召唤&e被附身的怪物&r，将其杀死以获得战利品"
 		""
-		"&aEndermite&r: End Stone (1-2)"
+		"&a末影螨&r：末地石(1-2)"
 		""
-		"&aPhantom&r: Phantom Membrane (1-4)"
+		"&a幻翼&r：幻翼膜(1-4)"
 		""
-		"&aSkeleton&r: Skeleton Skull (1)"
+		"&a骷髅&r：骷髅头颅(1)"
 		""
-		"&aWitch&r: Any of - Water Bottle, Bottle o' Enchanting, Honey Bottle, &dOminous Bottle&r."
+		"&a女巫&r：在水瓶，附魔之瓶，蜂蜜瓶，&d不详之瓶&r中随机选择一个作为掉落物"
 	]
-	quest.30798DFEB47F36F1.title: "&aHedyrin's Possessions"
+	quest.30798DFEB47F36F1.title: "&a海德林魔灵附身"
 	quest.3084698460182262.quest_desc: [
 		"The &aBlack Thorn Staff&r is an utility item that acts similarly to a wrench from other mods."
 		""
@@ -4622,8 +4622,8 @@
 	]
 	quest.31C83D9253FFF685.quest_subtitle: "The power of hot water"
 	quest.31C83D9253FFF685.title: "&3Industrial Turbines"
-	quest.31EE85CB88AE2AAC.quest_desc: ["This simple &bRitual&r allows you repair any &aChalk&r to full durability again."]
-	quest.31EE85CB88AE2AAC.title: "&3Chalk Repairs"
+	quest.31EE85CB88AE2AAC.quest_desc: ["这种简单的&b仪式&r可以让你的任何&a粉笔&r修复至满耐久。"]
+	quest.31EE85CB88AE2AAC.title: "&3粉笔修复"
 	quest.31F2DAA7A3EA9970.quest_desc: ["These Drawer Generators can be extremely helpful for generating water, lava, and obsidian."]
 	quest.31F2DAA7A3EA9970.title: "&fDrawer Generators"
 	quest.31FBB4478F32B054.quest_desc: ["&d广播掩护装置&r是加强版的&a位置广播器&r，它可以让你选择能够传送到你所在位置的玩家。"]
@@ -4727,16 +4727,16 @@
 		"You can also create a basic &aSolar Generator&r to harvest the power of the sun!"
 	]
 	quest.32E0A399AFBE3099.quest_desc: [
-		"To summon higher tier &bSpirits&r, we're going to need better chalk."
+		"要想召唤更高阶的&b魔灵&r，就要准备更好的粉笔。"
 		""
-		"This requires a new type of &bPentacle&r called &aEziveus' Spectral Compulsion&r. Make sure to use the guidebook to help you create it!"
+		"这需要一种新类型的&b五芒星&r，叫做&a埃兹维斯灵体强迫&r。查阅魔灵全典来绘制此五芒星！"
 		""
-		"This is the basic starting point for &eBinding Rituals&r. It binds a &7Foliot&r to your items, enhancing their functionality."
+		"这也是你首次进行&e绑定仪式&r。它会将&7魔精&r绑定在物品上，增强其功能。"
 		""
-		"Some &eBinding Rituals&r are optional, but you will need most of them if you want to reach &eOccultism's&r &5End-Game&r."
+		"某些&e绑定仪式&r不是必须的，但想要达到&6神秘学&r的终局，你可能会经常用到它们。"
 	]
-	quest.32E0A399AFBE3099.quest_subtitle: "Binding Pentacle: Tier 1"
-	quest.32E0A399AFBE3099.title: "&aThe Quest For More Chalk"
+	quest.32E0A399AFBE3099.quest_subtitle: "绑定五芒星：级别1"
+	quest.32E0A399AFBE3099.title: "&a粉笔需求增大"
 	quest.32F68E7AE8DEF05E.quest_desc: [
 		"Below Y-64, you'll stumble into the &dInfinity Caves&r."
 		""
@@ -4779,11 +4779,11 @@
 	]
 	quest.333FB6E921401537.title: "&fLocate The &6Foundry"
 	quest.334A319CC010293A.quest_desc: [
-		"Deep underwater, there is a small structure called the &6NauTec Ruins&r."
+		"在水下深处，有一个叫做&6海蓝科技（NauTec）遗址&r的小结构。"
 		""
-		"Within this structure, there is a single &6Aquatic Catalyst&r that seems pretty important. Maybe you should grab it?"
+		"这个结构里似乎有一个很重要的&6海洋催化剂&r，也许你应该把它带走？"
 	]
-	quest.334A319CC010293A.title: "&fTime For a &9Deep Dive"
+	quest.334A319CC010293A.title: "&f让我们开始&9深潜"
 	quest.3356E0CCB928EC2C.quest_desc: ["&aEncased Chain Drives&r transfer &bRotational Force&r to other connected &aEncased Chain Drives&r, allowing you to power several machines in a line or easily change the rotation axis."]
 	quest.3356E0CCB928EC2C.title: "&fEncased Chain Drive"
 	quest.335783B21CB10145.quest_desc: ["&a动物幼仔分管机&r可以将成年动物繁育出的幼体分开，这样你就可以只用生下来的幼仔产肉了。"]
@@ -4798,16 +4798,16 @@
 		"&7&oThis block is laser-powered from below.&r"
 	]
 	quest.33602F1595068496.quest_subtitle: "Biggering"
-	quest.33602F1595068496.title: "&aIncubator"
+	quest.33602F1595068496.title: "&a孵化器"
 	quest.337838FB759E4377.quest_desc: [
-		"I'm starting to think the &5Eldritch Gods&r might have had a hand in creating everything."
+		"我开始寻思&5古老众神&r是否插手了创造万物这种事"
 		""
-		"[\"To create \", {\"text\": \"Magenta Chalk\", \"color\": \"#D17CC9\"}, \", you will need \", {\"text\": \"Dragonyst Dust\", \"color\": \"#FF55FF\"}, \".\"]"
+		"[\"为了制作\", {\"text\": \"品红色粉笔\", \"color\": \"#D17CC9\"}, \"，你需要\", {\"text\": \"龙裔粉\", \"color\": \"#FF55FF\"}, \".\"]"
 		""
-		"This can only be acquired by using the &6Uphyxes Inverted Tower &bPentacle&r."
+		"这只能通过使用&6修菲斯倒转之塔&r获得。"
 	]
-	quest.337838FB759E4377.quest_subtitle: "Chalk of Draconic Energy"
-	quest.337838FB759E4377.title: "{\"text\": \"Magenta Chalk\", \"color\": \"#D17CC9\"}"
+	quest.337838FB759E4377.quest_subtitle: "龙之粉笔"
+	quest.337838FB759E4377.title: "{\"text\": \"品红色粉笔\", \"color\": \"#D17CC9\"}"
 	quest.33A9FF901E2D7725.quest_desc: ["To make most machines in the mod, we'll need &2Steel Casings&r!"]
 	quest.33A9FF901E2D7725.title: "&aMachine Casings"
 	quest.33AC3264C0AE8FF1.quest_desc: [
@@ -4934,7 +4934,7 @@
 	]
 	quest.3490E1E29396D066.title: "&a一级&f种子"
 	quest.349143B50076A759.quest_desc: ["Each &6Tier 4 Dimensional Storage Stablizer&r adds 4096000 items, and 512 item types, up to four &aStablizers&r."]
-	quest.349143B50076A759.title: "&6Tier 4 Dimensional Storage Stabilizer"
+	quest.349143B50076A759.title: "&6四阶维度存储稳定器"
 	quest.349A02A0278CB88E.quest_desc: ["The &6Queen&r doesn't like spiders. Kill 32 of them for her."]
 	quest.349A02A0278CB88E.title: "&fToo Many Legs"
 	quest.34A49E11025231DA.quest_subtitle: "+15% 法术吟唱缩减"
@@ -5052,15 +5052,15 @@
 	]
 	quest.355C3ACB16CC2DE9.title: "&f量子加速&d"
 	quest.357591103765D4EF.quest_desc: [
-		"The &3Machine Operator&r transfers items specified in the &aDimensional Storage Actuator's&r interface to its managed machine and brings back the crafting results."
+		"&c机器操作员&r可以在&a维度存储促动器&r中选取物品并将其送入到连接于其中的机器里，并带回处理完成的产物"
 		""
-		"It can also be used to automatically empty a chest into the &aStorage Actuator&r."
+		"它也可以用来将箱子内的所有物品自动转移进入&a存储促动器&r"
 		""
-		"To use the &3Machine Operator&r use its &aBook of Calling&r to link a &aStorage Actuator&r, the machine, and optionally a separate extract location."
+		"为了驱使&3机器操作员&r，需要使用&a召唤之书：巨灵机器操作员&r连接一个&a存储促动器&r，并选择一个提取面。"
 		""
-		"For the machine you can additionally set a custom name and the insert/extract sides. Please note that setting a new machine will reset the extraction settings"
+		"对于被访问的机器，你可以自己设置它的输入/输出面，以及自定义其名称。注意，设置新机器时，之前的配置会重置掉"
 	]
-	quest.357591103765D4EF.title: "&3Djinni Machine Operator"
+	quest.357591103765D4EF.title: "&c巨灵机器操作员"
 	quest.3578757A7E8F3B37.quest_desc: [
 		"&d魔源中继器：分流型&r可以将魔源分散成多股，从而同时填充多个魔源罐！"
 		""
@@ -5385,19 +5385,19 @@
 	]
 	quest.381B55C984A8BD33.quest_subtitle: "&oBut how big exactly?"
 	quest.381B55C984A8BD33.title: "&fA Matter of &bSize"
-	quest.38248F3AE03BE9F7.quest_desc: ["The &dAfrit Smelter&r functions like all other &bSmelters&r, but processes things 90% faster than normal."]
-	quest.38248F3AE03BE9F7.title: "&dAfrit Smelter"
+	quest.38248F3AE03BE9F7.quest_desc: ["&d火灵熔炼工&r的功能与其他所有的&b熔炼工&r相同，但它处理的速度比普通的快90%。"]
+	quest.38248F3AE03BE9F7.title: "&d火灵熔炼工"
 	quest.3830D82DFA731ABA.quest_desc: [
-		"If we want to play with &cDemons&r, we'll need a way to summon them with rituals. To do this, we need &aChalk&r."
+		"要想和&c魔鬼&r玩耍，需要通过仪式把它们召唤到我们的存在位面。为此，我们需要&a粉笔&r。"
 		""
-		"&aChalk&r is used to draw glyphs for your &bRituals&r. You will come across many different colored &aChalks&r as you progress through &eOccultism&r."
+		"&a粉笔&r用于画出仪式所需的图案。随着你推进&e神秘学&r，你将遇到各种不同颜色的&a粉笔&r。"
 		""
-		"By combining &9Otherworld Ashes&r and &9Burnt Otherstone&r, you can craft an &7Impure White Chalk&r, which can be thrown into &aSpirit Fire&r to purify it into &aWhite Chalk&r."
+		"把&9异界灰烬&r和&9煅烧异界石&r混合，就能够制作出&7含杂白色粉笔&r，可以通过将其扔入&a灵火&r中除杂得到&a白色粉笔&r。"
 		""
-		"&aChalk&r is pretty hard to scrub off of the ground, but you can use a &2Chalk Brush&r to get rid of any misplaced glyphs."
+		"画在地上的&a粉笔&r痕迹没法轻易擦除。你需要使用&2粉笔擦&r来擦去绘制错误的图案。"
 	]
-	quest.3830D82DFA731ABA.quest_subtitle: "Chalk of Foundation"
-	quest.3830D82DFA731ABA.title: "&fBasic Chalks"
+	quest.3830D82DFA731ABA.quest_subtitle: "基础粉笔"
+	quest.3830D82DFA731ABA.title: "&f基础粉笔"
 	quest.384287F30638679E.title: "&d五级&f生物种子"
 	quest.385293121273C7FB.quest_desc: [
 		"你可以用四个&6升级：产量α&r和一些&d下界之星&r来合成下一等级的产量升级：&6升级：产量β&r。"
@@ -5416,11 +5416,11 @@
 	]
 	quest.3854D5D51530B938.title: "&3真空冷却机"
 	quest.38705F990589B2E8.quest_desc: [
-		"The &dIesnium Sacrificial Bowl&r is an upgrade to the standard &6Golden Sacrifical Bowl&r."
+		"&d艾瑟献祭之碗&r是&6黄金献祭之碗&r的升级。"
 		""
-		"Significantly increases &bRitual&r speed."
+		"大幅提升&b仪式&r速度。"
 	]
-	quest.38705F990589B2E8.title: "&dIesnium Sacrificial Bowl"
+	quest.38705F990589B2E8.title: "&d艾瑟献祭之碗"
 	quest.38869642A2E6F8B6.quest_desc: [
 		"说到物流，&e模块化路由器&r可以解决你的一切问题，这个模组可以实现&a自动点击&r，&a自动方块破坏&r，还有很多别的功能！"
 		""
@@ -5449,24 +5449,24 @@
 	]
 	quest.38BD69DD1995E971.title: "&9Tier 2 Ore Processing"
 	quest.38D3BE7AF6792B8D.quest_desc: [
-		"With the power of &9Blue Chalk&r and &dWither Skeleton Skulls&r you are able to summon and bind &6Marids&r into powerful beings."
+		"通过&9蓝色粉笔&r和&d凋灵骷髅头颅&r的力量，你可以召唤&6魔王&r并将其绑定在极其强大的生物体内"
 		""
-		"Most &ePossesion&r and &eFamiliar Rituals&r are optional, but you will still need to complete their &bPentacles&r to reach the &5End-Game&r."
+		"大多数&e附身&r和&e使魔仪式&r是可选的，但你仍然需要为了完成游戏的&5最终目标&r而绘制它们的&b五芒星&r"
 	]
-	quest.38D3BE7AF6792B8D.quest_subtitle: "Possession Pentacle: Tier 5"
-	quest.38D3BE7AF6792B8D.title: "&6Xeovrenth Adjure"
+	quest.38D3BE7AF6792B8D.quest_subtitle: "附身五芒星：级别5"
+	quest.38D3BE7AF6792B8D.title: "&6泽奥夫伦斯召唤术"
 	quest.38E07A5510D2ACEC.quest_desc: [
-		"Using &aHedyrin's Lure&r you can summon &ePossessed Animals&r that can be tamed or killed for loot."
+		"你可以使用&a海德林诱惑术&r召唤&e被附身的动物&r，将其杀死以获得战利品"
 		""
-		"&aParrot&r: Summons a tameable Parrot"
+		"&a鹦鹉&r：召唤一只可被驯服的鹦鹉"
 		""
-		"&aRandom Common Animal&r: One of - Chicken, Cow, Pig, Sheep, Squid, or Wolf"
+		"&a随机常见动物&r：鸡，牛，猪，羊，鱿鱼，狼的其中一种"
 		""
-		"&aRandom Small Animal&r: One of - Allay, Bat, Bee, Parrot, Cat, Ocelot, Fox, or Rabbit"
+		"&a随机小型动物&r：悦灵，蝙蝠，蜜蜂，鹦鹉，猫，豹猫，狐狸，以及兔子中的一只"
 		""
-		"&aRandom Water Animal&r: One of - Axolotl, Frog, Dolphin, Cod, Salmon, Tropical Fish, Pufferfish, Squid, Glow Squid, Tadpole, Turtle, or Snow Golem"
+		"- &a随机水生动物&r：美西螈，青蛙，海豚，鳕鱼，鲑鱼，热带鱼，河豚，鱿鱼/发光鱿鱼，蝌蚪，海龟以及雪傀儡中的一只"
 	]
-	quest.38E07A5510D2ACEC.title: "&aHedyrin's Animals"
+	quest.38E07A5510D2ACEC.title: "&a海德林的动物"
 	quest.38E2176886386133.quest_desc: [
 		"&a合金窑&r是一个游戏早期的多方块结构，能够制作合金，如：康铜、殷钢、琥珀金和青铜。"
 		""
@@ -5503,12 +5503,12 @@
 	quest.39621D430CCBF307.quest_desc: ["我们需要更强大的电动机来制造更好的机器。这些电动机还能加快管道中的物品传输速度！"]
 	quest.39621D430CCBF307.title: "&6大型进阶电动机"
 	quest.3964E9A95D52B0FD.quest_desc: [
-		"The next tier of &bSummoning Pentacle&r is &dTibira's Attraction&r."
+		"下一级别的&b召唤五芒星&r就是&d阿巴拉斯强化召唤术&r"
 		""
-		"This &bRitual&r is only used to summon an &6Unbound Marid&r. Killing it will grant you its essence, allowing you to make &9Blue Chalk&r."
+		"此仪式只能用于召唤&d未约束魔王&r。杀死它可以获得一些魔王灵髓，进而制作出&c蓝色粉笔&r。"
 	]
-	quest.3964E9A95D52B0FD.quest_subtitle: "Summoning Pentacle: Tier 5"
-	quest.3964E9A95D52B0FD.title: "&dTibira's Attraction"
+	quest.3964E9A95D52B0FD.quest_subtitle: "召唤五芒星：级别5"
+	quest.3964E9A95D52B0FD.title: "&d阿巴拉斯强化召唤术"
 	quest.39BC89942A5CA7E1.quest_desc: ["Improves energy efficiency."]
 	quest.39BC89942A5CA7E1.title: "&fMachine Efficiency Addon"
 	quest.39CA68E8B84CF962.quest_desc: ["&7铜符石&r将玩家半径十格范围内的掉落物吸引至玩家。"]
@@ -5625,11 +5625,11 @@
 	quest.3AEBDB8CAA13C522.title: "&a磁力指环"
 	quest.3AF4B31403FE9E0D.title: "&2初级精华&f盔甲"
 	quest.3AF598F0517B7BA6.quest_desc: [
-		"The &aStable Wormhole&r allows access to a Dimensional Storage from a remote destination."
+		"&a稳定虫洞&r使得远程访问维度矩阵变得可能。"
 		""
-		"Shift-click the &aDimensional Storage Actuator&r to link it, then place the &aStable Wormhole&r in the world to use as a remote access point."
+		"潜行右击&a维度存储促动器&r以连接它，然后把&a稳定虫洞&r放置在世界中的任意地点作为远程访问点"
 	]
-	quest.3AF598F0517B7BA6.title: "&aRemote Network Access"
+	quest.3AF598F0517B7BA6.title: "&a接入远程网络"
 	quest.3AFF8BDCBD25F9F3.quest_desc: [
 		"&aCapacitor Banks&r are used to store energy!"
 		""
@@ -5665,8 +5665,8 @@
 		"The &aLarge Energy Storage&r accepts energy from all green ports but can only output through the single red port. A redstone signal will disable all energy output."
 	]
 	quest.3B2B26B1AD947CC5.title: "&fLarge Energy Storage"
-	quest.3B37556B49098933.quest_desc: ["The &aOtherworld Goggles&r give the wearer permanent &bThird Eye&r effect, granting vision of &9Otherworld&r blocks."]
-	quest.3B37556B49098933.title: "&aOtherworld Goggles"
+	quest.3B37556B49098933.quest_desc: ["&a异界眼镜&r能为穿戴者提供&b第三只眼&r效果，从而使&9异界&r的方块可见。"]
+	quest.3B37556B49098933.title: "&a异界眼镜"
 	quest.3B41D9132CD7728D.title: "&d65536b 流体存储组件"
 	quest.3B6540C11FAF6C3D.quest_desc: [
 		"尽管接口已经能够将一些方块接入网络中，但你还是会需要让网络能与一些机器或容器能够交互。"
@@ -5712,11 +5712,11 @@
 	]
 	quest.3BAE611AE4CEA7A6.title: "[{\"text\": \"Removing The \", \"color\": \"#FFFFFF\"}, {\"text\":\"Rust\", \"color\": \"#D5510E\"}]"
 	quest.3BCB8667CCEBAE57.quest_desc: [
-		"The &aStorage Actuator Base&r is the first of two parts needed to access your storage dimension."
+		"&a存储促动器基座&r是访问您的存储维度所需的两个部件中的第一个部件。"
 		""
-		"This block functions very much like a big shulker box. This means that when breaking the &aDimensional Storage Actuator&r, your items will stay safe inside the block."
+		"这个方块的功能特别像大号的潜影盒。这意味着当你破坏&a维度存储稳定器&r时，你的物品会被安全保留在其中。"
 	]
-	quest.3BCB8667CCEBAE57.title: "&aStorage Actuator Base"
+	quest.3BCB8667CCEBAE57.title: "&a存储促动器基座"
 	quest.3BD6FEDB8CFAC914.quest_desc: ["精炼&a乙醛&r与&a杂酚油&r即可制造出&a酚醛树脂&r，一种用于制作塑料的材料。"]
 	quest.3BD6FEDB8CFAC914.title: "&f酚醛树脂"
 	quest.3BFF8EFB5E7186A4.quest_desc: [
@@ -6008,8 +6008,8 @@
 		"一块蚀空烬质的能量比&d虚炎煤炭&r多三倍。"
 	]
 	quest.3F81397C7818B7C5.title: "&5蚀空烬质"
-	quest.3FB2A1A98B36234F.quest_desc: ["The &5Trinity Gem&r is an upgraded version of the &cSoul Gem&r and is able to capture almost any mob."]
-	quest.3FB2A1A98B36234F.title: "&5Trinity Gem"
+	quest.3FB2A1A98B36234F.quest_desc: ["&5三一宝石&r是&c灵魂宝石&r的升级版，几乎能捕捉任何一种生物。"]
+	quest.3FB2A1A98B36234F.title: "&5三一宝石"
 	quest.3FB51F0568B0896C.quest_desc: [
 		"现在你做出了&b压缩铁锭&r，那么就合成&6气动工艺&r的初始物品，然后开始探索吧！"
 		""
@@ -6171,27 +6171,27 @@
 	]
 	quest.41039946470C1747.title: "&fCart Assembler"
 	quest.4113BA0BADB486F0.quest_desc: [
-		"Our new friend should make it easy for us to make &eCrushed Endstone&r, but before we continue, it's important to understand more about &bRituals&r and &bPentacles&r! "
+		"我们的新朋友能帮助我们轻松获得&e粉碎末地石&r，但在开始下一步之前，有必要进一步了解一下&b仪式&r和&b五芒星&r！"
 		""
-		"In short, a &bPentacle&r is a formation of glyphs, bowls, and stabilizers placed around the &aGolden Sacrificial Bowl&r."
+		"简单来说，&b五芒星&r是围绕&a黄金献祭之碗&r摆放的一系列图案、碗和蜡烛等物品的集合，用于稳定仪式的运行。"
 		""
-		"A &bRitual&r is the act of offering items to summon a &bSpirit&r from &9The Otherworld&r."
+		"而&b仪式&r是指供奉物品来召唤&9异界&r&b魔灵&r的行为。"
 		""
-		"There are 4 different types of &bPentacles&r, and each can be upgraded as you progress."
+		"总共有4种类型的&b五芒星&r，随着神秘学的推进，每一种都可以进一步升级。"
 		""
-		"This means that you only need four 19x19 areas to set up all 4 types of &bPentacles&r!"
+		"这意味着你只需要4个19x19的空间就可以摆下所有四种&b五芒星&r！"
 		"{@pagebreak}"
 		"[\"\", {\"text\": \"Rituals\", \"color\": \"#55FFFF\"}, \" are mainly split into four categories: \", {\"text\": \"Binding\", \"color\":\"#FFFF55\", \"underlined\": true, \"clickEvent\": {\"action\": \"change_page\", \"value\": \"51D07B8762C46982\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Binding Quest\"}}, \", \", {\"text\": \"Possession\", \"color\":\"#FFFF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0EBEF0B2D2F13C3D\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Possession Quest\"}}, \", \", {\"text\": \"Familiar\", \"color\":\"#FFFF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6338A56F731A5F25\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Familiar Quest\"}}, \", and \", {\"text\": \"Summoning\", \"color\":\"#FFFF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"6137DE875E13EF72\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Summoning Quest\"}}, \".\"]"
 		""
-		"Your &aAviar's Circle&r &bPentacle&r is considered a &bSummoning Pentacle&r."
+		"你刚才使用的&b阿维亚之环&r就属于&a召唤五芒星&r。"
 		""
-		"The next upgrade for it is &3Ophyx's Calling&r, which allows you to summon &3Djinni&r."
+		"它的下一级称为&3欧菲克斯的呼唤&r，能够让你召唤&3巨灵&r。"
 		"{@pagebreak}"
-		"When completing a &bRitual&r, a purple particle effect will show that the &bRitual&r is successful and in progress."
+		"开始&b仪式&r后，&a黄金献祭之碗&r上方将出现紫色粒子效果，提示你&b仪式&r满足条件并正在进行。"
 		""
-		"If a &bRitual&r shows gray particles above the &6Golden Sacrificial Bowl&r, then additional requirements need to be fulfilled, such as item use or a &4living sacrifice&r."
+		"如果显示的是灰色粒子效果，说明&6仪式&r需要满足其它条件才能继续，例如使用物品或&4献祭生物&r。"
 	]
-	quest.4113BA0BADB486F0.title: "&fMore About &bRituals \\&\\ Pentacles"
+	quest.4113BA0BADB486F0.title: "&f进一步了解&b仪式和五芒星"
 	quest.4119A43052DB5E3E.quest_desc: ["The &6Relics&r mod adds 25 new and unique items, each with the ability to level up and grant unique abilities for those who wish to use them!"]
 	quest.4119A43052DB5E3E.title: "&6Relics"
 	quest.4126A470077923D2.quest_desc: [
@@ -6236,11 +6236,11 @@
 	]
 	quest.41C439295D5558C2.title: "灵魂派别"
 	quest.41C7ED53AA36D647.quest_desc: [
-		"&3Djinnis&r can be used to fastforward time to &aDawn&r or &aDusk&r, depending on your needs."
+		"&3巨灵&r可以将时间快进到&a黎明&r或者&a黄昏&r，取决于你的需求"
 		""
-		"&eTime Spirits&r will modify time once before vanishing."
+		"&e时间魔灵&r只会改变一次时间，然后就会消失"
 	]
-	quest.41C7ED53AA36D647.title: "&3Djinni Time Mage"
+	quest.41C7ED53AA36D647.title: "&3巨灵时间法师"
 	quest.41C964C013338741.quest_desc: [
 		"&b颓残之书&r可以合成一系列&6传奇法术书&r，&6远古典籍&r是其中之一。"
 		""
@@ -6326,23 +6326,23 @@
 	quest.42B887FC6D9FE211.quest_desc: [
 		"For our first &bRitual&r, we're going to summon a &7Foliot Crusher&r using the &aAviar's Circle Pentacle&r."
 		""
-		"The easiest way to do this is to navigate to the &bPentacles&r tab in your guidebook, then find &aAviar's Circle&r. On the right side, you should see a render of it with an eye icon in the bottom right."
+		"你可以打开魔精全典找到&b五芒星&r章节，随后点开&a阿维亚之环&r。在页面右边将显示此五芒星的示意图，下方还带有小眼睛图标。"
 		""
-		"Clicking this will allow you to place a &bhologram&r to help you create the &bPentacle&r!"
+		"点击小眼睛能够在世界中放置&b全息图&r，方便你快速绘制&b五芒星&r！"
 		"{@pagebreak}"
-		"Once you've drawn and completed the layout of the &bPentacle&r, you can place down &a4 Sacrificial Bowls&r anywhere within 8 blocks of the &6Golden Sacrificial Bowl&r."
+		"画完&b五芒星&r之后，在&6黄金献祭之碗&r的八格范围内放下四个&4献祭之碗&r。"
 		""
-		"You might notice that most &bPentacles&r have the perfect spot for these!"
+		"你可能会注意到大多数&b五芒星&r为献祭之碗预留了绝佳点位！"
 		""
-		"Next, you'll place down the items needed in the &aSacrificial Bowls&r, then place in the &7Book of Binding: Foliot (Bound)&r into the center &6Golden Sacrificial Bowl&r."
+		"接下来，在&a献祭之碗&r中放入所需的物品，随后把&7绑定之书：魔精（已绑定）&r放入中间的&6黄金献祭之碗&r。"
 		""
-		"Once all items are in place, you can right click the &6Golden Sacrificial Bowl&r and start the &bRitual&r!"
+		"所有物品就位后，右击&6黄金献祭之碗&r就可以开始&b仪式&r了！"
 		"{@pagebreak}"
-		"The items inside the bowls will be consumed until there are none left, at which point the &7Foliot Crusher&r will appear next to the &6Golden Sacrificial Bowl&r."
+		"献祭之碗里的物品将会逐个消耗，消耗完毕后&6黄金献祭之碗&r的位置将会出现&7魔精碎矿者&r。"
 		""
-		"Like all other &bCrushers&r, the &7Foliot Crusher&r will grind down items into dust, providing 2x the output."
+		"就像其它&b粉碎机&r一样，&7魔精碎矿者&r能将矿石磨成矿粉，提供两倍的矿物产出。"
 		""
-		"The &7Foliet Crusher&r is also needed to create the next color of &aChalk&r we'll need!"
+		"我们需要&7它&r来帮忙制作下一种颜色的&a粉笔&r！"
 	]
 	quest.42B887FC6D9FE211.quest_subtitle: "Summoning Pentacle: Tier 1"
 	quest.42B887FC6D9FE211.title: "&fYour First &bRitual"
@@ -6458,12 +6458,12 @@
 	]
 	quest.43B4B6F09B5AF30C.title: "&a了如指掌"
 	quest.43BF1E0CE33F8BB7.quest_desc: [
-		"If we want to commune with the &5Eldritch Gods&r, we need the right colors of &aChalk&r."
+		"想要和&5古老众神&r取得联系，我们需要正确颜色的&a粉笔&r"
 		""
-		"[\"Using \", {\"text\": \"Xeovrenth Adjure\", \"color\": \"#FFAA00\"}, \", \", {\"text\": \"Cruelty Essence\", \"color\": \"#FF5555\"}, \" can be used to craft \", {\"text\": \"Brown Chalk\", \"color\": \"#AA7B5A\"}, \".\"]"
+		"[\"使用\", {\"text\": \"泽奥夫伦斯召唤术\", \"color\": \"#FFAA00\"}, \"，获取\", {\"text\": \"残暴精华\", \"color\": \"#FF5555\"}, \" 可以被用于制作\", {\"text\": \"棕色粉笔\", \"color\": \"#AA7B5A\"}, \".\"]"
 	]
-	quest.43BF1E0CE33F8BB7.quest_subtitle: "Chalk of Evil"
-	quest.43BF1E0CE33F8BB7.title: "{\"text\": \"Brown Chalk\", \"color\": \"#AA7B5A\"}"
+	quest.43BF1E0CE33F8BB7.quest_subtitle: "邪恶粉笔"
+	quest.43BF1E0CE33F8BB7.title: "{\"text\": \"棕色粉笔\", \"color\": \"#AA7B5A\"}"
 	quest.43CA621F23D0298A.quest_desc: ["放置方块。可朝任意方向放置。放置原木来自动化&7胶乳&r生产是非常实用的做法。"]
 	quest.43CA621F23D0298A.title: "&f方块放置器"
 	quest.43D386072996F3BE.quest_desc: [
@@ -6554,13 +6554,13 @@
 	]
 	quest.44DFEE9CA0A7070B.title: "&a凋灵护身符"
 	quest.44E044BA9C152631.quest_desc: [
-		"In some quests, you'll notice tasks that have &aoptional&r attached to them."
+		"你可能注意到，有些任务附带有&aoptional&r的词条。"
 		""
-		"Most of the time, this is done so you can click them to see the recipe for certain rituals!"
+		"大多数情况下，你可以点击这些任务来确定相关仪式的所需配方！"
 		""
-		"Keep an eye out for what is required as lots of quests have optional tasks to complete."
+		"多留意一下这些任务，因为推进主线会经常用到。"
 	]
-	quest.44E044BA9C152631.title: "&aSome Notes For This Questline"
+	quest.44E044BA9C152631.title: "&a一些关于这条任务线的提示"
 	quest.44F07423FC4BA868.quest_desc: ["You really only use the &2Wooden Pickaxe&r to mine enough cobble to make a &aCobblestone Pickaxe&r! And of course, all of the other stone tools as well."]
 	quest.44F07423FC4BA868.title: "&fThe &aStone &fAge"
 	quest.4505690AA252B1DA.quest_desc: ["&aSage Seeds&r can be found when breaking grass and planted to yield &aSage&r, which is used in a variety of recipes."]
@@ -6665,13 +6665,13 @@
 	quest.465A950126ABF758.quest_desc: [
 		"Have you ever gone caving and stumbled onto a random fully grown tree? That's most likely an &2Otherworld Grove&r."
 		""
-		"&aOtherworld Groves&r are overgrown caves filled with &2Otherworld Trees&r and walls of made of &9Otherstone&r."
+		"&a异界树林&r是一个长满了&2异界树&r的巨大洞穴，四周围绕着&9异界石&r。"
 		""
-		"&2Otherworld Trees&r appear as oak trees to the naked eye, but reveal their true form under the &bThird Eye&r effect."
+		"&2异界树&r在肉眼下长得就像是一般的橡树，但开启&b第三只眼&r就会发现它的真面目。"
 		""
-		"&aOtherworld Saplings&r can only be obtained by breaking &2Otherworld Leaves&r manually."
+		"&a异界树苗&r只能通过手动撸破&2异界树叶&r来获得。"
 	]
-	quest.465A950126ABF758.title: "&aOtherworld Groves"
+	quest.465A950126ABF758.title: "&a异界树林"
 	quest.466D603FACE8FDF5.quest_desc: [
 		"当&6寂静装备&r的工具耐久度掉到0，工具并不会损坏——它会变成无法使用的状态，用&a修理包&r就可以让它焕然一新！"
 		""
@@ -7007,12 +7007,12 @@
 	]
 	quest.4A5FD3641E0A566E.title: "&2Energy &f\\&\\ &cRedstone &fPorts"
 	quest.4A63B415FED7E777.quest_desc: [
-		"&6Uphyxes Inverted Tower&r combines the powers of &9Blue Chalk&r and &dWither Skeleton Skulls&r, allowing you to summon and bind &6Marids&r into extremely powerful items."
+		"&6修菲斯倒转之塔&r通过结合&9蓝色粉笔&r和&d凋灵骷髅头颅&r的力量，是你可以召唤并绑定&6魔王&r进入极其强大的物品中"
 		""
-		"Some &eBinding Rituals&r are optional, but you will need most of them if you want to reach &eOccultism &5End-Game."
+		"某些&e绑定仪式&r不是必须的，但想要达到&6神秘学&r的&5终局&r，你可能会经常用到它们。"
 	]
-	quest.4A63B415FED7E777.quest_subtitle: "Binding Pentacle: Tier 4"
-	quest.4A63B415FED7E777.title: "&6Uphyxes Inverted Tower"
+	quest.4A63B415FED7E777.quest_subtitle: "绑定五芒星：级别4"
+	quest.4A63B415FED7E777.title: "&6修菲斯倒转之塔"
 	quest.4A68D2CD7437589E.quest_desc: ["消耗药水发电。"]
 	quest.4A68D2CD7437589E.title: "&f菌丝网络药水发电机"
 	quest.4A707D443EC2DE33.quest_desc: [
@@ -7064,23 +7064,23 @@
 	]
 	quest.4B463FDAEAC42511.title: "&3物质聚合器"
 	quest.4B4DFB318CE36DAE.quest_desc: [
-		"The &6Rainbow Chalk&r can replace any &eNon-foundation Chalk&r (white, gray, light gray, black)."
+		"&6彩虹粉笔&r可以替代任何&e非基础粉笔&r（白色、灰色、浅灰色、黑色）。"
 		""
-		"It also comes with extra features:"
+		"它还有一些其他特性："
 		""
-		"- Using a &aSpirit Attuned Gem&r in the off-hand toggles the random color changes, or use any dye to set the glyph color."
+		"- 将一颗&a魔灵同调宝石&r置于副手时将其切换为随机颜色， 或使用任意染料来指定符文颜色。"
 		""
-		"- Using this chalk on a glyph while crouching will erase the glyph, acting as a &aChalk Brush&r."
+		"- 潜行时对着符文使用会擦去这个符文，就像是&a粉笔擦&r。"
 		"{@pagebreak}"
-		"The &6Rainbow Chalk&r can also be used to make &5Void Chalk&r."
+		"&6彩虹粉笔&r也可用于合成&5虚空粉笔&r。"
 		""
-		"&5Void Chalk&r is an upgraded version of the &6Rainbow Chalk&r that can replace any chalk including &eFoundation Chalk&r."
+		"&5虚空粉笔&r是&6彩虹粉笔&r的升级版，它可以用来替代任何&e基础粉笔&r。"
 	]
-	quest.4B4DFB318CE36DAE.title: "&6Rainbow Chalk"
+	quest.4B4DFB318CE36DAE.title: "&6彩虹粉笔"
 	quest.4B50B455573D924B.quest_desc: [
-		"Using &dAbras' Commanding Conjure&r you can summon &ePossessed Mobs&r that drop loot when killed."
+		"你可以使用&d阿巴拉斯强令召唤术&r召唤&e被附身的怪物&r，将其杀死以获得战利品"
 		""
-		"&dElder Guardian&r: Nautilus Shells (2-4), Heart of the Sea (40%)"
+		"&d远古守卫者&r：鹦鹉螺壳(2-4)，海洋之心(40%)"
 		""
 		"&dHoglin&r: Netherite Scrap, Music Discs/Fragments, Smithing Templates"
 		""
@@ -7088,7 +7088,7 @@
 		""
 		"&dWarden&r: Echo Shard (6+), with a chance for Music Discs/Fragments, and Smithing Templates"
 	]
-	quest.4B50B455573D924B.title: "&dAbras' Possessions"
+	quest.4B50B455573D924B.title: "&d阿巴拉斯魔灵附身"
 	quest.4B589FFCCE44FFAC.quest_desc: [
 		"In a &cClibano&r that has an &dArtisan Relic&r, you can combine Raw Iron with Obsidian to create &dObsidiansteel&r."
 		""
@@ -7125,13 +7125,13 @@
 	quest.4BBEE37F0D847BA9.quest_subtitle: "传输流体"
 	quest.4BBEE37F0D847BA9.title: "&f流体管道"
 	quest.4BCA3115FA95C81F.quest_desc: [
-		"Trader, time, and weather &bSpirits&r experience &eEssence Decay&r while outside &9The Otherworld&r."
+		"交易者，时间，以及天气&b魔灵&r都会因为暴露在&9其他世界&r而经理&e灵髓衰退%r"
 		""
-		"Stronger &bSpirits&r can resist this decay, but only the strongest can fully overcome its effect. Once fully decayed, a &bSpirit&r will disappear and return to &9The Otherworld&r."
+		"更强大的&b魔灵&r可以抵抗这种衰退，但只有最强大的魔灵可以完全免疫这种影响。一旦完全衰退，&b魔灵&r就会强制被遣返回&9异世界&r"
 		""
-		"One can slow or even stop this decay by binding the &bSpirit&r to an object or living being. Additionally, the &bPentacle&r used can influence the effects of &eEssence Decay&r to some extent."
+		"一种可以减缓甚至停止这种衰退的方式是将&b魔灵&r绑定进入物品或活体生命内。另外，&b五芒星&r的使用会在一定程度是影响&e灵髓衰退&r"
 	]
-	quest.4BCA3115FA95C81F.title: "&eEssence Decay"
+	quest.4BCA3115FA95C81F.title: "&e灵髓衰退"
 	quest.4BCA8A5C3F80D375.quest_desc: [
 		"&a除名符石&r可以移除一件物品上的一个词缀文本，将其变为“正常名称”的带词缀物品。"
 		""
@@ -7193,18 +7193,18 @@
 	]
 	quest.4C8EDEEFBC40E44B.title: "Runewood"
 	quest.4C9473D2E4149656.quest_desc: [
-		"&6Ronaza's Contact&r is the most complex and advanced &bPentacle&r, combining all human knowledge of &9The Otherworld&r to allow communication with the &5Eldritch Gods&r."
+		"&6罗纳扎之触&r是最复杂且高等的&b五芒星&r，集合了&9整个主世界&r人类的全部知识，只为了与&5古老众神&r进行沟通"
 		""
-		"Using this &bPentacle&r, you can craft the strongest items in &eOccultism&r."
+		"使用这种&b五芒星&r，你将得以制作&e神秘学&r中最为强大的物品"
 	]
-	quest.4C9473D2E4149656.quest_subtitle: "The Final Pentacle"
-	quest.4C9473D2E4149656.title: "&6Ronaza's Contact"
+	quest.4C9473D2E4149656.quest_subtitle: "最终五芒星"
+	quest.4C9473D2E4149656.title: "&6罗纳扎之触"
 	quest.4CDCFE544B72E6C4.quest_desc: [
-		"The &5Eldritch Ancient Miner&r harvests entire blocks of raw ore at once."
+		"&5古老邪灵矿工&r能够一次采集一整个粗矿石块。"
 		""
-		"Compressing the &6Master Marid Miner&r has given you an extremely powerul and efficient miner."
+		"将多个&6矿脉领主魔王&r压缩到一起，你就能得到这种极高效的矿工。"
 	]
-	quest.4CDCFE544B72E6C4.title: "&5Eldritch Ancient Miner"
+	quest.4CDCFE544B72E6C4.title: "&5古老邪灵矿工"
 	quest.4D05E74FE351708F.quest_desc: [
 		"&b神秘之力&r提供用于制作它的所有符石的效果："
 		""
@@ -7297,13 +7297,13 @@
 	]
 	quest.4DB08D796BBE6E93.title: "&f合成写入器"
 	quest.4DB0A34E6C46B0B8.quest_desc: [
-		"Some &bRituals&r require the &4Sacrifice&r of a living being to provide the necessary energy to summon the &bSpirit&r."
+		"一些&b仪式&r需要&4献祭&r生物来为&b仪式&r的进行提供必须的能量。"
 		""
-		"To perform a &4Sacrifice&r, kill an animal within 8 blocks of the &6Golden Sacrificial Bowl&r."
+		"在&6黄金献祭之碗&r的八格范围内杀死动物，即会被视为&4献祭&r此动物。"
 		""
-		"Only kills by players count as a &4Sacrifice&r."
+		"只有玩家造成的击杀才会被视为&4献祭&r。"
 	]
-	quest.4DB0A34E6C46B0B8.title: "&4Sacrificial Rituals"
+	quest.4DB0A34E6C46B0B8.title: "&f仪式献祭"
 	quest.4DBD57AF035CAA6B.title: "&f游玩&6100小时"
 	quest.4DD685A3F0F1329F.quest_desc: [
 		"&5无人机&r虽然有预编程的程序，不过如果你想要写个属于自己的程序的话，仔细跟着这个任务学吧。"
@@ -7400,13 +7400,13 @@
 	]
 	quest.4E858EA44C329668.title: "&c蜜蜂&a能源&f！"
 	quest.4E90956E9A3ADAC9.quest_desc: [
-		"Once you've planted a few &2Demon's Dream Seeds&r, you can harvest them to acquire &aDemon's Dream Fruit&r."
+		"种下&2魔鬼之梦&2种子，就能收获&a魔鬼之梦果&r。"
 		""
-		"Consuming &aDemon's Dream Fruit&r gives you the effect of the &bThird Eye&r, allowing you to interact with &9The Otherworld&r and granting you knowledge of things not known to mere mortals."
+		"吃下&a魔鬼之梦果&r，你将短暂获得&b第三只眼&r，它能让你与&9异界&r的物品交互并获得凡人无法知道的知识。"
 		""
-		"For now, you can only obtain this effect by eating a &aDemon's Dream Fruit&r, but this will change as you deepen your knowledge of the occult."
+		"目前，你只能通过食用&a魔鬼之梦果&r来获得此能力，但随着对神秘学研究的深入，你将学会其它开启第三只眼的方式。"
 	]
-	quest.4E90956E9A3ADAC9.title: "&aDemon's Dream Fruit"
+	quest.4E90956E9A3ADAC9.title: "&a魔鬼之梦果"
 	quest.4E9EBB1268DEF8A6.quest_desc: [
 		"消耗TNT发电。"
 		""
@@ -7450,8 +7450,8 @@
 	quest.4EE97D251DD2E9B7.title: "&e现代工业化&r"
 	quest.4EF7ACF0C1883E76.quest_desc: ["增加进度条每刻增长的速度。"]
 	quest.4EF7ACF0C1883E76.title: "&b速度升级"
-	quest.4EFE71837197FB63.quest_desc: ["&eMiner Spirits&r decay over time, but with simple materials, an &dAfrit&r can repair a &eMiner Spirit&r."]
-	quest.4EFE71837197FB63.title: "&dRepairing a Miner"
+	quest.4EFE71837197FB63.quest_desc: ["&e魔灵矿工&r会随着时间而衰退，但是只需要使用简单的材料，一位&d火灵&r就可以修理一个&e矿工魔灵&r"]
+	quest.4EFE71837197FB63.title: "&d修理矿工"
 	quest.4F025183EF92FFAB.quest_desc: [
 		"The &6Solar Neutron Activator&r converts specific gases into a new gas. It does not require power, but instead needs direct sunlight to function."
 		""
@@ -7499,14 +7499,14 @@
 	quest.4F72252AD2DCAECC.title: "&a自动合成升级"
 	quest.4F72F26389359EBD.title: "&3监守者预测产物"
 	quest.4F7B94DCD4B52CE4.quest_desc: [
-		"Using &eYellow Chalk&r, you can attract a &7Foliot&r to possess a nearby creature."
+		"使用&e黄色粉笔&r，你就能够吸引一只&7魔精&r去附身到附近的一个生物上。"
 		""
-		"Most &ePossesion&r and &eFamiliar Rituals&r are optional, but you will need to complete their &bPentacles&r to reach the &5End-Game&r."
+		"大多数&e附身&r和&e使魔仪式&r是可选的，但你仍然需要为了完成游戏的&5最终目标&r而绘制它们的&b五芒星&r"
 		""
-		"Simply click on the checkmark to progress the questline."
+		"只需要点击这个复选标记来推进任务流程就行"
 	]
-	quest.4F7B94DCD4B52CE4.quest_subtitle: "Possession Pentacle: Tier 1"
-	quest.4F7B94DCD4B52CE4.title: "&aHedyrin's Lure"
+	quest.4F7B94DCD4B52CE4.quest_subtitle: "附身五芒星：级别1"
+	quest.4F7B94DCD4B52CE4.title: "&a海德林诱惑术"
 	quest.4F7B9F938127746E.title: "&6觉醒精华剑"
 	quest.4FA766AD24D00325.quest_desc: ["&b苍穹晶&r可以合成该模组的高级机器！"]
 	quest.4FA766AD24D00325.title: "&f高级机器"
@@ -7519,12 +7519,12 @@
 	quest.4FD0504ADB98E0C0.quest_desc: [
 		"By upgrading your &aEziveus' Spectral Compulsion&r, you can permanently bind a &3Djinni&r into an item."
 		""
-		"Some &eBinding Rituals&r are optional, but you will need most of them if you want to reach &eOccultism &5End-Game."
+		"某些&e绑定仪式&r不是必须的，但想要达到&6神秘学&r的&5终局&r，你可能会经常用到它们。"
 		""
-		"Click on the checkmark to progress the questline."
+		"点击复选标记来推进任务流程。"
 	]
-	quest.4FD0504ADB98E0C0.quest_subtitle: "Binding Pentacle: Tier 2"
-	quest.4FD0504ADB98E0C0.title: "&3Strigeor's Higher Binding"
+	quest.4FD0504ADB98E0C0.quest_subtitle: "绑定五芒星：级别2"
+	quest.4FD0504ADB98E0C0.title: "&3斯特里格高等束缚"
 	quest.4FD329857906DB24.title: "&5龙蛋种子"
 	quest.4FE945C26EDB2A53.quest_desc: [
 		"你可以使用&3灵魂&r加速几乎所有机器，每个&3灵魂&r可加速15秒。"
@@ -7576,13 +7576,13 @@
 	quest.504D9310A12FBB21.quest_desc: ["你可以使用&a世界交互组件&r来破坏、放置方块，或者直接从世界中拾取物品。"]
 	quest.504D9310A12FBB21.title: "&f世界交互组件"
 	quest.504EEAA75990C78C.quest_desc: [
-		"To get &bCyan Chalk&r, you'll need a &6Marid Crusher&r to crush up &dEcho Shards&r for you."
+		"为了得到&b青色粉笔&r，你需要一位&6魔王碎矿者&r来为你粉碎&d回响碎片&r"
 		""
-		"&5Eldritch Gods&r need very specific chalk to commune with them."
+		"&5古老众神&r需要非常特殊的粉笔来联系祂们。"
 		""
-		"&7&oThey might be colorblind."
+		"&7&o祂们是不是色盲啊。"
 	]
-	quest.504EEAA75990C78C.quest_subtitle: "Chalk of Ancients"
+	quest.504EEAA75990C78C.quest_subtitle: "古代粉笔"
 	quest.504EEAA75990C78C.title: "{\"text\": \"Cyan Chalk\", \"color\": \"#3DADAD\"}"
 	quest.5063CB99AD11CEB6.quest_desc: [
 		"&a红石符石&r每5-7.5秒修复&l穿戴盔甲&r1点耐久。"
@@ -7628,19 +7628,19 @@
 	]
 	quest.50DF3CDEE3B111CE.title: "&3化学反应釜"
 	quest.50E0C5ECFB5B02E1.quest_desc: [
-		"The &7Otherstone Trader&r allows you to get more &aOtherstone&r than using &aSpirit Fire&r."
+		"&7异界石交易者&r相比较&a灵火&r可以让你获得更多的&a异界石&r。"
 		""
-		"It is especially efficient if you want to use &aOtherstone&r as a building material."
+		"如果你想把异界石作为建筑材料的话，那么这个方法会非常高效。"
 	]
-	quest.50E0C5ECFB5B02E1.title: "&7Foliot Otherstone Trader"
+	quest.50E0C5ECFB5B02E1.title: "&7魔精异界石交易者"
 	quest.50EFBD8BDE0C88AF.quest_desc: ["&a范围升级&r可增加&3无线发送器&r的信号覆盖范围，从基础的16格最多扩展到48格。"]
 	quest.50EFBD8BDE0C88AF.title: "&a范围升级"
 	quest.50F2EDF92D289869.quest_desc: [
-		"&9Otherstone&r can be acquired by tossing andesite into &aSpirit Fire&r."
+		"把安山岩丢入&a灵火&r即可得到&9异界石&r。"
 		""
-		"Smelting &aOtherstone&r will give you &9Burnt Otherstone&r - a key component used to craft the White Chalk."
+		"烧制&a异界石&r可以得到&9煅烧异界石&r，它是制作&a白色粉笔&r的关键材料。"
 	]
-	quest.50F2EDF92D289869.title: "&9Otherstone"
+	quest.50F2EDF92D289869.title: "&9异界石"
 	quest.5119EFBB9FB39CDE.quest_desc: [
 		"The leader of a hostile illager troop, found atop the tower of their &bEvoker Fort.&r"
 		""
@@ -7727,7 +7727,7 @@
 		""
 		"These items can serve as simple enhancements or perform complex functions to assist the player."
 	]
-	quest.51D07B8762C46982.title: "&eBinding Rituals"
+	quest.51D07B8762C46982.title: "&e绑定仪式"
 	quest.51DE4859912D1EB6.title: "&e第三层"
 	quest.51DFB5D58190EEEF.quest_desc: [
 		"&c铀-235&r是&6铀&r的罕见同位素，至于&2铀-238&r，它是更常见的同位素。"
@@ -8280,7 +8280,7 @@
 		""
 		"Most &ePossesion&r and &eFamiliar Rituals&r are optional, but you will still need to complete their &bPentacles&r to reach the end-game."
 		""
-		"Simply click on the checkmark to progress the questline."
+		"只需要点击这个复选标记来推进任务流程就行"
 	]
 	quest.583456FAA606B5B4.quest_subtitle: "Possession Pentacle: Tier 4"
 	quest.583456FAA606B5B4.title: "&dAbras' Commanding Conjure"
@@ -8831,7 +8831,7 @@
 	quest.5F0AAD028931A220.quest_desc: [
 		"[ \"With \", {\"text\": \"Lime\", \"color\": \"#E2FC97\"}, \" and \", {\"text\": \"Light Gray\", \"color\": \"#C2C2C2\"}, \" chalks, you can now upgrade your \", {\"text\": \"Aviar's Circle\", \"color\": \"aqua\"}, \" to \", {\"text\": \"Ophynx' Calling\", \"color\": \"dark_aqua\"}, \" to clear the weather, skip the night, or summon a variety of \", {\"text\": \"Djinnis\", \"color\": \"dark_aqua\"}, \".\"]"
 		""
-		"Most &bRituals&r using this &bPentacle&r are optional."
+		"大多数使用&b五芒星&r的&b仪式&r都是可选择进行的。"
 	]
 	quest.5F0AAD028931A220.quest_subtitle: "Summoning Pentacle: Tier 2"
 	quest.5F0AAD028931A220.title: "&3Ophyx' Calling"
@@ -9164,10 +9164,10 @@
 		"{@pagebreak}"
 		"There are 4 different tiers of &bSpirits&r:"
 		""
-		"- &7Foliot&r: Tier 1"
-		"- &3Djinni&r: Tier 2"
-		"- &dAfrit&r: Tier 3"
-		"- &6Marid&r: Tier 4"
+		"- &7魔精&r：级别1"
+		"- &c巨灵&r：级别2"
+		"- &d火灵&r：级别3"
+		"- &6魔王&r：级别4"
 		""
 		"The &aBound Book&r that is required to complete a &bRitual&r will be based on the tier of the &bSpirit&r you are trying to summon, and the &bPentacle&r tier you use."
 	]
@@ -9215,24 +9215,24 @@
 		""
 		"&eFoundation Chalks&r are tiered chalks that can be used interchangeably with other colorless chalks, as long as they can summon the approriate tier. They come in four different colors:"
 		""
-		"- White: Tier 1"
-		"[\"- \", {\"text\": \"Light Gray\", \"color\": \"#C6C6C6\"}, {\"text\": \": Tier 2\", \"color\": \"white\"}]"
-		"[\"- \", {\"text\": \"Gray\", \"color\": \"#929292\"}, {\"text\": \": Tier 3\", \"color\": \"white\"}]"
-		"[\"- \", {\"text\": \"Black\", \"color\": \"#000000\"}, {\"text\": \": Tier 4\", \"color\": \"white\"}]"
+		"- 白色：级别1"
+		"[\"- \", {\"text\": \"淡灰色\", \"color\": \"#C6C6C6\"}, {\"text\": \"：级别2, \"color\": \"white\"}]"
+		"[\"- \", {\"text\": \"灰色\", \"color\": \"#929292\"}, {\"text\": \"：级别3\", \"color\": \"white\"}]"
+		"[\"- \", {\"text\": \"黑色\", \"color\": \"#000000\"}, {\"text\": \"：级别4\", \"color\": \"white\"}]"
 		""
-		"More advanced &bRituals&r will require a better &eFoundation Chalk&r."
+		"更高级的&b仪式&r需要更好的&e基础粉笔&r。"
 		"{@pagebreak}"
-		"[\"As an example, you can use \", {\"text\": \"Black Chalk\", \"color\": \"#000000\"}, \" in place of White, \", {\"text\": \"Light Gray\", \"color\": \"#C6C6C6\"}, \", or \", {\"text\": \"Gray\", \"color\": \"#929292\"}, \" glyphs for any \", {\"text\": \"Pentacle\", \"color\": \"#55FFFF\"}, \". However, White cannot be used in place of \", {\"text\": \"Light Gray\", \"color\": \"#C6C6C6\"}, \", \", {\"text\": \"Gray\", \"color\": \"#929292\"}, \", or \", {\"text\": \"Black Chalk\", \"color\": \"#000000\"}, \" glyphs.\"]"
+		"[\"举个例子，你可以使用\", {\"text\": \"黑色粉笔\", \"color\": \"#000000\"}, \"绘制白色、\", {\"text\": \"淡灰色\", \"color\": \"#C6C6C6\"}, \"和\", {\"text\": \"灰色粉笔\", \"color\": \"#929292\"}, \"的粉笔图案来完成\", {\"text\": \"仪式\", \"color\": \"#55FFFF\"}, \"。 反之，用白色粉笔的粉笔图案替代\", {\"text\": \"淡灰色\", \"color\": \"#C6C6C6\"}, \"，\", {\"text\": \"灰色\", \"color\": \"#929292\"}, \"和\", {\"text\": \"黑色粉笔\", \"color\": \"#000000\"}, \"则无法进行仪式。\"]"
 	]
-	quest.633843210DE84A0D.title: "&fFoundation Chalks"
+	quest.633843210DE84A0D.title: "基础粉笔"
 	quest.6338A56F731A5F25.quest_desc: [
-		"&eFamiliar Rituals&r summon &bSpirits&r to inhabit an animal's body, allowing them to resist decay and provide buffs to the summoner."
+		"&e使魔仪式&r召唤&b魔灵&r居住在动物的身体中使它们能够抵抗腐烂并为召唤师提供增益。"
 		""
-		"Some of these buffs can be acquire by binding the &eFamiliar&r to a &aFamiliar Ring&r and equipping it."
+		"其中一些增益可以通过将&e使魔&r绑定到&a使魔之戒&r并装备它来获得。"
 		""
-		"Most &eFamiliars&r will behave like tamed animals, following the player unless instructed not to."
+		"大多数&e使魔&r的行为就像被驯服的动物一样，会跟随玩家除非被指示不要这么做。"
 	]
-	quest.6338A56F731A5F25.title: "&eFamiliar Rituals"
+	quest.6338A56F731A5F25.title: "&e使魔仪式"
 	quest.633FA983B63A65DD.quest_desc: ["给&d压力表管道模块&r安装&b模块扩展卡&r后可以精确控制其输出的&c红石强度&r。"]
 	quest.633FA983B63A65DD.title: "&f功能扩展！"
 	quest.63516E977D8BC7C4.quest_desc: [
@@ -9241,7 +9241,7 @@
 		"It also looks really cool."
 	]
 	quest.63516E977D8BC7C4.title: "&5Eldritch Chalice"
-	quest.6372CB70B09D27EA.quest_desc: ["The &6Marid Smelter&r functions like all other &bSmelters&r, but process things 99% faster than normal."]
+	quest.6372CB70B09D27EA.quest_desc: ["&6魔王熔炼工&r的功能与其他所有的&b熔炼工&r相同，但它处理的速度比普通的快99%。"]
 	quest.6372CB70B09D27EA.title: "&6Marid Smelter"
 	quest.637CDD290456F2B2.quest_desc: [
 		"&a化学溶解室&r是工业先锋的主要合成机器，它可以将&2胶乳&r和物品组合，从而产生新的物品。"
@@ -9461,26 +9461,26 @@
 	]
 	quest.65A18B0DA64B7A42.title: "&f物流"
 	quest.65BCDCF0CEB69283.quest_desc: [
-		"The &aChimera&r behaves a little differently to most other &eFamiliars&r."
+		"&a奇美拉&r与其他的&e使魔&r有些许不同"
 		""
-		"It can grow when fed meat, increasing its damage and speed. Once fully grown, feeding it a &dGolden Apple&r will detach the &dGoat&r to become its own rideable mount."
+		"通过喂食奇美拉肉食可以使其成长，提升它的伤害和速度。等其成长完全，喂食它一个&d金苹果&r可以将原本融合于其中的&d山羊&r拆分出来，成为一个单独的坐骑。"
 		""
-		"When upgraded, it will get a warning bell that attracts nearby enemies in a large radius when hit."
+		"升级后，它会获得一个警钟，当你攻击它时，它就会释放钟声，吸引大范围怪物的仇恨"
 		""
-		"The &dGoat&r can also be used to summon a &dShub Niggurath &eFamiliar&r."
+		"&d山羊使魔&r也可以用于召唤&d莎布·尼古拉斯&e使魔&r"
 		"{@pagebreak}"
 		""
-		"To summon &dShub Niggurath&r, take the &dGoat&r to a forest biome and feed it any black dye, flint, and an eye of ender."
+		"为了召唤&d莎布·尼古拉斯&r，需要把&d山羊使魔&r带入森林生物群系，并依次喂食它任意黑色染料，燧石和末影之眼。"
 		""
-		"The &dShub Niggurath&r spawns small version of itself to fight for you, and will have the same bell as the &dGoat&r when upgraded."
+		"&d莎布·尼古拉斯&r会召唤缩小版的自己为你战斗，升级后，拥有和&d山羊使魔&r一样的警钟。"
 	]
-	quest.65BCDCF0CEB69283.title: "&3Chimera and Niggurath Familar"
+	quest.65BCDCF0CEB69283.title: "&3奇美拉与尼古拉斯使魔"
 	quest.65EB766D0445C1A6.quest_desc: [
-		"It is safe to destroy a &aStorage Stabilizer&r to ugprade it. The items in the &aStorage Actuator&r won't be lost or dropped, but you won't be able to add new items if until it has free slots again."
+		"把&a存储稳定器&r挖下来升级是安全的，&a存储稳定器&r中的物品不会丢失也不会掉落，但是你无法添加新物品进入其中，直到它有空位。"
 		""
-		"Each &3Tier 2 Dimensional Storage Stablizer&r adds 1024000 items, and 128 item types, up to four &aStablizers&r."
+		"每个&d二阶维度存储稳定器&r能增加1024000个物品和128个物品种类，最多支持四个&a稳定器&r。"
 	]
-	quest.65EB766D0445C1A6.title: "&3Tier 2 Dimensional Storage Stabilizer"
+	quest.65EB766D0445C1A6.title: "&3二阶维度存储稳定器"
 	quest.6600E26635FD3D0E.quest_desc: [
 		"&2Speed Modules&r can be used to upgrade many &eMFFS&r machines, generally speeding up their performance."
 		""
@@ -9627,8 +9627,8 @@
 		"If you've been leveling your &6Skills&r, you should be ready to take on the &dEnder Dragon&r!"
 	]
 	quest.67452E837BE2A6B8.title: "&fSlay The &dEnder Dragon"
-	quest.6750DD01D865937D.quest_desc: ["The &5Stabilized Dimensional Storage Actuator&r is not affected by &aStorage Stabilizers&r, but comes prebuilt with a &6Tier 4 Dimensional Storage Stablizer&r."]
-	quest.6750DD01D865937D.title: "&5Stabilized Dimensional Storage Actuator"
+	quest.6750DD01D865937D.quest_desc: ["&5稳定维度存储促动器&r不受&a存储稳定器&r影响，但额外预装了一个&6四级维度稳定器&r"]
+	quest.6750DD01D865937D.title: "&5稳定维度存储促动器"
 	quest.675BB2F97FC2D293.quest_desc: ["与监守者的魔法力量结合后，&3灵魂触摸幽匿书架&r能够提供更强的附魔能力，以及更深远的视界。"]
 	quest.675BB2F97FC2D293.title: "&3灵魂触摸幽匿书架"
 	quest.675DB26958651818.quest_desc: [
@@ -9744,15 +9744,15 @@
 	]
 	quest.68A718B129075CDF.title: "&7铁护身符"
 	quest.68A9006D2FE4A38D.quest_desc: [
-		"&aStorage Stabilizers&r increase the storage space in the &2Storage Actuator&r."
+		"&a存储稳定器&r会增加&a存储促动器&r的存储空间"
 		""
-		"Higher tier &aStorage Stabilizers&r provide a bigger storage increase for both items and item types."
+		"更高等级的&a存储稳定器&r提供更多的同类物品存储量和物品存储类别"
 		""
-		"&aStorage Stabilizers&r can be placed up to five blocks away, facing the &aDimensional Matrix&r texture. Check the &aDictionary of Spirits&r for the exact layout."
+		"&a存储稳定器&r需要被放置在五格范围内，面向&a维度水晶矩阵&r的纹理。查看&a魔灵全典&r了解如何摆放"
 		""
-		"Each &aTier 1 Dimensional Storage Stablizer&r adds 512000 items, and 64 item types, up to four &aStablizers&r."
+		"每个&d一阶维度存储稳定器&r能增加512000个物品和64个物品种类，最多支持四个&a稳定器&r。"
 	]
-	quest.68A9006D2FE4A38D.title: "&aTier 1 Dimensional Storage Stabilizer"
+	quest.68A9006D2FE4A38D.title: "&a一阶维度存储稳定器"
 	quest.68A9B5BD25E86D75.quest_desc: ["1个中级精华=16个下级精华"]
 	quest.68A9B5BD25E86D75.quest_subtitle: "三阶"
 	quest.68A9B5BD25E86D75.title: "&c中级精华&r"
@@ -9771,13 +9771,13 @@
 	]
 	quest.68F600EFC7166908.title: "&61.024 兆找照瓦特"
 	quest.69024F41C4025A48.quest_desc: [
-		"Using &aHedyrin's Lure&r you can summon the powerful &eBlaskmith Familiar&r."
+		"你可以使用&a海德林诱惑术&r，召唤出强力的&e铁匠使魔&r。"
 		""
-		"The &aBlacksmith&r upgrades other &eFamiliars&r and also has a chance to repair player equipment whenever the player picks up stone."
+		"这个&a铁匠&r不仅能强化你的其他&e使魔&r，还会在你拾取石材时，有几率自动修复你身上的装备。"
 		""
-		"To upgrade other &eFamiliars&r, the &aBlacksmith&r must be given iron ingots or blocks via right-clicking."
+		"若想强化其他&e使魔&r，你只需右击&a铁匠&r，并喂给它铁锭或铁块。"
 	]
-	quest.69024F41C4025A48.title: "&aBlacksmith Familiar"
+	quest.69024F41C4025A48.title: "&a铁匠使魔"
 	quest.69159D10C2791C2E.quest_desc: [
 		"&a青铜熔炉&r和&2研磨机&r是你应该最先制造的基础机器。"
 		""
@@ -9900,11 +9900,11 @@
 	quest.6A691F59D434B379.title: "&6核反应堆机制"
 	quest.6A6F2269F487A5D4.title: "&f烈焰水晶"
 	quest.6A84F3464CD7F0D5.quest_desc: [
-		"A &aRitual Satchel&r can hold items needed to create &bPentacles&r used in &bRituals&r, and can automatically place the right item directly onto the ground."
+		"&a仪式挎包&r能用于容纳&b仪式&r中创建&b五芒星&r所需物品，并且可以自动地放置正确的物品。"
 		""
-		"You must have selected a &bPentacle&r layout from the &6Dictionary of Spirits&r in order for the satchel to know what to select."
+		"你必须从&6魔灵全典&r中选择预览&b五芒星&r，才能让背包知道该选择什么。"
 	]
-	quest.6A84F3464CD7F0D5.title: "&3Feeling Lazy?"
+	quest.6A84F3464CD7F0D5.title: "&c有点懒吗？"
 	quest.6AA51581B0CA5271.quest_desc: [
 		"&a磁盘驱动器&r是装载&b存储磁盘&r的设备，这些磁盘可以存储物品或流体。驱动器本身有多种配置选项，如存储优先级、传输模式、销毁过量模式等等。"
 		""
@@ -10092,8 +10092,8 @@
 	quest.6DC738A434C5B02F.title: "&f击杀10只&d末影人"
 	quest.6DD9A75EE8C97710.quest_desc: ["&d亡灵术士&r与常见的敌对生物同时刷出来的概率极低，如果未做好准备，碰到他们将极为致命。在&b地下墓穴&r中，有时能碰到生成它们的刷怪笼。"]
 	quest.6DD9A75EE8C97710.title: "&f击杀10只&d亡灵术士"
-	quest.6E07405D08CCC2D4.quest_desc: ["[\"For the next tier of Chalks to upgrade your existing \", {\"text\": \"Pentacles\", \"color\": \"#55FFFF\"}, \", you'll need \", {\"text\": \"Lime Chalk\", \"color\": \"#E2FC97\"}, \", \", {\"text\": \"Light Gray Chalk\", \"color\": \"#C2C2C2\"}, \", and some skeleton skulls.\"]"]
-	quest.6E07405D08CCC2D4.title: "[{\"text\": \"\", \"color\": \"#FFFFFF\"}, {\"text\": \"Lime\", \"color\": \"#E2FC97\"}, \" & \", {\"text\": \"Light Gray\", \"color\": \"#C2C2C2\"}, \" Chalks\"]"
+	quest.6E07405D08CCC2D4.quest_desc: ["[\"为了把现有的\", {\"text\": \"五芒星\", \"color\": \"#55FFFF\"}, \"升至下一级别，你将需要\", {\"text\": \"黄绿色粉笔\", \"color\": \"#E2FC97\"}, \"、\", {\"text\": \"淡灰色粉笔\", \"color\": \"#C2C2C2\"}, \"以及一些骷髅头颅。\"]"]
+	quest.6E07405D08CCC2D4.title: "[{\"text\": \"\", \"color\": \"#FFFFFF\"}, {\"text\": \"黄绿色\", \"color\": \"#E2FC97\"}, \" & \", {\"text\": \"淡灰色\", \"color\": \"#C2C2C2\"}, \" 粉笔\"]"
 	quest.6E62CF3784A15E0F.title: "&f化学品卡"
 	quest.6E66D752E153E00F.title: "&f实用的&a一阶&r魔符"
 	quest.6E9BCC46F9963413.quest_subtitle: "11x11 Watering!"
@@ -10116,24 +10116,24 @@
 		"{ftbquests.chapter.mvvvvvvv.quest14.description2}"
 	]
 	quest.6F06B178DDBCAC38.title: "&e氯"
-	quest.6F0C07BA71E2325D.quest_desc: ["The &3Djinni Crusher&r functions like all other &bCrushers&r, but provides 3x the output."]
-	quest.6F0C07BA71E2325D.title: "&3Djinni Crusher"
+	quest.6F0C07BA71E2325D.quest_desc: ["&3巨灵碎矿者&r的功能与其他所有的&b碎矿者&r相同，但它的产出量是三倍。"]
+	quest.6F0C07BA71E2325D.title: "&3巨灵碎矿者"
 	quest.6F1C6E863E9F698F.quest_desc: [
-		"Using &3Ihagan's Enthrallment&r you can summon &ePossessed Mobs&r that drop loot when killed."
+		"你可以使用&3伊哈根奴役术&r召唤&e被附身的怪物&r，将其杀死以获得战利品"
 		""
-		"&aEnderman&r: End Pearl (1-3)"
+		"&a末影人&r：末影珍珠(1-3)"
 		""
-		"&aGhast&r: Ghast Tear (1-3)"
+		"&a恶魂&r：恶魂之泪(1-3)"
 		""
-		"&aWeak Shulker&r: Chorus Fruit (1-3) and Shulker Shell (10%)"
+		"&a虚弱潜影贝&r：紫颂果(1-3)和潜影壳(10%)"
 	]
-	quest.6F1C6E863E9F698F.title: "&3Ihagan's Enthrallment Possessions"
+	quest.6F1C6E863E9F698F.title: "&3伊哈根奴役术"
 	quest.6F37482EE0AB4ABD.quest_desc: [
-		"The &3Iesnium Pickaxe&r can be used to mine &9Otherworld Materials&r like &3Iesnium Ore&r."
+		"&3艾瑟金属镐&r可以用来挖掘&9异界金属&r，像是&3艾瑟金属矿&r"
 		""
-		"It is faster and more durable than the &aInfused Piackaxe&r."
+		"它更快且拥有比&a灌注镐&r更多的耐久"
 	]
-	quest.6F37482EE0AB4ABD.title: "&3Iesnium Pickaxe"
+	quest.6F37482EE0AB4ABD.title: "&3艾瑟金属镐"
 	quest.6F49DC432E5968AC.quest_desc: [
 		"&d滞缓符石&r在玩家受到缓慢效果影响时增加25%伤害。"
 		""
@@ -10345,36 +10345,36 @@
 	]
 	quest.7206EEA9D5C8393C.title: "&b升级过的海洋书架"
 	quest.720D8E574EB9D689.quest_desc: [
-		"Using &3Ihagan's Enthrallment&r you can summon many powerful &eFamiliars&r that can aid or provide buffs to the player."
+		"使用&3伊哈根奴役术&r可以让你召唤许多更强大的&e使魔&r，它们可以为玩家提供正面效果。"
 		""
-		"&aBat&r: Provides Night Vision"
-		"- Upgraded: Provides Life Steal"
+		"&a蝙蝠&r：提供夜视效果"
+		"- 升级后：提供生命窃取效果"
 		""
-		"&aBeholder&r: Highlights nearby entities, shoots lazer rays, eats Shub Niggurath babies to gain temporary damage and speed"
-		"- Upgraded: Provides Blindness immunity"
+		"&a眼魔&r：高亮周围实体，发射激光攻击怪物，吃掉眼魔宝宝可以提供临时的伤害和移速加成"
+		"- 升级后：提供失明免疫能力"
 		""
-		"&aCthulhu&r: Provides Water Breathing"
-		"- Upgraded: Acts as a mobile light source"
+		"&a克苏鲁：提供水下呼吸能力"
+		"- 升级后：可作为移动光源"
 		"{@pagebreak}"
-		"&aDevil&r: Attacks enemies and provides Fire Resistance"
-		"- Upgraded: Cannot be upgraded"
+		"&a恶魔&r：自动攻击怪物并提供抗火"
+		"- 升级后：该使魔不能被升级"
 		""
-		"&aDragon&r: Can be ridden by &eGreedy Familiars&r, acquiring its effects. Increases XP gains"
-		"- Upgraded: Attacks nearby enemies by throwing swords"
+		"&a龙&r：可以被&e贪婪使魔&r骑乘，获得它的能力。提供经验提升效果"
+		"- 升级后：扔出飞剑攻击周围的敌人"
 		""
-		"&aDrikwing&r: Provides Multi-Jump, Slow Fall, and Jump Boost"
-		"- Upgraded: Cannot be upgraded"
+		"&a具翼&r：提供多段跳，缓降和跳跃提升"
+		"- 升级后：该使魔不能被升级"
 		"{@pagebreak}"
-		"&aFairy&r: Prevents other &eFamiliars'&r death (on cooldown), Buffs &eFamiliars&r, Drains nearby enemies' HP."
-		"- Upgraded: Cannot be ugpraded"
+		"&a妖精&r：阻止其他&e使魔&r死亡（有冷却时间），为&e使魔&r提供正面效果，吸收周围敌人生命值"
+		"- 升级后：该使魔不能被升级"
 		""
-		"&aHeadless&r: Steals heads of nearby enemies to gain a permanent damage buff against that enemy type. It is killed if it drops below 50% health, but can be be revived when given Wheat, Sticks, Hay Bale, and a Carved Pumpkin"
-		"- Upgraded: Cannot be ugpraded"
+		"&a无头鼠骑士&r：窃取周围敌人的头部并占为己有，同时主人将获得对该类生物的伤害加成。但是当它的生命低于50%时，就会死亡。不过可以通过给予它小麦，木棍，干草捆，雕刻南瓜来复活它"
+		"- 升级后：该使魔不能被升级"
 		""
-		"&aMummy&r: Fights nearby enemies"
-		"- Upgraded: Increased damage"
+		"&a木乃伊&r：攻击周围敌人"
+		"- 升级后：提升伤害"
 	]
-	quest.720D8E574EB9D689.title: "&3Ihagan's Enthrallment Familiars"
+	quest.720D8E574EB9D689.title: "&3伊哈根奴役术使魔"
 	quest.721B40D73EDF8589.quest_desc: [
 		"游戏早期时，&6燃气发电机&r是最佳发电手段。这种发电方式可以用到游戏中期，所以很多人感觉这个发电机太强大了。"
 		""
@@ -11591,15 +11591,15 @@
 	]
 	quest.7E88C7654F281E43.title: "{\"text\":\"调整物品\", \"color\":\"#EA6F14\"}"
 	quest.7E909792A1E7CFD1.quest_desc: [
-		"With &cRed Chalk&r, you can upgrade your &dAbras' Open Conjure&r to the next tier: &dAbras' Conjure&r."
+		"使用&c红色粉笔&r，你可以将你的&d阿巴拉斯开环召唤术&r升为更高等级：&d阿巴拉斯召唤术&r"
 		""
-		"That's right. We just closed it."
+		"没错，咱只需要把它关了"
 		""
-		"This &bPentacle&r allows you to safely summon and bind &dAfrits&r, powerful &eFamiliars&r, and fully control the weather."
+		"这个&b五芒星&r允许你安全的召唤&d火灵&r并将其绑定，召唤更强大的&e使魔&r，以及完全控制天气"
 		""
-		"Most &bRituals&r using this &bPentacle&r are optional."
+		"大多数使用&b五芒星&r的&b仪式&r都是可选择进行的。"
 	]
-	quest.7E909792A1E7CFD1.quest_subtitle: "Summoning Pentacle: Tier 4"
+	quest.7E909792A1E7CFD1.quest_subtitle: "召唤五芒星：级别4"
 	quest.7E909792A1E7CFD1.title: "&dAbras' Conjure"
 	quest.7EA01C721DFBF014.quest_desc: [
 		"&a自动放置器&r和&a流体放置器&r可以在机器前自动放置方块或流体。"
@@ -11802,14 +11802,14 @@
 	reward.30027B5188AB9E9B.title: "+1 魔法技能点"
 	reward.3069A1127E891692.title: "&f1点&d魔法&f技能点"
 	reward.3158B71C6BC533B3.title: "+1 Melee Skill"
-	reward.34C0F383E16E4F8B.title: "+1 Melee Skill"
+	reward.34C0F383E16E4F8B.title: "+1 近战技能点"
 	reward.35206AD87E887AE5.title: "&f1点&d魔法&f技能点"
 	reward.379F1B936DD490B9.title: "&f1点&d魔法&f技能点"
 	reward.3AFA2A1F003D80F7.title: "&f1点&d魔法&f技能点"
 	reward.3E1A04FDE4188A29.title: "+1 魔法技能点"
 	reward.44EE4A6B85BE6E3C.title: "+3 魔法技能点1"
-	reward.490D4212EF265CB7.title: "Why Did You Sacrifice Me?"
-	reward.491B223EC2D1899F.title: "+1 Melee Skill"
+	reward.490D4212EF265CB7.title: "你为什么要献祭我？"
+	reward.491B223EC2D1899F.title: "+1 近战技能点"
 	reward.49BAC1929B288851.title: "&f1点&d魔法&f技能点"
 	reward.4DF1D3710DEEB1AB.title: "&f1点&d魔法&f技能点"
 	reward.4E0A424438B78332.title: "+1 魔法技能点"
@@ -11820,7 +11820,7 @@
 	reward.57DC44652AED36CC.title: "重置远程技能树"
 	reward.5870EC9F52AB69C7.title: "Reset Melee Tree"
 	reward.598DA6E6E498FFB7.title: "1 Skill Point In &bMining&r"
-	reward.5A114EF239CA0349.title: "+1 Melee Skill"
+	reward.5A114EF239CA0349.title: "+1 近战技能点"
 	reward.5B458D5C90072DF8.title: "&3基因库"
 	reward.5C52ECADF27A58D3.title: "+1 魔法技能点"
 	reward.5D59202EA08550F4.title: "+3 魔法技能点"
@@ -11885,12 +11885,12 @@
 	task.00A4D09EDA359F3C.title: "&f量子计算机合成存储器"
 	task.00F90C52CBAECEBB.title: "&d法术&a墨水"
 	task.014032E1127D63B6.title: "Any runewood sapling"
-	task.01C2880124C104B5.title: "&eSummon&r: &3Possessed Weak Shulker"
-	task.020E0F95DC60069D.title: "&eSummon&r: &7Foliot Smelter"
-	task.027A2DFFEB1A7AC1.title: "&3Ihagan's Possessions"
+	task.01C2880124C104B5.title: "&e召唤一个&3被附身的虚弱潜影贝"
+	task.020E0F95DC60069D.title: "&e召唤一个&7魔精熔炼工"
+	task.027A2DFFEB1A7AC1.title: "&3伊哈根魔灵附身"
 	task.02C8EDC8ACEFC3B7.title: "&b三级&f生物种子"
-	task.02E6504A12BEF04F.title: "&eSummon&r: &6Marid Crusher"
-	task.033C0800D02082EF.title: "&eSummon&r: &aWater Animal"
+	task.02E6504A12BEF04F.title: "&e召唤一个&6魔王碎矿者"
+	task.033C0800D02082EF.title: "&e召唤一个&a水生动物"
 	task.03DFD823ACDCF36F.title: "操控流体"
 	task.047B3C49E817FA1F.title: "我已经有了电力"
 	task.04A70E089DED1FFE.title: "&e观察&f：金属冲压机"
@@ -11898,23 +11898,23 @@
 	task.05B209B3FC005914.title: "击杀每种敌对生物各一只"
 	task.05BA59C2F9E1F43B.title: "&fKill 10 &cBlazes"
 	task.07417ECE0AFC0BDA.title: "太阳能板"
-	task.074CA59C4911AD67.title: "&eSummon&r: &dPossessed Shulker"
+	task.074CA59C4911AD67.title: "&e召唤一个&d被附身的潜影贝"
 	task.07A28AE0ECC4CDDE.title: "&d魔法&f腰带！"
 	task.07B3E353519E2FE6.title: "&9至高木"
 	task.07CD5267730566F9.title: "塑料片"
 	task.07F3A67702DAA987.title: "Inventory Trashcan!"
 	task.07FB5E0C90164FF9.title: "Leave The Bumblezone"
 	task.08061F73E1D9775F.title: "电池"
-	task.089B53BB412A3113.title: "&eSummon&r: &3Wife"
+	task.089B53BB412A3113.title: "&e召唤一个&3恶魔妻子"
 	task.08A176AF81AFB67F.title: "&b高级精华&f工具"
 	task.0942F933E8D6C1D3.title: "&dDimensional Storage&r"
 	task.096452CE0C4FC543.title: "任意锄"
 	task.09BA8AE5976CB602.title: "Jetpacks"
-	task.0A6AA7DD87D2EDE2.title: "&3Demonic Partners"
+	task.0A6AA7DD87D2EDE2.title: "&3恶魔伴侣"
 	task.0ABCE3537E92F6F2.title: "Enter The &dAfterdark&r"
 	task.0ADB488118F04CF5.title: "蜜蜂属性"
 	task.0AE9E3C1553154B6.title: "Tier 1 \\&\\ 2 Machine Cores"
-	task.0B432770D3EE9EC1.title: "&eSummon&r: &3Machine Operator"
+	task.0B432770D3EE9EC1.title: "&e召唤一个&3机器操作员"
 	task.0BC939593E954EC8.title: "Skills"
 	task.0C41CFCD491848EC.title: "&a下级精华&f盔甲"
 	task.0C47F959959238CA.title: "&eSummon&r: &dThunderstorm Spirit"
@@ -11926,19 +11926,19 @@
 	task.0E8C4E7C9C329FA2.title: "&e观察&f：避雷针"
 	task.0E9F56ED131D460D.title: "充能催化剂"
 	task.0ECBFE9262249011.title: "Any soulstained tool"
-	task.0F323A1897237ED1.title: "&eSummon&r: &aSunshine Spirit"
+	task.0F323A1897237ED1.title: "&e召唤一个&a晴天魔灵"
 	task.101BA566216C32AD.title: "AE线缆"
 	task.10328EE3113F66B2.title: "&3Ihagan's Familiars"
-	task.10F21F1905A48313.title: "&eSummon&r: &3Special Animal"
+	task.10F21F1905A48313.title: "&e召唤一个&3特殊动物"
 	task.110E6C2DF4533110.title: "Obsidian Dust"
 	task.1114E07F8446FAA0.title: "方块管理"
 	task.1203293F62D3F55F.title: "第三层：完成"
 	task.1211B7B1BC40225B.title: "存储控制器"
 	task.1257CB86BCFAFF54.title: "&6觉醒精华&f盔甲"
 	task.1367AF5545964395.title: "&f漫游"
-	task.145F4045BA952DD9.title: "&eSummon&r: &3Beholder"
-	task.157943917298E1ED.title: "&eSummon&r: &3Possessed Ghast"
-	task.15B36BA190076579.title: "&aHedyrin's Familiars"
+	task.145F4045BA952DD9.title: "&e召唤一个&a眼魔使魔"
+	task.157943917298E1ED.title: "&e召唤一个&3被附身的恶魂"
+	task.15B36BA190076579.title: "&a海德林使魔"
 	task.16643E9DD53BA701.title: "修复套件"
 	task.16B63615064B8E17.title: "&fKill: 1x &dStarlight Golem"
 	task.16BF0A61F3CBE37C.title: "击杀流浪商人"
@@ -11947,27 +11947,27 @@
 	task.16F2199AE6D61307.title: "&6Soulplied Energistics"
 	task.17766119BC2ED7A3.title: "部件属性"
 	task.17E5AF15A0633680.title: "&d节魔之戒&r"
-	task.17F5C28F412FABC5.title: "&eSummon&r: &aPossessed Witch"
+	task.17F5C28F412FABC5.title: "&e召唤一个&a被附身的女巫"
 	task.1817578EA1A618AB.title: "&b高级精华&f盔甲"
 	task.183FEFA2AEF46058.title: "Observe &aSpirit Fire"
-	task.185302C49E85B5E3.title: "&eSummon&r: &aDeer"
+	task.185302C49E85B5E3.title: "&e召唤一个&a小鹿使魔"
 	task.18BBCE523EABE49C.title: "Coal"
 	task.19FEB64A680EC482.title: "MI流体管道"
-	task.1A3819027110CDC5.title: "&eSummon&r: &aCommon Animal"
+	task.1A3819027110CDC5.title: "&e召唤一个&a普通动物"
 	task.1A4A5A59FFF815E2.title: "&cHeater&r"
 	task.1A712E5D65A28EF4.title: "&d口袋存储&f！"
 	task.1AE6891519569A4C.title: "&fFurnators"
-	task.1B49CC94C54373F4.title: "&eSummon&r: &dPossessed Hoglin"
+	task.1B49CC94C54373F4.title: "&e召唤一个&d被附身的疣猪兽"
 	task.1B724AA2EDADE92A.title: "&f击杀10只&d亡灵术士"
-	task.1B7ED750DCA724D1.title: "&eSummon&r: &dPossessed Elder Guardian"
+	task.1B7ED750DCA724D1.title: "&e召唤一个&d被附身的远古守卫者"
 	task.1BB51471E9C7949F.title: "&bPentacle &fComplete"
 	task.1C0BB83393437BDF.title: "&f组件界面"
 	task.1C1B6CA8991CBB5D.title: "&f岩浆发电机"
 	task.1C70AB93B6A0F1A6.title: "&6一些有用的方块&r"
 	task.1CE8A62210A2D217.title: "&e观察&f：合金窑"
-	task.1D13D516425A8FDE.title: "&bPentacle&r Complete"
+	task.1D13D516425A8FDE.title: "&b五芒星&r已完成"
 	task.1DBB6B2E600D2533.title: "任意锄头"
-	task.1E1BD8B23B99DBBE.title: "&eSummon&r: &aPossessed Skeleton"
+	task.1E1BD8B23B99DBBE.title: "&e召唤一个&a被附身的骷髅"
 	task.1E25F96E4ECA6380.title: "重置魔法技能树"
 	task.1E44E4A78D48D820.title: "Useful Upgrades"
 	task.1E4BBCF77E4AE460.title: "扩容盒"
@@ -11987,13 +11987,13 @@
 	task.247B79A552BA6CCE.title: "穿戴整齐，出门探险！"
 	task.2499252075BAB96E.title: "&a一级&f种子"
 	task.250E86F309F06DC5.title: "&eSummon&r: &7Foliot Janitor"
-	task.25225ED0412FB977.title: "&eSummon&r: &6Marid Smelter"
+	task.25225ED0412FB977.title: "&e召唤一个&6魔王熔炼工"
 	task.2536607E3473FFF4.title: "&5量子靴子"
 	task.257DB4A574FF1E69.title: "&f游玩&b1小时"
-	task.25C2CD55816664D4.title: "&fGroup Summons"
+	task.25C2CD55816664D4.title: "&fl族群召唤"
 	task.2612B5ABA237D9EA.title: "速度升级"
 	task.264FDB7064AF2C7B.title: "重置防御技能树"
-	task.2657647D4CF31BBA.title: "Candles"
+	task.2657647D4CF31BBA.title: "蜡烛"
 	task.268F689AFA620C03.title: "&f击杀20只&c骷髅"
 	task.2694B69E0E2DA5CD.title: "&2二级&f种子"
 	task.269CF5B1D914AFC8.title: "Visit The &6Bumblezone&r"
@@ -12001,7 +12001,7 @@
 	task.27F8AF789DE14145.title: "任意处理器"
 	task.27FFF0492348277F.title: "&d生长加速器&r"
 	task.281F47BF78FD194B.title: "&9It's Hammer Time&r"
-	task.2863432ECAE88DDF.title: "&fWild Summons"
+	task.2863432ECAE88DDF.title: "&f荒野召唤"
 	task.28B9FEA413CD2BCD.title: "Pot Sherd"
 	task.2951F1493E615F65.title: "&eSummon&r: &3Devil"
 	task.2988CAF299690CDB.title: "实用命令！"
@@ -12010,23 +12010,23 @@
 	task.2B2473620B056467.title: "游玩&d50小时"
 	task.2B2AC5A9A28F14A9.title: "蓄电池"
 	task.2B97A2DFF700B056.title: "&6Fargo的符石"
-	task.2BB5021FC9A3E6EB.title: "&eSummon&r: &aUnbound Parrot"
+	task.2BB5021FC9A3E6EB.title: "&e召唤一个&a鹦鹉"
 	task.2C1245371800E1E7.title: "蜜蜂种类"
 	task.2C8687501A9C54A8.title: "&2初级精华&f工具"
 	task.2CA99A333EDFB6FC.title: "&a精华耕地&r"
 	task.2CC8184A4A0C3AED.title: "就地升级"
 	task.2D6AEF337BEAFA58.title: "Any crucible augment"
 	task.2DCE94139CB2078D.title: "&aUtility Upgrades"
-	task.2E079C677B170563.title: "&fFoundation Chalks"
+	task.2E079C677B170563.title: "基础粉笔"
 	task.2E1EB6FEC1AE28D0.title: "Silent Gear Blueprint"
 	task.2E2AAC08F926D8EE.title: "&f能量与你"
 	task.2E2CF42092AA43D8.title: "升级版&a磁盘接口"
 	task.2E7ED86FD24E5718.title: "&fPunch A Tree"
 	task.2EE3E482A1A9CA90.title: "&eSummon&r: &3Fairy"
 	task.2F24789F418ADCF8.title: "Hoe"
-	task.301841E2EFD9CDF4.title: "Find some Prismarine Sand"
+	task.301841E2EFD9CDF4.title: "找到一些海晶沙"
 	task.307A38BAB131FECA.title: "Collecting Souls"
-	task.30C463CFF560647D.title: "&fRepair a Chalk"
+	task.30C463CFF560647D.title: "&f修理一支粉笔"
 	task.310335F073D442F0.title: "Hopper Upgrades"
 	task.31D3D8C34525AC97.title: "&f过滤器实例演示"
 	task.327D6E2AE8863BC1.title: "&fKill: 1x &cPyromancer"
@@ -12035,9 +12035,9 @@
 	task.33E428135EC63BC7.title: "&f玩家供电仪"
 	task.344DCD6A3921B1ED.title: "效率升级"
 	task.345089696B5A7211.title: "饮食多样性"
-	task.346A097A266F1BCD.title: "&fA Note For The Questline"
+	task.346A097A266F1BCD.title: "&f任务线提示"
 	task.34C81AE26CFD0DE9.title: "&eSummon&r: &dGuardian"
-	task.34E4854C5D701F99.title: "&fDimensional Storage Actuator"
+	task.34E4854C5D701F99.title: "&f维度存储促动器"
 	task.34F38A214F5DEFC3.title: "&eSummoning Rituals"
 	task.35409BE8A6FF3D03.title: "&6MekaSuit"
 	task.354FABEDA5A08474.title: "&6Tier 4"
@@ -12046,12 +12046,12 @@
 	task.36BEC946B5E6E49C.title: "&fPlants \\&\\ Herbs"
 	task.36C5D1EED2022E8D.title: "&aTier 1"
 	task.36D4CF12BC70DBDD.title: "&f关于网络的一切！"
-	task.373810705E9367E4.title: "&bPentacle&r Complete"
-	task.384B6BCA1FEDF650.title: "&eRepair&r: &dAny Tool"
+	task.373810705E9367E4.title: "&b五芒星&r已完成"
+	task.384B6BCA1FEDF650.title: "&e修理任意工具"
 	task.386D9AA214E6D415.title: "Useful Upgrades"
 	task.3889B43E696EFED6.title: "Automating Spirits?"
 	task.390BE5325E1DE990.title: "&d时间之袋&r"
-	task.3976B625344DFBB1.title: "&3Ihagan's Animals"
+	task.3976B625344DFBB1.title: "&3伊哈根动物"
 	task.397D694A3BBD7E9C.title: "下界合金战斗法师套装"
 	task.39D4236DC3AC99FA.title: "&aRenewable Power Options&r"
 	task.39F659B8811B8581.title: "&f通用机械气体管道"
@@ -12060,11 +12060,11 @@
 	task.3B2325C6AF94E846.title: "Reset Melee"
 	task.3B68713C93B4FAA8.title: "Pickup Upgrades"
 	task.3B7699715021E7F7.title: "可放置的食物"
-	task.3B91067C07169C66.title: "Spiritual Decay"
+	task.3B91067C07169C66.title: "灵髓衰退"
 	task.3BAB7DD1F21B76F7.title: "找到&6牧师"
-	task.3BD5ADDC5C07F492.title: "&eSummon&r: &3Shub Niggurath"
+	task.3BD5ADDC5C07F492.title: "&e召唤一个&3纱布·尼古拉斯使魔"
 	task.3C30835D105E888F.title: "&fFluid Drawers"
-	task.3C308BEEE3895C69.title: "&bPentacle&r Complete"
+	task.3C308BEEE3895C69.title: "&b五芒星&r已完成"
 	task.3C860F0D8A0EB84A.title: "可选的模板"
 	task.3CB07FD3F54AFA92.title: "&6Relics&r"
 	task.3D00D0A8A61617EA.title: "子沙"
@@ -12075,40 +12075,40 @@
 	task.3EB3DC0E20ACCE4A.title: "找到陨石！"
 	task.3EDDF62E803A56A4.title: "Kill 32 Spiders"
 	task.3EF3D33D52CB41A5.title: "Void Upgrades"
-	task.3F405FB146055F6D.title: "Sacrifices"
+	task.3F405FB146055F6D.title: "献祭"
 	task.3F437642D1B08EBF.title: "&fKill 20 &cSpiders"
 	task.3F46F72C0F67F699.title: "Skip this step"
 	task.3F5A6F2680A95A43.title: "&f输入和输出口"
 	task.3F7FE89F1DBD4A48.title: "&e观察&f：工业挤压机"
 	task.4087591E474FC477.title: "&f击杀10只&d末影人"
 	task.4096CA7300D6F0EB.title: "切换护身符效果"
-	task.40E0C4BFAB2B3608.title: "&dAbras' Possessions"
-	task.40F05F6EC4A106F4.title: "&eSummon&r: &3Rideable Animal"
+	task.40E0C4BFAB2B3608.title: "&d阿巴拉斯魔灵附身"
+	task.40F05F6EC4A106F4.title: "&e召唤一个&r&3可骑乘动物"
 	task.412C9C16BA0FC2C0.title: "Tools"
-	task.41685895FDFE2D3B.title: "&bPentacle&r Complete"
+	task.41685895FDFE2D3B.title: "&b五芒星&r已完成"
 	task.416A62E1A9DCD18C.title: "睡袋"
 	task.4180CC29AD0E5CB7.title: "Drink 8 Honey Bottles"
 	task.41C6DFE9A3B35FF8.title: "输出口"
 	task.41F84CFCEEB9726B.title: "&6JustDire模组&r的燃料"
-	task.4231E260B5663246.title: "&eSummon&r: &7Otherstone Trader"
-	task.424E4C3828D04E2F.title: "&eSummon&r: &3Djinni Crusher"
+	task.4231E260B5663246.title: "&e召唤一个&7异界石交易者"
+	task.424E4C3828D04E2F.title: "&e召唤一个&3巨灵碎矿者"
 	task.42740D7113007531.title: "&aMarkers"
 	task.42D7392235F0A913.title: "&f镶框抽屉"
 	task.4305EB1ACB09AEB9.title: "处理升级"
 	task.4309B43CD4447705.title: "&b建筑棒&r"
-	task.43333831CA15EA20.title: "&eSummon&r: &dPossessed Warden"
+	task.43333831CA15EA20.title: "&e召唤一个&d被附身的监守者"
 	task.4335140E412572D8.title: "&f打败十波&d永恒之门"
 	task.43F12298AA3644E9.title: "Upgrading To Iron"
 	task.44471E3598AA381B.title: "&2二级&f生物种子"
 	task.45016D6A71CA38A9.title: "&cEnergy Cubes&r"
 	task.4507BF42E5A8FD9D.title: "&b四级&f种子"
 	task.4544EA17F4CDD321.title: "了解词缀物品的特性"
-	task.45CC5A8334951331.title: "I have read and agreed to the Terms and Conditions"
-	task.45E409BCABAACDB1.title: "&aOtherworld Groves"
+	task.45CC5A8334951331.title: "我已阅读并同意以下条款"
+	task.45E409BCABAACDB1.title: "&a异界树林"
 	task.461DC877898F48C2.title: "&f世界中的方块"
 	task.4668931B20B14CA6.title: "&6JustDire的&f高能煤炭"
 	task.473509F84E9C3147.title: "蜂巢和蜜蜂刷新"
-	task.4742ACCF0E820BD4.title: "&eSummon&r: &3Drikwing"
+	task.4742ACCF0E820BD4.title: "&e召唤一个&3具翼"
 	task.4750B6095A6DC2F2.title: "&e观察&f：粉碎机"
 	task.4770154ADE2ED622.title: "&f构建第一个&d法术"
 	task.47E296C60E6A6459.title: "&d五级&f生物种子"
@@ -12121,7 +12121,7 @@
 	task.4A0037264C36EBE1.title: "&e观察&f：&d电弧炉"
 	task.4A18F4F81AEA7421.title: "第一层：完成"
 	task.4A5574B73D5286B1.title: "任意可佩戴的符文"
-	task.4B48F3912AE46B3C.title: "&eSummon&r: &aPossessed Phantom"
+	task.4B48F3912AE46B3C.title: "&e召唤一个&a被附身的幻翼"
 	task.4B65088186551D3C.title: "&fVoid Upgrades"
 	task.4BB1855917140E38.title: "&b施放法术"
 	task.4BEC813158265CFD.title: "&f太阳能板"
@@ -12133,7 +12133,7 @@
 	task.4DBC16ACBFEF4D40.title: "Stack Upgrades"
 	task.4DDC10B7CDEA5CB5.title: "&fInterfaces"
 	task.4F3BD1ECA2A53285.title: "&f通用机械流体管道"
-	task.4F725B8E1BB9B8D1.title: "&eBinding Rituals"
+	task.4F725B8E1BB9B8D1.title: "&e绑定仪式"
 	task.4FAE5B3549E023A9.title: "&aFTB金字塔"
 	task.506C293E06A5C513.title: "&fThermo Gens"
 	task.5110161504E22255.title: "&eRitual&r: &aPurify Vex"
@@ -12141,18 +12141,18 @@
 	task.51960CB0D71494BF.title: "&f反应堆"
 	task.519E1F80092719D1.title: "报告Bug"
 	task.51E0FB26781697CB.title: "Tier Upgrades!"
-	task.52DC2C96BC93F381.title: "&eSummon&r: &7Foliot Transporter"
+	task.52DC2C96BC93F381.title: "&e召唤一个&7魔精搬运工"
 	task.530053F67ED5E6F3.title: "Limited Barrels"
 	task.530B680860B7C5E7.title: "找到药剂师"
 	task.5312722528B8561B.title: "&f游玩&6100小时"
 	task.5336018EE8A0D660.title: "&eSummon&r: &3Drikwing"
 	task.5355E58AAC34F75A.title: "&b奥术师套装"
-	task.53A96A871A0DB011.title: "&bPentacle&r Complete"
+	task.53A96A871A0DB011.title: "&b五芒星&r已完成"
 	task.53DBF8E185837F67.title: "MI基础电缆"
 	task.5434F149E894EFA6.title: "欢迎"
-	task.543F7E507C47F2EB.title: "&eRepair&r: &dArmor"
+	task.543F7E507C47F2EB.title: "&e修理盔甲"
 	task.5483D23444F3E019.title: "&eSummon&r: &3Dragon"
-	task.553BD544A0125D67.title: "&bPentacle&r Complete"
+	task.553BD544A0125D67.title: "&b五芒星&r已完成"
 	task.55B1C70507F60EDF.title: "&bAE2内置指南书&r"
 	task.55CC22F0E7476029.title: "&eSummon&r: &6Iesnium Golem"
 	task.55F2E8D6E339FE04.title: "&c三级&f生物种子"
@@ -12164,27 +12164,27 @@
 	task.575F4232C0E9D957.title: "魔法装备"
 	task.579A856376CC3518.title: "Any Malum trinket"
 	task.57A9D2B9030E96F9.title: "&2初级精华&f盔甲"
-	task.57FEAD1653F0F2DD.title: "&eSummon&r: &3Villager"
+	task.57FEAD1653F0F2DD.title: "&e召唤一个&3村民"
 	task.580FC1A9FFD21906.title: "我已阅读并同意创造有史以来最好的药剂"
 	task.582842DFA3989416.title: "&eSummon&r: &3Mummy"
 	task.58687506041183E7.title: "&f击杀20只&c史莱姆"
-	task.58C446166902A90E.title: "&eSummon&r: &3Husband"
+	task.58C446166902A90E.title: "&e召唤一个&3恶魔丈夫"
 	task.58DC7CD2A4F595DD.title: "&f击杀&f：&d高位唤魔者"
 	task.591E2F53EFC69C37.title: "&9Tier 2"
 	task.59A1C4B408D26923.title: "Find an Infinity Cave"
 	task.5A0B7C6C05EEBEE2.title: "&dDrawer Upgrades"
 	task.5A1A65112702EB49.title: "Herbs"
 	task.5A24652F0FB1E8F3.title: "&fKill: 1x &dLunar Monstrosity"
-	task.5A4A1F326C2F75BC.title: "&bPentacle&r Complete"
+	task.5A4A1F326C2F75BC.title: "&b五芒星&r已完成"
 	task.5A7D16167EA18581.title: "&d末地&f蜂巢"
-	task.5AC8CFBCB4375AC0.title: "&eSummon&r: &dAfrit Smelter"
+	task.5AC8CFBCB4375AC0.title: "&e召唤一个&d火灵熔炼工"
 	task.5AF5D5EBA8E1E158.title: "枪支改造"
 	task.5B0B7A1B78FA15B6.title: "&f能量单元"
 	task.5B5BB0C38EB99A40.title: "&a预测掉落物"
 	task.5B8D61770B7554D0.title: "&f通用存储"
 	task.5B97CEFB80FF361B.title: "&f击杀10只&d潜影贝"
-	task.5BE8C72BDBCC78CE.title: "&eFamiliar Rituals"
-	task.5BF75EED8F2F48DC.title: "&eSummon&r: &3Cthulhu"
+	task.5BE8C72BDBCC78CE.title: "&e使魔仪式"
+	task.5BF75EED8F2F48DC.title: "&e召唤一个&3克苏鲁"
 	task.5C1A44148EE9D1D2.title: "Tame a &6Beehemoth&r"
 	task.5C621DC20ED224E0.title: "厨柜"
 	task.5CC1B15C0C7AA7C3.title: "&5量子护腿"
@@ -12202,7 +12202,7 @@
 	task.5E824F724F133342.title: "&e观察&f：发酵机"
 	task.5F37B6A58234D49E.title: "分级催化剂"
 	task.5FD1AC346811740C.title: "&fKill: 1x &6Dead King"
-	task.5FD3ED03945F754B.title: "&eSummon&r: &aParrot"
+	task.5FD3ED03945F754B.title: "&e召唤一个&a鹦鹉使魔"
 	task.6064031AABA0D8D1.title: "&f击杀&f：&d药剂师"
 	task.60763988647E0462.title: "瓶装&d魔法&f"
 	task.60789ACB2B0A6E74.title: "&b灌注精华"
@@ -12210,12 +12210,12 @@
 	task.609F04747AC7E954.title: "&a神秘学&f的魔灵矿工"
 	task.60AC4DF069C58E68.title: "&5量子胸甲"
 	task.60AE0E54D1CAE9EE.title: "&fBatteries"
-	task.6130E9ED81C8EECD.title: "&eMagical Storage"
+	task.6130E9ED81C8EECD.title: "&e魔法存储"
 	task.6149E8B94920BEB3.title: "&fStack Upgrades"
 	task.616ED86B19DC0FFB.title: "&e观察&f：焦炉"
 	task.61B136724B06E927.title: "瘟疫术士套装"
 	task.61C0F35123FBB85E.title: "&f击杀：1只&d监守者"
-	task.62444557DFD28C36.title: "&aHyderin's Animals"
+	task.62444557DFD28C36.title: "&a海德林的动物"
 	task.62B65545FCBA5292.title: "Discover All &6Bumblezone&r Biomes"
 	task.62DE6121CE506116.title: "管道升级"
 	task.62ED0EC3C8534504.title: "&2矿晶"
@@ -12223,7 +12223,7 @@
 	task.63631EC45A5E0BD0.title: "&e观察&r：自动化工程师装配台"
 	task.63B6D52741114570.title: "&eSummon&r: &7Foliot Lumberjack"
 	task.63C4D2F3F7059C8E.title: "&fAuto-Pickup Upgrades!"
-	task.63CCD5B192C043E9.title: "&eObserve&r: &7Foliot Crusher Demon"
+	task.63CCD5B192C043E9.title: "&e观察&f：&7魔灵碎矿者"
 	task.643D8A56111D16B7.title: "Any &dSpell Scroll&r"
 	task.64CC6BB34041EAFB.title: "&d五级&f种子"
 	task.654450BCAE6FF1CA.title: "&cTertium &fArmor"
@@ -12237,13 +12237,13 @@
 	task.69165B138F6A0983.title: "&c中级精华&f工具"
 	task.6925E00B803A9170.title: "Waystones"
 	task.69A9B5B0B534F7D4.title: "激光束"
-	task.6A2D276566E902AD.title: "&bPentacle&r Complete"
+	task.6A2D276566E902AD.title: "&b五芒星&r已完成"
 	task.6A495CBF42B6447E.title: "Find a &cPyromancer"
 	task.6A8905866514F79D.title: "&eRitual&r: &aRessurect Familiar"
 	task.6AA28ACC00B467BA.title: "农夫乐事的刀"
 	task.6ADC311A6F201C21.title: "&d末影&r单元"
-	task.6B0602266368826B.title: "&ePossession Rituals"
-	task.6B8157688CD23283.title: "&eSummon&r: &aBlacksmith"
+	task.6B0602266368826B.title: "&e附身仪式"
+	task.6B8157688CD23283.title: "召唤一个&a铁匠使魔"
 	task.6B9EDB6F4966725F.title: "&6Building Gadgets"
 	task.6BDE648BA0C87618.title: "测试"
 	task.6C0240B676A69E94.title: "精英控制电路或者模拟电路"
@@ -12253,9 +12253,9 @@
 	task.6D5A51E40562FF88.title: "&c三级&f种子"
 	task.6D8527E9C8C06246.title: "Soulful Drops"
 	task.6E13E2A3DC19FBC3.title: "Kill Two Phantoms With A Piercing Arrow"
-	task.6E326027133166B6.title: "&aHedyrin's Possessions"
-	task.6F06D38FC0B0F1EF.title: "&fRepair a Miner"
-	task.6F4FE88A7268862A.title: "&eSummon&r: &aPossessed Endermite"
+	task.6E326027133166B6.title: "&a海德林魔灵附身"
+	task.6F06D38FC0B0F1EF.title: "&f修理一个矿工"
+	task.6F4FE88A7268862A.title: "&e召唤一个&a被附身的末影螨"
 	task.6F50B64460D2EC3D.title: "Find A Fargo's Dungeon"
 	task.6F72448CD3FD5163.title: "如何获得蜜蜂！"
 	task.6FA17DE3B63BDA1A.title: "&fCompacting Drawers"
@@ -12265,25 +12265,25 @@
 	task.70A33763E18B8F83.title: "蓝带蜜蜂巢"
 	task.70D1CD95527B6359.title: "Exploration"
 	task.71287B1349E0A4AC.title: "&dEnergized Standing Stones"
-	task.7143B1EFAB0A1582.title: "&fHorde Summons"
+	task.7143B1EFAB0A1582.title: "&f群聚召唤"
 	task.71989748299ABB54.title: "&a怪物状态"
 	task.71B63908FDE6CC61.title: "&bAll-In-One Tools"
 	task.71E7DDA8A2BC8D5A.title: "&f通用机械物品管道"
 	task.7224F301AE8ED1E3.title: "游玩&c25&r小时"
-	task.72D916898EED9BF4.title: "&bPentacle&r Complete"
+	task.72D916898EED9BF4.title: "&b五芒星&r已完成"
 	task.731217604FF8A844.title: "Bed"
-	task.734212F4FDFDAD92.title: "&eSummon&r: &aGreedy Familiar"
+	task.734212F4FDFDAD92.title: "&e召唤一个&a贪婪使魔"
 	task.747DDA167BA0D47A.title: "&fKill: 1x &dSavage Ender Dragon"
 	task.757810F183F6346C.title: "第二层：完成"
 	task.75950ADE1D19EBBB.title: "&eSummon&r: &3Dusk Spirit"
 	task.75A91CC491740DEA.title: "&aSophisticated Storages&r"
 	task.75CE8877F456D5E9.title: "重置挖掘技能树"
-	task.7675055D1AE5D019.title: "&eSummon&r:  &3Djinni Smelter"
+	task.7675055D1AE5D019.title: "&e召唤一个&3巨灵熔炼工"
 	task.768B60201808B40A.title: "Grinding Balls"
-	task.76A47BD1041539C1.title: "&eSummon&r: &aSmall Animal"
-	task.76A6B2D6E28D494F.title: "&fItem Summons"
+	task.76A47BD1041539C1.title: "&e召唤一个&a小型动物"
+	task.76A6B2D6E28D494F.title: "&f物品召唤"
 	task.76F6FBEEF39FF917.title: "&eSummon&r: &dRainy Weather Spirit"
-	task.772E7B17FF9CE76E.title: "&eSummon&r: &aBeaver"
+	task.772E7B17FF9CE76E.title: "&e召唤一个&a河狸使魔"
 	task.774EBA6A762BC415.title: "重置远程技能树"
 	task.777807CB1655654C.title: "&dChalice"
 	task.77B96BEA9D8D8654.title: "&e观察&f：炼油厂"
@@ -12291,9 +12291,9 @@
 	task.7811A2884A512908.title: "金字塔：塔顶"
 	task.78869974512F8AD0.title: "Elevators"
 	task.79137957EC19FAE3.title: "&aBarks"
-	task.79182D262D72B84F.title: "&fTrial Summons"
+	task.79182D262D72B84F.title: "&f试炼召唤"
 	task.79684EDD87FFB47C.title: "&f击杀20只&c苦力怕"
-	task.7A024E88591A8862.title: "&eSummon&r: &3Bat"
+	task.7A024E88591A8862.title: "&e召唤一个&3蝙蝠使魔"
 	task.7A2B58FD3F6E8094.title: "&f任意&e精致存储&a控制器"
 	task.7AC3BD79A70049CA.title: "&e击杀&f：&6牧师"
 	task.7AFA5CC185A71520.title: "欢迎游玩&e神化&r模组！"
@@ -12302,8 +12302,8 @@
 	task.7C7AAE907BD49D83.title: "&a简单村民&r"
 	task.7CC63F579A168885.title: "Starter House"
 	task.7D1CC440F9B6E58D.title: "&fVisit the &dEternal Starlight &fDimension"
-	task.7D4016582D0FDBDB.title: "&eSummon&r: &3Possessed Enderman"
-	task.7D546DE558467587.title: "&eSummon&r: &3Chimera"
+	task.7D4016582D0FDBDB.title: "&e召唤一个&3被附身的末影人"
+	task.7D546DE558467587.title: "&e召唤一个&3奇美拉"
 	task.7EA1CB8D304927B8.title: "On A STICK!"
 	task.7F31E6F7A6728CF1.title: "时运升级"
 	task.7F7F60B4E9A074FE.title: "水晶块"

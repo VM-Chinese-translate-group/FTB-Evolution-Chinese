@@ -12,7 +12,7 @@
 	images: [
 		{
 			height: 4.0d
-			hover: ["Deep Sea Drain"]
+			hover: ["深海排水管"]
 			image: "ftbevolution:textures/quests/nautec/sea_drain_complete_open.png"
 			rotation: -5.0d
 			width: 8.0d
@@ -21,7 +21,7 @@
 		}
 		{
 			height: 5.625d
-			hover: ["Bio Reactor"]
+			hover: ["生物反应器"]
 			image: "ftbevolution:textures/quests/nautec/bioreactor_complete_o.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -30,7 +30,7 @@
 		}
 		{
 			height: 6.0d
-			hover: ["Energizing a Prismarine Crystal"]
+			hover: ["海蓝水晶"]
 			image: "ftbevolution:textures/quests/nautec/lasered_crystal_above.png"
 			rotation: 0.0d
 			width: 7.5d
