@@ -1805,7 +1805,7 @@
 		""
 		"尝试制作&6探险家指南针&r！这块指南针能帮你找到任何建筑结构，并为你指明方向。"
 		""
-		"Safe Travels!"
+		"一路平安！"
 	]
 	quest.12468F8BF7B80737.title: "&2探索永无边界&f！"
 	quest.12662BF53A31F0B4.quest_desc: [
@@ -2338,11 +2338,11 @@
 	]
 	quest.1962F37154380EBF.title: "&f发酵机"
 	quest.196CFDFF585A2E85.quest_desc: [
-		"Did I mention that the &6Queen&r also hates Cave Spiders?"
+		"呃，我之前和你说过没……&6蜂后&r她老人家贼讨厌洞穴蜘蛛？"
 		""
-		"Kill 16 of them for her."
+		"帮她杀16只。"
 	]
-	quest.196CFDFF585A2E85.title: "&fThese Guys Too"
+	quest.196CFDFF585A2E85.title: "&f还有这帮玩意也得杀"
 	quest.197CF94F783E59DF.quest_desc: [
 		"&a速度升级&r，又叫做“我想让这个破玩意运行快点啊啊啊！！”升级。它可以提高加装该升级的蜂巢或机器20%的速度，而且可以多个叠加！"
 		""
@@ -4003,13 +4003,13 @@
 	]
 	quest.2B86CBB61E10051F.title: "&fThe &cPyromancer"
 	quest.2B8B225CF404A351.quest_desc: [
-		"The &aEnchanter&r is an &dEnchantment Table&r that allows you to pick which enchantment you want to make."
+		"&a附魔器&r是一种能让你自行选择所需魔咒的&d附魔台&r。"
 		""
-		"When provided with specific items and &2Experience&r, you can enchant &aBook \\&\\ Quills&r with an enchantment of your choice."
+		"当你放入特定的物品并消耗经验后，就能把对应的魔咒加持到&a书与笔&r上。"
 		""
-		"To see which enchantments you can make, make sure to check out the uses in JEI!"
+		"你可以查询JEI来了解你能制作哪些附魔书。有空都看一遍吧！"
 	]
-	quest.2B8B225CF404A351.title: "&fEnchanter"
+	quest.2B8B225CF404A351.title: "&f附魔器"
 	quest.2B99D2032E80745D.quest_desc: [
 		"&c长距离激光&r能将你的&b激光&r射程增加到64格，而不是通常的16格。"
 		""
@@ -4207,11 +4207,11 @@
 	]
 	quest.2DE46EAADB16159E.title: "&6Hephaestus Forge: &3Tier 5"
 	quest.2E01CCF4FC7D949F.quest_desc: [
-		"&aThe Ender&r is a basic sword made of &aDark Steel&r."
+		"&a终结之剑&r是一柄用&a玄钢&r制成的基础剑。"
 		""
-		"While it doesn't pack much of a punch, this sword is great to use for gathering &aMob Heads&r."
+		"虽然它的威力并不算特别大，但是非常适合获取&a怪物头颅&r。"
 	]
-	quest.2E01CCF4FC7D949F.title: "&fThe Ender"
+	quest.2E01CCF4FC7D949F.title: "&f终结之剑"
 	quest.2E1393EB3FAF322C.quest_desc: [
 		"特定的生物可掉落稀有物品，你可以用这些物品来强化你的身体！"
 		""
@@ -4525,7 +4525,7 @@
 	]
 	quest.30CE0A1635346670.title: "&6Meka-Gear"
 	quest.30D00AC248214D58.quest_desc: ["The &3Energetic Alloy&r is used in some crafting recipes, but is most commonly used to craft &aDouble Layer Capacitors&r and &dVibrant Alloy&r"]
-	quest.30D00AC248214D58.title: "&3Energetic Alloy"
+	quest.30D00AC248214D58.title: "&3充能合金"
 	quest.3142B7C67CB8EEB3.title: "&aΩ龙蛋"
 	quest.3148FCED5BF543B5.quest_desc: [
 		"The &aTool Belt&r is the perfect place to store all of your tools in one place."
