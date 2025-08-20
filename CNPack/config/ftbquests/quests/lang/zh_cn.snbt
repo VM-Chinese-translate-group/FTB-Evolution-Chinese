@@ -98,7 +98,7 @@
 	]
 	quest.00EF9BD860108718.title: "用&f铁熔炉&a发电&r"
 	quest.0110781538FD5DC2.quest_desc: [
-		"The &7Foliot Transporter&r can take from and deposit to any inventory, including machines and &bSpirit&r."
+		"&7魔精搬运工&r会把能移动的物品从一个容器搬到另一个，这些容器也可以是机器或者&b其他魔灵&r"
 		""
 		"为了给&7魔精搬运工&r设置交互点，需要手持&a召唤之书：魔精搬运工&r潜行右击那个你选中的容器"
 		""
@@ -7082,9 +7082,9 @@
 		""
 		"&d远古守卫者&r：鹦鹉螺壳(2-4)，海洋之心(40%)"
 		""
-		"&dHoglin&r: Netherite Scrap, Music Discs/Fragments, Smithing Templates"
+		"&d疣猪兽&r：下界合金碎片，音乐唱片/旗帜图案，下界相关锻造模板"
 		""
-		"&dShulker&r: Shulker Shell (1-2)"
+		"&d潜影贝&r：潜影壳(1-2)"
 		""
 		"&dWarden&r: Echo Shard (6+), with a chance for Music Discs/Fragments, and Smithing Templates"
 	]
@@ -9037,13 +9037,13 @@
 	quest.612B021FC1A3B205.quest_subtitle: "兄弟，你酸了吗？"
 	quest.612B021FC1A3B205.title: "&b水母项链"
 	quest.6137DE875E13EF72.quest_desc: [
-		"&eSummoning Rituals&r force &bSpirits&r to enter this world in a chosen shape, setting them to a specific task."
+		"&e召唤仪式&r强迫&b魔灵&r以选定的形态进入物质世界，给它们设定特殊的任务。"
 		""
-		"You've already made the first tier of &eSummoning Pentacle&r: &aAviar's Circle&r."
+		"你已经准备好制作级别一的召唤五芒星：&a阿维亚之环&r。"
 		""
-		"These tasks can range from item manipulation and trading, to slave-like helpers for manual labour."
+		"这些任务的范围从使用物品和交易，到像奴隶一样的体力劳动。"
 	]
-	quest.6137DE875E13EF72.title: "&eSummoning Rituals"
+	quest.6137DE875E13EF72.title: "&e召唤仪式"
 	quest.61510124CF911EA0.quest_subtitle: "多合一工具"
 	quest.61510124CF911EA0.title: "&f镐尖斧蓝图"
 	quest.616DE67925A3071C.quest_subtitle: "地牢战利品"
@@ -9126,11 +9126,11 @@
 	]
 	quest.626AFCC6B90F61D5.title: "&d苍穹晶镐"
 	quest.627CC178ACA711E6.quest_desc: [
-		"The &6Iesnium Golem&r is an upgraded iron golem, dealing a lot more damage, and being completely invulnerable to damage."
+		"&6艾瑟傀儡&r是铁傀儡的升级版本，造成更多的伤害，并且坚不可摧"
 		""
-		"You can recall the &6Iesnium Golem&r by hitting them while crouched."
+		"你可以潜行左击&6艾瑟傀儡&r来回收它们"
 	]
-	quest.627CC178ACA711E6.title: "&6Iesnium Golem"
+	quest.627CC178ACA711E6.title: "&6艾瑟傀儡"
 	quest.627D7AE4939A894F.quest_desc: [
 		"With &aEasy Villagers&r, you can literally pick up villagers by sneak-right clicking on them. This makes for super easy villager halls!"
 		""
@@ -9156,22 +9156,22 @@
 	]
 	quest.629C6374800613C4.title: "&f网络交互"
 	quest.62BB8F93956480BA.quest_desc: [
-		"&aBook of Bindings&r are used to summon different &bSpirit&r tiers, and can be acquired by tossing a book and quill into &aSpirit Fire&r."
+		"将书与笔丢入&a灵火&r中，获得&a绑定之书&r，其可用于召唤不同类型的&b魔灵&r。"
 		""
-		"To identify a &bSpirit&r to summon, it's name must be written in a &aBook of Binding&r and then combined with a &6Dictionary of Spirits&r, resulting in a &aBound Book of Binding&r."
+		"为了指定召唤的&b魔灵&r，魔灵的名字必须写在&a绑定之书&r上，然后将其与&6魔灵全典&r合成得到&a已绑定的绑定之书&r。"
 		""
-		"&bSpirit&r names are only used as flair and do not impact the recipe. As long as you have the right &bSpirit Tier&r, your &aBound Book&r can be used."
+		"&b魔灵&r的名字只是为了好看，与配方没有关系。只要你的绑定之书有正确的&b魔灵类型&r，你的&a绑定之书&r就能够正常使用。"
 		"{@pagebreak}"
-		"There are 4 different tiers of &bSpirits&r:"
+		"共有四种不同的魔灵类型："
 		""
 		"- &7魔精&r：级别1"
 		"- &c巨灵&r：级别2"
 		"- &d火灵&r：级别3"
 		"- &6魔王&r：级别4"
 		""
-		"The &aBound Book&r that is required to complete a &bRitual&r will be based on the tier of the &bSpirit&r you are trying to summon, and the &bPentacle&r tier you use."
+		"完成&b仪式&r要使用哪种&a绑定之书&r，取决于你想要召唤的&b魔灵&r的级别以及仪式&b五芒星&r的级别。"
 	]
-	quest.62BB8F93956480BA.title: "&bSpirits"
+	quest.62BB8F93956480BA.title: "&b魔灵&r"
 	quest.62C92C8960875611.quest_desc: ["Metalworking is just as important in magic as it is with the mundane, even if the methods are far different. Ingots that have been infused with spiritual properties will be instrumental in progressing deeper into this craft."]
 	quest.62C92C8960875611.title: "Spiritual Metallurgy"
 	quest.62CFAFC74ADA4781.quest_desc: ["&a鼓风机&r产生的气流可用于推动实体或处理物品。"]
@@ -9211,9 +9211,9 @@
 	]
 	quest.6324941CAA013A6D.title: "&d太阳护身符"
 	quest.633843210DE84A0D.quest_desc: [
-		"&bWhite Chalk&r is considered a &eFoundation Chalk&r."
+		"&b白色粉笔&r是一种&e基础粉笔&r。"
 		""
-		"&eFoundation Chalks&r are tiered chalks that can be used interchangeably with other colorless chalks, as long as they can summon the approriate tier. They come in four different colors:"
+		"&e基础粉笔&r是一系列能够与其它无色粉笔相互替代使用的粉笔类型，前提是粉笔支持对应的级别。基础粉笔总共有四种级别与颜色："
 		""
 		"- 白色：级别1"
 		"[\"- \", {\"text\": \"淡灰色\", \"color\": \"#C6C6C6\"}, {\"text\": \"：级别2, \"color\": \"white\"}]"
@@ -9236,13 +9236,13 @@
 	quest.633FA983B63A65DD.quest_desc: ["给&d压力表管道模块&r安装&b模块扩展卡&r后可以精确控制其输出的&c红石强度&r。"]
 	quest.633FA983B63A65DD.title: "&f功能扩展！"
 	quest.63516E977D8BC7C4.quest_desc: [
-		"The &5Eldritch Chalice&r is an upgraded version of the &dIesnium Sacrificial Bowl&r, which will instantly perform any ritual."
+		"&5邪灵圣杯&r是&d艾瑟献祭之碗&r的升级版，可以立即执行任何仪式。"
 		""
-		"It also looks really cool."
+		"它看起来也超级酷。"
 	]
-	quest.63516E977D8BC7C4.title: "&5Eldritch Chalice"
+	quest.63516E977D8BC7C4.title: "&5邪灵圣杯"
 	quest.6372CB70B09D27EA.quest_desc: ["&6魔王熔炼工&r的功能与其他所有的&b熔炼工&r相同，但它处理的速度比普通的快99%。"]
-	quest.6372CB70B09D27EA.title: "&6Marid Smelter"
+	quest.6372CB70B09D27EA.title: "&6魔王熔炼工"
 	quest.637CDD290456F2B2.quest_desc: [
 		"&a化学溶解室&r是工业先锋的主要合成机器，它可以将&2胶乳&r和物品组合，从而产生新的物品。"
 		""
@@ -10625,11 +10625,11 @@
 	]
 	quest.738BF8D6430694F4.title: "&d钛锭"
 	quest.739F075AA8F4DA49.quest_desc: [
-		"The &dArtisanal Ritual Satchel&r functions similarly to the &aApprentice Ritual Satchel&r."
+		"&d手工仪式挎包&r功能类似于&a学徒仪式挎包&r"
 		""
-		"However, it can not only instantly complete the entire &bPentacle&r at once (if provided all materials), but it can also pick up all blocks used in the &bPentacle&r by right-clicking the &6Golden Sacrificial Bowl&r."
+		"然而，它不仅可以立刻完成整个&b五芒星&r（如果材料充足），它还能通过潜行右击&a黄金献祭之碗&r来回收所有用于搭建&b五芒星&r的材料"
 	]
-	quest.739F075AA8F4DA49.title: "&dHow Lazy Can You Get?"
+	quest.739F075AA8F4DA49.title: "&d你到底能有多懒？"
 	quest.73B0702440A063EB.quest_desc: [
 		"这些组件可以从世界中拾取掉落物，或者将网络中的物品投掷到世界中。"
 		""
@@ -10852,13 +10852,13 @@
 	quest.76120A38BC49FB92.title: "&fPlastic Sheet"
 	quest.762BEF38A5CD79C5.title: "&6神圣&f升级法球"
 	quest.76323B3FF4F17A2B.quest_desc: [
-		"You'll need items from the &9Otherworld&r to progress further, and &aSpirit Fire&r does just that."
+		"你会需要更多来自&9异界&r的物品以推进神秘学研究，而&a灵火&r能够帮到你得到那些材料。"
 		""
-		"Throwing a &aDemon's Dream Fruit&r on the ground and setting it on fire will produce &dSpirit Fire&r, which never burns out and does not harm entities."
+		"把&a魔鬼之梦果&r扔在地上并点燃就能产生&d灵火&r，这种火不会自然熄灭，也不会对实体造成伤害。"
 		""
-		"Throwing items into the &dSpirit Fire&r will convert them into their &9Otherworld&r equivalent."
+		"把物品丢进&d灵火&r就能将其转化为&9异界&r版本的对应物品。"
 	]
-	quest.76323B3FF4F17A2B.title: "&cIt Burns!!!"
+	quest.76323B3FF4F17A2B.title: "&c燃起来了！！！"
 	quest.76328D50B73F2DAE.title: "&f法术冷却缩减升级法球"
 	quest.76457B75C54A6FA3.quest_desc: ["The &dWitch Armor&r gives you a few full set perks when all three pieces are worn."]
 	quest.76457B75C54A6FA3.title: "&dWitch Armor"
@@ -11084,13 +11084,13 @@
 	]
 	quest.7819C1805C7E5BCD.title: "&a农场"
 	quest.782A8F5006E367E0.quest_desc: [
-		"Some &bRituals&r require the use of certain items to be performed."
+		"一些&b仪式&r需要使用特定物品才能进行。"
 		""
-		"Use the item within 16 blocks of the &6Golden Sacrificial Bowl&r to proceed the &bRitual&r."
+		"在&6黄金献祭之碗&r的16格范围内使用物品，即可推进&b仪式&r的进行。"
 		""
 		"&eNote&r: Before using the item, start the &bRitual&r. Gray particles indicate that the &bRitual&r is ready for the item use."
 	]
-	quest.782A8F5006E367E0.title: "&fUsing Items In &bRituals"
+	quest.782A8F5006E367E0.title: "&b仪式用品"
 	quest.78337B57A6D6AC08.quest_desc: [
 		"&6寂静装备&r是个围绕着自定义工具/盔甲展开的模组，整个游玩过程中你都能定制工具与盔甲。"
 		""
@@ -11126,11 +11126,11 @@
 	]
 	quest.78ADC11570C5561E.title: "&d福鲁伊克斯水晶"
 	quest.78C04CC1114AECF7.quest_desc: [
-		"&9Otherworld Trees&r grown from natural &9Otherworld Saplings&r can only be harvested when under the effect of &bThird Eye&r."
+		"由天然的&9异界树苗&r长成的&9异界树&r，只有在&b第三只眼&r效果的作用下才能被砍伐收获。"
 		""
-		"To make life easier, the &7Otherworld Sapling Trader&r will exchange such natural saplings for a stable variant that can be harvested by anyone, and will drop the same stable saplings when harvested."
+		"为了让事情更方便些，&7异界树苗交易者&r会用稳定型的树苗来交换这些天然的异世界树苗，这种稳定型树苗任何人都可以进行砍伐收获，而且在被砍伐收获时会掉落同样的稳定型树苗。"
 	]
-	quest.78C04CC1114AECF7.title: "&7Foliot &fOtherworld Sapling Trader"
+	quest.78C04CC1114AECF7.title: "&7魔精\\u00A0&f异界树苗交易者"
 	quest.78C2CC0F263728A5.quest_desc: [
 		"For those who might be tired of living in your 465th \"Cave Base\", why not try starting with a prebuilt base?"
 		""
@@ -11600,7 +11600,7 @@
 		"大多数使用&b五芒星&r的&b仪式&r都是可选择进行的。"
 	]
 	quest.7E909792A1E7CFD1.quest_subtitle: "召唤五芒星：级别4"
-	quest.7E909792A1E7CFD1.title: "&dAbras' Conjure"
+	quest.7E909792A1E7CFD1.title: "&c阿巴拉斯召唤术"
 	quest.7EA01C721DFBF014.quest_desc: [
 		"&a自动放置器&r和&a流体放置器&r可以在机器前自动放置方块或流体。"
 		""
@@ -11949,7 +11949,7 @@
 	task.17E5AF15A0633680.title: "&d节魔之戒&r"
 	task.17F5C28F412FABC5.title: "&e召唤一个&a被附身的女巫"
 	task.1817578EA1A618AB.title: "&b高级精华&f盔甲"
-	task.183FEFA2AEF46058.title: "Observe &aSpirit Fire"
+	task.183FEFA2AEF46058.title: "观察&a灵火"
 	task.185302C49E85B5E3.title: "&e召唤一个&a小鹿使魔"
 	task.18BBCE523EABE49C.title: "Coal"
 	task.19FEB64A680EC482.title: "MI流体管道"
@@ -12038,11 +12038,11 @@
 	task.346A097A266F1BCD.title: "&f任务线提示"
 	task.34C81AE26CFD0DE9.title: "&eSummon&r: &dGuardian"
 	task.34E4854C5D701F99.title: "&f维度存储促动器"
-	task.34F38A214F5DEFC3.title: "&eSummoning Rituals"
+	task.34F38A214F5DEFC3.title: "&e召唤仪式"
 	task.35409BE8A6FF3D03.title: "&6MekaSuit"
 	task.354FABEDA5A08474.title: "&6Tier 4"
 	task.35B25DCE07DF8A9A.title: "&d魔法&f护身符"
-	task.36580E6B2C957FE0.title: "&eSummon&r: &3Headless"
+	task.36580E6B2C957FE0.title: "&e召唤一个&3无头鼠骑士"
 	task.36BEC946B5E6E49C.title: "&fPlants \\&\\ Herbs"
 	task.36C5D1EED2022E8D.title: "&aTier 1"
 	task.36D4CF12BC70DBDD.title: "&f关于网络的一切！"
@@ -12112,7 +12112,7 @@
 	task.4750B6095A6DC2F2.title: "&e观察&f：粉碎机"
 	task.4770154ADE2ED622.title: "&f构建第一个&d法术"
 	task.47E296C60E6A6459.title: "&d五级&f生物种子"
-	task.48693C868CF2C4D6.title: "&eSummon&r: &7Otherworld Sapling Trader"
+	task.48693C868CF2C4D6.title: "&e召唤一个&7异界树苗交易者"
 	task.48BB22683A4C50AD.title: "&a下级精华&f工具"
 	task.48DC30FE8B5DEC6D.title: "&6Liquid Lithium"
 	task.491E250D69066BBC.title: "&f击杀：1只&d凋灵&r"
@@ -12145,16 +12145,16 @@
 	task.530053F67ED5E6F3.title: "Limited Barrels"
 	task.530B680860B7C5E7.title: "找到药剂师"
 	task.5312722528B8561B.title: "&f游玩&6100小时"
-	task.5336018EE8A0D660.title: "&eSummon&r: &3Drikwing"
+	task.5336018EE8A0D660.title: "&e召唤一个&3具翼"
 	task.5355E58AAC34F75A.title: "&b奥术师套装"
 	task.53A96A871A0DB011.title: "&b五芒星&r已完成"
 	task.53DBF8E185837F67.title: "MI基础电缆"
 	task.5434F149E894EFA6.title: "欢迎"
 	task.543F7E507C47F2EB.title: "&e修理盔甲"
-	task.5483D23444F3E019.title: "&eSummon&r: &3Dragon"
+	task.5483D23444F3E019.title: "&e召唤一个&3龙"
 	task.553BD544A0125D67.title: "&b五芒星&r已完成"
 	task.55B1C70507F60EDF.title: "&bAE2内置指南书&r"
-	task.55CC22F0E7476029.title: "&eSummon&r: &6Iesnium Golem"
+	task.55CC22F0E7476029.title: "&e召唤一尊&6艾瑟金属傀儡"
 	task.55F2E8D6E339FE04.title: "&c三级&f生物种子"
 	task.55F5BD3470BD58A4.title: "充能棒"
 	task.56A35A967954A4C2.title: "&aDrawers"
