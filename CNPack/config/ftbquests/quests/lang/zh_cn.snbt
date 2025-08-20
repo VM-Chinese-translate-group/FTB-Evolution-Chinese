@@ -4524,7 +4524,7 @@
 		"Simply place the crafted &bModule&r of choice in the similarly designed slot of the &aModification Station&r, and the piece of gear it applies to in the slot pointed to by the arrow."
 	]
 	quest.30CE0A1635346670.title: "&6Meka-Gear"
-	quest.30D00AC248214D58.quest_desc: ["The &3Energetic Alloy&r is used in some crafting recipes, but is most commonly used to craft &aDouble Layer Capacitors&r and &dVibrant Alloy&r"]
+	quest.30D00AC248214D58.quest_desc: ["&3充能合金&r可用于许多合成配方，但主要还是用来合成&a双层电容&r和&d振动合金&r。"]
 	quest.30D00AC248214D58.title: "&3充能合金"
 	quest.3142B7C67CB8EEB3.title: "&aΩ龙蛋"
 	quest.3148FCED5BF543B5.quest_desc: [
@@ -5552,11 +5552,11 @@
 	quest.3A53BB7A6B708966.quest_desc: ["灌注魔法能量后，你的书架将带来更多可能性。"]
 	quest.3A53BB7A6B708966.title: "&c灌注下界书架"
 	quest.3A55DAA85874864A.quest_desc: [
-		"The &aChest Vacuum&r pulls nearby items into its inventory."
+		"&a真空箱子&r能将附近的物品吸进它的内部库存中。"
 		""
-		"The &aXP Vacuum&r pulls nearby experience orbs into its inventory."
+		"&a真空经验箱&r能将附近的经验吸进它的内部库存中。"
 	]
-	quest.3A55DAA85874864A.title: "&fOther Useful Machines"
+	quest.3A55DAA85874864A.title: "&f其他实用机器"
 	quest.3A59D1773EBD3B8A.quest_desc: [
 		"想把你的AE网络延伸到第二个地方，但是线缆够不到？比如另一个维度？搭建一个&d量子桥&r就可以轻松连接！"
 		""
