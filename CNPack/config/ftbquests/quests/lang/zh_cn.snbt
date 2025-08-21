@@ -484,9 +484,9 @@
 		""
 		"&d裂变反应堆&r至少需要4个&a裂变反应堆端口&r：一个用于输入&b水&r，一个用于&2燃料&r，一个设置为输出&7蒸汽&r，以及一个设置为输出&c废料&r。&d反应堆端口&r可以通过潜行+右击&9配置器&r来切换模式。"
 		""
-		"&dReactors&r can also accept &aFission Reactor Logic Adaptors&r for reading different information about its multiblock or for turning it on/off automatically."
+		"&d裂变反应堆&r也可以放入&a裂变反应堆逻辑适配器&r，它可以读取其多方块结构的相关信息，也可实现自动开启或关闭。"
 		"{@pagebreak}"
-		"&dReactors&r can burn fuel at a max rate of 1mB * (number of &3Fuel Assemblies&r) per tick, down to 0.01mB/tick."
+		"&d裂变反应堆&r能以每tick/1mB *（&3燃料组件&r数量）的最大速率燃烧燃料，最低为每刻0.01mB。"
 		""
 		"This rate also adjusts coolant demand, and the production of &7Steam&r and &cnuclear waste&r. Check the recipes and make sure your pipes can handle all these rates, as well as your coolant production."
 		""
@@ -942,9 +942,9 @@
 	]
 	quest.09BC75B655BDC624.title: "&e升级：&f幼年蜂"
 	quest.09CAF99BCBEB8276.quest_desc: [
-		"Once you make yourself an &aIron Pickaxe&r, you unlock the ability to mine a whole lot more ores, like &bDiamonds&r, &cRedstone&r, and more!"
+		"当你做出一把&a铁镐&r后，就可以挖掘更多矿物了，比如&b钻石&r和&c红石&r！"
 		""
-		"You can also make an &aIron Hammer&r, which mines in a 3x3x1 area by default. This is the perfect tool for digging out big mining tunnels."
+		"&a铁锤&r也可以，它能一次挖掘3x3x1范围内的方块，如果要挖个大隧道的话用它正合适。"
 	]
 	quest.09CAF99BCBEB8276.title: "&a金属工具时代"
 	quest.0A000B0C8F2127A2.quest_desc: [
@@ -1300,11 +1300,11 @@
 	quest.0C9CD2D8F10D750F.quest_desc: ["&cFlux gates&r are advanced components used to craft late-game machines."]
 	quest.0C9CD2D8F10D750F.title: "&cFlux Gate"
 	quest.0CA75E81F6824B22.quest_desc: [
-		"If you're into magic AND exploration, you are bound to run into a &dSpell Scroll&r from &eIron's Spells 'n Spellbooks&r. This is an amazing magic mod that adds a ton of spells for you to play with."
+		"如果你喜欢法术，还喜欢探索，那你一定要试试&eIron's Spells 'n Spellbooks&r模组的&d法术卷轴&r。这个精美的魔法模组添加了大量法术供你游玩。"
 		""
-		"Unless you find a &aSpell Book&r as loot, you can start by making a &aFlimsy Journal&r or &aIronbound Tome&r to hold a few spells."
+		"如果你没有在战利品箱里找到&a法术书&r，那么你可以制作&a初学者日志&r或&a铁箍书卷&r来保存一些法术。"
 	]
-	quest.0CA75E81F6824B22.title: "&eIron's Spells 'n Spellbooks"
+	quest.0CA75E81F6824B22.title: "&eIron的法术与魔法书"
 	quest.0CD3050976F79358.title: "&f熟鸡肉丁"
 	quest.0CE337F7A4B27E89.quest_desc: [
 		"The Forge can be used to craft &6Elemental Prisms&r, but it requires a special relic for the recipe."
@@ -1713,15 +1713,15 @@
 	quest.10F792474C01A594.title: "&f欢迎游玩&e神秘学&f！"
 	quest.1105D1809EB9ADEF.title: "&e无限压缩电路板"
 	quest.11078789ACAB91CE.quest_desc: [
-		"Once you have Ender Pearls and some Blaze Powder, you can craft &6Eyes of Ender&r."
+		"有了末影珍珠和烈焰粉后，就可以制作&6末影之眼&r了。"
 		""
-		"You can throw these just like Ender Pearls, but it isn't going to teleport you anywhere. Instead, these float up into the sky and point you in the direction of the nearest &6Stronghold&r."
+		"你可以把它当末影珍珠丢，但它并不会传送你。这种珍珠会飞向天空，然后指向最近的&6要塞&r。"
 		""
 		"Most of the time, the Eye of Ender will float back down and you can pick it up. Sometimes it doesn't and just vanishes instead. I'd suggest on making 15 or so."
 		""
 		"Alternatively, you can use the &dExplorer's Compass&r to locate the stronghold for you by searching for &bbetterstrongholds:stronghold&r."
 	]
-	quest.11078789ACAB91CE.title: "&6Eyes of Ender"
+	quest.11078789ACAB91CE.title: "&6末影之眼"
 	quest.11129E29B22F9898.quest_desc: [
 		"&3巨像之魂&r使生命值提高五倍，并免疫所有负面效果，该效果与&b负性之力&r冲突。"
 		""
@@ -2014,14 +2014,14 @@
 	]
 	quest.14CA59973A2B33FF.title: "&f烘干池"
 	quest.14D727685CB433C1.quest_desc: [
-		"Of course you need a place to store your items. You only have so many inventory slots!"
+		"你当然需要地方存放物品，毕竟物品栏只有那么大！"
 		""
-		"The problem with chests? Chest walls. Chest rooms. Needing signs to \"sort\" chests. Not anymore."
+		"还在纠结箱子的问题？箱子墙和箱子房，还需要挂告示牌来“分类”箱子？再也不需要了！"
 		""
-		"You'll need a basic chest to get you started, but head over to the &6General Storage&r chapter to learn more ways to hold all of your stuff!"
+		"你目前还需要使用普通箱子，但日后请移步&6通用存储&r章节，了解更多储存物品的方式！"
 	]
-	quest.14D727685CB433C1.quest_subtitle: "Simple Storage"
-	quest.14D727685CB433C1.title: "&fThe Good Ol' &2Chest"
+	quest.14D727685CB433C1.quest_subtitle: "简易存储"
+	quest.14D727685CB433C1.title: "&f经典老&2箱子"
 	quest.14FFB82FB7EB0659.title: "&f苹果派"
 	quest.1507B28963B38101.quest_desc: [
 		"厌倦了手搓零件的日子了？那&a自动化工程师装配台&r正是为你量身定制的好帮手！"
@@ -2032,11 +2032,11 @@
 	]
 	quest.1507B28963B38101.title: "&f自动化工程师装配台"
 	quest.1514FAC5930B55D2.quest_desc: [
-		"It can seem daunting to get started generating power for your base, especially in the early game!"
+		"在游戏初期，为你的基地发电看起来尤为艰巨！"
 		""
-		"Make sure to check out the &6Power Generation&r chapter to learn all about the different ways you can generate power."
+		"记得一定要去&6发电方式&r章节查看各种发电方法。"
 	]
-	quest.1514FAC5930B55D2.title: "&fThe &cPower Chapter"
+	quest.1514FAC5930B55D2.title: "&c发电章节"
 	quest.154E08BC9091684F.quest_desc: [
 		"&e荧石粉&r可以增强效果强度。"
 		""
@@ -10517,11 +10517,11 @@
 	]
 	quest.72EBD96ED914471F.title: "&fCharger"
 	quest.73090FDB6ABAF9C3.quest_desc: [
-		"The &dGuardian Familiar&r can prevent its master's death by sacrificing one of its limbs."
+		"&d守护者使魔&r可以通过舍弃自身的一条肢体来避免其主人死亡"
 		""
-		"A &dGuardian&r spawns with a random amount of limbs, but upgrading it with the &aBlacksmith Familiar&r will regenerate one limb once."
+		"&a守护者&r被召唤时拥有随机数量的肢体，但是通过&a铁匠使魔&r升级这种方式，可以使其再生一条肢体，只能再生一次"
 	]
-	quest.73090FDB6ABAF9C3.title: "&dGuardian Familiar"
+	quest.73090FDB6ABAF9C3.title: "&d守护者使魔"
 	quest.730992B396E2FB27.quest_desc: [
 		"Build a 3x3x3 of &bFurnaces&r to create the &bJumbo Furnace&r."
 		""
@@ -11836,7 +11836,7 @@
 	reward.6ED22F189FEB27E2.title: "+1 魔法技能点"
 	reward.70AFA9FFEF5164D4.title: "&3基因库"
 	reward.70B20DBD76B83038.title: "重置防御技能树"
-	reward.72C3C0EDF040B464.title: "3 Skill Points In &dMagic&r"
+	reward.72C3C0EDF040B464.title: "3点&d魔法&r技能点"
 	reward.72E83AADB4AC2FE1.title: "+1 魔法技能点"
 	reward.72F33221F3FA1C0B.title: "+1 魔法技能点"
 	reward.739F3845594E3435.title: "&3基因库"
@@ -11928,7 +11928,7 @@
 	task.0ECBFE9262249011.title: "Any soulstained tool"
 	task.0F323A1897237ED1.title: "&e召唤一个&a晴天魔灵"
 	task.101BA566216C32AD.title: "AE线缆"
-	task.10328EE3113F66B2.title: "&3Ihagan's Familiars"
+	task.10328EE3113F66B2.title: "&3伊哈根使魔"
 	task.10F21F1905A48313.title: "&e召唤一个&3特殊动物"
 	task.110E6C2DF4533110.title: "Obsidian Dust"
 	task.1114E07F8446FAA0.title: "方块管理"
@@ -12006,7 +12006,7 @@
 	task.2951F1493E615F65.title: "&eSummon&r: &3Devil"
 	task.2988CAF299690CDB.title: "实用命令！"
 	task.29E62F8F9462B690.title: "&5量子头盔"
-	task.2ACCB542504DF591.title: "Iron Mining Tools"
+	task.2ACCB542504DF591.title: "铁质挖掘工具"
 	task.2B2473620B056467.title: "游玩&d50小时"
 	task.2B2AC5A9A28F14A9.title: "蓄电池"
 	task.2B97A2DFF700B056.title: "&6Fargo的符石"
@@ -12036,7 +12036,7 @@
 	task.344DCD6A3921B1ED.title: "效率升级"
 	task.345089696B5A7211.title: "饮食多样性"
 	task.346A097A266F1BCD.title: "&f任务线提示"
-	task.34C81AE26CFD0DE9.title: "&eSummon&r: &dGuardian"
+	task.34C81AE26CFD0DE9.title: "&e召唤一个&d守护者使魔"
 	task.34E4854C5D701F99.title: "&f维度存储促动器"
 	task.34F38A214F5DEFC3.title: "&e召唤仪式"
 	task.35409BE8A6FF3D03.title: "&6MekaSuit"
@@ -12166,7 +12166,7 @@
 	task.57A9D2B9030E96F9.title: "&2初级精华&f盔甲"
 	task.57FEAD1653F0F2DD.title: "&e召唤一个&3村民"
 	task.580FC1A9FFD21906.title: "我已阅读并同意创造有史以来最好的药剂"
-	task.582842DFA3989416.title: "&eSummon&r: &3Mummy"
+	task.582842DFA3989416.title: "&e召唤一个&3木乃伊"
 	task.58687506041183E7.title: "&f击杀20只&c史莱姆"
 	task.58C446166902A90E.title: "&e召唤一个&3恶魔丈夫"
 	task.58DC7CD2A4F595DD.title: "&f击杀&f：&d高位唤魔者"
@@ -12224,7 +12224,7 @@
 	task.63B6D52741114570.title: "&eSummon&r: &7Foliot Lumberjack"
 	task.63C4D2F3F7059C8E.title: "&fAuto-Pickup Upgrades!"
 	task.63CCD5B192C043E9.title: "&e观察&f：&7魔灵碎矿者"
-	task.643D8A56111D16B7.title: "Any &dSpell Scroll&r"
+	task.643D8A56111D16B7.title: "任意&d法术卷轴&r"
 	task.64CC6BB34041EAFB.title: "&d五级&f种子"
 	task.654450BCAE6FF1CA.title: "&cTertium &fArmor"
 	task.654B395F536F0D7C.title: "&f实用的&a一阶&r魔符"
