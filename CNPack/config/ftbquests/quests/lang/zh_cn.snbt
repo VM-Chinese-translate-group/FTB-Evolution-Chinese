@@ -1013,9 +1013,9 @@
 	quest.0A63C6F9B76293DB.quest_subtitle: "神秘学完整流程体验"
 	quest.0A63C6F9B76293DB.title: "&f探测杖"
 	quest.0A6E103A6945D11E.quest_desc: [
-		"The &aFoundry&r is key for proression and specializes in creating all of the alloys needed to make &6Oritech&r machines."
+		"&a铸造器&r是&6Oritech&r推动进度的重要机器，而且它很适合拿来制作&6Oritech&r机器的各种必需合金。"
 		""
-		"To build this multiblock, you'll need 3 &bMachine Cores&r total. Place the &aFoundry&r block first, then right click it to see where the Cores need to be placed. Once the cores are in place, right click again to finalize the machine!"
+		"你总共需要三个&b机器核心&r才能搭建这个多方块机器。首先将&a铸造器&r的主方块放下，之后右击查看放置机器核心的位置。将核心放好后右击机器就可以让它成型了！"
 		""
 		"Note: Some of these alloys can also be crafted by hand or other modded machines, but doing so often consumes more resources."
 	]
@@ -3726,7 +3726,7 @@
 	quest.285560808B9ED997.quest_desc: [
 		"&a末影人&r会掉落&d末影珍珠&r，你丢出它就可以传送。"
 		""
-		"如果要找&d末影龙&r的话，必须要用末影珍珠！"
+		"这也是你前往挑战&d末影龙&r所必需的！"
 	]
 	quest.285560808B9ED997.title: "&d末影珍珠"
 	quest.287D00E1CE70F334.quest_desc: [
