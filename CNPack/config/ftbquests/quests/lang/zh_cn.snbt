@@ -1218,9 +1218,9 @@
 	quest.0BF770CB2B6312CF.quest_desc: [
 		"要进入更后期的游戏阶段的&6机械动力&r，你需要制作多种不同功能的金属板。"
 		""
-		"&aIron Plates&r are the most common type of plate used in most machines and items."
+		"&a铁板&r是大多数机器和物品中最常用的金属板。"
 		""
-		"&aCopper Plates&r are generally used for fluid-related components."
+		"&a铜板&r通常用于流体相关部件。"
 		""
 		"&aGold Plates&r are only used for Toolboxes, Weighted Ejectors, Wrenches, and Goggles."
 		""
