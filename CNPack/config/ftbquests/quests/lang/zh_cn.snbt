@@ -1341,8 +1341,8 @@
 		"Adding up to 4 new &dSpells&r to the &3Crystal Staff&r require a different &bRitual&r. Sneak-right-clicking will cycle between stored &dSpells&r."
 	]
 	quest.0D4F466475046F7F.title: "&3Crystal Staff"
-	quest.0D4FAFE90506EC1D.quest_desc: ["The &dElevator Pulley&r functions similarly to a &aRope Pulley&r, but can use a &aRedstone Contact&r and &aContraption Controls&r to assign different floors."]
-	quest.0D4FAFE90506EC1D.title: "&dElevator Pulley"
+	quest.0D4FAFE90506EC1D.quest_desc: ["&d升降机滑轮&r的功能类似于&a绳索滑轮&r，但可以使用&a接触式红石信号发生器&r和&a动态结构控制器&r来分配不同的楼层。"]
+	quest.0D4FAFE90506EC1D.title: "&d升降机滑轮"
 	quest.0D5FAE315152286C.quest_desc: [
 		"While normally found in chests, the &dArtisan Relic&r can also be crafted!"
 		""
@@ -1832,8 +1832,8 @@
 		"This can be used to make several important items, including &bPlastic Sheets&r and &6Biosteel&r."
 	]
 	quest.1277CECF9C633D8B.title: "&6Biopolymer"
-	quest.12843F69BB8EEFCE.quest_desc: ["&aDisplay Links&r can be used to visualize dynamic information about your network or about a block."]
-	quest.12843F69BB8EEFCE.title: "&aDisplay Link"
+	quest.12843F69BB8EEFCE.quest_desc: ["&a显示链接器&r可用于可视化显示有关你的网络或方块的动态信息。"]
+	quest.12843F69BB8EEFCE.title: "&a显示链接器"
 	quest.12B8D538B54497E2.quest_desc: [
 		"有了&a锻压锤&r后，你应该会想用它制作一些&b铁板&r和&b铜质组件&r的，它们将用于各种合成配方。"
 		""
@@ -2106,11 +2106,11 @@
 	quest.166BA0D04A1686C7.quest_subtitle: "&oFluid manipulation"
 	quest.166BA0D04A1686C7.title: "&fExtracting &3Fortron"
 	quest.169FF5F7AE73CF51.quest_desc: [
-		"The &aCopper Diving Suit&r allows you to explore deep oceans for longer, granting you water breathing while draining air from your backtank."
+		"&a铜潜水套装&r能延长你探索深海的时间，通过消耗铜背罐中的空气为你提供水下呼吸的能力。"
 		""
-		"To put air into a backtank, supply it from the top with some &bRotational Force&r."
+		"要将空气注入背罐，需要对其顶部施加一些&b旋转力&r。"
 	]
-	quest.169FF5F7AE73CF51.title: "&fCopper Diving Suit"
+	quest.169FF5F7AE73CF51.title: "&f铜潜水套装"
 	quest.16B60BCB8240F808.quest_desc: [
 		"你可以选择把ME样板终端上编码的样板，都塞进&a样板供应器&r。供应器会试图用周边方块完成样板的合成配方。"
 		""
@@ -2185,8 +2185,8 @@
 		"这些线缆是机器间传递能量的桥梁。"
 	]
 	quest.1706D0B9391ED8E1.title: "&f能量线缆"
-	quest.170CE041C0312188.quest_desc: ["&aStock Tickers&r allow you to request a set of filtered items from a linked stock network."]
-	quest.170CE041C0312188.title: "&aStock Ticker"
+	quest.170CE041C0312188.quest_desc: ["&a仓储发报机&r让你可以从其连接的仓储网络中请求一组过滤的物品。"]
+	quest.170CE041C0312188.title: "&a仓储发报机"
 	quest.172955F8F798D2D8.quest_desc: ["The &dWican Ward&r stops mobs from spawning in a large area around it."]
 	quest.172955F8F798D2D8.title: "&dWican Ward"
 	quest.173411DE23DFB758.quest_desc: [
@@ -2512,8 +2512,8 @@
 	quest.1AF177BD838F7F69.title: "&d振动电容库"
 	quest.1AF853BD7AFAF0C6.quest_desc: ["这个升级会提升有关化学品的机器的处理效率。"]
 	quest.1AF853BD7AFAF0C6.title: "&f化学品升级"
-	quest.1AFA348F161447F8.quest_desc: ["The &aGantry System&r moves an attached contraption on an axis and offer several redstone control options unlike &aMechanical Pistons&r."]
-	quest.1AFA348F161447F8.title: "&fGantry System"
+	quest.1AFA348F161447F8.quest_desc: ["&a起重机系统&r也可以让连接的结构在一个轴上移动，与&a动力活塞&r不同的是其提供了多种红石控制选项。"]
+	quest.1AFA348F161447F8.title: "&f起重机系统"
 	quest.1B10A2DED0629D6B.quest_desc: [
 		"Just like the same upgrade for backpacks, the &dVoid Upgrade&r is probably one of the most useful upgrades that you can install."
 		""
@@ -2649,11 +2649,11 @@
 	]
 	quest.1C9A469C85F3425F.title: "&d生物复制机"
 	quest.1CA4AF485A77607F.quest_desc: [
-		"The &aWrench&r is a multipurpose tool for working with &6Create&r contraptions."
+		"&a扳手&r是一种多功能工具，用于操作&6机械动力&r的结构。"
 		""
-		"It can rotate, configure, and dismantle blocks, contraptions, and more!"
+		"它可以旋转、配置和拆卸方块、结构等等！"
 	]
-	quest.1CA4AF485A77607F.title: "&fWrench"
+	quest.1CA4AF485A77607F.title: "&f扳手"
 	quest.1CA7E96F42B75C2F.quest_desc: [
 		"One of the first machines that you can make is the &aPowered Furnace&r!"
 		""
@@ -2793,8 +2793,8 @@
 	]
 	quest.1DCCF9A58A557282.quest_subtitle: "七海粉笔"
 	quest.1DCCF9A58A557282.title: "&9蓝色粉笔"
-	quest.1E0B67C6A341C817.quest_desc: ["The &aRope Pulley&r controls y-axis movement of a block or contraption."]
-	quest.1E0B67C6A341C817.title: "&aRope Pulley"
+	quest.1E0B67C6A341C817.quest_desc: ["&a绳索滑轮&r可以控制方块或结构延y轴移动。"]
+	quest.1E0B67C6A341C817.title: "&a绳索滑轮"
 	quest.1E0BB50868F951A3.quest_desc: ["&a水果篮&r本质上和其他存储方块一样，能在&b多方块厨房&r中存储物品，但不同的是，它能可视化存储&2水果&r！"]
 	quest.1E0BB50868F951A3.quest_subtitle: "可以储存配方所需物品。"
 	quest.1E0BB50868F951A3.title: "&f水果篮"
@@ -2851,7 +2851,7 @@
 	]
 	quest.1E88395535AA93DC.title: "&fPut It Back Where It Beelongs"
 	quest.1E9349AC359E058E.quest_desc: ["The &aMechanical Bearing&r rotates attached contraptions."]
-	quest.1E9349AC359E058E.title: "&fMechanical Bearing"
+	quest.1E9349AC359E058E.title: "&f动力轴承"
 	quest.1E95AD23243FEF87.quest_desc: ["现在你就可以制造&e实用拓展&r模组中的最强燃料了。只需简单地把&a充能油菜种子&r丢进&3晶化油&r里，然后你就有&d充能油&r了！"]
 	quest.1E95AD23243FEF87.title: "&d充能油菜种子"
 	quest.1E9AD94E5373BFAB.quest_desc: ["&aGearboxes&r allow you to change rotational axis and direction."]
