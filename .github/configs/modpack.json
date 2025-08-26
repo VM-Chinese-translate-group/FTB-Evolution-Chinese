@@ -10,5 +10,14 @@
         "ignoreDeletions": false
       }
     ]
-  }
+  },
+  "exclusionPatterns": [
+    "**/lang/*.*",
+    "!**/lang/en_us.*",
+    "kubejs/assets/modern_industrialization/lang/en_us.json",
+    "kubejs/assets/ftb/lang/en_us.json",
+    "kubejs/assets/ftbmaterials/lang/en_us.json",
+    "kubejs/assets/functionalstorage/lang/en_us.json",
+    "kubejs/assets/forbidden_arcanus/lang/en_us.json"
+  ]
 }
