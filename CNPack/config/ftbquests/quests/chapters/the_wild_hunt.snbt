@@ -1236,6 +1236,7 @@
 			id: "35CCB0359596DE32"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:melee"
+				feedback_message: "Melee Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_melee"
@@ -1243,7 +1244,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "5870EC9F52AB69C7"
-				permission_level: 2
+				permission_level: 3
 				silent: true
 				type: "command"
 			}]
@@ -1266,6 +1267,7 @@
 			id: "794C1EAA6252BC44"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:ranged"
+				feedback_message: "Ranged Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_ranged"
@@ -1273,7 +1275,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "57DC44652AED36CC"
-				permission_level: 2
+				permission_level: 3
 				silent: true
 				type: "command"
 			}]
@@ -1296,6 +1298,7 @@
 			id: "6A22434958A72911"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:mining"
+				feedback_message: "Mining Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_mining"
@@ -1303,7 +1306,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "2A9A44AE9AC7E045"
-				permission_level: 2
+				permission_level: 3
 				silent: true
 				type: "command"
 			}]
@@ -1326,6 +1329,7 @@
 			id: "0E19151FCABF4759"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:athletics"
+				feedback_message: "Athletics Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_athletics"
@@ -1333,7 +1337,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "1175BAFEEF40A724"
-				permission_level: 2
+				permission_level: 3
 				type: "command"
 			}]
 			shape: "hexagon"
@@ -1363,7 +1367,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "26C058E5EA512AFC"
-				permission_level: 2
+				permission_level: 3
 				silent: true
 				type: "command"
 			}]
@@ -1386,6 +1390,7 @@
 			id: "4BF0B397B0B9EE8C"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:defense"
+				feedback_message: "Defense Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_defense"
@@ -1393,7 +1398,7 @@
 					id: "ftbquests:custom_icon"
 				}
 				id: "70B20DBD76B83038"
-				permission_level: 2
+				permission_level: 3
 				silent: true
 				type: "command"
 			}]
