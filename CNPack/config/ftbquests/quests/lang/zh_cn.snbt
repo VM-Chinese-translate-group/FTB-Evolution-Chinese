@@ -2466,8 +2466,8 @@
 	]
 	quest.1A6984A6484FF8F3.title: "&f构建第一个&d法术"
 	quest.1A89ACDC528588D5.title: "&d苍穹晶胸甲"
-	quest.1A984CF299959C96.quest_desc: ["The &aCharger&r is used to charge or fill items and equipment up using power or &cTurbofuel&r."]
-	quest.1A984CF299959C96.title: "&fThe &aCharger"
+	quest.1A984CF299959C96.quest_desc: ["&a装备充能器&r可以消耗能量或&c涡轮燃料&r，为各种物品与设备充能。"]
+	quest.1A984CF299959C96.title: "&a装备充能器"
 	quest.1AA08B095A8B378F.quest_desc: [
 		"如果你想搭一面&a抽屉墙&r，那你得先做一个&3链接工具&r！"
 		""
@@ -2536,22 +2536,22 @@
 	]
 	quest.1B1E4B79CB5D4C35.title: "&fME接口"
 	quest.1B20BEE2BE4476A7.quest_desc: [
-		"The &dCybernetic Augmentation Center&r allows you to install cybernetic &bAugmentations&r directly into your body, providing you with a variety of passive benefits and active abilities."
+		"&d赛博改造中心&r允许你直接在你身体内安装赛博&b植入体&r，为你提供各种各样的被动增益和主动能力。"
 		""
-		"Walk into the assembled machine to open the &bResearch \\&\\ Application Interface&r. Each &bAugmentation&r has an energy and resource costs, which can be stored in the center's or the player's inventory."
+		"走入机器来打开&b研究和应用界面&r。每个&b植入体&r都需要消耗能量和资源，这些资源可以存放在中心或者玩家的物品栏中。"
 		""
-		"Once you have researched an &bAugment&r, they become available for installation, requiring additional resources."
+		"一旦你研究了某个&b植入体&r，它们便可安装，但需要额外资源。"
 		""
-		"&c&lBE CAREFUL!&r The center stores all researched blueprints, this means all research will be lost when the machine is destroyed!"
+		"&c&l注意&r：中心储存着所有研究蓝图，这意味着当机器被摧毁时，所有研究都会丢失！"
 		""
-		"Should you ever accidentally destroy your center, existing player &bAugmentations&r can be scanned in via the Import button in the bottom-left of the interface."
+		"如果你不小心摧毁了你的中心，现有的玩家&b植入体&r可以通过界面左下角的导入按钮来扫描进去。"
 		"{@pagebreak}"
-		"All &bAugmentations&r are installed permanently, requiring no additional maintenance or energy, and can be removed at any time, but the resources used for installation are lost."
+		"所有&b植入体&r均为永久安装，不需要消耗能量或额外材料来维护，并且可以随时移除，但是会丢失安装所用的材料"
 		""
-		"Some abilities can be toggled while others remain always-active. Press and hold the &bAugmentation&r hotkey (\"G\" by default), hover over the desired augment, and release to toggle it."
+		"一些能力能够切换，而另一些则是始终激活，按下并长按&b植入体&r热键（默认为“G”键），将鼠标悬停在所需的植入体上，然后释放以切换它。"
 	]
-	quest.1B20BEE2BE4476A7.quest_subtitle: "The Future Is Now, Old Man"
-	quest.1B20BEE2BE4476A7.title: "&dCybernetic Augmentation Center"
+	quest.1B20BEE2BE4476A7.quest_subtitle: "未来已来，老头子"
+	quest.1B20BEE2BE4476A7.title: "&d赛博改造中心"
 	quest.1B2E6CA3642024B7.quest_desc: ["&a固值器&r可以用来创造已有&b变量&r的副本。"]
 	quest.1B2E6CA3642024B7.quest_subtitle: "复制和粘贴变量"
 	quest.1B2E6CA3642024B7.title: "&fMaterializer"
@@ -2565,11 +2565,11 @@
 	quest.1B9C122BAE5A64BC.quest_subtitle: "今朝缔连理！"
 	quest.1B9C122BAE5A64BC.title: "&c一见倾心？"
 	quest.1BAF60BB97FE304B.quest_desc: [
-		"All generators (except the &aBasic Generator&r) can be converted to produce &bSteam&r instead of RF by using the &aSteam Boiler Addon&r."
+		"所有发电机（除&a基础发电机&r外）安装&a蒸汽锅炉插件&r后，就可以输出&b蒸汽&r而非RF。"
 		""
-		"This addon will convert the machine to consume water to produce Steam. To do this, you'll need to pump water in and the steam out of the &bSteam Addon&r itself, and not the generator!"
+		"这个插件可以将机器改造为通过消耗水来生产蒸汽的模式。请注意，你需要将水输入到&b蒸汽插件&r中，并将产生的蒸汽从插件本身导出，而不是连接到发电机本体！"
 	]
-	quest.1BAF60BB97FE304B.title: "&fConverting To &bSteam&f!"
+	quest.1BAF60BB97FE304B.title: "&f拥抱&b蒸汽&r发电！"
 	quest.1BC0E8258FBDBF56.quest_desc: [
 		"你可以使用&3伊哈根奴役术&r召唤&e被附身的动物&r，召唤的动物可以驯服，也可以杀掉获取战利品。"
 		""
@@ -2655,13 +2655,13 @@
 	]
 	quest.1CA4AF485A77607F.title: "&f扳手"
 	quest.1CA7E96F42B75C2F.quest_desc: [
-		"One of the first machines that you can make is the &aPowered Furnace&r!"
+		"你可以制作的第一台机器就是&a电炉&r！"
 		""
-		"To build this machine, place down the Powered Furnace block first, then place a &bMachine Core&r on top of it. Then you can right click it to build it."
+		"要构建这台机器，你需要先放下电炉方块，然后在它上面放置一个&b机器核心&r。然后右击它便可构建完毕"
 		""
-		"This is a decent machine in the early game, but can be upgraded to be much faster using &bAddons&r."
+		"这是一台在游戏初期相当不错的机器，但是你可以为它加装&b插件&r来大幅提升工作速度"
 	]
-	quest.1CA7E96F42B75C2F.title: "&fThe &aPowered Furnace"
+	quest.1CA7E96F42B75C2F.title: "&f第一台&a电炉"
 	quest.1CA8D89EE7C50CFD.quest_desc: ["末地城的隐秘守卫。"]
 	quest.1CA8D89EE7C50CFD.title: "&f击杀10只&d潜影贝"
 	quest.1CAA9A2F7F3EDAD3.quest_subtitle: "血肉粉笔"
@@ -3103,17 +3103,17 @@
 	]
 	quest.216FBD5E15FE2E7D.title: "&5量子升级"
 	quest.21723F4B52A69BE9.quest_desc: [
-		"The &aDrone Port&r allows you to transport items across vast distances using flying drones. It requires a &aDrone Port&r at both the takeoff and landing positions to be built and powered."
+		"&a无人机港&r让你可以使用无人机远距离运输物品。需要在发送端和接收端都放置&a无人机港&r并供能"
 		""
-		"Once built, assign the target port using a &eTarget Designator&r. Bind it to the targeted &aDrone Port&r by shift + right-clicking the target port. Then, on the port you wish to send items from, open the UI and place the &eTarget Designator&r into the special item slot."
+		"放置好后，使用&e目标标识器&r标记接收端。使用Shift+右击来将其绑定到目标端&a无人机港&r。然后将&e目标标识器&r放置在在发送端无人机港的UI中的特殊槽位。"
 		"{@pagebreak}"
-		"The target &aDrone Port&r must be at least 50 blocks away, and the area it's in needs to be chunk-loaded."
+		"目标&a无人机港&r必须位于50格以外，且其所在区块需被加载。"
 		""
-		"A &aDrone Port&r can only send items to one target port, but can receive items from multiple ports. However, each drone takes a few seconds to land, so if items arrive too frequently, one receiving port may be overloaded when targeted by multiple ports."
+		"一个&a无人机港&r只能向一个特定的目标港发送材料，但一个港可以从多个港接收材料。然而，每个无人机着陆需要几秒钟时间，因此如果材料到达得太频繁，一个接收港可能会因多个港同时发送而过载。"
 		""
-		"The time it takes to deliver items is constant, regardless of the distance the drone has to fly. However, the energy cost increases with distance."
+		"无人机送达材料所需的时间是固定的，与飞行距离无关。然而，能量成本随距离增加。"
 	]
-	quest.21723F4B52A69BE9.title: "&fDrone Port"
+	quest.21723F4B52A69BE9.title: "&f无人机港"
 	quest.2173412A2D676009.quest_desc: [
 		"&d满月符石&r在满月时增加15%伤害。"
 		""
@@ -3186,8 +3186,8 @@
 		"&a烈焰人燃烧室&r用于为&c蒸汽引擎&r等设备以及&aPNCR&r等与热能相关的模组提供热能。"
 	]
 	quest.22B223553DE205D6.title: "&a动力搅拌器"
-	quest.22B83D03C6C3E61E.quest_desc: ["Improves operation speed, but reduces energy efficiency."]
-	quest.22B83D03C6C3E61E.title: "&fMachine Speed Addon"
+	quest.22B83D03C6C3E61E.quest_desc: ["提升运作速度，但是会减少能量使用效率。"]
+	quest.22B83D03C6C3E61E.title: "&f速度升级插件"
 	quest.22F07FB51C5DE600.quest_desc: [
 		"&d精准采集&r是增产矿物过程中的一种重要附魔，用精准采集挖出原矿方块并加以处理可以比直接挖掘获得更多产物。"
 		""
@@ -3412,11 +3412,11 @@
 	]
 	quest.24A60877D5FAD4A5.title: "&d探险家之力"
 	quest.24CE908ED60FD514.quest_desc: [
-		"The &aPulverizer&r is a simple machine that can be used to make Dusts and Biomass."
+		"&a磨粉机&r是个很简单的机器，用于制造各种粉，以及生物质。"
 		""
-		"In the early game, this is also the best way to get &6Enderic Compounds&r."
+		"这是前期获取&6末影化合物&r的最佳方式。"
 	]
-	quest.24CE908ED60FD514.title: "&fIt's Crushing Time"
+	quest.24CE908ED60FD514.title: "&f粉碎时间到！"
 	quest.24E11CBBB6EC58D5.quest_subtitle: "酿造台的燃料。"
 	quest.24E11CBBB6EC58D5.title: "&f烈焰粉"
 	quest.24E7F983A5ED730F.quest_desc: ["&3列车机壳&r用于制作列车组件和装饰方块。"]
@@ -3441,13 +3441,13 @@
 	quest.25023C87AA259688.quest_subtitle: "偷偷摸摸"
 	quest.25023C87AA259688.title: "&a纸板盔甲"
 	quest.25605901343EF3BF.quest_desc: [
-		"[\"The \", {\"text\": \"Enderic Railgun\", \"color\": \"#FCD205\"}, \" is a powerful ranged weapon that fires a high speed projectile, dealing significant damage to enemies and break blocks at a distance. The \", {\"text\": \"Railgun\", \"color\": \"#FCD205\"}, \" is powered by RF, and must be charged to function.\"]"
+		"[\"这把\",{\"text\":\"末影电磁炮\",\"color\":\"#FCD205\"},\"是一种强大的远程武器，可发射高速射弹，对敌人造成巨额伤害，并能远距离破坏方块。该\",{\"text\":\"电磁炮\",\"color\":\"#FCD205\"},\"由RF能源驱动，且必须蓄能后才能使用。\"]"
 		""
-		"Left mouse button can fire a continuous beam that damages any entities in its path and can also mine the first block in line. Energy will be transferred to an energy containing block instead of breaking it. It can also transform mined blocks, similar to the &aEnderic Laser&r."
+		"按住左键可发射连续光束，对路径上的实体造成伤害，并挖掘直线上的第一个方块。若命中含有能量的方块，则会将能量传输进去而非破坏。还能像&a末影激光器&r一样转换被挖掘的方块。"
 		""
-		"Mining-Mode can be toggled by Sneak + Right-Clicking with the item in hand."
+		"手持物品潜行右击可以切换挖掘模式。"
 		""
-		"Using the right mouse button fires a powerful projectile that explosed at the target location, destroying nearby blocks and entities."
+		"右击发射一枚威力巨大的弹丸，在命中位置爆炸，破坏附近方块并伤害实体。"
 	]
 	quest.2568C81FA7914FE2.quest_desc: [
 		"&6量子纠缠器&r可以将所有量子合成存储方块的内存翻四倍。"
@@ -3462,11 +3462,11 @@
 	]
 	quest.257B0B828021A1E3.title: "&d苍穹晶弓"
 	quest.2588279A071E5A6B.quest_desc: [
-		"When a mob or living entity dies, it releases a &bSoul&r. If a block capable of collecting the soul is within range (16 blocks), the &bSoul&r will be collected by that block. This is visually represented by a small &bSoul&r flying towards the block."
+		"当一个生物或活体实体死亡时，它会释放一个&b灵魂&r。如果范围（16格）内有能够收集灵魂的方块， &b灵魂&r将会被该方块收集。这在视觉上表现为一个小&b灵魂&r飞向该方块。"
 		""
-		"[\"\", {\"text\": \"Souls\", \"color\": \"#FFFFFF\"}, \" can be collected by \", {\"text\": \"Arcane Catalysts\", \"color\": \"#FF55FF\"}, \" and \", { \"text\": \"Spawner Controllers\", \"color\": \"#5555FF\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2765AC7C3E0350FE\" } }, \", and will always move towards the closest collecting block.\"]"
+		"[\"\", {\"text\": \"灵魂\", \"color\": \"#FFFFFF\"}, \" 可以被 \", {\"text\": \"奥术触媒\", \"color\": \"#FF55FF\"}, \" 和\", { \"text\": \"刷怪器控制器\", \"color\": \"#5555FF\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2765AC7C3E0350FE\" } }, \"收集，并总会移动到最近的收集方块内\"]"
 	]
-	quest.2588279A071E5A6B.title: "&9Collecting Souls"
+	quest.2588279A071E5A6B.title: "&9收集灵魂"
 	quest.25A18CFB6B3E038B.quest_desc: [
 		"&6水晶修复器&r是个非常有用的机器，它可以修复和升级世界中&a各种水晶母岩&r。"
 		""
@@ -3501,16 +3501,16 @@
 	quest.2617EB4B3D2A80DA.title: "&f木镐"
 	quest.261F26D8B7121272.title: "&2法术抗性&f升级法球"
 	quest.262464EE203C7A1B.quest_desc: [
-		"&6Oritech&r offers different &aJetpack&r variants. All of them can fly using either energy or &cTurbofuel&r. To fill them with energy, any energy storage or a charger can be used. To fill the internal tank, a &aCharger Block&r is required."
+		"&6Oritech&r中有很多类型的&a喷气背包&r，它们要么使用能量飞行，要么使用&c涡轮燃料&r飞行。用储能物品就可以给能量类喷气背包充能，如果要给燃料类喷气背包加油，你需要&a装备充能器&r才行。"
 		""
-		"When supplied with &cTurbofuel&r the flight of the jetpack will be much faster. &aExo Jetpack&r variants are faster than their basic counterparts. They will move faster upwards, and also increase the forward speed without having to go up aswell."
+		"当提供&c涡轮燃料&r时，喷气背包的飞行速度会快得多。&a外骨骼喷气背包&r的变体要比其基础款快得多。它们不仅上升更快，而且还能增加前进速度，同时也没有必要同时向上飞行"
 		""
-		"&aJetpacks&r can't be turned on or off. They'll be active when the jump key is held."
+		"&a喷气背包&r没有主动开关的选项，按下跳跃键后会自动激活。"
 		""
-		"Both &aJetpack&r variants have an elytra counterpart. In this case, the &aJetpack&r will only be active when the user is flying with the elytra, and will provide an upward boost, like using fireworks."
+		"&a喷气背包&r有和鞘翅联动的模式，在你装备鞘翅后，&a喷气背包&r将仅在你用鞘翅飞行的时候才会激活。这种情况下喷气背包会给你一个向上的推力，大体上和用烟花推进一样。"
 	]
-	quest.262464EE203C7A1B.quest_subtitle: "Take to the skies!"
-	quest.262464EE203C7A1B.title: "&fJetpacks"
+	quest.262464EE203C7A1B.quest_subtitle: "翱翔天际！"
+	quest.262464EE203C7A1B.title: "&f喷气背包"
 	quest.262F5FE957F52F5D.quest_desc: [
 		"&d生物灵魂&r有特殊的属性，你可以用&a空灵魂瓶&r捕捉生物来获得它。通过&d灵魂绑定器&r，你可以提取灵魂，然后将其用于制作各种游戏后期的物品。"
 		""
@@ -3566,7 +3566,7 @@
 	]
 	quest.2697DE3ABB47669F.title: "&f群系定位"
 	quest.269EE6FF35CA9857.quest_desc: [
-		"The &aSteam Engine&r generates RF by consuming steam. The energy produced is added with the energy produced from the base generator that is using the &aSteam Boiler Addon&r."
+		"&a蒸汽机&r通过消耗蒸汽来产生RF能量。其产出的能量，会与加装了&a蒸汽锅炉插件&r的基础发电机的能量叠加。"
 		""
 		"&a蒸汽引擎&r的工作速度取决于内部储存的蒸汽量，蒸汽越多压力越大，工作的速度也就越快。速度和内部蒸汽量呈线性相关，蒸汽满时为10倍输出。"
 		"{@pagebreak}"
@@ -3576,7 +3576,7 @@
 		""
 		"注意：&a蒸汽引擎&r的能量或水存储完全满的时候会罢工，所以一定要给水设计一个可以销毁的办法，比如有虚空升级的流体抽屉！"
 	]
-	quest.269EE6FF35CA9857.title: "&fThe &6Steam Engine"
+	quest.269EE6FF35CA9857.title: "&6蒸汽机&r"
 	quest.26B6680DCE14A228.quest_desc: [
 		"&a充气站&r可以用&b压缩空气&r充填你的物品。"
 		""
@@ -3660,11 +3660,11 @@
 	quest.275F70A4E1F7382A.quest_subtitle: "可合成"
 	quest.275F70A4E1F7382A.title: "&a学徒法术书"
 	quest.2765AC7C3E0350FE.quest_desc: [
-		"Mobs can be spawned by combining a &9Spawner Controller&r with a &aSpawner Cage&r below. The size of the spawned entity determines the required cage size. The type of mob spawned is determined by the first mob to walk over the &9Spawner Controller&r and can only be changed by replacing it."
+		"将一个&9刷怪器控制器&r放置于&a刷怪器笼&r的上方即可生成生物。所需笼子的尺寸取决于生成生物的体型大小。生成生物的种类由第一个走过&9刷怪器控制器&r的生物决定，且设定后只能通过替换该方块来重置。"
 		""
-		"[ \"The controller collects \", { \"text\": \"Souls\", \"color\": \"#5555FF\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2588279A071E5A6B\" } }, \" and uses them to spawn the set mob, with the \", { \"text\": \"Soul\", \"color\": \"#5555FF\"}, \" cost depending on the mob's HP. Mobs will only spawn if an empty surface is available nearby.\" ]"
+		"[ \"刷怪笼控制器收集\", { \"text\": \"灵魂\", \"color\": \"#5555FF\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2588279A071E5A6B\" } }, \"并使用它们来生成指定生物，所需的\",{ \"text\": \"灵魂\", \"color\": \"#5555FF\"}, \"消耗量取决于生成生物的血量。只有当附近有可用的空余表面时，生物才会生成。\" ]"
 		""
-		"When a mob type is set (or when right-clicked if invalid), the &9Spawner Controller&r highlights the required size of the &aSpawner Cage&r below. You can also right-click the &9Spawner Controller&r to get information on the current operational state."
+		"当设置了一个生物类型（或在无效时右击），&9刷怪器控制器&r会高亮显示下方所需&a刷怪器笼&r的尺寸。 你也可以右击&9控制器&r以获取当前操作状态的信息。"
 	]
 	quest.2765AC7C3E0350FE.title: "&9生物生成"
 	quest.276A6989CE359DFF.quest_desc: [
@@ -3771,8 +3771,8 @@
 	quest.28F3F31EA5BA9197.title: "&d防爆混合锭"
 	quest.290D1B111FD24B32.quest_desc: ["你需要用黑曜石蜂巢在末地捕获一只&a末影蜜蜂&r才能开始制作&d钻石蜜蜂&r，让末影蜜蜂和&9青金石蜜蜂&r繁殖就可以得到&d钻石蜜蜂&r了！"]
 	quest.290D1B111FD24B32.title: "&b钻石蜜蜂"
-	quest.29323A6F09BAA5BD.quest_desc: ["The &aPlacer Block&r places blocks from its inventory onto the layer below the &aMachine Frame&r. It can also be used to plant seeds in farmland or saplings."]
-	quest.29323A6F09BAA5BD.title: "&fPlacer Block"
+	quest.29323A6F09BAA5BD.quest_desc: ["&a方块放置器&r会放置其缓存内的方块，放置的方块位置为&a机器框架&r下方，你可以选择用它自动在耕地上种植种子，或者放置树苗。"]
+	quest.29323A6F09BAA5BD.title: "&f方块放置器"
 	quest.294AB45D52BE342B.quest_desc: ["&a打包机&r和&3理包机&r用于将物品打包为一个组移动到物流网络的另一部分。"]
 	quest.294AB45D52BE342B.title: "&a打包机"
 	quest.294FEC9B0B58EFDC.quest_desc: [
@@ -3852,12 +3852,12 @@
 	quest.2A19E0AF462C1FD2.title: "&a钻石护身符"
 	quest.2A1AE478A678C1A9.title: "&f能量接口"
 	quest.2A1D8E6B742C603E.quest_desc: [
-		"Pockets of &aCrude Oil&r can be found in various underground locations. Large oil reservoirs can also be found on the surface, where they can be seen gushing from the ground. They are also much more common in desert biomes!"
+		"你可以在地下各处找到零散的&a原油&r油矿。地表有时也能发现大型油田，在那里你可以看到原油从地面喷涌而出。此外，它们在沙漠生物群系中更为常见！"
 		""
-		"&aCrude Oil&r can be processed in a Centrifuge to produce &bPlastic Sheets&r, or even &cTurbofuel&r!"
+		"&a原油&r可以在离心机中进行处理，用以生产&b塑料片&r，甚至是&c涡轮燃料&r！"
 	]
-	quest.2A1D8E6B742C603E.quest_subtitle: "The U.S. Would Like To Know Your Location"
-	quest.2A1D8E6B742C603E.title: "&fCrude Oil"
+	quest.2A1D8E6B742C603E.quest_subtitle: "美国想知道你在哪"
+	quest.2A1D8E6B742C603E.title: "&f原油"
 	quest.2A5C2E704DE70301.quest_desc: [
 		"&c烈焰金&r是下一阶的剑。"
 		""
@@ -3974,13 +3974,13 @@
 	quest.2B6A88AA896C54A6.quest_desc: ["加装该升级的工具在使用后就会穿墙自动显示周边的矿石。"]
 	quest.2B6A88AA896C54A6.title: "&f升级：矿石透视"
 	quest.2B6EC298B50C0D03.quest_desc: [
-		"When powered, the &aTree Cutter&r is a basic machine that will cut down an entire tree in one go, including the leaves!"
+		"供能时，&a伐木器&r是一台基础机器，可以一次砍倒整棵树，包括树叶！"
 		""
-		"The &aTree Cutter&r will only cut logs up to 7 blocks away, so it may not reach the top of larger trees."
+		"&a伐木器&r仅会砍倒距离7格内的树木，因此它有可能不能砍到较大树木的顶部。"
 		""
-		"The logs, leaves, and drops from the leaves are stored in the &aTree Cutter's&r internal inventory."
+		"原木，树叶和树叶的掉落物会储存在&a伐木器&r的存储空间。"
 	]
-	quest.2B6EC298B50C0D03.title: "&fTree Automation"
+	quest.2B6EC298B50C0D03.title: "&f全自动伐木"
 	quest.2B6FC4E870E364E0.quest_desc: [
 		"&7虚空符石&r使玩家免疫虚空伤害，在坠入虚空时将玩家传送到世界顶端。"
 		""
@@ -4033,11 +4033,11 @@
 	quest.2C0B3B4BFDD9C502.quest_desc: ["给&b强化合金&r中注入&d富集强化黑曜石&r，就能做出&d原子合金&r。"]
 	quest.2C0B3B4BFDD9C502.title: "&d原子合金"
 	quest.2C0C63951FDED180.quest_desc: [
-		"&dParticle Accelators&r are quite complex! Because of this, each part is split into different quests to break down how they all work."
+		"&d粒子加速器&r的工作方式很复杂！所以接下来的任务将会把它的机理掰碎了进行讲解。"
 		""
-		"To create new items with this machine, you will need to collide items from two separate controllers."
+		"想要用它制作新物品的话，你需要让两个不同控制器中的物品发生碰撞。"
 	]
-	quest.2C0C63951FDED180.title: "&dParticle Accelerator"
+	quest.2C0C63951FDED180.title: "&d粒子加速器"
 	quest.2C1649AE3DADD71D.quest_desc: [
 		"&b建筑之棒&r是一个旨在加快建造过程的模组。"
 		""
@@ -4320,11 +4320,11 @@
 	]
 	quest.2EBDE5767588B43C.title: "&6觉醒粉&r"
 	quest.2ECAD5F752E445F1.quest_desc: [
-		"[\"\", { \"text\": \"Prometheum\", \"color\": \"#FCD205\"}, \" is an advanced material that can only be produced in an \", { \"text\": \"Atomic Forge\", \"color\":\"#FF55FF\"}, \".\" ]"
+		"[\"\", { \"text\": \"钷\", \"color\": \"#FCD205\"}, \"是一种高级材料，仅能使用\", { \"text\": \"原子锻造器\", \"color\":\"#FF55FF\"}, \"制造。\" ]"
 		""
-		"[\"This powerful resource is essential for crafting \", {\"text\": \"Prometheum Tools\", \"color\":\"#FCD205\"}, \" and the \", {\"text\": \"Ultimate Machine Core\", \"color\":\"#FF55FF\"}, \".\"]"
+		"[\"这是一种用于制造\", {\"text\": \"钷工具\", \"color\":\"#FCD205\"}, \"和\", {\"text\": \"终极机器核心\", \"color\":\"#FF55FF\"}, \"的强大材料。\"]"
 	]
-	quest.2ECAD5F752E445F1.title: "{\"text\": \"Prometheum\", \"color\": \"#FCD205\"}"
+	quest.2ECAD5F752E445F1.title: "{\"text\": \"钷\", \"color\": \"#FCD205\"}"
 	quest.2ECE092636880CB8.quest_desc: [
 		"&aAndesite Funnels&r and &aChutes&r are used to move items in and out of storages."
 		""
@@ -4514,8 +4514,8 @@
 		"It also displays information on blocks, like an &aIncense's&r range, or a &dRune Slab's&r state."
 	]
 	quest.3084698460182262.title: "&aBlack Thorn Staff"
-	quest.30BCD6DAC377A61D.quest_desc: ["&aCarbon Fiber Strands&r now let you craft &aImproved Machine Cores&r (Tier 3)."]
-	quest.30BCD6DAC377A61D.title: "&fTier 3 Machine Cores"
+	quest.30BCD6DAC377A61D.quest_desc: ["拥有了&a碳纤维&r，你现在可以制作&c中级机器核心&r了。"]
+	quest.30BCD6DAC377A61D.title: "&f中级机器核心"
 	quest.30BF3228B479E90E.quest_desc: ["&2Living Tools&r have the mining power of iron, but will slowly repair over time."]
 	quest.30BF3228B479E90E.title: "&2Living Tools"
 	quest.30CE0A1635346670.quest_desc: [
@@ -4580,7 +4580,7 @@
 		""
 		"就算你能夠透過靈火來取得大多數的&d異界&r材料，你也能夠使用&9探測杖&r來尋找這些材料。"
 	]
-	quest.31B06C6ACEF764E0.quest_subtitle: "美国会找到你的坐标"
+	quest.31B06C6ACEF764E0.quest_subtitle: "美国想知道你在哪"
 	quest.31B06C6ACEF764E0.title: "&f出门找原油！"
 	quest.31BD9A98AE5893B9.quest_desc: [
 		"厨房里一定要有&a调料架&r！"
@@ -4845,13 +4845,13 @@
 	quest.33E1A7CFF2B77F13.quest_desc: ["The &dAthame&r is a fast and deadly weapon with increased range."]
 	quest.33E1A7CFF2B77F13.title: "&dAthame"
 	quest.33E4C81B762892B2.quest_desc: [
-		"&6Oritech&r is a tech mod centered around customizable multiblock machines that will change the way you use tech mods!"
+		"&6Oritech&r是个科技模组，里面有很多新的多方块机器和工具，会让你的科技旅途焕然一新！"
 		""
-		"From basic ore processing to setting up &dParticle Accelerators&r, this mod has it all."
+		"这个模组下至基础矿物处理，上至建立&d粒子加速器&r……你想什么都可以用它实现！"
 		""
-		"To get started, you'll need some &aRaw Nickel&r as this is the main crafting mat for the mod."
+		"你需要点&a粗镍&r，这是这个模组的重要合成材料。"
 	]
-	quest.33E4C81B762892B2.title: "&6Welcome To Oritech&f!"
+	quest.33E4C81B762892B2.title: "&6欢迎游玩Oritech&f！"
 	quest.33E90998B6E11500.quest_desc: ["The &aLarge Water Wheel&r provides half the &bRPM&r of a regular &aWater Wheel&r, but have a much higher &bStress Capacity&r."]
 	quest.33E90998B6E11500.title: "&fLarge Water Wheel"
 	quest.33E96DCB466BC28C.quest_desc: [
@@ -5509,8 +5509,8 @@
 	]
 	quest.3964E9A95D52B0FD.quest_subtitle: "召唤五芒星：级别5"
 	quest.3964E9A95D52B0FD.title: "&d阿巴拉斯强化召唤术"
-	quest.39BC89942A5CA7E1.quest_desc: ["Improves energy efficiency."]
-	quest.39BC89942A5CA7E1.title: "&fMachine Efficiency Addon"
+	quest.39BC89942A5CA7E1.quest_desc: ["提升能源效率。"]
+	quest.39BC89942A5CA7E1.title: "&f效率升级插件"
 	quest.39CA68E8B84CF962.quest_desc: ["&7铜符石&r将玩家半径十格范围内的掉落物吸引至玩家。"]
 	quest.39CA68E8B84CF962.title: "&7铜护身符"
 	quest.39ED88D2EF2F617B.quest_desc: [
@@ -5602,11 +5602,11 @@
 	]
 	quest.3A91BB6A673C0D83.title: "&a多方块采石场&r"
 	quest.3AC24F0B92156F55.quest_desc: [
-		"The &dAssembler&r features a 2x2 crafting grid and will automatically assemble items as long as it has energy, items in the input slots, and space for the finished product in the output slot."
+		"&d装配器&r提供2x2合成格，有能量就会自动组装物品。原材料放入输入槽，成品会从输出槽输出。"
 		""
-		"Some machine components can be crafted without an &aAssembler&r, but doing so consumes more resources."
+		"有些机器组件虽然可以不用&a装配器&r制作，但这样会消耗更多资源。"
 	]
-	quest.3AC24F0B92156F55.title: "&fThe &dAssembler"
+	quest.3AC24F0B92156F55.title: "&d装配器"
 	quest.3ACEBC2F651514F4.quest_desc: ["&3咀叶发电机&r会消耗七格半径内的树叶，然后产出能量。"]
 	quest.3ACEBC2F651514F4.title: "&3咀叶发电机"
 	quest.3ACF3359B3B59A05.quest_desc: [
@@ -5660,11 +5660,11 @@
 	quest.3B2115D3C8C3A486.quest_subtitle: "二阶能量存储"
 	quest.3B2115D3C8C3A486.title: "&3高级电容库"
 	quest.3B2B26B1AD947CC5.quest_desc: [
-		"The &aLarge Energy Storage&r holds a base value of 20M RF which can be upgraded with &bAddons&r."
+		"&a大型能量存储器&r基础容量为20M RF，它可以使用&b插件&r升级"
 		""
-		"The &aLarge Energy Storage&r accepts energy from all green ports but can only output through the single red port. A redstone signal will disable all energy output."
+		"&a大型能量存储器&r可以从任意有绿色端口的面输入能量，然后从仅有一个的红色端口输出能量。如果给它一个红石信号，那么它就不会输出能量。"
 	]
-	quest.3B2B26B1AD947CC5.title: "&fLarge Energy Storage"
+	quest.3B2B26B1AD947CC5.title: "&f大型能量存储"
 	quest.3B37556B49098933.quest_desc: ["&a异界眼镜&r能为穿戴者提供&b第三只眼&r效果，从而使&9异界&r的方块可见。"]
 	quest.3B37556B49098933.title: "&a异界眼镜"
 	quest.3B41D9132CD7728D.title: "&d65536b 流体存储组件"
@@ -5760,8 +5760,8 @@
 		"&dDragon's Eyes&r: Three modifiers."
 	]
 	quest.3C25C86651ED40F0.title: "&aPestle &f\\&\\ &aMortar"
-	quest.3C2916E5CA485AEA.quest_desc: ["With your new machines, you can now create &dTier 5&r and &dTier 6&r Machine Cores!"]
-	quest.3C2916E5CA485AEA.title: "&fMachine Core Upgrades!"
+	quest.3C2916E5CA485AEA.quest_desc: ["现在你就可以用你的新机器做出&d精良&r和&d极致&r的机器核心了！"]
+	quest.3C2916E5CA485AEA.title: "&f机器核心升级！"
 	quest.3C2A1A2A6D357657.title: "&31024B 流体存储组件"
 	quest.3C60FA46EA54C899.quest_desc: [
 		"供电后，&d战利品制造器&r可以从&b预测产物&r中生成战利品。"
@@ -5787,8 +5787,8 @@
 		"通过&a工程师手册&r或JEI查询方块的温度。"
 	]
 	quest.3CADD463CFC2FE32.title: "&f热传导发电机"
-	quest.3CC776328188FE33.quest_desc: ["[ \"With access to \", {\"text\": \"Prometheum\", \"color\": \"#FCD205\"}, \" you can now craft the final tier of cores: The \", {\"text\": \"Ultimate Machine Core\", \"color\": \"#FF55FF\"}, \"!\"]"]
-	quest.3CC776328188FE33.title: "[{\"text\": \"The \", \"color\": \"#FFFFFF\"}, {\"text\": \"Ultimate Machine Core\", \"color\":\"#FCD205\"}, {\"text\": \"!\", \"color\": \"#FFFFFF\"}]"
+	quest.3CC776328188FE33.quest_desc: ["[ \"拥有了\", {\"text\": \"钷\", \"color\": \"#FCD205\"}, \"，你便可以制作最高等级的机器核心——\", {\"text\": \"终极机器核心\", \"color\": \"#FF55FF\"}, \"！\"]"]
+	quest.3CC776328188FE33.title: "[{\"text\": \"终极机器核心\", \"color\":\"#FCD205\"}, {\"text\": \"！\", \"color\": \"#FFFFFF\"}]"
 	quest.3CD3CA5B619F5698.quest_desc: ["&a时运&r和&a精准采集&r升级可以安装在&a破坏面板&r中，这样它破坏方块时就会有这种魔咒的效果了。"]
 	quest.3CD3CA5B619F5698.title: "&a时运\\&\\精准采集升级"
 	quest.3CEB99462830B35F.quest_desc: [
@@ -5812,17 +5812,17 @@
 	quest.3CF6C19B0626B465.quest_desc: ["Portals. Portals everywhere."]
 	quest.3CF6C19B0626B465.title: "&5Space Dissector"
 	quest.3D0DC34C36A173F5.quest_desc: [
-		"You now have all the resources to craft the &cExo Armor&r! It is a specialized suit designed to assist you on your adventures, with each piece offering unique benefits:"
+		"你现在有了制造&c外骨骼盔甲&r的全部资源！它是一套专门设计用来辅助你冒险的装备，每个都能给你带来独特增益："
 		""
-		"Helmet: Provides &dNight Vision&r."
+		"头盔：提供&d夜视&r效果。"
 		""
-		"Chestplate: Charges your inventory items."
+		"胸甲：自动为物品栏物品充能。"
 		""
-		"Leggings: Enhances your running speed."
+		"护腿：提升奔跑速度。"
 		""
-		"Boots: Grants immunity to fall damage."
+		"靴子：免疫摔落伤害。"
 	]
-	quest.3D0DC34C36A173F5.title: "&cExo Armor"
+	quest.3D0DC34C36A173F5.title: "&c外骨骼盔甲"
 	quest.3D1796B4F460DBBF.quest_desc: [
 		"&a全向连接器&r能够以无线的方式无视距离甚至跨维度将两个网络连接起来，前提是两边的区块都在加载状态。"
 		""
@@ -5865,8 +5865,8 @@
 		"多方块内部空格可以用&d量子合成单元&r填充，除此之外它就没别的用处了。"
 	]
 	quest.3D767C3E2F0DE320.title: "&d量子计算机&f结构"
-	quest.3D9FFFF325533514.quest_desc: ["Double byproduct amount in &aFragment Forge&r. Increases block breaking yield in &aDestroyer Blocks&r and &aEnderic Lasers&r."]
-	quest.3D9FFFF325533514.title: "&fMachine Yield Addon"
+	quest.3D9FFFF325533514.quest_desc: ["在&a粉碎工厂&r中，使副产物产量加倍。增加&a方块破坏器&r和&a末影激光器&r挖掘的产出。"]
+	quest.3D9FFFF325533514.title: "&f产量升级插件"
 	quest.3DA1FF3D18606AD6.quest_desc: [
 		"&c烈焰金镐&r算是个挖掘工具的大进步！"
 		""
@@ -6001,7 +6001,7 @@
 		""
 		"&cIt is important to keep Reactors sufficiently cooled!&r Reactors like to make big holes."
 	]
-	quest.3F75F781DE5123F4.title: "&dNuclear Reactor Control Panel"
+	quest.3F75F781DE5123F4.title: "&d核反应堆控制面板"
 	quest.3F81397C7818B7C5.quest_desc: [
 		"&5蚀空烬质&r是该模组的最高阶煤炭。"
 		""
@@ -11909,7 +11909,7 @@
 	task.08A176AF81AFB67F.title: "&b高级精华&f工具"
 	task.0942F933E8D6C1D3.title: "&dDimensional Storage&r"
 	task.096452CE0C4FC543.title: "任意锄"
-	task.09BA8AE5976CB602.title: "Jetpacks"
+	task.09BA8AE5976CB602.title: "喷气背包"
 	task.0A6AA7DD87D2EDE2.title: "&3恶魔伴侣"
 	task.0ABCE3537E92F6F2.title: "Enter The &dAfterdark&r"
 	task.0ADB488118F04CF5.title: "蜜蜂属性"
@@ -11983,7 +11983,7 @@
 	task.223BF1DD305A9FC5.title: "&e工厂安装器&r"
 	task.228E18B91C6F4249.title: "&d终极精华&f盔甲"
 	task.2307FBB6846EF266.title: "资源生成"
-	task.23DB2322C9E7ACFA.title: "Tier 5 \\&\\ 6 Machine Cores"
+	task.23DB2322C9E7ACFA.title: "精良和极致机器核心"
 	task.247B79A552BA6CCE.title: "穿戴整齐，出门探险！"
 	task.2499252075BAB96E.title: "&a一级&f种子"
 	task.250E86F309F06DC5.title: "&eSummon&r: &7Foliot Janitor"
@@ -12025,7 +12025,7 @@
 	task.2EE3E482A1A9CA90.title: "&eSummon&r: &3Fairy"
 	task.2F24789F418ADCF8.title: "锄头"
 	task.301841E2EFD9CDF4.title: "找到一些海晶沙"
-	task.307A38BAB131FECA.title: "Collecting Souls"
+	task.307A38BAB131FECA.title: "收集灵魂"
 	task.30C463CFF560647D.title: "&f修理一支粉笔"
 	task.310335F073D442F0.title: "Hopper Upgrades"
 	task.31D3D8C34525AC97.title: "&f过滤器实例演示"
