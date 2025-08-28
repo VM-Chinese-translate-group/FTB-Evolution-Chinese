@@ -184,7 +184,7 @@
 		""
 		"每1000mB&5反物质&r可制成一个&5反物质球&r。"
 		"{@pagebreak}"
-		"&aFTB金字塔"
+		"&eNote&r: You'll need 3 &5Antimatter Pellet&r for the &6FTB Pyramid&r."
 		""
 		"这相当于处理等价于30000个铀锭的裂变燃料，这还不算搭建别的所消耗的材料量。"
 		""
@@ -6602,21 +6602,21 @@
 	quest.45A36EB1C2133600.quest_subtitle: "没门，你没法在游戏中下载游戏。"
 	quest.45A36EB1C2133600.title: "&d随机存取存储器"
 	quest.45B2C8BD2ACBA46D.quest_desc: [
-		"The &dReactor&r needs to be made of rectangular walls, where the frame is made of &aReactor Wall&r blocks. The max size of a Reactor is 64 blocks per direction. Its interior needs to be identical in the vertical (y) axis."
+		"&d反应堆&r必须建造成一个长方体结构，其框架必须由&a反应堆&r方块构成。&d反应堆&r在每个方向上的最大尺寸为64格。其内部的每一层（Y轴方向）都必须拥有完全相同的布局。"
 		""
-		"Somewhere on the walls, you'll need the &6Nuclear Reactor Control Panel&r, as well as any &cEnergy Ports&r that you wish to use."
+		"你需要在墙壁的某个位置安放&6核反应堆控制面板&r，以及你想要使用的任意数量的&c能量端口&r。"
 		""
-		"While it's possible to make a small 3x3x3 Reactor, it's best to start with a 5x5x5 to properly cool it down."
+		"虽然建造一个3x3x3的小型反应堆是可行的，但为了保证良好的散热，最好从5x5x5的尺寸开始。"
 		""
-		"Even though the &dReactor&r allows for some heat build-up, a properly cooled design should not produce any leaking heat."
+		"尽管&d反应堆&r允许存在一定的热量积聚，但一个散热设计良好的反应堆不应该产生任何泄漏的热量。"
 		"{@pagebreak}"
-		"You can design your &dReactors&r as you wish. In general, &aDual/Quad Rods&r use fuel more efficiently, generating more total RF per pellet, but are also much harder to cool."
+		"你可以随心所欲地设计你的&d反应堆&r。总的来说，&a双或四反应堆棒&r的燃料效率更高，每份燃料芯块能产生更多的总RF，但它们也更难冷却。"
 		""
-		"You can use active cooling with the &bHeat Absorbers&r, or passive cooling with just &cHeat Vents&r."
+		"你可以使用&b热量吸收器&r进行主动散热，或是仅使用&c散热口&r进行被动散热。"
 		""
-		"If a &aFuel Rod&r contains a temperature of over 2000°C for a long period of time, it will overheat and trigger a &cNUCLEAR MELTDOWN&r!"
+		"如果一根&a反应堆棒棒&r的温度长时间超过2000°C，它将会过热并引发一场&c堆 芯 熔 毁&r！"
 		""
-		"Warning sirens will engage before it reaches those temperatures. Depending on the size of the &dReactor&r and the number of &aFuel Rods&r, the meltdown will result in a bigger or smaller explosion."
+		"在温度达到临界点前，警报器将会响起。根据&d反应堆&r的尺寸和&a反应堆棒&r的数量，堆芯熔毁将导致规模不一的爆炸。"
 	]
 	quest.45B2C8BD2ACBA46D.title: "&f设计你的&d反应堆"
 	quest.45C2A0B3F277C09B.quest_desc: ["&e进阶提示&r：你可以直接对着通用机械的任意管道使用&c合金&r就直接将它们升至下一级！"]
@@ -6712,15 +6712,15 @@
 	quest.46A1341E5E97ABDC.quest_subtitle: "帮你了解AE的频道机制"
 	quest.46A1341E5E97ABDC.title: "&b线缆&f和&2频道"
 	quest.46AF8085E4151D9E.quest_desc: [
-		"The &cBedrock Extractor&r can mine ores from below bedrock at locations where &aResource Nodes&r are found."
+		"&c基岩层钻机&r可以在发现&a资源节点&r的地方开采基岩下方的矿石。"
 		""
-		"This multiblock machine can only operate when placed directly above &aResource Nodes&r and must be powered using &aEnderic Lasers&r."
+		"作为一台多方块机器，它必须同时满足两个条件才能运行：直接放置在&a资源节点&r的正上方，并由&a末影激光器&r进行供能。"
 		"{@pagebreak}"
-		"When right-clicked, it will show the targeted &aResource Nodes&r below. It will target the first visible ore node in a 3x3 area below, up to 3 blocks down."
+		"右击该机器可以预览其目标&a资源节点&r。它会自动锁定目标并以正下方3x3区域内、最深3格的第一个可见矿石节点为目标。"
 		""
-		"When in operation, the &cBedrock Extractor&r mines ores directly below it, covering the entire 3x3 area. Each operation randomly selects one of the blocks below. Not all blocks need to be &aResources Nodes&r. Try to find a spot with the most ores right below the extractor for the highest yield."
+		"运行时，&c基岩层矿机&r会开采其正下方一整个3x3区域。每次操作会从该区域中随机选择一个方块进行开采。此区域内不必全是&a资源节点&r，因此，将提取器放置在矿石最密集的地点上方，才能获得最高产量。"
 	]
-	quest.46AF8085E4151D9E.title: "&cBedrock Extractor"
+	quest.46AF8085E4151D9E.title: "&c基岩层钻机"
 	quest.46BB702F2847F818.quest_desc: ["把红石丢到激光上，就可以得到&a红石水晶&r，&e实用拓展&r里的很多合成配方都需要它。"]
 	quest.46BB702F2847F818.title: "&a红石水晶"
 	quest.46C2C45AE017AE81.quest_desc: ["这个升级装入&aJust Dire模组的镐&r后，右击就会让周边的矿石透过墙壁发光。"]
@@ -6768,8 +6768,8 @@
 		"有了这个，你就可以制造那些用于无线传输的物品或机器了，比如传送门！"
 	]
 	quest.479955FA73CB4C7D.title: "&b传送核心"
-	quest.47AD944D7AEC4919.quest_desc: ["With access to &aEnderic Compounds&r, you can now craft &cAdvanced Machine Cores&r (Tier 4)."]
-	quest.47AD944D7AEC4919.title: "&fTier 4 Machine Cores"
+	quest.47AD944D7AEC4919.quest_desc: ["拥有了&a末影化合物&r，你现在可以制作&c高级机器核心&r了"]
+	quest.47AD944D7AEC4919.title: "&f高级机器核心"
 	quest.47C45A0552FBC1BD.title: "游玩&d50小时"
 	quest.47C817DA92CE31EA.quest_desc: [
 		"有了&6矿晶傀儡&r以后，它们能收获的可就远不止紫水晶了！"
@@ -6824,13 +6824,13 @@
 	]
 	quest.4882D3E03CC01268.title: "&bME存储总线"
 	quest.4887C8EA4441F62B.quest_desc: [
-		"The &cFuel Generator&r is a 3x3x2 multiblock generator that consumes &3Crude Oil&r or &cTurbofuel&r to generate power."
+		"&c燃料发电机&r是个3x3x2的多方块发电机，它可以消耗&3原油&r或者&c涡轮燃料&r发电。"
 		""
-		"&cTurbofuel&r provides the same RF/t, but lasts a lot longer!"
+		"&c涡轮燃料&r虽然RF产出速率和普通燃料一样，不过它持续时间更久！"
 	]
-	quest.4887C8EA4441F62B.title: "&fThe &cFuel Generator"
-	quest.48935669BAAC9142.quest_desc: ["&aEnderic Lenses&r are used as crafting components for &bAddons&r and machines!"]
-	quest.48935669BAAC9142.title: "&fEnderic Lens"
+	quest.4887C8EA4441F62B.title: "&c燃料发电机&r"
+	quest.48935669BAAC9142.quest_desc: ["&a末影透镜&r是用于制作&b插件&r和机器的组件。"]
+	quest.48935669BAAC9142.title: "&f末影透镜"
 	quest.48CADAFA7696B518.quest_desc: [
 		"Perhaps these ruins are hiding something. Going deeper, you'll find a massive &bCrystal&r. This is exactly what we're looking for!"
 		""
@@ -6916,11 +6916,11 @@
 	quest.49CBB0619F943B81.title: "&3列车时刻表"
 	quest.49D0138F17D5CD11.title: "&fBoss Catcher"
 	quest.49D399724FD1805B.quest_desc: [
-		"&cTurbofuel&r is a more efficient fuel that can be used to create power or fuel &aOritech Jetpacks&r!"
+		"&c涡轮燃料&r是一种效率更高的发电燃料，并且还可以装填&aOritech的喷气背包&r！"
 		""
-		"To create &cTurbofuel&r, you'll need to process &aCrude Oil&r and &dFluxite&r in a &aCentrifuge&r with the &bFluid Addon&r installed."
+		"把&a原油&r和&d辐水晶&r一起置入加装&b流体处理插件&r的&a离心机&r，这样就可以合成&b涡轮燃料&r了。"
 	]
-	quest.49D399724FD1805B.title: "&cTurbofuel"
+	quest.49D399724FD1805B.title: "&c涡轮燃料"
 	quest.49DD167D6323406B.quest_desc: [
 		"Functional Storage can also handle storing fluids using &aFluid Drawers&r!"
 		""
@@ -6997,15 +6997,15 @@
 	]
 	quest.4A5402081BC88910.title: "&a不死护身符"
 	quest.4A5FD3641E0A566E.quest_desc: [
-		"The &2Reactor Energy Port&r is used to output the energy generated by the &dReactor&r, and it needs to be placed on one of its outer walls."
+		"&2反应堆能量端口&r用于输出&d反应堆&r生成的能量，且必须放置在反应堆的外墙。"
 		""
-		"Each port may output up to 25,000 RF/t."
+		"每个端口最多可输出25000 RF/t。"
 		""
-		"The &cReactor Redstone Port&r can disable the intake of new fuels, but will finish burning any pellet that has already started burning before the reactor is fully shut off."
+		"&c反应堆红石端口&r可以禁止装填新的燃料，但在反应堆完全关闭前，任何已开始燃烧的燃料芯块都将燃烧完毕。"
 		""
-		"It can also be used with a comparator to output data. It has 3 modes which can be cycled by right-clicking the port: Energy, Active Rod Count, and Temperature."
+		"它也可以与比较器一同使用以输出数据。它有3种模式，可通过右击端口来切换：能量、非空棒数和温度。"
 	]
-	quest.4A5FD3641E0A566E.title: "&2Energy &f\\&\\ &cRedstone &fPorts"
+	quest.4A5FD3641E0A566E.title: "&2能量&f和&c红石&f端口"
 	quest.4A63B415FED7E777.quest_desc: [
 		"&6修菲斯倒转之塔&r通过结合&9蓝色粉笔&r和&d凋灵骷髅头颅&r的力量，是你可以召唤并绑定&6魔王&r进入极其强大的物品中"
 		""
@@ -7387,11 +7387,11 @@
 	]
 	quest.4E69128D8178DCBE.title: "&6Pollen Fight"
 	quest.4E6B0E9C678618A3.quest_desc: [
-		"&aItem Filters&r can be used to help designate where specific items go in your pipeline."
+		"&a物品筛选器&r可以轻松设定什么物品可以穿过某个管道。"
 		""
-		"When attached to the face of a machine or inventory, these can be set to allow a specific item to go into the attached block."
+		"把它装到某个机器的面或物品栏中，就可以设定加装过滤器的方块可以输入什么物品。"
 	]
-	quest.4E6B0E9C678618A3.title: "&fFiltering Items"
+	quest.4E6B0E9C678618A3.title: "&f物品过滤"
 	quest.4E6EC6E1A507A52B.quest_desc: ["&d末影道门&r可以无线传输能量。"]
 	quest.4E858EA44C329668.quest_desc: [
 		"有用不完的蜂蜜？把它们全部导入&a蜂蜜发电机&r里，生产一些能量！"
@@ -7607,13 +7607,13 @@
 	]
 	quest.50B38DD40C5F5B1A.title: "&3Ferrognetic Mixture"
 	quest.50B7CA94F8BB6F58.quest_desc: [
-		"The &aCentrifuge&r is a simple machine that separates and transforms specific items."
+		"&a离心机&r是一台能分离与转化特定物品的简易机器。"
 		""
-		"This machine can be upgraded to separate fluids with the &bMachine Fluid Addon&r, or can be used to automate ore processing when using a &6Fragment Forge&r later down the road."
+		"这台机器后续可以安装&b流体处理插件&r来分离流体，或是配合后期的&6粉碎工厂&r来自动化处理矿物。"
 		""
-		"For now, we'll want to use this machine to make &3Carbon Fibre Strands&r!"
+		"不过眼下，我们先用它来制造&3碳纤维&r吧！"
 	]
-	quest.50B7CA94F8BB6F58.title: "&fSpin To Win"
+	quest.50B7CA94F8BB6F58.title: "&f万物皆可转"
 	quest.50CDEB1051A8B5E1.quest_desc: [
 		"&d虚炎煤炭&r可以制造&d虚炎燃料&r。"
 		""
@@ -7834,19 +7834,19 @@
 	]
 	quest.52C305EDBE2CCC55.title: "&a终端"
 	quest.52D486F9FE1BCC66.quest_desc: [
-		"[\"The \", {\"text\": \"Prometheum Battleaxe\", \"color\":\"#FCD205\"}, \" is an advanced, unbreakable, and enchantable tool that serves as an axe.\"]"
+		"[\"\", {\"text\": \"钷战斧\", \"color\":\"#FCD205\"}, \"是比普通斧头更高级，无法破坏的可附魔的斧头。\"]"
 		""
-		"Shift while harvesting to mine an entire tree."
+		"砍树的时候按住Shift就可以一次砍掉整棵树。"
 	]
-	quest.52D486F9FE1BCC66.title: "{\"text\": \"Prometheum Battleaxe\", \"color\":\"#FCD205\"}"
+	quest.52D486F9FE1BCC66.title: "{\"text\": \"钷战斧\", \"color\":\"#FCD205\"}"
 	quest.52FDF71C284D22C6.quest_desc: [
 		"&bBrushes&r are the most importatnt attachments, as they allow &dBrooms&r to fly."
 		""
 		"As they fly, &bBrushes&r take durability damage, which can be mitigated by enchantments such as Unbreaking or Mending."
 	]
 	quest.52FDF71C284D22C6.title: "&aBroom Brush"
-	quest.53031F8BB47F117D.quest_desc: ["The &aSolar Panel&r can generate a variable amount of energy, depending on the tier of &bMachine Core&r used to build it."]
-	quest.53031F8BB47F117D.title: "&fBig Solar Panel"
+	quest.53031F8BB47F117D.quest_desc: ["&a太阳能电池板&r可以产生大量能量，产能基于建造它使用的&b机械核心&r。"]
+	quest.53031F8BB47F117D.title: "&f大型太阳能电池板"
 	quest.532DA0BDBF2F215A.title: "&f牛肉饼"
 	quest.53319642E4ECC11F.title: "&f核源铁斧"
 	quest.5346FF153D836A07.quest_desc: [
@@ -7912,11 +7912,11 @@
 	]
 	quest.542AF3802E9CFBE2.title: "&3黑曜石粉&r"
 	quest.543197E63ABD06C5.quest_desc: [
-		"[\"The \", {\"text\": \"Prometheum Pickaxe\", \"color\":\"#FCD205\"}, \" is an advanced, unbreakable, and enchantable tool that functions as a pickaxe.\"]"
+		"[\"\", {\"text\": \"钷镐\", \"color\":\"#FCD205\"}, \"是比普通镐子更高级的，无法破坏的可附魔的镐子。\"]"
 		""
-		"It features two modes: silk touch and area (1x3 mining). To switch between modes, hold shift and right-click."
+		"它有两个模式：精准采集和区域挖掘（一次挖1x3的范围）。按住Shift右击即可切换模式。"
 	]
-	quest.543197E63ABD06C5.title: "{\"text\": \"Prometheum Pickaxe\", \"color\":\"#FCD205\"}"
+	quest.543197E63ABD06C5.title: "{\"text\": \"钷镐\", \"color\":\"#FCD205\"}"
 	quest.544DCCAF97078924.quest_desc: [
 		"&a符石基座&r可以将放在基座上符石的效果提供给一定范围内的所有玩家。"
 		""
@@ -8132,13 +8132,13 @@
 	]
 	quest.5691235133373883.title: "&f能量电池"
 	quest.5694360EC1FB87EB.quest_desc: [
-		"The &dAugmentation Center&r has 3 multiblock research slots which are attached similar to &eAddon Slots&r."
+		"&d改造中心&r有三个类似于&e插件槽位&r的多方块研究槽位。"
 		""
-		"Each station requires 3 machine cores and can handle one research at a time."
+		"每个研究站需要三个机器核心，并同时可以处理一个研究。"
 		""
-		"Better stations are required for better &bAugments&r."
+		"更好的&b植入体&r需要更好的研究站。"
 	]
-	quest.5694360EC1FB87EB.title: "&dResearch Stations"
+	quest.5694360EC1FB87EB.title: "&d研究站"
 	quest.56E1FAD44A6E8C11.quest_desc: [
 		"&e柴油&r有两种制备方式。"
 		""
@@ -8235,11 +8235,11 @@
 	]
 	quest.579FD80042103DEF.title: "&f雪蜂巢"
 	quest.57A463BE9D8C36C9.quest_desc: [
-		"&aBiosteel&r is used in many recipes throughout &6Oritech&r."
+		"&6Oritech&r的很多配方都要用到&a有机钢&r。"
 		""
-		"This is made in a Foundry by combining Iron with Raw Biopolymer. It's a more efficient version of steel, and is essentially made out of Iron and Wheat!"
+		"它可以通过在铸造器中把铁和粗有机聚合物一起熔炼得到，比钢要便宜的多，一般用小麦和铁就可以做成！"
 	]
-	quest.57A463BE9D8C36C9.title: "&6Biosteel"
+	quest.57A463BE9D8C36C9.title: "&6有机钢"
 	quest.57AF9BB4B89D69CF.title: "&f洋葱农场"
 	quest.57C9FE9D5A20E2A2.quest_desc: [
 		"&d薇克精&r是可以为你自动合成物品的魔法生物，前提是你得给它们提供魔源。对着残血的女巫施放&a解除魔法&r即可获得薇克精护符，得到护符后对着炼药锅使用即可召唤出一只薇克精！（译注：实际上以此法获得的是薇克精碎片）"
@@ -8719,13 +8719,13 @@
 	]
 	quest.5D96F0CE1154B9B8.title: "&f欢迎游玩&6机械动力&f！"
 	quest.5D9EAE2A6D2B6646.quest_desc: [
-		"The &6Fragment Forge&r is an advanced multiblock machine that is mostly used to &bFragment Ores&r and process ores, increasing the overall yield of ingot production."
+		"&6粉碎工厂&r是个高级多方块结构，它可以&b把矿物粉碎&r，并且还能处理矿物，极大地提升单个矿物产出。"
 		""
-		"Most &bAddons&r affect the operation of the &6Fragment Forge&r. The &bMachine Yield Addon&r will produce additional byproducts when installed in the &6Fragment Forge&r."
+		"这台机器日后可以安装&b流体处理插件&r来分离流体，或者与后续的&6粉碎工厂&r搭配着进行自动化矿物处理。"
 		""
-		"This is also another great way of getting &dFluxite&r!"
+		"用它来获取&d辐水晶&r是个不错的主意！"
 	]
-	quest.5D9EAE2A6D2B6646.title: "&fThe &6Fragment Forge"
+	quest.5D9EAE2A6D2B6646.title: "&6粉碎工厂"
 	quest.5DA25070A4A1CF4E.title: "&a溶解潜能"
 	quest.5DB30D6FE7046A35.title: "&f射手宝典"
 	quest.5DD4E634673638F8.quest_desc: [
@@ -8756,25 +8756,25 @@
 	]
 	quest.5E04779BC1EB52E9.quest_subtitle: "在这加个阿凡达笑话"
 	quest.5E0AF550AAE74676.quest_desc: [
-		"If you want to automate any type of machine, you'll need to have some way to pipe things in and out."
+		"如果你想实现某台机器的自动化，那么你得先想个办法实现物流自动化。"
 		""
-		"&6Oritech&r comes with several basic &bPipes&r just for this! And of course, you'll need some way to configure the pipes, which is where the &aWrench&r comes in."
+		"&6Oritech&r为此添加了一些基础&b管道&r，完全可以胜任你的物流需求！呃对的我知道，你还需要对管道进行配置，&a扳手&r就是用来办这事的。"
 		""
-		"The Wrench is a basic tool that can edit and break Pipes. It can be used to edit the connections between each pipe, which is useful when connecting to multiple machines and pipes."
+		"扳手是个基础工具，可以用来编辑或破坏管道。它可以编辑每个管道之间的链接方式，如果你有多个机器需要用管道交互的话，那这个就很有用了。"
 		""
-		"Right-clicking on a pipe with an empty hand will set the pipe to extract!"
+		"空手右击管道，就会设定管道为提取状态！"
 		"{@pagebreak}"
-		"Using the Wrench on the end of a Pipe will disconnect the pipe from whatever it is attached to. To reconnect it, use the wrench on the middle of the pipe."
+		"对着管道的末尾使用扳手则会让它断开和该面的链接，如果想重新连接则对着管道中心使用扳手。"
 		""
-		"Sneak+using the Wrench on a pipe will insta-break a pipe!"
+		"手持扳手时潜行右击管道即可立刻破坏它！"
 		"{@pagebreak}"
-		"Pipe Throughputs:"
+		"管道传输性能数据："
 		""
-		"- Item Pipes: 8 items per 5 Ticks"
-		"- Fluid Pipes: 500mb per 3 Ticks"
-		"- Energy Pipes: 10k RF per 1 Tick."
+		"- 物品管道：每5tick传输8个物品"
+		"- 流体管道：每3tick传输500mb流体"
+		"- 能量管道：每1tick传输10kRF"
 	]
-	quest.5E0AF550AAE74676.title: "&fBasic Logistics"
+	quest.5E0AF550AAE74676.title: "&f基础物流"
 	quest.5E18F5B83FC4EC2D.quest_desc: [
 		"&3祛魔透镜&r可以把单个魔咒从工具传输到书或附魔书上。"
 		""
@@ -8872,13 +8872,13 @@
 	]
 	quest.5FBD41923B66C239.title: "&aStorage Size Upgrades"
 	quest.5FD42392FCECCB47.quest_desc: [
-		"With the power of &dEnderic Lasers&r, you can focus the laser to mine Amethyst Clusters to get &dFluxite&r."
+		"有了&d末影激光器&r，你可以让激光挖掘紫水晶簇来得到&d辐水晶&r"
 		""
-		"Make sure to use the &eTarget Designator&r to aim the laser properly!"
+		"一定要用&a目标标识器&r来正确指示激光的位置！"
 		""
-		"Using the laser on a Budding Amethyst will energize it and increase its growth rate."
+		"如果把激光射到紫水晶母岩上，则该母岩会被充能，水晶生长速率会提升。"
 	]
-	quest.5FD42392FCECCB47.title: "&dFluxite"
+	quest.5FD42392FCECCB47.title: "&d辐水晶"
 	quest.5FDA7663267368F9.quest_desc: [
 		"&3抗质粒&r可从你身体里移除某个基因。"
 		""
@@ -9324,11 +9324,11 @@
 	]
 	quest.6428F17B7E4873A6.title: "&f热学概论"
 	quest.6432ABF56BFF2F8F.quest_desc: [
-		"&aResource Nodes&r are found throughout the world, appearing in clusters just above the bedrock layer. They the same type of ores as those in the &aOre Boulder&r above them and are typically covered by a small pocket of &aCrude Oil&r."
+		"你可以在世界各地的基岩层正上方找到成簇生成的&a资源节点&r。它们所含的矿石类型与其正上方的&a巨大矿团&r完全相同，并且其地表通常会有一小滩&a原油&r作为标记。"
 		""
-		"&aResource Nodes&r can only be extracted with a &cBedrock Extractor&r."
+		"&a资源节点&r仅能通过&c基岩层钻机&r开采。"
 	]
-	quest.6432ABF56BFF2F8F.title: "&fResource Nodes"
+	quest.6432ABF56BFF2F8F.title: "&f资源节点"
 	quest.644874076A06F5F4.quest_desc: [
 		"&6通用机械&r是这个包中最强大的科技模组！"
 		""
@@ -9602,11 +9602,11 @@
 	]
 	quest.6712C96969CB1D58.title: "&f门瑞欧结晶"
 	quest.672560D43F5D603F.quest_desc: [
-		"&6Oritech&r adds several useful powered tools for you to use! These tools are rechargeable, unbreakable, and can also be enchanted."
+		"&6Oritech&r添加了许多有用的工具！这些工具均带有无法破坏的属性，可以充能，还可以附魔。"
 		""
-		"The &aChainsaw&r is a powered axe, while the &aHand Drill&r functions as both as pickaxe and a shovel."
+		"&a链锯&r就是充能版的斧头，&a手钻&r则与镐和锹的作用一样。"
 	]
-	quest.672560D43F5D603F.title: "&fRechargeable Tools"
+	quest.672560D43F5D603F.title: "&f可充能工具"
 	quest.6738195241EF3317.quest_desc: [
 		"&3电解机&r可以使用强电流将材料电解成各种不同的成分。"
 		""
@@ -9647,11 +9647,11 @@
 	quest.678D5A29CA06C587.quest_desc: ["给&d蚀空合金剑&r安装该升级后，拿着它就可以隔着墙看到怪物了。"]
 	quest.678D5A29CA06C587.title: "&f升级：生物透视"
 	quest.678E839BD49FF48B.quest_desc: [
-		"&6Oritech&r adds &aOre Boulders&r throughout the overworld that contain a variety of ores surrounded by deepslate."
+		"&6Oritech&r模组在主世界各地生成了&a巨大矿团&r。这些矿团内部藏有多种矿石，并由深板岩包裹着。"
 		""
-		"You might want to keep track of these for later as there seems to be something deep beneath these boulders..."
+		"建议你记下这些矿团的位置，因为在它们的深处……似乎埋藏着什么秘密……"
 	]
-	quest.678E839BD49FF48B.title: "&fThat's A Nice Boulder"
+	quest.678E839BD49FF48B.title: "&f这块矿团不错"
 	quest.679EFBF590E16AD4.quest_desc: [
 		"Within the &eCell Maze&r, you'll find &6Honey Cocoons&r that can be looted."
 		""
@@ -9711,17 +9711,17 @@
 	quest.68258EA281734B4A.quest_subtitle: "&oThe core of the system"
 	quest.68258EA281734B4A.title: "&fStoring &3Fortron"
 	quest.68262E10A7ECE329.quest_desc: [
-		"The &aPump&r is a powered machine used to extract liquids from below."
+		"&a电动泵&r是一台需要能量的机器，用于抽取下方的流体。"
 		""
-		"When placed, it extends a trunk downward until it encounters a liquid or obstruction. Once a liquid is found, it scans the liquid body and stores all positions to pump from."
+		"放置后，它的管道会向下延伸，直到接触到流体或遇到障碍物为止。一旦锁定流体，它会自动扫描整个流体区域并记录所有可抽取的位置。"
 		""
-		"The &aPump&r can only drain water liquid bodies with a size of 100,000 blocks or smaller, but will drain any size of lava liquid bodies. "
+		"该泵对不同流体有不同限制：对于水，它只能抽干体积不大于100000格的区域；但对于岩浆，则没有体积限制。"
 		""
-		"Note that initialization may take a few seconds for large bodies of liquid!"
+		"注意：在扫描大型流体区域时，初始化过程可能会有几秒钟的延迟！"
 		""
-		"Drained fluids are stored in the internal storage. The &aPump&r can process up to 4 buckets per second, with an energy cost of 512 RF per block."
+		"抽取的流体将储存在其内部缓存中。&a电动泵&r的处理速度最高为每秒4桶，每抽取一个方块的流体需要消耗512RF。"
 	]
-	quest.68262E10A7ECE329.title: "&fPump It Up"
+	quest.68262E10A7ECE329.title: "&f泵感十足"
 	quest.682D4887ED36D3B7.quest_subtitle: "末影人很讨厌这个小把戏"
 	quest.682D4887ED36D3B7.title: "&a末影之手"
 	quest.684AAE454101D8B7.quest_subtitle: "神圣套装"
@@ -10008,15 +10008,15 @@
 	quest.6C4441CC63BC7603.quest_subtitle: "来折腾化学吧！"
 	quest.6C4441CC63BC7603.title: "&c热力蒸馏塔"
 	quest.6C4783132CC50BF0.quest_desc: [
-		"&dSchrödinger's Safe&r is an energy storage multiblock that can store billions of RF when properly set up."
+		"&d薛定谔保险柜&r是一个多方块结构的储能装置，在配置得当时，其储电量可达数十亿RF。"
 		""
-		"This multiblock requires a &bCapacity Block&r which changes the base storage multiplier of &dSchrödinger's Safe&r."
+		"该结构需要一个核心部件：&b容量方块&r，它决定了保险箱的基础容量倍率。"
 		""
-		"Low, Medium, and High Capacity Blocks multiply the base storage by 0.3x, 1x, and 5x respectively. Check the item tooltip for a full list of available capacity blocks."
+		"低、中、高三种等级的&b容量方块&r可分别提供0.3倍、1倍和5倍的基础容量加成。将鼠标悬停在物品上查看其工具提示，即可了解所有可用的容量方块。"
 		""
-		"You can also exponentially increase the capacity of &dSchrödinger's Safe&r by powering its sides with &aEnderic Lasers&r, up to 5000x"
+		"此外，你还可以通过向&d薛定谔保险柜&r的侧面用&a末影激光器&r输入能量，来使其容量获得指数级增长，最高可达5000倍。"
 	]
-	quest.6C4783132CC50BF0.title: "&dSchrödinger's Safe"
+	quest.6C4783132CC50BF0.title: "&d薛定谔保险柜"
 	quest.6C7F31673B12795D.quest_desc: [
 		"&d蚀空合金剑&r是这个模组中最强大的剑。"
 		""
@@ -10024,11 +10024,11 @@
 	]
 	quest.6C7F31673B12795D.title: "&5蚀空合金剑"
 	quest.6CA3339B472F4464.quest_desc: [
-		"&dProcessing Units&r unlock the ability to craft more advanced machines and technology."
+		"&d处理器&r解锁了制造更高级机器和技术的能力。"
 		""
-		"These are a main component for crafting &dFlux Gates&r!"
+		"这是制作&d磁通门&r的重要部件！"
 	]
-	quest.6CA3339B472F4464.title: "&dProcessing Units"
+	quest.6CA3339B472F4464.title: "&d处理器"
 	quest.6CA9ED28F944DECC.quest_desc: ["&aSoulstained Armor&r provides more than just adequate physical protection, having a second property of &babsorbing&r a large portion of magic-based damage. This property needs to recover over time, but does so at no other noticeable cost to the wearer."]
 	quest.6CA9ED28F944DECC.title: "Soulstained Armor"
 	quest.6CADD814473DFA34.title: "&6Honey Drunk"
@@ -10099,13 +10099,13 @@
 	quest.6E9BCC46F9963413.quest_subtitle: "11x11 Watering!"
 	quest.6E9BCC46F9963413.title: "&d终级精华&f洒水壶"
 	quest.6EA5652195DB5FE3.quest_desc: [
-		"Before we create our first machine, we'll need a few basic crafting mats."
+		"在你做出第一台机器前，得先做点基础合成材料。"
 		""
-		"&aMagnetic Coils&r are core recipe components for many of the machines and recipes within the mod."
+		"&a电磁线圈&r是本模组中很多机器和组件的核心材料。"
 		""
-		"We'll use these Coils to create a major crafting mat for most machines, the &aMotor&r!"
+		"你将要用这些电磁线圈来制作很多机器都需要的重要合成材料：&a马达&r！"
 	]
-	quest.6EA5652195DB5FE3.title: "&fCore &bCrafting Components"
+	quest.6EA5652195DB5FE3.title: "核心&b合成组件"
 	quest.6EE1C1B7FFB86C6C.quest_desc: ["&a镶孔符石&r能增加&b词缀&r物品的&b镶嵌槽&r数量。"]
 	quest.6EE1C1B7FFB86C6C.title: "&a镶孔符石"
 	quest.6F06B178DDBCAC38.quest_desc: [
@@ -10151,17 +10151,17 @@
 	]
 	quest.6F92C81242A198ED.title: "&d智能侦测器"
 	quest.6F966D2071DBA50A.quest_desc: [
-		"The &aPlacer&r, &aDestroyer&r, and &aFertilizer&r blocks all operate on a gantry built with &aMachine Frames&r designating the area in which the machines operate. The working area must be rectangular and empty inside."
+		"&a方块放置器&r、&a方块破坏器&r和&a方块施肥器&r都需要在一个由&a机器框架&r搭建的框架上运行。这些框架会划定出一个机器的工作区域，该区域必须为矩形且内部中空。"
 		""
-		"The machines always target the blocks below the &aMachine Frame&r."
+		"机器的目标始终是&a机器框架&r正下方的方块。"
 		"{@pagebreak}"
-		"Any number of machines can operate on the same &aMachine Frame&r. To achieve this, simply place multiple machines on the frame. The machines will iterate through all blocks in the frame area."
+		"同一个&a机器框架&r上可以运行任意数量的机器，只需将它们都放置在框架上即可，机器会依次处理框架区域内的所有方块。"
 		""
-		"All machines that operate on &aMachine Frames&r can use most Addons."
+		"所有在&a机器框架&r上运行的机器都兼容大多数插件。"
 		""
-		"The &bSpeed Addon&r increases both the movement and operation speed of machines working within the &aMachine Frame&r."
+		"例如，&b速度升级插件&r可以同时提升机器的移动速度和作业速度。"
 	]
-	quest.6F966D2071DBA50A.title: "&fMachine Frame"
+	quest.6F966D2071DBA50A.title: "&f机器框架"
 	quest.6FB2393F2348D59E.quest_desc: [
 		"搭建牧场的时候总是遇到烦人的生物AI？&b生物&m精灵球&r&b捕捉工具&r能帮你！拿着它右击生物，就可以把生物储存起来。"
 		""
@@ -10598,8 +10598,8 @@
 		"[\"油菜籽可以在世界中找到，也可以从\", { \"text\": \"贸易站\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"073546F80EDA632E\" }, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": [\"前往贸易站任务\"]} }, \"购买。\" ]"
 	]
 	quest.735DAACDBF57DA01.title: "&a油菜"
-	quest.7365369CF1CCB2C9.quest_desc: ["The &aPortable Tank&r can store up to 256000mb of any fluid and will retain all fluids when broken."]
-	quest.7365369CF1CCB2C9.title: "&fPortable Tank"
+	quest.7365369CF1CCB2C9.quest_desc: ["&a便携储罐&r可以储存256000mb的流体，并且在被破坏后仍能保存其中的流体。"]
+	quest.7365369CF1CCB2C9.title: "&f便携储罐"
 	quest.736EF0026F658DA7.title: "&2二级&f种子"
 	quest.7371A1662F80B0AC.quest_desc: [
 		"This &5structure&r deep in the earth leaks whispers and heartbeats and weeping and tugs on certain items with its dark pull. It ... wants something. Try offering it your &earcane knowledge&r, or raw resources, see what you might get in return."
@@ -10843,13 +10843,13 @@
 	]
 	quest.75EE2E239783B03E.title: "&dAquarine Steel Armor"
 	quest.76120A38BC49FB92.quest_desc: [
-		"&bPlastic Sheets&r are a main crafting component of several more advanced recipes."
+		"&b塑料片&r是高级合成配方的重要材料。"
 		""
-		"You'll want a lot of these, especially if you are planning on making more Addons!"
+		"如果你想做一大堆升级的话，那你肯定需要非常多的塑料片！"
 		""
-		"These can be made in a Centrifuge using either &aRaw Biopolymer&r and water, or water and &3Polymer Resin&r made from Crude Oil."
+		"你可以在离心机中用水和&a粗有机聚合物&r制作它们，或者用原油中的&3石油树脂&r也行。"
 	]
-	quest.76120A38BC49FB92.title: "&fPlastic Sheet"
+	quest.76120A38BC49FB92.title: "&f塑料片"
 	quest.762BEF38A5CD79C5.title: "&6神圣&f升级法球"
 	quest.76323B3FF4F17A2B.quest_desc: [
 		"你会需要更多来自&9异界&r的物品以推进神秘学研究，而&a灵火&r能够帮到你得到那些材料。"
@@ -10904,11 +10904,11 @@
 	]
 	quest.76F225C6B9A79620.title: "&f粗制的药水"
 	quest.76F41BF761405713.quest_desc: [
-		"&aEnderic Compound&r can be obtained by crushing ender pearls in a &aPulverizer&r or in a &aFragment Forge&r, or by processing sculk in a &aCentrifuge&r."
+		"你可以通过在&a磨粉机&r或&a粉碎工厂&r中打碎末影珍珠来获取&a末影化合物&r，或者在&a离心机&r中离心潜影壳。"
 		""
-		"This compound can be utilized to create budding amethyst in an &aAssembler&r or to duplicate ores using an &dAtomic Forge&r."
+		"这个化合物可以在&a装配器&r中制造紫水晶母岩，或者在&d原子锻造器&r中复制矿物。"
 	]
-	quest.76F41BF761405713.title: "&fEnderic Compound"
+	quest.76F41BF761405713.title: "&f末影化合物"
 	quest.77074CE5719763BB.quest_desc: [
 		"This &aHex Staff&r holds formidable power in melee combat and is capable of collecting Spirit, but what makes it stand out is its ability to fire off potent charges of &bspirit energy&r from your soul."
 		""
@@ -10980,14 +10980,14 @@
 	quest.7771675453230C65.title: "&a青铜压缩机"
 	quest.77724B4D52091CD3.title: "&c炽焰&f升级法球"
 	quest.778A876616D4638E.quest_desc: [
-		"When a redstone signal is applied to a non-straight &aGuide Rings&r, it becomes a switch block. When powered on, it leads particles straight; when powered off, it guides them into the original curved direction. A particle can also enter from the 'other' direction, visualized by the smaller red glass tube, following the path of the white tube, and entering from both the red and white tubes."
+		"当对一个非直线的&a导向环&r施加红石信号时，它会变成一个开关方块。充能时，它会引导粒子沿直线前进；未充能时，则会引导粒子进入原有的弯曲方向。粒子也可以从另一个方向（由较小的红色玻璃管指示）进入，并汇入白色管道的主路径。"
 		""
-		"At higher speeds, the particle can't take tight turns. If the last full 90-degree turn is too close, it exits the guided path and shoots out into the world. If the distance between &aGuide Rings&r is too big, or no next &aGuide Ring&r is found, it will also shoot out."
+		"请注意，在较高速度下，粒子无法通过急转弯。如果两个90度弯道相距过近，或者&a导向环&r之间的间距过大（或前方找不到下一个环），粒子就会脱离引导路径飞出。"
 		""
 		"{@pagebreak}"
-		"A particle's speed can be measured with a &aParticle Accelerator Sensor&r. A comparator can then provide a redstone signal based on the particle's speed."
+		"粒子的速度可以用&a粒子加速器速度传感器&r来测量。连接红石比较器后，它就能根据粒子速度输出对应强度的红石信号。"
 		""
-		"The following shows the required speed for each redstone level:"
+		"各等级红石信号对应的最低速度要求如下："
 		""
 		"&71.&r  0"
 		"&72.&r  10"
@@ -11005,7 +11005,7 @@
 		"&714.&r 10000"
 		"&715.&r 15000"
 	]
-	quest.778A876616D4638E.title: "&fParticle Accelerator Sensor"
+	quest.778A876616D4638E.title: "&f粒子加速器速度传感器"
 	quest.77914AB759F51A62.quest_desc: [
 		"除了用作合成材料的普通&e蜜脾&r以外，你还会获得很多其他种类的蜜脾，而大部分蜜脾需要放入&a离心机&r才能从中获取资源。"
 		""
@@ -11015,25 +11015,25 @@
 	]
 	quest.77914AB759F51A62.title: "&f有用的机器"
 	quest.7791DA964DA2A80D.quest_desc: [
-		"When particles of different items collide, they can create new items. The particle starts from the &aParticle Accelerator Block&r, where you can insert any item to be used as a particle. A straight &aGuide Ring&r needs to be placed right behind the &aController&r, facing to the side, with visuals aligning correctly."
+		"当不同物品的粒子碰撞时，就会产生新的物品，粒子起始处是&a粒子加速器方块&r，你可以插入任何想作为粒子发射的物品。在&a粒子加速器控制器&r后面必须放一个正对控制器的&a导向环&r，如果你搭建出的导向环对齐的话，那么它会有视觉效果。"
 		"{@pagebreak}"
-		"Once inserted, the particle travels along a route defined by the &aGuide Rings&r. They can be right-clicked to add a 45-degree turn on one side. Another &aGuide Ring&r needs to be in the particle's path as defined by the &aGuide Rings&r. Depending on the speed, the allowed distance between &aGuide Rings&r increases"
+		"在插入作为粒子的物品后，它就会开始按&a导向环&r给定的路径往前移动，在导向环上右击可设定一个45度角的拐弯。&a导向环&r的结尾后面需要衔接另一个&a导向环&r，粒子运动速度越快两个&a导向环&r的距离就越大。"
 		""
-		"This means that, at higher speeds, the distance between &aGuide Rings&r can be larger."
+		"这就意味着如果粒子速度很快，那么两个&a导向环&r之间的间距就可以拉的很大。"
 	]
-	quest.7791DA964DA2A80D.title: "&fAccelerator Setup"
+	quest.7791DA964DA2A80D.title: "&f如何搭建加速器？"
 	quest.77C53FD36F7747EA.quest_desc: [
-		"When particles collide at high speed, they'll emit energy-dense tachyons. The higher the collision energy, the more energy will be ejected with tachyons. They'll also fly farther and there'll be more tachyons at higher speeds."
+		"当粒子以高速碰撞时，它们会发射能量密集的速子。碰撞能量越高，释放的能量越多，速子也会飞得越远，产生的速子也越多。"
 		""
-		"&dTachyons Absorbers&r can be used to catch those particles and turn them into energy. The tachyons will always exit in random directions at the collision point."
+		"速子收集器可以用来捕捉这些粒子并将其转化为能量。速子总是从碰撞点随机方向发射。"
 		"{@pagebreak}"
-		"Surrounding the entire area in collectors ensures you'll catch them all. If all tachyons are collected, you can get up to 3x the amount of energy that was used to accelerate the particles. However for large collisions, a lot of high-energy tachyons will be emitted, quickly filling the capacity of a single collector. "
+		"围绕整个区域设置吸收器可以确保捕捉到所有速子。如果所有速子都被吸收，可以获得高达加速粒子所用能量的3倍。然而，对于大规模碰撞，大量高能速子会被释放，迅速填满单个吸收器的容量。"
 		""
-		"Placing the &dTachyons Absorbers&r further back allows the tachyons to be spread over multiple absorbers so they don't fill up too quickly and get overwhelmed."
+		"将&d速子吸收器&r放置得更远可以让速子分散到多个吸收器上，以免过快填满并溢出。"
 		""
-		"At higher collisions, tachyons will travel further from the point of the collision."
+		"更高能量的碰撞中，速子会从碰撞点传播得更远。"
 	]
-	quest.77C53FD36F7747EA.title: "&dTachyons"
+	quest.77C53FD36F7747EA.title: "&d速子"
 	quest.77E29BF73DB402C5.quest_desc: ["&a流体阀门&r可以阻断流体网络中特定组件的流体发送/接收功能。"]
 	quest.77E29BF73DB402C5.title: "&a流体阀门"
 	quest.77EFC3A24E922F93.quest_desc: [
@@ -11268,8 +11268,8 @@
 	quest.7A06D08AC7C65D20.title: "&f傻瓜式祛魔"
 	quest.7A208CB40BAFC4A9.quest_desc: ["提供额外的伤害吸收值！"]
 	quest.7A208CB40BAFC4A9.title: "&f苹果酒"
-	quest.7A26B0FFC0BCA275.quest_desc: ["Applicable to &aEnderic Lasers&r. Targets living entities."]
-	quest.7A26B0FFC0BCA275.title: "&fMachine Hunter Addon"
+	quest.7A26B0FFC0BCA275.quest_desc: ["适用于&a末影激光器&r。使其可以瞄准实体"]
+	quest.7A26B0FFC0BCA275.title: "&f生物校位插件"
 	quest.7A62124632A54C21.quest_desc: ["While &3Sylvan Armor&r provides a little less protection than iron armor, it is ideal for a &bSpellcaster&r, as wearing the full set boosts not only your &2Terra&r regeneration, but also the &bPotency&r of your &dSpells&r"]
 	quest.7A62124632A54C21.title: "&3Sylvan Armor"
 	quest.7A7B3CDAAAC2409D.quest_desc: [
@@ -11298,11 +11298,11 @@
 	]
 	quest.7AB20F8AB1A2F32C.title: "&a白色风帆"
 	quest.7AC5EE9AF176EB85.quest_desc: [
-		"Applicable to &aDestroyer Block&r and &aEnderic Laser&r."
+		"可应用于&a方块破坏器&r和&a末影激光器&r。"
 		""
-		"Skips non-grown crops or animals."
+		"使机器跳过未成熟的作物或幼年生物。"
 	]
-	quest.7AC5EE9AF176EB85.title: "&fCrop Filter Addon"
+	quest.7AC5EE9AF176EB85.title: "&f作物过滤器插件"
 	quest.7AEC335123E441BA.title: "&c三级&f种子"
 	quest.7B17CDF1C8FE0CDA.quest_desc: [
 		"&a头颅装配器&r用于将生物头颅转换为特殊机器部件。"
@@ -11440,11 +11440,11 @@
 	quest.7C9CABB75B422A4A.quest_subtitle: "觉醒等级精华"
 	quest.7C9CABB75B422A4A.title: "&6觉醒精华&r"
 	quest.7CA250EE0C5FBEFA.quest_desc: [
-		"The &aFertilizer Block&r is used to enhance crop growth below the connected &aMachine Frame&r. It requires water and energy to operate. The effect on the blocks below is similar to applying bonemeal, although it is less potent."
+		"&a方块施肥机&r是用来催熟&a机器框架&r下方的作物。它需要水和能量来工作。其作用效果类似于对其下方方块施用作用效果较弱的骨粉。"
 		""
-		"Additionally, it hydrates the farmland below."
+		"而且它可以给下方的耕地自动浇水。"
 	]
-	quest.7CA250EE0C5FBEFA.title: "&fAutomating Crop Farms!"
+	quest.7CA250EE0C5FBEFA.title: "&f全自动农场！"
 	quest.7CD3D31BAA53F592.quest_desc: [
 		"&b敌手之力&r提供用于制作它的所有符石的效果："
 		""
@@ -11772,8 +11772,8 @@
 	quest.7FDD828A23BEABFF.title: "&c红宝石粉"
 	quest.7FE552DC58B0A718.quest_desc: ["&c生物屠宰场&r不仅可以击杀友好生物，将其变为肉汤，还能把它们变成&d粉红黏液&r。你需要粉红黏液才能继续发展&e工业先锋&r。"]
 	quest.7FE552DC58B0A718.title: "&c生物屠宰场"
-	quest.7FEDD82D9B47EFCD.quest_desc: ["The &aBio Generator&r consumes biomass to generate energy, which can be increased with &bAddons&r."]
-	quest.7FEDD82D9B47EFCD.title: "&fBio Generator"
+	quest.7FEDD82D9B47EFCD.quest_desc: ["&a生物质能发电机&r消耗有机物生成RF，加装&b插件&r可以提升发电效率。"]
+	quest.7FEDD82D9B47EFCD.title: "&f生物质能发电机"
 	quest.7FF04E6E35CA419F.quest_desc: ["探索这个世界的时候，也许你偶然会碰到&9魔源浆果丛&r。这种浆果丛会掉落魔源浆果，吃了以后可以获得几秒钟的&9魔力再生&r！"]
 	quest.7FF04E6E35CA419F.title: "&b魔力恢复"
 	quest.7FF2F7E49EF7512E.title: "&2初级&f机器升级"
@@ -12084,7 +12084,7 @@
 	task.4096CA7300D6F0EB.title: "切换护身符效果"
 	task.40E0C4BFAB2B3608.title: "&d阿巴拉斯魔灵附身"
 	task.40F05F6EC4A106F4.title: "&e召唤一个&r&3可骑乘动物"
-	task.412C9C16BA0FC2C0.title: "Tools"
+	task.412C9C16BA0FC2C0.title: "工具"
 	task.41685895FDFE2D3B.title: "&b五芒星&r已完成"
 	task.416A62E1A9DCD18C.title: "睡袋"
 	task.4180CC29AD0E5CB7.title: "Drink 8 Honey Bottles"
@@ -12116,7 +12116,7 @@
 	task.48BB22683A4C50AD.title: "&a下级精华&f工具"
 	task.48DC30FE8B5DEC6D.title: "&6液态锂"
 	task.491E250D69066BBC.title: "&f击杀：1只&d凋灵&r"
-	task.497CF86F5BC5A7D0.title: "Basic Cables"
+	task.497CF86F5BC5A7D0.title: "基础线缆"
 	task.49DF96867DE0BB9D.title: "任意派别的精魂"
 	task.4A0037264C36EBE1.title: "&e观察&f：&d电弧炉"
 	task.4A18F4F81AEA7421.title: "第一层：完成"
@@ -12308,6 +12308,6 @@
 	task.7F31E6F7A6728CF1.title: "时运升级"
 	task.7F7F60B4E9A074FE.title: "水晶块"
 	task.7FAA87B19ACACCBC.title: "染料"
-	task.7FB4D75ADDA4D50D.title: "Ore Boulders"
+	task.7FB4D75ADDA4D50D.title: "巨大矿团"
 	task.7FF1BA8529B79913.title: "离心机"
 }
