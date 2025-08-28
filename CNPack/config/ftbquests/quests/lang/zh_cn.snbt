@@ -5662,7 +5662,7 @@
 	quest.3B2B26B1AD947CC5.quest_desc: [
 		"&a大型能量存储器&r基础容量为20M RF，它可以使用&b插件&r升级"
 		""
-		"&a大型能量存储器&r可以从任意有绿色端口的面输入能量，然后从仅有一个的红色端口输出能量。如果给它一个红石信号，那么它就不会输出能量。"
+		"&a大型能量存储&r可以从任意有绿色端口的面输入能量，然后从仅有一个的红色端口输出能量。如果给它一个红石信号，那么它就不会输出能量。"
 	]
 	quest.3B2B26B1AD947CC5.title: "&f大型能量存储"
 	quest.3B37556B49098933.quest_desc: ["&a异界眼镜&r能为穿戴者提供&b第三只眼&r效果，从而使&9异界&r的方块可见。"]
@@ -5991,15 +5991,15 @@
 	]
 	quest.3F5480E01ABA887B.title: "&a自动合成仓"
 	quest.3F75F781DE5123F4.quest_desc: [
-		"&6Oritech Reactors&r are a great way to generate large amounts of power!"
+		"&6Oritech反应堆&r是一种生成大量能量的绝佳方式！"
 		""
-		"The Reactor is a large custom multiblock made up of many different parts, with the &6Nuclear Reactor Control Panel&r being the main interface block."
+		"反应堆是一个由许多不同部分组成的大型自定义多方块结构，&6核反应堆控制面板&r是它的主要交互界面。"
 		""
-		"This interface shows the current status of the reactor, along with the temperatures of the components and statistics. It also only shows the first layer of the interior."
+		"这个界面显示了当前反应堆的状态、组件温度和统计数据。它仅显示内部的第一层。"
 		""
-		"&6Reactors&r generates power by consuming Uranium or Plutonium Pellets, and the amount of power is based on the number of &aReactor Rods&r and &bNeutron Reflectors&r next to the rods. "
+		"&6反应堆&r通过消耗铀或钚球来产生能量，产电量由相邻的&a反应堆棒&r和&b中子反射器&r的数量来决定。"
 		""
-		"&cIt is important to keep Reactors sufficiently cooled!&r Reactors like to make big holes."
+		"&c保持反应堆充分冷却非常重要！&r反应堆喜欢炸个大坑。"
 	]
 	quest.3F75F781DE5123F4.title: "&d核反应堆控制面板"
 	quest.3F81397C7818B7C5.quest_desc: [
@@ -6028,9 +6028,9 @@
 		"当你用&d巫师之盾&r成功格挡伤害后，你会短暂获得魔力再生与法术伤害效果，而且会自动消耗魔力恢复耐久。"
 	]
 	quest.3FB99C220188AB6F.title: "&f巫师之剑和巫师之盾"
-	quest.3FC961B8C0657214.quest_desc: ["&aCarbon Fibre Strands&r are sturdy enough to be used in machines and &bAddon&r recipes, and as crafting materials in other machines to craft more advanced components."]
-	quest.3FC961B8C0657214.quest_subtitle: "Or Is It Fiber?"
-	quest.3FC961B8C0657214.title: "&3Carbon Fibre&r"
+	quest.3FC961B8C0657214.quest_desc: ["&a碳纤维&r坚固到足以用于机器与&b插件&r的制作中，并可作为机器制作其他高级组件的制作材料。"]
+	quest.3FC961B8C0657214.quest_subtitle: "这玩意真的能算是纤维吗？"
+	quest.3FC961B8C0657214.title: "&3碳纤维&r"
 	quest.3FE99AE10B0737BB.title: "&f大量存储单一物品"
 	quest.3FF612F915DF4BF5.quest_desc: [
 		"&a仙人掌符石&r反射受到伤害的25%给攻击者。"
@@ -6390,11 +6390,11 @@
 	]
 	quest.4335085FC6B1EEF4.title: "&bRoots of Magic"
 	quest.4348C9D795E92FCE.quest_desc: [
-		"This &aPortable Energy Storage&r can hold up to 1M RF and will retain energy when broken."
+		"&a便携能量存储&r最高可储存1M RF，且破坏后能量不丢失。"
 		""
-		"The &aPortable Energy Storage&r accepts energy from all sides through a green port and can only output through the single red port. A redstone signal will disable all energy output."
+		"&a便携能量存储&r可以从任意有绿色端口的面输入能量，然后从仅有一个的红色端口输出能量。如果给它一个红石信号，那么它就不会输出能量。"
 	]
-	quest.4348C9D795E92FCE.title: "&aPortable Energy Storage"
+	quest.4348C9D795E92FCE.title: "&a便携储能手段"
 	quest.4348D85E3DB176E2.quest_desc: [
 		"如果想要你的&d路由器&r能传输能量，你就需要加装一个&a能量升级&r。"
 		""
@@ -6576,15 +6576,15 @@
 	quest.452A356F35EE46DD.title: "&3充能钻石水晶"
 	quest.4554DAFCC3ED4543.title: "&b冰霜&f升级法球"
 	quest.456030ECDFA9CE3B.quest_desc: [
-		"&bReactor Heat Absorbers&r remove a fixed amount of heat from all neighboring components making it more efficient when surrounded by components that need to be cooled."
+		"&b热量吸收器&r能从所有相邻的组件上吸收固定的热量，因此，当它被需要散热的组件包围时，其冷却效率最高。"
 		""
-		"It requires a constant supply of coolant in the form of ice (or blue/packed ice), which can be inserted via the &bCoolant Port&r above the &bAbsorber&r stack."
+		"它需要持续供应冷却剂，如冰、蓝冰或浮冰，可以通过其上方的&b冷却器吸收器口&r来注入。"
 		""
-		"The amount of coolant used is fixed, and does not increase with more sides being cooled. Each tick, 16 units of heat are removed from each neighbor."
+		"冷却剂的消耗量是固定的，并不会因被冷却的组件数量增多而改变。每tick，它都会从每个相邻的组件上吸收16单位的热量。"
 		""
-		"A &bReactor Coolant Port&r must be placed on the outer ceiling of the &dReactor&r, with &bHeat Absorbers&r beneath it."
+		"&b反应堆冷却剂吸收器口&r需要放置在&d反应堆&r外顶面上，下方有&b吸热器&r。"
 	]
-	quest.456030ECDFA9CE3B.title: "&bReactor Heat Absorbers"
+	quest.456030ECDFA9CE3B.title: "&b反应堆热量吸收器"
 	quest.457E591ED546A456.quest_desc: [
 		"神圣金锭和魂染钢锭的常规用途之一是制作戒指及其他饰品。这些&a饰品&r本身可以增加一点防御力，但主要是用来进一步合成&7更加强大的玩意&r的。"
 		""
@@ -6618,7 +6618,7 @@
 		""
 		"Warning sirens will engage before it reaches those temperatures. Depending on the size of the &dReactor&r and the number of &aFuel Rods&r, the meltdown will result in a bigger or smaller explosion."
 	]
-	quest.45B2C8BD2ACBA46D.title: "&fDesigning Your &dReactor"
+	quest.45B2C8BD2ACBA46D.title: "&f设计你的&d反应堆"
 	quest.45C2A0B3F277C09B.quest_desc: ["&e进阶提示&r：你可以直接对着通用机械的任意管道使用&c合金&r就直接将它们升至下一级！"]
 	quest.45C2A0B3F277C09B.quest_subtitle: "能量管道"
 	quest.45C2A0B3F277C09B.title: "{\"text\": \"基础通用线缆\", \"color\": \"#5EFCB6\"}"
