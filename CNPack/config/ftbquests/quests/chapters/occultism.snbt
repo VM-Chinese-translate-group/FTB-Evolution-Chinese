@@ -3880,7 +3880,7 @@
 					item: {
 						components: {
 							"ftbfiltersystem:filter": "or(item(occultism:ritual_dummy/possess_elder_guardian)item(occultism:ritual_dummy/possess_hoglin)item(occultism:ritual_dummy/possess_shulker)item(occultism:ritual_dummy/possess_warden))"
-							"minecraft:custom_name": "\"Abras' Possessions\""
+							"minecraft:custom_name": "“阿巴拉斯魔灵附身”"
 						}
 						count: 1
 						id: "ftbfiltersystem:smart_filter"
