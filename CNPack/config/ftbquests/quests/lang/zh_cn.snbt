@@ -4921,7 +4921,7 @@
 		""
 		"Right-click or Sneak-right-click with a &bWrench&r to toggle between input and output on the block's side. While this block is quite expensive, it is also a useful and very powerful block to have."
 		""
-		"The &aPrimsarine Laser Relay&r is a block that allows you to extend the range of your lazers up to another 16 blocks. Use the &bWrench&r to rotate it. The texture has an arrow to help guide you!"
+		"&a海蓝激光中继器&r是一种方块，它能让你将激光的射程再延长多达16格。使用扳手可以旋转它。它的材质纹理上有一个箭头来辅助指引你了解其方向！"
 		"{image:ftbevolution:textures/quests/nautec/laser_junction.png width:128 height:90 align:center}"
 	]
 	quest.3489D7BD48A98E6D.title: "&fManaging Your &dLaser Network"
