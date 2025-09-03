@@ -285,7 +285,7 @@
 	]
 	quest.030F1F8A4B0C1EBF.title: "&c散热口&f和&c热管"
 	quest.031B9060B5055268.quest_desc: [
-		"&6Honey Slimes&r can be bred together using &aSugar&r."
+		"你可以用&a糖&r喂养&6蜜糖史莱姆&r。"
 		""
 		"Breed them together &b6 Times&r to get this advancement!"
 	]
@@ -1469,7 +1469,7 @@
 		""
 		"&8&o这蜂后和末影珍珠是有多大仇多大怨啊？&r"
 	]
-	quest.0EB231522990C9DA.title: "&dEndermites &fAre Evil"
+	quest.0EB231522990C9DA.title: "&d末影螨&r真是太邪恶了！"
 	quest.0EBA58B7FD2AF36D.quest_desc: [
 		"一些材料很难种植或制造出来，尤其是&d龙息&r这类。"
 		""
@@ -2843,13 +2843,13 @@
 	]
 	quest.1E7FCA66EDB1BCF5.title: "&c海蓝钢制工具"
 	quest.1E88395535AA93DC.quest_desc: [
-		"Bees can get quite defensive, and will easily trade their lives just to sting you. You can save them by putting their &astingers&r back!"
+		"蜜蜂们的脾气可是有点差，它们宁可自己死掉也要蜇你一口。不过你可以把它们的&a蜂刺&r插回去，这样就能拯救它们！"
 		""
-		"&bSave 12 Bees&r by using &aBee Stingers&r on them after they have stung you. &oOr shove all 12 back into one Bee!&r :D"
+		"在蜜蜂蜇你以后，把&a蜜蜂刺&r插回&b12只蜜蜂上&r，以此拯救它们……或者&o把 1 2 根 蜜 蜂 刺 插 回 同 一 只 蜜 蜂 上 ！&r φ(>ω<*)"
 		""
-		"&o&8Excuse me, what?&r"
+		"&o&8玩家：等等，你最后一句话让我干啥？&r"
 	]
-	quest.1E88395535AA93DC.title: "&fPut It Back Where It Beelongs"
+	quest.1E88395535AA93DC.title: "&f把它“插”回它该在的地方"
 	quest.1E9349AC359E058E.quest_desc: ["&a动力轴承&r可以旋转连接的结构。"]
 	quest.1E9349AC359E058E.title: "&f动力轴承"
 	quest.1E95AD23243FEF87.quest_desc: ["现在你就可以制造&e实用拓展&r模组中的最强燃料了。只需简单地把&a充能油菜种子&r丢进&3晶化油&r里，然后你就有&d充能油&r了！"]
@@ -3033,7 +3033,7 @@
 	]
 	quest.208A53545D649C8D.title: "&a机器升级&r"
 	quest.209109642967A0E5.quest_desc: [
-		"In the overworld, you might run into &aStarlight Portal Ruins&r, which are protected by &dThe Gatekeeper&r."
+		"主世界探索的时候，也许你会碰到&a星光传送门遗迹&r。这里被&d守门人&r把守着。"
 		""
 		"Gear up and accept their challenge to acquire the &aOrb of Prophecy&r!"
 		""
@@ -3126,7 +3126,7 @@
 		"你可以制作一个&a铁熔炉&r，或者&b熔炉升级：石->铁&r并对普通熔炉使用来升级你的第一个熔炉！"
 	]
 	quest.21AD51F1B13BD133.title: "&b更多熔炉"
-	quest.21B3B5604A31C75F.title: "&fDiscover All &6Bumblezone &fBiomes"
+	quest.21B3B5604A31C75F.title: "&f探索并发现&6蜜蜂领域&f的全部生物群系"
 	quest.21E22024A842E46E.quest_desc: [
 		"想让吵得要死的机器闭嘴？试试这些升级！"
 		""
@@ -3163,13 +3163,13 @@
 	quest.227BF4C2E9500AE2.quest_desc: ["&a长矛&r的伤害比普通剑的低一些，但是攻击距离更远！"]
 	quest.227BF4C2E9500AE2.title: "&f长矛蓝图"
 	quest.227EFF4851CA07D1.quest_desc: [
-		"1. Craft or find &aStinger Spear&r."
-		"2. Summon the &dWither&r."
-		"3. Kill the &dWither&r with &aStinger Spear&r."
-		"4. ..."
-		"5. Profit?"
+		"首先，找一个或者做一个&a刺矛&r。"
+		"然后，召唤&d凋灵&r"
+		"接着用&a螯针矛&r把&d凋灵&r杀掉。"
+		"4.……"
+		"5.看到这个成就感觉如何？"
 	]
-	quest.227EFF4851CA07D1.title: "&fStinging The &dWither &fTo Death"
+	quest.227EFF4851CA07D1.title: "&f蛰死那个&d凋灵&f！"
 	quest.22878CFA5B7B90AD.quest_desc: [
 		"&6化学结晶器&r可以把气体变为固态结晶，用处很多，比如制造&a锂粉&r和&d反物质靶丸&r。"
 		""
@@ -12216,7 +12216,7 @@
 	task.61B136724B06E927.title: "瘟疫术士套装"
 	task.61C0F35123FBB85E.title: "&f击杀：1只&d监守者"
 	task.62444557DFD28C36.title: "&a海德林的动物"
-	task.62B65545FCBA5292.title: "Discover All &6Bumblezone&r Biomes"
+	task.62B65545FCBA5292.title: "探索并发现&6蜜蜂领域&r的全部生物群系"
 	task.62DE6121CE506116.title: "管道升级"
 	task.62ED0EC3C8534504.title: "&2矿晶"
 	task.6347BBAD2ED20F25.title: "&f击杀20只&c僵尸"
