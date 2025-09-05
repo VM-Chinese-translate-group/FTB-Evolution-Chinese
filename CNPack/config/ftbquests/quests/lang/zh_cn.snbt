@@ -303,9 +303,9 @@
 	quest.034B66770C749332.quest_desc: ["&d下界之星符石&r增加50%暴击伤害，玩家下落且不在水中时必定暴击。"]
 	quest.034B66770C749332.title: "&d下界之星护身符"
 	quest.034F63190B721D12.quest_desc: [
-		"Got a lot of Bees that make a lot of &6Honey&r? Pump it into the &aHoney Generator&r to convert it into power!"
+		"搞到了一大堆蜜蜂，蜜蜂又产出了&6一大堆蜂蜜&r？把蜜都丢进&a蜂蜜发电机&r里产点能量吧！"
 		""
-		"You can also upgrade the generator with &aSpeed&r or &aProductivity: Alpha&r upgrades to increase the amount of power it generates."
+		"你可以选择给发电机添加&a升级：速度&r或&a升级：产量&r来提升产出的电量。"
 	]
 	quest.034F63190B721D12.quest_subtitle: "嗡嗡"
 	quest.034F63190B721D12.title: "&f蜂蜜发电机"
@@ -896,9 +896,9 @@
 	quest.095A405D88EF0250.title: "&f无线红石控制！"
 	quest.095DE7425166A5A3.title: "&f折越卷轴"
 	quest.096CD3C9ED1D4667.quest_desc: [
-		"If you want a renewable generator, it doesn't get much better than a &aSolar Panel&r."
+		"假如你想要可再生能源发电机，那么我推荐你用&a太阳能板&r。"
 		""
-		"Of course, these need access to the sky. Applying a &6Lens of Ender&r onto a Solar Panel will allow it to see through blocks, meaning you can use the panels underground!"
+		"是的没错，这玩意要对着无遮盖的天空。但如果给太阳能板加上&6末影透镜&r，那它就可以在地底下正常工作了！"
 	]
 	quest.096CD3C9ED1D4667.title: "&f太阳能板"
 	quest.0971483C3C7A4259.quest_desc: [
@@ -4548,11 +4548,11 @@
 	]
 	quest.31705AD5BE50E2CB.title: "&f加压反应室"
 	quest.318747B4EF9E1D5B.quest_desc: [
-		"&aThermo Generators&r generate power using a &cHeat Source Block&r underneath them, and a steady source of water being pumped in."
+		"&a热力发电机&r在下方放有&c热源方块&r，且有稳定外部水源供应时，会产生能量。"
 		""
-		"Aside from the tier of the generator, different heat sources will multiply the amount of power that the generator makes. For example, &cLava&r is a 1x multiplier. If you use a &cBlazing Crystal Block&r instead, the generator will make 2.8x the RF/t!"
+		"除了发电机等级能影响产能外，不同的热源也可以加倍能源产出。比如&c熔岩&r是一倍产出，但如果你放个&c烈焰晶体块&r的话，则RF产出会是原来的2.8倍！"
 	]
-	quest.318747B4EF9E1D5B.title: "&fThermo Gens"
+	quest.318747B4EF9E1D5B.title: "&f热力发电机"
 	quest.319098064145CF21.title: "&a进化物质"
 	quest.319F49C16CFE900C.quest_desc: [
 		"虽然睡觉是设置重生点的经典方法，但你也可以选择使用&a/sethome&r命令来设定家，输入&a/home&r回家。"
@@ -8885,7 +8885,7 @@
 		"你只需要把它和携带你想移除基因的&3质粒&r合成一下，然后像普通的&3质粒&r一样装入&a注射器&r即可。"
 	]
 	quest.5FDA7663267368F9.title: "&3抗质粒"
-	quest.5FF48F577BEF0C89.quest_desc: ["The &aFurnator&r is the classic way of generating power by burning items like Coal or Wood."]
+	quest.5FF48F577BEF0C89.quest_desc: ["&a熔炉发电机&r是最经典的发电手段，它消耗煤炭或木头发电。"]
 	quest.5FF48F577BEF0C89.title: "&fFurnators"
 	quest.5FF6DBF82E242BB7.title: "&f靴子宝典"
 	quest.6005C20FD96E6711.quest_desc: [
@@ -12135,7 +12135,7 @@
 	task.4F3BD1ECA2A53285.title: "&f通用机械流体管道"
 	task.4F725B8E1BB9B8D1.title: "&e绑定仪式"
 	task.4FAE5B3549E023A9.title: "&aFTB金字塔"
-	task.506C293E06A5C513.title: "&fThermo Gens"
+	task.506C293E06A5C513.title: "&f热力发电机"
 	task.5110161504E22255.title: "&eRitual&r: &aPurify Vex"
 	task.51876BE373B08431.title: "&d末影&f道门"
 	task.51960CB0D71494BF.title: "&f反应堆"
