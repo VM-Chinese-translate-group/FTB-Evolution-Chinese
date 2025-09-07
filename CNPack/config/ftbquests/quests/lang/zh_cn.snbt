@@ -4271,11 +4271,11 @@
 	quest.2E6C0103BEF01BDD.quest_desc: ["Aside from using teleport commands, you can escape the &6Bumblezone&r by going out of the top or the bottom of the dimension."]
 	quest.2E6C0103BEF01BDD.title: "&fLeave The Bumblezone"
 	quest.2E742BCED0CDEAB9.quest_desc: [
-		"Sought after by many players, &6Keep Kayra&r is a massive tower with tons of loot and spawners inside."
+		"许多玩家都在苦苦追寻&6创世神殿&r的踪迹，传说中那是一座高塔，里头挤满了宝藏……还有刷怪笼。"
 		""
-		"This is probably the coolest structure you can find in the pack."
+		"这个结构估计是整个包最酷的结构了。"
 	]
-	quest.2E742BCED0CDEAB9.title: "&fFind &6Keep Kayra"
+	quest.2E742BCED0CDEAB9.title: "&f找到&6创世神殿"
 	quest.2E7EBD2A61897192.quest_desc: [
 		"&d提取宝典&r也会移除所有附魔，但是物品并不会被摧毁。你可以用它随意移除或替换物品的附魔。"
 		""
@@ -4652,9 +4652,9 @@
 	quest.321229F5E7574245.title: "&e方形绿宝石之戒"
 	quest.3219123B72D9F360.title: "&3256B 化学品存储组件"
 	quest.322E4A433B1665F7.quest_desc: [
-		"&6Bee Stingers&r hurt. Why not use them as ammo in a crossbow?"
+		"&6蜜蜂刺&r蜇人很疼，那为什么不加以利用做成弩箭弹药呢？"
 		""
-		"Fire &a32 Bee Stingers&r from a crossbow to complete this challenge."
+		"从弩中发射&a32根蜜蜂刺&r，完成这个挑战。"
 	]
 	quest.322E4A433B1665F7.title: "&fA New Type Of &aArrow"
 	quest.323A230EB571C4CA.quest_desc: [
@@ -4773,11 +4773,11 @@
 	]
 	quest.333F134987890582.title: "&f水晶装配器"
 	quest.333FB6E921401537.quest_desc: [
-		"Deep underground, there is a massive structure called the &6Foundry&r."
+		"地下有一个叫&6铸造厂&r的地方，是个很大的结构。"
 		""
-		"This place is filled with spawners, dangerous mobs, and tons of loot. It might also make for a nice base!"
+		"这个地方充满刷怪笼和危险怪物，不过里头战利品也很多。如果你想的话，这里也会是个很棒的基地选址！"
 	]
-	quest.333FB6E921401537.title: "&fLocate The &6Foundry"
+	quest.333FB6E921401537.title: "&f发现&6铸造厂"
 	quest.334A319CC010293A.quest_desc: [
 		"在水下深处，有一个叫做&6海蓝科技（NauTec）遗址&r的小结构。"
 		""
@@ -4935,8 +4935,8 @@
 	quest.3490E1E29396D066.title: "&a一级&f种子"
 	quest.349143B50076A759.quest_desc: ["Each &6Tier 4 Dimensional Storage Stablizer&r adds 4096000 items, and 512 item types, up to four &aStablizers&r."]
 	quest.349143B50076A759.title: "&6四阶维度存储稳定器"
-	quest.349A02A0278CB88E.quest_desc: ["The &6Queen&r doesn't like spiders. Kill 32 of them for her."]
-	quest.349A02A0278CB88E.title: "&fToo Many Legs"
+	quest.349A02A0278CB88E.quest_desc: ["&6蜂后&r特别讨厌蜘蛛，帮她杀32只。"]
+	quest.349A02A0278CB88E.title: "&f好多的腿"
 	quest.34A49E11025231DA.quest_subtitle: "+15% 法术吟唱缩减"
 	quest.34A49E11025231DA.title: "&f速吟之戒"
 	quest.34AB2B41BE99B9F9.quest_desc: [
@@ -5072,13 +5072,13 @@
 	quest.35A457C89558CF59.quest_subtitle: "7x7的灌溉范围！"
 	quest.35A457C89558CF59.title: "&c中级精华&f洒水壶"
 	quest.35A96FBA7222DD74.quest_desc: [
-		"Nearby an &6Ancient City&r, you'll find a strange portal frame waiting to be activated."
+		"你可以在&6远古城市&r找到一个奇怪的传送门框架，它正等着某人激活。"
 		""
-		"The key to activate it can be found in the loot chests from the City."
+		"激活传送门的钥匙请在远古城市的战利品箱中找。"
 		""
 		"&8Structure name: the_afterdark:teleport_altar&r"
 	]
-	quest.35A96FBA7222DD74.title: "&fVisit The &dAfterdark &fDimension"
+	quest.35A96FBA7222DD74.title: "&f造访&dAfterdark&f维度"
 	quest.35B5935902738DCC.quest_desc: [
 		"通用机械的扳手叫&b配置器&r。"
 		""
@@ -5252,15 +5252,15 @@
 	quest.36A1553B4CB88D44.quest_subtitle: "Salty Much?"
 	quest.36A1553B4CB88D44.title: "&aDeep Sea Drain"
 	quest.36D3EAF6F3660B2E.quest_desc: [
-		"Using the Honey Compass or Explorer's Compass, locate the &dThrone Pillar&r."
+		"用探险家指南针，或者蜂蜜指南针前往&d王台&r。"
 		""
-		"Atop the Pillar, you'll find the &6Bee Queen&r. She offers trades to anyone daring enough to seek an audience with her."
+		"你可以在王台见到&6蜂后&r，她会和前来的人做交易。"
 		""
-		"You can see what trades are available in JEI by hitting &bU&r on an item that is tradeable (like a Beehive)."
+		"对着可以交易的物品按&bU&r就能查看交易JEI（比如蜂巢）。"
 		"{@pagebreak}"
-		"The Queen also has extra trades, which she'll call out every so often (about 10 minutes). She also holds a render of the block she's looking for in case you forget."
+		"蜂后还有一些额外的交易，每十分钟左右就会刷新一次。如果你忘记交易所需方块的话，可以去她那里查看。"
 	]
-	quest.36D3EAF6F3660B2E.title: "&fAn Audience With The &6Bee Queen"
+	quest.36D3EAF6F3660B2E.title: "&f陪&6蜂后&r说说话"
 	quest.36DD75256D280C4A.quest_desc: [
 		"很多&6工业先锋&r的机器的工作范围都很大，在GUI中点击“显示工作范围”就可以可视化显示。"
 		""
@@ -5926,11 +5926,11 @@
 	quest.3E692E6066ECB45B.quest_desc: [
 		"Bees love to be fed."
 		""
-		"Feed them 48 times. You can use Honey, Honey Bottles or Sugar Water Bottles."
+		"所以你得喂蜜蜂48次，可以用蜂蜜、蜂蜜瓶和糖水瓶喂。"
 		""
-		"Yes, you can feed the same bee 48 times. They can bee very hungry."
+		"去喂吧那就，你可以喂同一个蜜蜂48次，因为这帮蜜蜂都快饿蜂了。"
 	]
-	quest.3E692E6066ECB45B.title: "&fBig ol' Bee"
+	quest.3E692E6066ECB45B.title: "&f一窝蜂"
 	quest.3E7001F4A49CF787.quest_desc: [
 		"&6进气口&r可以放在&3真空冷却机&r的物品输入仓中，从而制造&7液态空气&r。"
 		""
@@ -5969,11 +5969,11 @@
 	]
 	quest.3F18A0C9F246235B.title: "&f荒野召唤之板"
 	quest.3F18F0072624F4B0.quest_desc: [
-		"The &6Queen&r needs more soldiers."
+		"&6蜂后&r需要更多士兵。"
 		""
-		"&bBreed Bees&r until you have created 8 new baby bees."
+		"&b喂养幼蜂&r，直到你养出8个新幼蜂为止。（注：是蜜蜂领域模组的）"
 	]
-	quest.3F18F0072624F4B0.title: "&fA Wittle &6Babee"
+	quest.3F18F0072624F4B0.title: "&f蜂拥而出&r"
 	quest.3F4C25DF20877606.quest_desc: [
 		"&a乙醇&r是一种很有用的资源，能够制作&2除草剂&r，&2生物柴油&r以及&d乙醛&r。"
 		""
@@ -6128,11 +6128,11 @@
 	]
 	quest.40B9A5403390D8A1.title: "&eMI&a管道"
 	quest.40BBCE1F8363235B.quest_desc: [
-		"You'll find plenty of new resources in the &6Bumblezone&r, including &eHoney Crystals&r and &aPollen Puffs&r."
+		"你会在&6蜜蜂领域&r中找到一大堆的新资源，比如&e蜂蜜水晶&r，又或者&a花粉球&r。"
 		""
-		"Use these to craft the &6Honey Compass&r! This will bee our guiding compass to find the &6Cell Maze&r."
+		"用这些东西做个&6蜜糖指南针&r吧！你需要用它才能找到&6巢室迷宫&r。"
 	]
-	quest.40BBCE1F8363235B.title: "&fThe &6Honey &fWill Lead The Way"
+	quest.40BBCE1F8363235B.title: "&f愿&6蜂蜜&r引领你前行的路"
 	quest.40CCB0B7868233CA.quest_desc: ["将你刚得到的&a硫酸铂溶液&r&3离心&r，便可以得到&2纯净硫酸铂溶液&r，还有小概率得到副产物&d铱粉末&r。"]
 	quest.40CCB0B7868233CA.title: "&d小堆铱粉"
 	quest.40D4E56DD0876A7D.quest_desc: [
@@ -6946,7 +6946,7 @@
 		""
 		"Within the dimension, you have a 13x13x13 workspace to build whatever you need! Make sure to &aforce load&r the chunk from the inside to keep it loaded and working when you aren't inside."
 	]
-	quest.49ECE2A618E86CBD.title: "&fPersonal &dPocket Dimensions"
+	quest.49ECE2A618E86CBD.title: "&f个人&d口袋维度&r"
 	quest.4A0DE2C23F9145ED.quest_desc: [
 		"&6Forbidden \\&\\ Arcanus&r is a beautiful magic mod with some very unique mechanics for crafting items!"
 		""
@@ -8040,15 +8040,15 @@
 	]
 	quest.55B7E3EE706E8D6F.title: "&f强化石"
 	quest.55C9854AAC7DFB86.quest_desc: [
-		"The &dAugmentation Station&r is a multiblock that allows you to applying augments to yourself."
+		"&d强化站&r是一种多方块结构装置，它能让你对自身进行强化。"
 		""
-		"Once the structure has been built, right-click the middle block with the wrench to complete the structure."
+		"一旦这个结构搭建完成，就用扳手右击中间的方块来完成整个结构的构建。"
 		""
-		"Each ingredients can be supplied by putting them into one of the 4 extensions slots, along with a &aClaw Robot Arm&r."
+		"每种原料都可以通过将其与一个&a爪式机械臂&r一起放入四个扩展插槽中的一个来提供。"
 		""
-		"Only one &aRobot Arm&r is needed per augment ingredient, which also needs to be powered."
+		"每种强化原料只需要一个&a机械臂&r，而且这个机械臂也需要供能。"
 	]
-	quest.55C9854AAC7DFB86.title: "&dAugmentation Station"
+	quest.55C9854AAC7DFB86.title: "&d强化站"
 	quest.560BC956F5EB0000.quest_desc: [
 		"&a煤炭发电机&r可以将大多数的熔炉燃料变为能源（FE）。"
 		""
@@ -8353,19 +8353,19 @@
 	]
 	quest.58982359699AFB7F.title: "&f配置卡"
 	quest.58AA1E1E16977E47.quest_desc: [
-		"The &aCatalyst&r is the secret to activating the Crystal."
+		"这种&a催化器&r是激活那块水晶的关键所在。"
 		""
-		"To activate it, place the &bAquatic Catalyst&r a few blocks away from one of the crystal's sides. Make sure the small hole is facing the crystal."
+		"&b海洋催化器&r放置在距离水晶某一侧几个方块远的地方。确保其有黑色小孔的那一面正对着水晶。"
 		""
-		"You'll then need to pump in &bPrismarine Shards&r into the Catalyst with something like a Hopper."
+		"然后，你需要使用像漏斗之类的东西，把&b海晶碎片&r注入催化器中。"
 		"{@pagebreak}"
-		"If done properly, the opposite side will shoot out a laser beam towards the &bCrystal&r. This will create a laser beam we can use to purify our &aAquarine Steel Compounds&r."
+		"如果操作正确，催化器相对的一侧会向&b海蓝水晶&r射出一道激光束。这样就会产生一道我们可以用来提纯&a海蓝钢化合物&r的激光束。"
 		""
-		"Throw them into the beam under the crystal to create &aAquarine Steel&r."
+		"把它们丢到水晶下面的激光，就可以制造出&a海蓝钢&r。"
 		""
-		"Note: These Beams can kill you!"
+		"注意：这些激光束会置你于死地！"
 	]
-	quest.58AA1E1E16977E47.title: "&aPowering The Catalyst"
+	quest.58AA1E1E16977E47.title: "&a给催化器供能"
 	quest.58CD2EA60183F861.title: "&c猩红神杖"
 	quest.58D46C65E1B754C0.quest_desc: ["提供相应肥料时，可在其前方工作区域内自动催熟作物。"]
 	quest.58D46C65E1B754C0.title: "&f植物施肥机"
@@ -8465,13 +8465,13 @@
 	]
 	quest.5A5D6A90C0999828.title: "&3进阶机器框架"
 	quest.5A637C0834B0D450.quest_desc: [
-		"The &aPrism Monocle&r is a useful tool that allows you to see information about the block you are looking at."
+		"&a棱镜单片眼镜&r是一种很有用的工具，能让你查看所注视方块的相关信息。"
 		""
-		"It is particularly useful to know the purity of a &bLaser Beam&r."
+		"你要了解&b激光纯度&r时，它尤其有用。"
 		""
-		"This item is best used together with &eJade&r, as that has more extensive support for &6NauTec.&r"
+		"这件物品最好与&e玉（Jade）&r模组一起使用，因为玉模组对&6海蓝科技（NauTec）&r有更广泛的支持。"
 	]
-	quest.5A637C0834B0D450.title: "&aPrism Monocle"
+	quest.5A637C0834B0D450.title: "&a棱镜单片眼镜"
 	quest.5A818D2F39A6679B.quest_subtitle: "+15% 法术冷却缩减"
 	quest.5A818D2F39A6679B.title: "&a复效之戒"
 	quest.5A8CEB600CAADCD2.quest_desc: ["A wizard found alone in their &bMountain Tower.&r All tresspassers receive a chilling welcome."]
@@ -8506,7 +8506,7 @@
 		""
 		"&3Lifespan:&r how long a colony lasts in a reactor before shrinking."
 	]
-	quest.5AF160C6E2843FBF.title: "&eBacteria Analyzer"
+	quest.5AF160C6E2843FBF.title: "分析仪"
 	quest.5B063F5520171280.title: "&c中级精华&f工具"
 	quest.5B164374A2849270.title: "&6第二层"
 	quest.5B28036A3960FCAC.quest_desc: [
@@ -8908,13 +8908,13 @@
 	quest.6005C20FD96E6711.quest_subtitle: "该进入矩阵了"
 	quest.6005C20FD96E6711.title: "&f变量卡"
 	quest.600DE37317142D0D.quest_desc: [
-		"The &aPrismatic Battery&r is a device that can store up to 10,000 &bAquatic Power&r."
+		"&a海蓝电池&r是一种能够储存多达 10000 点 &b海蓝能量&r的装置。"
 		""
-		"It is mainly used to charge tools and armor in your inventory, and can be activated by Shift + Right-clicking in your hand."
+		"它主要的作用是为你物品栏中的工具和盔甲充电，并且当你手持它时，通过按住Shift+右击就可以激活它。"
 		""
-		"This item must be in a &eCurios&r slot to work."
+		"这件物品必须放置在&e饰品栏&r对应的槽位中才能发挥作用。"
 	]
-	quest.600DE37317142D0D.title: "&fPrismatic Battery"
+	quest.600DE37317142D0D.title: "&f海蓝电池"
 	quest.60105BDA4CA76BD6.title: "&c生物神经回路"
 	quest.603BAFEF92DA275E.quest_desc: [
 		"现在你有了&b活化水晶锭&r和&b宝石&r，用它们把钻石盔甲大换新吧。"
@@ -9094,7 +9094,7 @@
 		""
 		"&o&7身上具有虚弱效果的玩家或生物会在火盆开始燃烧后自动签下条约，无论他们自己意愿如何。"
 		""
-		"To end the effects of an Oath, this process can be repeated with a &eParacasual Flame&r lighting the &aBrazier&r instead."
+		"要想解除条约，只需要再放入同样的仪式材料，但是改用&e违因火焰&r来引燃&a火盆&r即可。"
 	]
 	quest.61B948F3E526ADF9.title: "魂缚条约"
 	quest.61D6B29594193438.quest_desc: [
@@ -9540,7 +9540,7 @@
 		""
 		"To get started, craft some &aBrown Polymer&r, which you will use to craft a &aDiving Suit&r to explore the deeper oceans."
 	]
-	quest.666E8041E0754A3C.title: "&fWelcome to &6NauTec&f!"
+	quest.666E8041E0754A3C.title: "&f欢迎游玩&6海蓝科技&f！"
 	quest.6686C39B8D5B5319.quest_desc: [
 		"一般来说你是没法把一个背包套进另外一个背包的，除非你加装一个&d嵌套升级&r！"
 		""
@@ -9675,7 +9675,7 @@
 		"&7&oThe polished prismarine goes under the bio reactor block."
 		"{image:ftbevolution:textures/quests/nautec/bioreactor_blocks_o.png width:128 height:120 align:center}"
 	]
-	quest.67CA7FA8D63E315F.title: "&3Bio Reactor"
+	quest.67CA7FA8D63E315F.title: "&3生物反应器"
 	quest.67DE9E103F50E3F1.quest_desc: [
 		"&a安山机壳&r用于制作大多数早期游戏方块和机器。"
 		""
@@ -10313,11 +10313,11 @@
 	]
 	quest.719BCB8D5D1AF974.title: "&a极寒符石"
 	quest.71C0BC71D3B45690.quest_desc: [
-		"Keep an eye out for chests, crates, and mobs underwater."
+		"多留意一下水下的箱子、板条箱和生物。"
 		""
-		"These can contain some ancient machine parts that you'll need to progress!"
+		"这里面可能会有一些远古机器零件，你需要它才能推进度！"
 	]
-	quest.71C0BC71D3B45690.title: "&aAncient Machine Parts"
+	quest.71C0BC71D3B45690.title: "&a远古机械零件"
 	quest.71C6807139E44B6A.quest_subtitle: "+15% 法术抗性"
 	quest.71C6807139E44B6A.title: "&f沉重环链"
 	quest.71D274A5F226DAEC.quest_desc: [
@@ -10511,11 +10511,11 @@
 	]
 	quest.72E5DE96165E5DE2.title: "&d反胃护身符"
 	quest.72EBD96ED914471F.quest_desc: [
-		"The &aCharger&r is used to infuse items with &bAquatic Power&r."
+		"&a充能器&r是用来给物品注入&b海蓝能量&r的。"
 		""
-		"Shooting it with a &bLaser&r from an energy source will charge the item inside it."
+		"使用&b激光&r照射充能器来给充能器中的物品充能。"
 	]
-	quest.72EBD96ED914471F.title: "&fCharger"
+	quest.72EBD96ED914471F.title: "&f充能器"
 	quest.73090FDB6ABAF9C3.quest_desc: [
 		"&d守护者使魔&r可以通过舍弃自身的一条肢体来避免其主人死亡"
 		""
@@ -10772,7 +10772,7 @@
 	]
 	quest.74E9A69F9F8CDA3D.title: "&a铁傀儡护身符"
 	quest.74EA351011AA309F.quest_desc: [
-		"This mysterious &6precious mineral&r cannot be created through any crude means, and must be found deep in the earth, barring a deep dive into technologic or arcane resource generation."
+		"除非你深入地研究了依赖于科技或奥术的资源再生手段，否则这种神秘的&r珍贵物质&r无法用任何原始手段创造出来，只有在地表深处才能找到它。"
 		""
 		"&bLarge clumps&r can rarely be found buried in veins of deepslate gold ore, while &bsmall deposits&r can often be found where the ore is exposed to air."
 	]
@@ -10837,11 +10837,11 @@
 	]
 	quest.75D3AC9CCA5A82E4.title: "&d动力合成器"
 	quest.75EE2E239783B03E.quest_desc: [
-		"While this armor might look weak at first, it gains actual attributes when supplied with power."
+		"虽然这件盔甲乍一看可能很薄弱，但在充能后就会获得它的真实能力。"
 		""
-		"Each piece can have up to +10 Armor and +5 Armor Toughness"
+		"每件盔甲护甲值最多+10，盔甲韧性最多+5。"
 	]
-	quest.75EE2E239783B03E.title: "&dAquarine Steel Armor"
+	quest.75EE2E239783B03E.title: "&d海蓝钢盔甲"
 	quest.76120A38BC49FB92.quest_desc: [
 		"&b塑料片&r是高级合成配方的重要材料。"
 		""
@@ -11911,7 +11911,7 @@
 	task.096452CE0C4FC543.title: "任意锄"
 	task.09BA8AE5976CB602.title: "喷气背包"
 	task.0A6AA7DD87D2EDE2.title: "&3恶魔伴侣"
-	task.0ABCE3537E92F6F2.title: "Enter The &dAfterdark&r"
+	task.0ABCE3537E92F6F2.title: "踏入&dAfterdark&r维度！"
 	task.0ADB488118F04CF5.title: "蜜蜂属性"
 	task.0AE9E3C1553154B6.title: "原始和基础机器核心"
 	task.0B432770D3EE9EC1.title: "&e召唤一个&3机器操作员"
@@ -12073,11 +12073,11 @@
 	task.3D8249AFA2C607A0.title: "&d夜晚护身符&r"
 	task.3E8EE10AD935D436.title: "&fFurnace &aAugments"
 	task.3EB3DC0E20ACCE4A.title: "找到陨石！"
-	task.3EDDF62E803A56A4.title: "Kill 32 Spiders"
+	task.3EDDF62E803A56A4.title: "杀掉32只蜘蛛"
 	task.3EF3D33D52CB41A5.title: "虚空升级"
 	task.3F405FB146055F6D.title: "献祭"
 	task.3F437642D1B08EBF.title: "&fKill 20 &cSpiders"
-	task.3F46F72C0F67F699.title: "Skip this step"
+	task.3F46F72C0F67F699.title: "跳过这一步"
 	task.3F5A6F2680A95A43.title: "&f输入和输出口"
 	task.3F7FE89F1DBD4A48.title: "&e观察&f：工业挤压机"
 	task.4087591E474FC477.title: "&f击杀10只&d末影人"
