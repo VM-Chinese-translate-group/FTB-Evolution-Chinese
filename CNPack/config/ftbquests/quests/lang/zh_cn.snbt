@@ -5420,7 +5420,7 @@
 		""
 		"大幅提升&b仪式&r速度。"
 	]
-	quest.38705F990589B2E8.title: "&d艾瑟献祭之碗"
+	quest.38705F990589B2E8.title: "&d艾瑟金属献祭之碗"
 	quest.38869642A2E6F8B6.quest_desc: [
 		"说到物流，&e模块化路由器&r可以解决你的一切问题，这个模组可以实现&a自动点击&r，&a自动方块破坏&r，还有很多别的功能！"
 		""
@@ -9236,7 +9236,7 @@
 	quest.633FA983B63A65DD.quest_desc: ["给&d压力表管道模块&r安装&b模块扩展卡&r后可以精确控制其输出的&c红石强度&r。"]
 	quest.633FA983B63A65DD.title: "&f功能扩展！"
 	quest.63516E977D8BC7C4.quest_desc: [
-		"&5邪灵圣杯&r是&d艾瑟献祭之碗&r的升级版，可以立即执行任何仪式。"
+		"&5诡奇圣杯&r是&d艾瑟金属献祭之碗&r的升级版，可以立即执行任何仪式。"
 		""
 		"它看起来也超级酷。"
 	]
@@ -12223,7 +12223,7 @@
 	task.63631EC45A5E0BD0.title: "&e观察&r：自动化工程师装配台"
 	task.63B6D52741114570.title: "&e召唤&7魔精伐木工"
 	task.63C4D2F3F7059C8E.title: "&f自动拾取升级！"
-	task.63CCD5B192C043E9.title: "&e观察&f：&7魔灵碎矿者"
+	task.63CCD5B192C043E9.title: "&e观察&f：&7魔精碎矿者"
 	task.643D8A56111D16B7.title: "任意&d法术卷轴&r"
 	task.64CC6BB34041EAFB.title: "&d五级&f种子"
 	task.654450BCAE6FF1CA.title: "&c中级精华&f盔甲"
