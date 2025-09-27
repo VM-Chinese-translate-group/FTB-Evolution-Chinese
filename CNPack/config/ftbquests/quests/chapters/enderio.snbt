@@ -264,8 +264,11 @@
 			tasks: [{
 				id: "71DE97DCC846D547"
 				item: {
+					components: {
+						"ftbquests:missing_item": "enderio:primitive_alloy_smelter"
+					}
 					count: 1
-					id: "enderio:primitive_alloy_smelter"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]
@@ -814,7 +817,7 @@
 					id: "097ED4851BBD0954"
 					item: {
 						count: 1
-						id: "enderio:empty_soul_vial"
+						id: "enderio:soul_vial"
 					}
 					random_bonus: 2
 					type: "item"
@@ -837,7 +840,7 @@
 					id: "5D56EAA3B73A5D97"
 					item: {
 						count: 1
-						id: "enderio:empty_soul_vial"
+						id: "enderio:soul_vial"
 					}
 					type: "item"
 				}
@@ -1161,15 +1164,14 @@
 					id: "78A92276BF74C8F3"
 					item: {
 						components: {
-							"enderio:stored_entity": {
+							"enderio:soul": {
 								entityTag: {
 									id: "minecraft:enderman"
 								}
-								maxHealth: 0.0f
 							}
 						}
 						count: 1
-						id: "enderio:filled_soul_vial"
+						id: "enderio:soul_vial"
 					}
 					type: "item"
 				}

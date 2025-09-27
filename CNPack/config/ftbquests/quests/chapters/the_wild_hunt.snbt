@@ -1236,7 +1236,7 @@
 			id: "35CCB0359596DE32"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:melee"
-				feedback_message: "Melee Skills Have Been Reset"
+				feedback_message: "Melee Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_melee"
@@ -1267,7 +1267,7 @@
 			id: "794C1EAA6252BC44"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:ranged"
-				feedback_message: "Ranged Skills Have Been Reset"
+				feedback_message: "Ranged Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_ranged"
@@ -1298,7 +1298,7 @@
 			id: "6A22434958A72911"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:mining"
-				feedback_message: "Mining Skills Have Been Reset"
+				feedback_message: "Mining Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_mining"
@@ -1329,7 +1329,7 @@
 			id: "0E19151FCABF4759"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:athletics"
-				feedback_message: "Athletics Skills Have Been Reset"
+				feedback_message: "Athletics Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_athletics"
@@ -1390,7 +1390,7 @@
 			id: "4BF0B397B0B9EE8C"
 			rewards: [{
 				command: "/puffish_skills skills reset @p puffish_skills:defense"
-				feedback_message: "Defense Skills Have Been Reset"
+				feedback_message: "Defense Skills Have Been Reset"
 				icon: {
 					components: {
 						"ftbquests:icon": "ftbevolution:item/skill_reset_defense"
