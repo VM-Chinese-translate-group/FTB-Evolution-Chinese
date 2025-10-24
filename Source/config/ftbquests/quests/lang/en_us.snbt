@@ -338,14 +338,6 @@
 		"&l&cWARNING!&r Removing a linked block without stopping the laser will mine all blocks in the laser's line of sight."
 	]
 	quest.036C11AC70835846.title: "&fThe Power Of The &dEnd"
-	quest.0376EEA8E8B3E66D.quest_desc: [
-		"Before you can make any powered machines, you'll need to some &aAlloys&r first."
-		""
-		"The &7Primitive Alloy Smelter&r can do this, so this will be your first &eEnderIO&r machine."
-		""
-		"It works like a furnace and uses burnable fuel, but is extremely slow and cannot be configured or upgraded."
-	]
-	quest.0376EEA8E8B3E66D.title: "&fPrimitive Alloy Smelter"
 	quest.03A7D3280ECF5076.quest_desc: [
 		"&aPrismarine Crystal Shards&r are a used for most of the advanced items and machinery."
 		""
@@ -1638,7 +1630,7 @@
 	]
 	quest.107C26E8BF309BC1.title: "&fArcane Discoveries"
 	quest.109CB437DFAECDC6.quest_desc: [
-		"The &aAlloy Smelter&r will be your most used machine in &eEnderIO&r as it is an improved version of the &7Primitive Alloy Smelter&r, and can be upgraded with &bCapacitors&r."
+		"The &aAlloy Smelter&r will be your most used machine in &eEnderIO&r as most Machines and Gizmos in the Mod require some kind of alloy made with it! Oh and it can be upgraded with &bCapacitors&r."
 		""
 		"In the &aAlloy Smelter's&r interface, you can configure it in many different ways to improve your automation. It allows for side input/output configuration, redstone configuration, and swapping between three modes:"
 		"{@pagebreak}"
@@ -2506,6 +2498,8 @@
 		"For example, you can power &eMI&r machines with &eMekanism&r generators and vice versa."
 		""
 		"This gives you the freedom to progress however you'd, like while still enjoying the best parts of &eMI&r!"
+		""
+		"- However, it is &bimportant&f to note that the conversion is &e1 EU <=> 10 FE."
 	]
 	quest.1AE69DDE0FBE9E9F.quest_subtitle: "Transfers Items"
 	quest.1AE69DDE0FBE9E9F.title: "&fItem Pipe"
@@ -3902,7 +3896,7 @@
 		""
 		"The next page shows an example of a completed build."
 		"{@pagebreak}"
-		"{image:ftb:textures/quests/modern_industrialization/electricblastfurnace.png width:200 height:210 align:center}"
+		"{image:ftbevolution:textures/quests/modern_industrialization/electricblastfurnace.png width:200 height:210 align:center}"
 	]
 	quest.2AEF8759144B6AED.title: "&2Electric Blast Furnace"
 	quest.2AF06433C6EDDB62.title: "&cTertium &fMachine Upgrade"

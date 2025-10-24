@@ -40,56 +40,56 @@
 			image: "minecraft:block/fire_1"
 			rotation: 0.0d
 			width: 2.0d
-			x: 0.0d
-			y: 0.5d
+			x: 3.0d
+			y: -1.0d
 		}
 		{
 			height: 2.0d
 			image: "minecraft:block/bedrock"
 			rotation: 0.0d
 			width: 2.0d
-			x: 0.0d
-			y: 2.0d
+			x: 3.003401360544217d
+			y: 0.6547619047619051d
 		}
 		{
 			height: 1.5d
 			image: "enderio:block/void_chassis"
 			rotation: 0.0d
 			width: 1.5d
-			x: 3.0d
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			height: 0.5d
+			image: "ftblibrary:textures/faces/minecraft/enderman.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 8.0d
 			y: -1.0d
 		}
 		{
 			height: 0.5d
-			image: "ftbchunks:textures/faces/minecraft/enderman.png"
+			image: "ftblibrary:textures/faces/minecraft/enderman.png"
 			rotation: 0.0d
 			width: 0.5d
-			x: 4.0d
-			y: 0.5d
-		}
-		{
-			height: 0.5d
-			image: "ftbchunks:textures/faces/minecraft/enderman.png"
-			rotation: 0.0d
-			width: 0.5d
-			x: 2.0d
-			y: 0.5d
+			x: 6.0d
+			y: -1.0d
 		}
 		{
 			height: 1.0d
 			image: "enderio:block/xp_juice_flowing"
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.5d
-			y: -1.0d
+			x: 7.0d
+			y: -2.5d
 		}
 		{
 			height: 1.0d
 			image: "enderio:block/ender_still"
 			rotation: 0.0d
 			width: 1.0d
-			x: 3.0d
-			y: 0.5d
+			x: 7.0d
+			y: -1.0d
 		}
 		{
 			color: 5636095
@@ -233,38 +233,8 @@
 				item: { count: 1, id: "enderio:grains_of_infinity" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.5d
-		}
-		{
-			dependencies: ["566EEDD0B029090D"]
-			id: "0376EEA8E8B3E66D"
-			rewards: [
-				{
-					count: 2
-					id: "7F963B8499147FFF"
-					item: {
-						count: 1
-						id: "enderio:grains_of_infinity"
-					}
-					random_bonus: 4
-					type: "item"
-				}
-				{
-					id: "4359F87C9BD733AA"
-					type: "xp"
-					xp: 10
-				}
-			]
-			shape: "hexagon"
-			size: 1.0d
-			tasks: [{
-				id: "71DE97DCC846D547"
-				item: { components: { "ftbquests:missing_item": "enderio:primitive_alloy_smelter" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: 1.0d
-			y: -1.0d
+			x: 3.0d
+			y: -0.75d
 		}
 		{
 			dependencies: ["1208CF1D5CA9E590"]
@@ -499,7 +469,7 @@
 			y: -5.5d
 		}
 		{
-			dependencies: ["0376EEA8E8B3E66D"]
+			dependencies: ["109CB437DFAECDC6"]
 			id: "52BF64BFF5FC3DD4"
 			rewards: [
 				{
@@ -524,8 +494,8 @@
 				item: { count: 1, id: "enderio:dark_steel_ingot" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: -1.0d
+			x: 5.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["109CB437DFAECDC6"]
@@ -584,7 +554,7 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["1208CF1D5CA9E590"]
+			dependencies: ["52BF64BFF5FC3DD4"]
 			icon: {
 				id: "enderio:sag_mill"
 			}
@@ -622,13 +592,10 @@
 				}
 			]
 			x: 5.0d
-			y: -2.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["109CB437DFAECDC6"]
-			icon: {
-				id: "enderio:painting_machine"
-			}
 			id: "3A55DAA85874864A"
 			optional: true
 			rewards: [
@@ -832,11 +799,11 @@
 				item: { count: 1, id: "enderio:enchanter" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: -1.0d
+			x: 7.0d
+			y: -2.5d
 		}
 		{
-			dependencies: ["52BF64BFF5FC3DD4"]
+			dependencies: ["566EEDD0B029090D"]
 			icon: {
 				id: "enderio:stirling_generator"
 			}
@@ -926,8 +893,8 @@
 				item: { count: 1, id: "enderio:dark_steel_sword" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 0.5d
+			x: 7.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["77372AD6C4049263"]
@@ -1056,9 +1023,8 @@
 					item: {
 						components: {
 							"enderio:soul": {
-								entityTag: {
-									id: "minecraft:enderman"
-								}
+								entity_tag: { }
+								entity_type: "minecraft:enderman"
 							}
 						}
 						count: 1
