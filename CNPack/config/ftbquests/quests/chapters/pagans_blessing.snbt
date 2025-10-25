@@ -351,7 +351,7 @@
 					count: 6L
 					id: "51BAD3CC030517B1"
 					item: {
-						count: 6
+						count: 1
 						id: "paganbless:rune_slab_diamond"
 					}
 					type: "item"
@@ -394,7 +394,7 @@
 					count: 6L
 					id: "60194C217064D87D"
 					item: {
-						count: 6
+						count: 1
 						id: "paganbless:rune_slab_quartz"
 					}
 					type: "item"
@@ -437,7 +437,7 @@
 					count: 6L
 					id: "1A18F63EFE5B4CC7"
 					item: {
-						count: 6
+						count: 1
 						id: "paganbless:rune_slab_amethyst"
 					}
 					type: "item"
@@ -490,7 +490,7 @@
 					count: 6L
 					id: "6BB72CC8CD2B8B51"
 					item: {
-						count: 6
+						count: 1
 						id: "paganbless:rune_slab_cinnabar"
 					}
 					type: "item"
@@ -576,7 +576,7 @@
 					count: 6L
 					id: "1599E32CBCA0A5E6"
 					item: {
-						count: 6
+						count: 1
 						id: "paganbless:rune_slab_emerald"
 					}
 					type: "item"

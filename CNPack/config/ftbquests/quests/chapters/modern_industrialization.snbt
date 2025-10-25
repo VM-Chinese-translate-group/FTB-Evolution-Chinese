@@ -633,7 +633,7 @@
 					count: 2L
 					id: "5A85235ADC4A2F63"
 					item: {
-						count: 2
+						count: 1
 						id: "ftbmaterials:copper_rod"
 					}
 					type: "item"
@@ -651,7 +651,7 @@
 					count: 2L
 					id: "3F806B60F0238D27"
 					item: {
-						count: 2
+						count: 1
 						id: "ftbmaterials:iron_plate"
 					}
 					type: "item"
@@ -669,7 +669,7 @@
 					count: 2L
 					id: "6EDB49FCA51E7C61"
 					item: {
-						count: 2
+						count: 1
 						id: "modern_industrialization:copper_curved_plate"
 					}
 					type: "item"
@@ -762,12 +762,12 @@
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "15A65CD239E0068F"
+					id: "2470C2E253814ED6"
 					table_id: 6449217915222121663L
-					type: "choice"
+					type: "random"
 				}
 				{
-					id: "53BB7960D0F6622D"
+					id: "1ED40982D759A805"
 					type: "xp"
 					xp: 5
 				}
@@ -1254,7 +1254,7 @@
 					count: 20L
 					id: "6F46475D2ABC2BE8"
 					item: {
-						count: 20
+						count: 1
 						id: "modern_industrialization:fire_clay_bricks"
 					}
 					type: "item"
@@ -1379,7 +1379,7 @@
 					count: 6L
 					id: "414A60138C2744C6"
 					item: {
-						count: 6
+						count: 1
 						id: "modern_industrialization:steel_machine_casing_pipe"
 					}
 					type: "item"
@@ -1459,7 +1459,7 @@
 				count: 8L
 				id: "6A1F83055BC8D9B5"
 				item: {
-					count: 8
+					count: 1
 					id: "modern_industrialization:tin_cable"
 				}
 				type: "item"
@@ -1943,7 +1943,7 @@
 					count: 8L
 					id: "6CE3370B81A6A2BF"
 					item: {
-						count: 8
+						count: 1
 						id: "modern_industrialization:cupronickel_coil"
 					}
 					type: "item"
@@ -1952,7 +1952,7 @@
 					count: 5L
 					id: "6AC7C8A2CDE6EBED"
 					item: {
-						count: 5
+						count: 1
 						id: "modern_industrialization:heatproof_machine_casing"
 					}
 					type: "item"
@@ -2069,7 +2069,7 @@
 					count: 6L
 					id: "62BC2CF877970F28"
 					item: {
-						count: 6
+						count: 1
 						id: "modern_industrialization:heatproof_machine_casing"
 					}
 					type: "item"
@@ -2078,7 +2078,7 @@
 					count: 2L
 					id: "45A1111DD94D98FA"
 					item: {
-						count: 2
+						count: 1
 						id: "modern_industrialization:bronze_machine_casing_pipe"
 					}
 					type: "item"
@@ -2087,7 +2087,7 @@
 					count: 13L
 					id: "3D13504FD1B77085"
 					item: {
-						count: 13
+						count: 1
 						id: "modern_industrialization:bronze_plated_bricks"
 					}
 					type: "item"
@@ -2276,7 +2276,7 @@
 					count: 20L
 					id: "67A0CEE1BF2D0868"
 					item: {
-						count: 20
+						count: 1
 						id: "minecraft:chain"
 					}
 					type: "item"
@@ -2285,7 +2285,7 @@
 					count: 6L
 					id: "20B440EFBBFCBDC3"
 					item: {
-						count: 6
+						count: 1
 						id: "modern_industrialization:steel_machine_casing_pipe"
 					}
 					type: "item"
@@ -3007,7 +3007,7 @@
 					count: 11L
 					id: "0EC1C3FC97E2D126"
 					item: {
-						count: 11
+						count: 1
 						id: "modern_industrialization:frostproof_machine_casing"
 					}
 					type: "item"
@@ -3086,7 +3086,7 @@
 					count: 8L
 					id: "31DA71AFCC10A0F3"
 					item: {
-						count: 8
+						count: 1
 						id: "modern_industrialization:kanthal_coil"
 					}
 					type: "item"
@@ -3646,7 +3646,7 @@
 					count: 5L
 					id: "2CAFDE53C20C27C3"
 					item: {
-						count: 5
+						count: 1
 						id: "modern_industrialization:clean_stainless_steel_machine_casing"
 					}
 					type: "item"
@@ -3874,7 +3874,7 @@
 					count: 10L
 					id: "478FDD512F239BFE"
 					item: {
-						count: 10
+						count: 1
 						id: "modern_industrialization:solid_titanium_machine_casing"
 					}
 					type: "item"
@@ -3883,7 +3883,7 @@
 					count: 10L
 					id: "7C6DD80393C4F6B3"
 					item: {
-						count: 10
+						count: 1
 						id: "modern_industrialization:blastproof_casing"
 					}
 					type: "item"
@@ -3979,7 +3979,7 @@
 					count: 9L
 					id: "3CF52E2FF94204EF"
 					item: {
-						count: 9
+						count: 1
 						id: "modern_industrialization:titanium_machine_casing_pipe"
 					}
 					type: "item"
@@ -4042,7 +4042,7 @@
 					count: 12L
 					id: "405544AB622FBB4E"
 					item: {
-						count: 12
+						count: 1
 						id: "modern_industrialization:clean_stainless_steel_machine_casing"
 					}
 					type: "item"
@@ -4051,7 +4051,7 @@
 					count: 6L
 					id: "6F70D5C4BC6F05DE"
 					item: {
-						count: 6
+						count: 1
 						id: "modern_industrialization:heatproof_machine_casing"
 					}
 					type: "item"
@@ -4060,7 +4060,7 @@
 					count: 2L
 					id: "3C899C1116893874"
 					item: {
-						count: 2
+						count: 1
 						id: "modern_industrialization:stainless_steel_machine_casing_pipe"
 					}
 					type: "item"
@@ -4117,7 +4117,7 @@
 					count: 15L
 					id: "4B26E6D9B13A7224"
 					item: {
-						count: 15
+						count: 1
 						id: "modern_industrialization:clean_stainless_steel_machine_casing"
 					}
 					type: "item"
@@ -4126,7 +4126,7 @@
 					count: 9L
 					id: "30C9A30CEDC68535"
 					item: {
-						count: 9
+						count: 1
 						id: "modern_industrialization:stainless_steel_machine_casing_pipe"
 					}
 					type: "item"
@@ -4191,7 +4191,7 @@
 					count: 9L
 					id: "56E5DD496DE69FAD"
 					item: {
-						count: 9
+						count: 1
 						id: "modern_industrialization:heatproof_machine_casing"
 					}
 					type: "item"
@@ -4200,7 +4200,7 @@
 					count: 9L
 					id: "0376CC6E2E938F42"
 					item: {
-						count: 9
+						count: 1
 						id: "modern_industrialization:frostproof_machine_casing"
 					}
 					type: "item"
@@ -4209,7 +4209,7 @@
 					count: 10L
 					id: "293E3350637189C0"
 					item: {
-						count: 10
+						count: 1
 						id: "modern_industrialization:stainless_steel_machine_casing_pipe"
 					}
 					type: "item"
@@ -5418,7 +5418,7 @@
 					count: 48L
 					id: "325AA74BFEE437DA"
 					item: {
-						count: 48
+						count: 1
 						id: "modern_industrialization:nuclear_casing"
 					}
 					type: "item"
@@ -5427,7 +5427,7 @@
 					count: 19L
 					id: "12E99AC7C9EBEB2A"
 					item: {
-						count: 19
+						count: 1
 						id: "modern_industrialization:nuclear_alloy_machine_casing_pipe"
 					}
 					type: "item"

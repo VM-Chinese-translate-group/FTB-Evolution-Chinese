@@ -338,14 +338,6 @@
 		"&l&c千万小心！&r如果在没关闭激光的情况下就挖掉链接的方块，那么激光就会把一条线上的方块全部挖掉！"
 	]
 	quest.036C11AC70835846.title: "&f末地之力"
-	quest.0376EEA8E8B3E66D.quest_desc: [
-		"想要制作电器，你得先烧点&a合金&r。"
-		""
-		"&7简易合金炉&r即可做到这一点，所以这将是你的第一台&e末影接口&r机器。"
-		""
-		"它的工作模式和熔炉一样，可以用可燃物品当做燃料。但是处理速度极其缓慢，而且不支持配置或升级。"
-	]
-	quest.0376EEA8E8B3E66D.title: "&f原始合金炉"
 	quest.03A7D3280ECF5076.quest_desc: [
 		"&a海蓝水晶碎片&r可用于制造大多数高级物品和先进机器。"
 		""
@@ -1637,7 +1629,7 @@
 	]
 	quest.107C26E8BF309BC1.title: "&f奥术战利品"
 	quest.109CB437DFAECDC6.quest_desc: [
-		"&a合金炉&r将是你&e末影接口&r旅途中最常用的机器，它比&7原始合金炉&r要好得多，且可以用&b电容&r升级。"
+		"The &aAlloy Smelter&r will be your most used machine in &eEnderIO&r as most Machines and Gizmos in the Mod require some kind of alloy made with it! Oh and it can be upgraded with &bCapacitors&r."
 		""
 		"在&a合金炉&r的UI内，你可以按需进行自动化配置，比如侧面输入/输出、红石控制，以及切换以下三种工作模式："
 		"{@pagebreak}"
@@ -2505,6 +2497,8 @@
 		"例如，你可以使用&e通用机械&r发电机为&eMI&r机器供电，反之亦然。"
 		""
 		"这样你不仅可以体验到每个模组的闪光点，还可以随心所欲地享受&e现代工业化&r的优点！"
+		""
+		"- However, it is &bimportant&f to note that the conversion is &e1 EU <=> 10 FE."
 	]
 	quest.1AE69DDE0FBE9E9F.quest_subtitle: "传输物品"
 	quest.1AE69DDE0FBE9E9F.title: "&f物品管道"
@@ -3899,7 +3893,7 @@
 		""
 		"下一页将会展示一座建造完成的多方块示例。"
 		"{@pagebreak}"
-		"{image:ftb:textures/quests/modern_industrialization/electricblastfurnace.png width:200 height:210 align:center}"
+		"{image:ftbevolution:textures/quests/modern_industrialization/electricblastfurnace.png width:200 height:210 align:center}"
 	]
 	quest.2AEF8759144B6AED.title: "&2电力高炉"
 	quest.2AF06433C6EDDB62.title: "&c中级&f机器升级"

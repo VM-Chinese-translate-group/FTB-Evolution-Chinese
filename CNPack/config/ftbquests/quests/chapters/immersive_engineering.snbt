@@ -145,7 +145,7 @@
 					count: 27L
 					id: "4B5889117A25E7CD"
 					item: {
-						count: 27
+						count: 1
 						id: "immersiveengineering:cokebrick"
 					}
 					type: "item"
@@ -220,7 +220,7 @@
 					count: 27L
 					id: "3CA443D22CC5432C"
 					item: {
-						count: 27
+						count: 1
 						id: "immersiveengineering:blastbrick"
 					}
 					type: "item"
@@ -576,7 +576,7 @@
 					count: 27L
 					id: "092A08D0852BEEED"
 					item: {
-						count: 27
+						count: 1
 						id: "immersiveengineering:blastbrick_reinforced"
 					}
 					type: "item"
@@ -593,7 +593,7 @@
 					count: 2L
 					id: "7D4133B030F0F7F3"
 					item: {
-						count: 2
+						count: 1
 						id: "immersiveengineering:blastfurnace_preheater"
 					}
 					optional_task: true

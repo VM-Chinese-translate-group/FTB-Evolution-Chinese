@@ -389,7 +389,7 @@
 					count: 64L
 					id: "57757102A3B267D2"
 					item: {
-						count: 64
+						count: 1
 						id: "hostilenetworks:overworld_prediction"
 					}
 					type: "item"
@@ -398,7 +398,7 @@
 					count: 64L
 					id: "53B2F016983EB77A"
 					item: {
-						count: 64
+						count: 1
 						id: "hostilenetworks:nether_prediction"
 					}
 					type: "item"
@@ -407,7 +407,7 @@
 					count: 64L
 					id: "77E6B5F70EB682D0"
 					item: {
-						count: 64
+						count: 1
 						id: "hostilenetworks:end_prediction"
 					}
 					type: "item"
@@ -419,7 +419,7 @@
 						components: {
 							"hostilenetworks:data_model": "hostilenetworks:warden"
 						}
-						count: 64
+						count: 1
 						id: "hostilenetworks:prediction"
 					}
 					match_components: "strict"
@@ -432,7 +432,7 @@
 						components: {
 							"hostilenetworks:data_model": "hostilenetworks:wither"
 						}
-						count: 64
+						count: 1
 						id: "hostilenetworks:prediction"
 					}
 					match_components: "strict"
@@ -445,7 +445,7 @@
 						components: {
 							"hostilenetworks:data_model": "hostilenetworks:ender_dragon"
 						}
-						count: 64
+						count: 1
 						id: "hostilenetworks:prediction"
 					}
 					match_components: "strict"

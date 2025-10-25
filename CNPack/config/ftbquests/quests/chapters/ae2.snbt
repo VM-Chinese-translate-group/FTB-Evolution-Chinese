@@ -373,7 +373,7 @@
 				count: 8L
 				id: "4D027F7CC4603399"
 				item: {
-					count: 8
+					count: 1
 					id: "ae2:fluix_crystal"
 				}
 				type: "item"
@@ -1207,7 +1207,7 @@
 				count: 56L
 				id: "773075F6D65887F3"
 				item: {
-					count: 56
+					count: 1
 					id: "advanced_ae:quantum_structure"
 				}
 				type: "item"
