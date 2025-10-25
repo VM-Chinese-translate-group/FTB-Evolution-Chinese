@@ -91,7 +91,7 @@
 		}
 		{
 			height: 1.5d
-			image: "eternal_starlight:textures/gui/screen/book/book_back_cover.png"
+			image: "eternal_starlight:textures/gui/screen/book/book.png"
 			rotation: -180.0d
 			width: 1.5d
 			x: 4.0d
@@ -815,7 +815,7 @@
 				criterion: ""
 				icon: {
 					components: {
-						"ftbquests:icon": "ftbchunks:textures/faces/minecraft/slime.png"
+						"ftbquests:icon": "ftblibrary:textures/faces/minecraft/slime.png"
 					}
 					id: "ftbquests:custom_icon"
 				}

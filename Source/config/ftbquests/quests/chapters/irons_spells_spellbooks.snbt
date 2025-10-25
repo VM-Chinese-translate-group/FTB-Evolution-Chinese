@@ -23,11 +23,11 @@
 		}
 		{
 			height: 2.0d
-			image: "irons_spellbooks:textures/mob_effect/vex_timer.png"
+			image: "irons_spellbooks:textures/mob_effect/echoing_strikes.png"
 			rotation: 0.0d
 			width: 2.0d
 			x: -2.5d
-			y: 12.5d
+			y: 13.0d
 		}
 		{
 			height: 1.0d
@@ -115,11 +115,11 @@
 		}
 		{
 			height: 2.0d
-			image: "irons_spellbooks:textures/mob_effect/raise_dead_timer.png"
+			image: "irons_spellbooks:textures/mob_effect/frostbite.png"
 			rotation: 0.0d
 			width: 2.0d
 			x: 2.5d
-			y: 12.5d
+			y: 13.0d
 		}
 		{
 			height: 2.0d

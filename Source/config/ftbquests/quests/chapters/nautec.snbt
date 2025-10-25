@@ -642,7 +642,7 @@
 				{
 					count: 8L
 					id: "41119589FB4F6CAF"
-					item: { count: 8, id: "nautec:deep_sea_drain_wall" }
+					item: { count: 1, id: "nautec:deep_sea_drain_wall" }
 					type: "item"
 				}
 			]
@@ -775,13 +775,13 @@
 				{
 					count: 4L
 					id: "5E0FA672F2503B02"
-					item: { count: 4, id: "nautec:augmentation_station_extension" }
+					item: { count: 1, id: "nautec:augmentation_station_extension" }
 					type: "item"
 				}
 				{
 					count: 4L
 					id: "702251978C95EA48"
-					item: { count: 4, id: "nautec:polished_prismarine" }
+					item: { count: 1, id: "nautec:polished_prismarine" }
 					type: "item"
 				}
 				{
@@ -792,7 +792,7 @@
 				}
 				{
 					id: "17008B296043661C"
-					item: { count: 4, id: "nautec:claw_robot_arm" }
+					item: { count: 1, id: "nautec:claw_robot_arm" }
 					type: "item"
 				}
 			]
@@ -1041,13 +1041,13 @@
 				{
 					count: 8L
 					id: "207E9318AA896C07"
-					item: { count: 8, id: "nautec:bacterial_containment_shield" }
+					item: { count: 1, id: "nautec:bacterial_containment_shield" }
 					type: "item"
 				}
 				{
 					count: 8L
 					id: "1F5CE630AE2E79EE"
-					item: { count: 8, id: "nautec:dark_prismarine_pillar" }
+					item: { count: 1, id: "nautec:dark_prismarine_pillar" }
 					type: "item"
 				}
 			]
