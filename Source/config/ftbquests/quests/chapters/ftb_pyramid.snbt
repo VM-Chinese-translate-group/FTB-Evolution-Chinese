@@ -388,39 +388,39 @@
 				{
 					count: 64L
 					id: "57757102A3B267D2"
-					item: { count: 64, id: "hostilenetworks:overworld_prediction" }
+					item: { count: 1, id: "hostilenetworks:overworld_prediction" }
 					type: "item"
 				}
 				{
 					count: 64L
 					id: "53B2F016983EB77A"
-					item: { count: 64, id: "hostilenetworks:nether_prediction" }
+					item: { count: 1, id: "hostilenetworks:nether_prediction" }
 					type: "item"
 				}
 				{
 					count: 64L
 					id: "77E6B5F70EB682D0"
-					item: { count: 64, id: "hostilenetworks:end_prediction" }
+					item: { count: 1, id: "hostilenetworks:end_prediction" }
 					type: "item"
 				}
 				{
 					count: 64L
 					id: "26E3BA565712C3A9"
-					item: { components: { "hostilenetworks:data_model": "hostilenetworks:warden" }, count: 64, id: "hostilenetworks:prediction" }
+					item: { components: { "hostilenetworks:data_model": "hostilenetworks:warden" }, count: 1, id: "hostilenetworks:prediction" }
 					match_components: "strict"
 					type: "item"
 				}
 				{
 					count: 64L
 					id: "30547BCA2C84B8BA"
-					item: { components: { "hostilenetworks:data_model": "hostilenetworks:wither" }, count: 64, id: "hostilenetworks:prediction" }
+					item: { components: { "hostilenetworks:data_model": "hostilenetworks:wither" }, count: 1, id: "hostilenetworks:prediction" }
 					match_components: "strict"
 					type: "item"
 				}
 				{
 					count: 64L
 					id: "3EC3DD0040D24B46"
-					item: { components: { "hostilenetworks:data_model": "hostilenetworks:ender_dragon" }, count: 64, id: "hostilenetworks:prediction" }
+					item: { components: { "hostilenetworks:data_model": "hostilenetworks:ender_dragon" }, count: 1, id: "hostilenetworks:prediction" }
 					match_components: "strict"
 					type: "item"
 				}
