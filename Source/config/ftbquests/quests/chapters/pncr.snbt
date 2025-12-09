@@ -225,7 +225,7 @@
 			tasks: [
 				{
 					id: "07CD5267730566F9"
-					item: { components: { "ftbfiltersystem:filter": "or(item(oritech:plastic_sheet)item(pneumaticcraft:plastic))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					item: { components: { "ftbfiltersystem:filter": "or(item(oritech:plastic_sheet)item(pneumaticcraft:plastic)item(industrialforegoing:plastic))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 				{

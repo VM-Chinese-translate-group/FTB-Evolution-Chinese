@@ -1293,6 +1293,7 @@
 			dependencies: ["798FDDD76EAB8F65"]
 			hide_dependency_lines: true
 			id: "335783B21CB10145"
+			optional: true
 			rewards: [{
 				id: "05DC31F9F1E47902"
 				type: "xp"
@@ -1427,6 +1428,7 @@
 			dependencies: ["21E650EB5E0F2D30"]
 			icon_scale: 1.25d
 			id: "58D46C65E1B754C0"
+			optional: true
 			rewards: [{
 				id: "0768D8905580EDF6"
 				type: "xp"
@@ -1583,6 +1585,7 @@
 			dependencies: ["798FDDD76EAB8F65"]
 			hide_dependency_lines: true
 			id: "03DCAAACA804353E"
+			optional: true
 			rewards: [
 				{
 					id: "347B3CD3184ACE16"
@@ -1609,6 +1612,7 @@
 			hide_dependency_lines: true
 			icon_scale: 1.25d
 			id: "6541D2082B84F2BB"
+			optional: true
 			rewards: [{
 				id: "5C69BABFC4D23F16"
 				type: "xp"
@@ -1627,6 +1631,7 @@
 			dependencies: ["099594F0A383C280"]
 			hide_dependency_lines: true
 			id: "44599533471DFDCB"
+			optional: true
 			rewards: [{
 				id: "538604993F28878E"
 				type: "xp"
