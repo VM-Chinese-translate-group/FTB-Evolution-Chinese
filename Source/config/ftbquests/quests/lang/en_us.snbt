@@ -1297,6 +1297,14 @@
 		"Unless you find a &aSpell Book&r as loot, you can start by making a &aFlimsy Journal&r or &aIronbound Tome&r to hold a few spells."
 	]
 	quest.0CA75E81F6824B22.title: "&eIron's Spells 'n Spellbooks"
+	quest.0CB00B02D232F8F1.quest_desc: [
+		"The &eDyson Cube Project&f mod allows you to build your own Dyson Sphere megastructure in Minecraft and harvest the power of the sun, producing up to 1 BILLION FE/t!"
+		""
+		"To get started in this mod, you'll want to set up at least one &3EM Rail Ejector&r to send items to the sun, though more are definitely recommended. These can only work during non rainy days, and they will stop working when the sun is at its peak."
+		""
+		"When provided with power, the &3EM Rail Ejectors&r will work faster and ramp up how many items they send each time."
+	]
+	quest.0CB00B02D232F8F1.title: "&6Harvesting The Sun"
 	quest.0CD3050976F79358.title: "&fCooked Chicken Cuts"
 	quest.0CE337F7A4B27E89.quest_desc: [
 		"The Forge can be used to craft &6Elemental Prisms&r, but it requires a special relic for the recipe."
@@ -2408,6 +2416,14 @@
 	quest.1A3C52B662D8237B.quest_desc: ["With the power of &9Blue Chalk&r, you are capable of drawing &6Fatma's Incentivized Attraction&r to summon and bind &6Marids&r to your will."]
 	quest.1A3C52B662D8237B.quest_subtitle: "Summoning Pentacle: Tier 6"
 	quest.1A3C52B662D8237B.title: "&6Fatma's Incentivized Attraction"
+	quest.1A3D873292E4CB7B.quest_desc: [
+		"Within each &3Rail Ejector&r, you may choose to place in either &aBeams&r or &2Sails&r through the bottom-middle block of the multiblock structure."
+		""
+		"&aBeams&r allow your &6Sphere&r to accept more &2Sails&r, which is what actually increases your power generation. 1 beam supports 6 solar sails by default."
+		""
+		"Your network can contain a maximum of 50 Million &2Sails&r at maximum capacity, which takes around 8.3 Million &aBeams&r."
+	]
+	quest.1A3D873292E4CB7B.title: "&fSolar &aBeams &fand &2Sails"
 	quest.1A43F480970FEBBB.quest_desc: [
 		"The &dEclipse Alloy Hoe&r can create the ultimate tier of farmland: &5Shadowpulse Soil&r."
 		""
@@ -6952,6 +6968,12 @@
 		"Within the dimension, you have a 13x13x13 workspace to build whatever you need! Make sure to &aforce load&r the chunk from the inside to keep it loaded and working when you aren't inside."
 	]
 	quest.49ECE2A618E86CBD.title: "&fPersonal &dPocket Dimensions"
+	quest.49F40F94FB7B0F60.quest_desc: [
+		"After sending &2Solar Sails&r, you can start harvesting the power of the sun using &dRay Recievers&r."
+		""
+		"Other players can join your &6Sphere&r by interacting with any multiblock and clicking the \"Subscribe to this sphere\" button on the bottom left."
+	]
+	quest.49F40F94FB7B0F60.title: "&dRay Receiver Controller&r"
 	quest.4A0DE2C23F9145ED.quest_desc: [
 		"&6Forbidden \\&\\ Arcanus&r is a beautiful magic mod with some very unique mechanics for crafting items!"
 		""
@@ -12191,6 +12213,7 @@
 	task.4335140E412572D8.title: "&fDefeat 10 &dGateways To Eternity"
 	task.43F12298AA3644E9.title: "Upgrading To Iron"
 	task.44471E3598AA381B.title: "&2Tier 2 &fMob Seeds"
+	task.449DF56ED27197D4.title: "&aSolar Beams"
 	task.45016D6A71CA38A9.title: "&cEnergy Cubes&r"
 	task.4507BF42E5A8FD9D.title: "&bTier 4 &fSeeds"
 	task.4544EA17F4CDD321.title: "Understanding Affix Items"
@@ -12220,6 +12243,7 @@
 	task.4B48F3912AE46B3C.title: "&eSummon&r: &aPossessed Phantom"
 	task.4B65088186551D3C.title: "&fVoid Upgrades"
 	task.4BB1855917140E38.title: "&bCasting Spells"
+	task.4BB8C201ABEE11F8.title: "&2Solar Sails"
 	task.4BEC813158265CFD.title: "&fSolar Panel"
 	task.4BEC99EFB3F7A310.title: "&bSurvival Of The Fittest"
 	task.4C1919EBB6897E10.title: "Advanced Beehives"

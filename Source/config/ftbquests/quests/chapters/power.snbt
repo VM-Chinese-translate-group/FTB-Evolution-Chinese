@@ -338,6 +338,14 @@
 			x: -6.0d
 			y: 4.5d
 		}
+		{
+			height: 1.0d
+			image: "productivetrees:block/leaves/flickering_sun"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: 9.5d
+		}
 	]
 	order_index: 1
 	quest_links: [
@@ -1694,6 +1702,71 @@
 			]
 			x: -1.5d
 			y: 2.0d
+		}
+		{
+			id: "0CB00B02D232F8F1"
+			rewards: [{
+				id: "14B5BEFAB7B7310F"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "square"
+			size: 0.85d
+			tasks: [{
+				id: "24AE261431FF1FB9"
+				item: { count: 1, id: "dysoncubeproject:em_railejector_controller" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["0CB00B02D232F8F1"]
+			icon: {
+				id: "dysoncubeproject:solar_sail_package"
+			}
+			id: "1A3D873292E4CB7B"
+			rewards: [{
+				id: "48AF79CCB8547261"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					icon: {
+						id: "dysoncubeproject:beam_package"
+					}
+					id: "449DF56ED27197D4"
+					item: { components: { "ftbfiltersystem:filter": "or(item(dysoncubeproject:beam)item(dysoncubeproject:beam_package))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					icon: {
+						id: "dysoncubeproject:solar_sail_package"
+					}
+					id: "4BB8C201ABEE11F8"
+					item: { components: { "ftbfiltersystem:filter": "or(item(dysoncubeproject:solar_sail)item(dysoncubeproject:solar_sail_package))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["1A3D873292E4CB7B"]
+			id: "49F40F94FB7B0F60"
+			rewards: [{
+				id: "5847C83340D0B728"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "40894F5F782F02A3"
+				item: { count: 1, id: "dysoncubeproject:ray_receiver_controller" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 9.5d
 		}
 	]
 }
