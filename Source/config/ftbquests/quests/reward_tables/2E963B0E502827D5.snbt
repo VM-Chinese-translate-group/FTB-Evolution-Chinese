@@ -1,0 +1,43 @@
+{
+	icon: {
+		id: "draconicevolution:wyvern_core"
+	}
+	id: "2E963B0E502827D5"
+	loot_crate: {
+		color: 11141290
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "Random Wyvern Upgrade Module"
+		string_id: "random_wyvern_module"
+	}
+	loot_size: 1
+	order_index: 33
+	rewards: [
+		{ id: "0BB35D204B435530", item: { count: 1, id: "draconicevolution:item_wyvern_energy" } }
+		{ id: "4100465FF6EC31EC", item: { count: 1, id: "draconicevolution:item_wyvern_aoe" } }
+		{ id: "2B47C2C01552703D", item: { count: 1, id: "draconicevolution:item_wyvern_aqua_adapt" } }
+		{ id: "0BED973DF2034086", item: { count: 1, id: "draconicevolution:item_wyvern_auto_feed" } }
+		{ id: "5249794A4392E2D3", item: { count: 1, id: "draconicevolution:item_wyvern_auto_fire" } }
+		{ id: "754AC243B7E040BC", item: { count: 1, id: "draconicevolution:item_wyvern_damage" } }
+		{ id: "3BECE24E32CA0689", item: { count: 1, id: "draconicevolution:item_wyvern_flight" } }
+		{ id: "18FACF9834A4F18A", item: { count: 1, id: "draconicevolution:item_wyvern_hill_step" } }
+		{ id: "3DB45521302594EE", item: { count: 1, id: "draconicevolution:item_wyvern_speed" } }
+		{ id: "407355E983668514", item: { count: 1, id: "draconicevolution:item_wyvern_shield_recovery" } }
+		{ id: "1987FEEB454AFA09", item: { count: 1, id: "draconicevolution:item_wyvern_shield_control" } }
+		{ id: "19487EAEBCF6CBAF", item: { count: 1, id: "draconicevolution:item_wyvern_shield_capacity" } }
+		{ id: "4EDFAA46CA422679", item: { count: 1, id: "draconicevolution:item_wyvern_night_vision" } }
+		{ id: "6AA0D41BF5CE1E8A", item: { count: 1, id: "draconicevolution:item_wyvern_mining_stability" } }
+		{ id: "21FACD2B40509240", item: { count: 1, id: "draconicevolution:item_wyvern_large_shield_capacity" } }
+		{ id: "73016417E427F524", item: { count: 1, id: "draconicevolution:item_wyvern_jump" } }
+		{ id: "67A163DBE21591F3", item: { count: 1, id: "draconicevolution:item_wyvern_proj_velocity" } }
+		{ id: "640C83231B879DAE", item: { count: 1, id: "draconicevolution:item_wyvern_proj_penetration" } }
+		{ id: "723C9330EEBB5916", item: { count: 1, id: "draconicevolution:item_wyvern_proj_grav_comp" } }
+		{ id: "493C7C8A2C328307", item: { count: 1, id: "draconicevolution:item_wyvern_proj_damage" } }
+		{ id: "7F7E46AE1972CA7A", item: { count: 1, id: "draconicevolution:item_wyvern_proj_accuracy" } }
+	]
+	use_title: true
+}

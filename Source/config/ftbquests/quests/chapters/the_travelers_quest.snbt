@@ -91,7 +91,7 @@
 		}
 		{
 			height: 1.5d
-			image: "eternal_starlight:textures/gui/screen/book/book.png"
+			image: "eternal_starlight:textures/gui/screen/book/background.png"
 			rotation: -180.0d
 			width: 1.5d
 			x: 4.0d

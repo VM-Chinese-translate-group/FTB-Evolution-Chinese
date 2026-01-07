@@ -1,0 +1,41 @@
+{
+	icon: {
+		id: "draconicevolution:awakened_core"
+	}
+	id: "381948E46381F07F"
+	loot_crate: {
+		color: 16734229
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "Random Draconic Module"
+		string_id: "random_draconic_module"
+	}
+	loot_size: 1
+	order_index: 34
+	rewards: [
+		{ id: "7048B93C8B0E71C7", item: { count: 1, id: "draconicevolution:item_draconic_undying" } }
+		{ id: "11825E527B90DAEF", item: { count: 1, id: "draconicevolution:item_draconic_speed" } }
+		{ id: "077FA3A03278992A", item: { count: 1, id: "draconicevolution:item_draconic_shield_recovery" } }
+		{ id: "1940E9F9F5E79235", item: { count: 1, id: "draconicevolution:item_draconic_shield_control" } }
+		{ id: "7116A529AF4BFC8E", item: { count: 1, id: "draconicevolution:item_draconic_shield_capacity" } }
+		{ id: "3B7C766C959DFDD2", item: { count: 1, id: "draconicevolution:item_draconic_proj_velocity" } }
+		{ id: "004DA87E8DA530B5", item: { count: 1, id: "draconicevolution:item_draconic_proj_penetration" } }
+		{ id: "733CA99B0390B060", item: { count: 1, id: "draconicevolution:item_draconic_proj_grav_comp" } }
+		{ id: "53801FB33F60ACAA", item: { count: 1, id: "draconicevolution:item_draconic_proj_damage" } }
+		{ id: "0D82B01B21E68265", item: { count: 1, id: "draconicevolution:item_draconic_proj_anti_immune" } }
+		{ id: "10C379F56C9DCF4A", item: { count: 1, id: "draconicevolution:item_draconic_proj_accuracy" } }
+		{ id: "39D33208B0F565A0", item: { count: 1, id: "draconicevolution:item_draconic_large_shield_capacity" } }
+		{ id: "5ED427D10BFE98A9", item: { count: 1, id: "draconicevolution:item_draconic_jump" } }
+		{ id: "44BF1F4C755BEB11", item: { count: 1, id: "draconicevolution:item_draconic_flight" } }
+		{ id: "7D349B42B6196004", item: { count: 1, id: "draconicevolution:item_draconic_energy_link" } }
+		{ id: "7E6512CFBE561056", item: { count: 1, id: "draconicevolution:item_draconic_energy" } }
+		{ id: "518F528D5F67F7EA", item: { count: 1, id: "draconicevolution:item_draconic_damage" } }
+		{ id: "2F05702F6A43CA9D", item: { count: 1, id: "draconicevolution:item_draconic_auto_feed" } }
+		{ id: "153E851E2D2BADD7", item: { count: 1, id: "draconicevolution:item_draconic_aoe" } }
+	]
+	use_title: true
+}
