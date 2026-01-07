@@ -13,7 +13,7 @@
 	chapter.366003AD7B6B722C.title: "神秘学"
 	chapter.36CCE93AEF16A4AF.title: "禁忌与奥秘"
 	chapter.379AF25B6A994C19.title: "工业先锋"
-	chapter.3883EC8201EE0E54.title: "&aFTB&r的传统金字塔挑战"
+	chapter.3883EC8201EE0E54.title: "The &zFTB Pyramid Challenge&z"
 	chapter.391B65CD04A90459.title: "发电"
 	chapter.3AEDC4DBA9DD1E44.title: "Iron的法术与魔法书"
 	chapter.3B99F85218D37371.title: "实用物品和小贴士"
@@ -23,6 +23,7 @@
 	chapter.485ABBDAA9A6C0CD.title: "Fargo's Talismans"
 	chapter.4A4EF884469A95F5.title: "狂猎"
 	chapter.4DC3791895990DEA.title: "Roots \\&\\ Pagan's Blessing"
+	chapter.57B80311B81CBCBD.title: "Draconic Evolution"
 	chapter.618927B4ED1733F6.title: "现代工业化"
 	chapter.6237554E573576FE.title: "模块化力场系统"
 	chapter.642768EC48CAFC60.title: "海蓝科技（NauTec）"
@@ -31,7 +32,7 @@
 	chapter.6CA0553DF634A937.title: "新生魔艺"
 	chapter.6F0ED7CA1077DD3C.title: "末影接口"
 	chapter.6F822DE2465C4A31.title: "通用机械"
-	chapter.7598810BEF4F4370.title: "&a新手上路&r"
+	chapter.7598810BEF4F4370.title: "Getting Started"
 	chapter.78D9A0ADE8A319B1.title: "灵灾"
 	chapter.7B3ADCA4950CB4F0.title: "Oritech"
 	chapter.7ECA39E2497C35D1.title: "资源自给自足"
@@ -134,6 +135,7 @@
 		"可以在&b世界层级&r菜单（默认为“CTRL+T”）中查看每个层级的变化。"
 	]
 	quest.011DBD2652E49B97.title: "&f神化世界层级"
+	quest.0129F0F40E40526E.title: "Sword Modules"
 	quest.012AEBFDB1F1512E.title: "&f核源铁胸甲"
 	quest.012DA013C192D30E.quest_subtitle: "流体管道"
 	quest.013375F170CE6A2F.quest_desc: [
@@ -338,6 +340,12 @@
 		"&l&c千万小心！&r如果在没关闭激光的情况下就挖掉链接的方块，那么激光就会把一条线上的方块全部挖掉！"
 	]
 	quest.036C11AC70835846.title: "&f末地之力"
+	quest.038E10387B1547BA.quest_desc: [
+		"For the next upgrade, you'll need to get your hands on a &6Dragon Heart&r. One will drop for each kill of the &dEnder Dragon&r."
+		""
+		"Using one of these, you can fuse it together with &dDraconium Blocks&r and &dDraconium Cores&r to create &6Awakened Draconium Blocks&r."
+	]
+	quest.038E10387B1547BA.title: "The Dragon's Heart"
 	quest.03A7D3280ECF5076.quest_desc: [
 		"&a海蓝水晶碎片&r可用于制造大多数高级物品和先进机器。"
 		""
@@ -488,6 +496,12 @@
 	]
 	quest.0533C0C07AE600FD.quest_subtitle: "核裂变的最低要求"
 	quest.0533C0C07AE600FD.title: "&d小型模块化反应堆"
+	quest.056492E163706EC5.quest_desc: [
+		"The &aDislocator&r can be used to store a teleport location by Sneak + Right-clicking with it in the world."
+		""
+		"Once stored, simply Right-click to teleport to that stored location, up to 32 times."
+	]
+	quest.056492E163706EC5.title: "&aDislocator"
 	quest.0566053CCA772771.quest_desc: [
 		"&e任意门&r是一个传送模组，可以使用一种被称为“任意门”的临时传送门，实现在不同的标记点之间传送。"
 		""
@@ -810,6 +824,14 @@
 	quest.087D1FBAE8A425C0.title: "&f搭建&d传送门&r！"
 	quest.08D03AA0E1D218F7.quest_subtitle: "自然套装"
 	quest.08D03AA0E1D218F7.title: "&7瘟疫术士套装"
+	quest.08E2F329A628BE50.quest_desc: [
+		"The &dDislocator Receptacle&r is used to create portals."
+		""
+		"The frame of the portal must be made out of &dDraconium Infused Obsidian&r, with at least one of the blocks being a receptacle."
+		""
+		"Once you have a &aDislocator&r that is bound to a location, you can Right+click the Dislocator onto the &dDislocator Receptacle&r to activate the portal."
+	]
+	quest.08E2F329A628BE50.title: "Custom Portals"
 	quest.08E4BC23ACDC52EA.quest_desc: [
 		"把它加装到&a离心机&r后，离心机就可以处理&b流体&r离心配方了！"
 		""
@@ -1297,6 +1319,14 @@
 		"如果你没有在战利品箱里找到&a法术书&r，那么你可以制作&a初学者日志&r或&a铁箍书卷&r来保存一些法术。"
 	]
 	quest.0CA75E81F6824B22.title: "&eIron的法术与魔法书"
+	quest.0CB00B02D232F8F1.quest_desc: [
+		"The &eDyson Cube Project&f mod allows you to build your own Dyson Sphere megastructure in Minecraft and harvest the power of the sun, producing up to 1 BILLION FE/t!"
+		""
+		"To get started in this mod, you'll want to set up at least one &3EM Rail Ejector&r to send items to the sun, though more are definitely recommended. These can only work during non rainy days, and they will stop working when the sun is at its peak."
+		""
+		"When provided with power, the &3EM Rail Ejectors&r will work faster and ramp up how many items they send each time."
+	]
+	quest.0CB00B02D232F8F1.title: "&6Harvesting The Sun"
 	quest.0CD3050976F79358.title: "&f熟鸡肉丁"
 	quest.0CE337F7A4B27E89.quest_desc: [
 		"The Forge can be used to craft &6Elemental Prisms&r, but it requires a special relic for the recipe."
@@ -1319,6 +1349,12 @@
 	]
 	quest.0D0892AD0DB44795.title: "&f魔灵同调宝石"
 	quest.0D35D0D33922A201.title: "&f打败十波&d永恒之门"
+	quest.0D38D67E3FD120CB.quest_desc: [
+		"The &zChaotic Sword&r is the final upgrade of the &dDraconic Sword&r."
+		""
+		"This tier has the most storage for &aUpgrade Modules&r."
+	]
+	quest.0D38D67E3FD120CB.title: "&zChaotic&r Sword"
 	quest.0D467902BA828734.quest_desc: [
 		"The &cBlood Sigil&r is used inside the &aMixing Cauldron&r to extract blood from entities who jump into it."
 		""
@@ -1507,6 +1543,8 @@
 	quest.0EE35D6E57FAD973.quest_desc: ["这是搭建附魔设备的最佳物品，它可以储存附魔书，还使你能自主取出附魔书！"]
 	quest.0EE35D6E57FAD973.quest_subtitle: "储存魔法！"
 	quest.0EE35D6E57FAD973.title: "&d魔咒图书馆"
+	quest.0EE67A1E7273D1A0.quest_desc: ["The &dWyvern Bow&r is a powered bow that allows for a ton of customization options using &aUpgrade Modules&r."]
+	quest.0EE67A1E7273D1A0.title: "&dWyvern &fBow"
 	quest.0EFA11536D00E653.quest_desc: [
 		"在前期，&2生物燃料&r是个不错的能量来源！"
 		""
@@ -1743,6 +1781,9 @@
 		"你还可将结构保存至本地文件，既能在自己的世界中复用，也能使用其他玩家分享的&b蓝图&r！"
 	]
 	quest.1190DD56F5C5AB46.title: "&fSchematicannon"
+	quest.11A35E8F97ACA240.quest_desc: ["The &6Draconic Staff of Power&r an All-In-One tool and weapon that is crafted by combining the &6Draconic Pickaxe, Shovel,&r and &6Sword&r. "]
+	quest.11A35E8F97ACA240.title: "&6Draconic Staff of Power&r"
+	quest.11B90CCB0C6ABE26.title: "Basic Universal Upgrades"
 	quest.11C58E38DE9488BE.quest_desc: [
 		"如果你想搭建一个自动化的&a刷怪塔&r，那你应该试试&6刷怪塔实用设备&r模组的东西！"
 		""
@@ -2407,6 +2448,14 @@
 	quest.1A3C52B662D8237B.quest_desc: ["通过使用&9蓝色粉笔&r，你可以画出&6法特玛极效引诱&r，其可以召唤并绑定&6魔王&r，并让你驱使它们为你效劳。"]
 	quest.1A3C52B662D8237B.quest_subtitle: "召唤五芒星：级别6"
 	quest.1A3C52B662D8237B.title: "&6法特玛极效引诱"
+	quest.1A3D873292E4CB7B.quest_desc: [
+		"Within each &3Rail Ejector&r, you may choose to place in either &aBeams&r or &2Sails&r through the bottom-middle block of the multiblock structure."
+		""
+		"&aBeams&r allow your &6Sphere&r to accept more &2Sails&r, which is what actually increases your power generation. 1 beam supports 6 solar sails by default."
+		""
+		"Your network can contain a maximum of 50 Million &2Sails&r at maximum capacity, which takes around 8.3 Million &aBeams&r."
+	]
+	quest.1A3D873292E4CB7B.title: "&fSolar &aBeams &fand &2Sails"
 	quest.1A43F480970FEBBB.quest_desc: [
 		"&d蚀空合金锄&r可以耕出最强大的耕地：&5暗影脉壤&r。"
 		""
@@ -2457,6 +2506,15 @@
 		"现在就想加强化？你需要先学会这个&b魔符&r！"
 	]
 	quest.1A6984A6484FF8F3.title: "&f构建第一个&d法术"
+	quest.1A82E7842EE78A3F.quest_desc: [
+		"Aside from the basic modules, &dWyvern&r tools have specific modules to help deal with items."
+		""
+		"The &dEnder Collection Module&r will automatically teleport drops into your personal Ender Chest."
+		""
+		"The &cSelective Incineration Module&r will automatically void harvested items based on its filter."
+		""
+		"&eNote&r: These can also be installed in the &dWyvern Weapons&r!"
+	]
 	quest.1A89ACDC528588D5.title: "&d苍穹晶胸甲"
 	quest.1A984CF299959C96.quest_desc: ["&a装备充能器&r可以消耗能量或&c涡轮燃料&r，为各种物品与设备充能。"]
 	quest.1A984CF299959C96.title: "&a装备充能器"
@@ -2482,6 +2540,12 @@
 		"[\"你可以了解更多有关本工具的信息于\", { \"text\": \"通用机械\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"644874076A06F5F4\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往通用机械章节\"} }, \" 这一章节！\" ]"
 	]
 	quest.1ABA5F2ECAA6D9D2.title: "&e通用机械"
+	quest.1ABB93F87483CA3E.quest_desc: [
+		"&zChaotic Tools&r are the final upgrades for the &dDraconic Tools&r."
+		""
+		"This tier has the most storage for &aUpgrade Modules&r."
+	]
+	quest.1ABB93F87483CA3E.title: "&zChaotic&r Tools"
 	quest.1ADE323F448DCF12.quest_desc: [
 		"在基地内的箱子里到处放这些&a位置卡&r，是一件非常痛苦的事情。"
 		""
@@ -3585,6 +3649,8 @@
 		"虽然需要&d灌注龙息&r才能做，但是末地书架相对还是比较便宜的。"
 	]
 	quest.26B74124E89189F7.title: "&eEndshelf"
+	quest.26C56E80D6F15838.quest_desc: ["&dWyvern&r tools consume power instead of durability and can be customized using &aUpgrade Modules&r."]
+	quest.26C56E80D6F15838.title: "&dWyvern &fTools"
 	quest.26D4074DECF26C04.quest_desc: ["&6等离子涡轮机&r是&e现代工业化&r最高级的发电设施，它会通过消耗&5氦等离子体&r以产出&c一百万EU/t&r的能量。"]
 	quest.26D4074DECF26C04.title: "&6等离子涡轮机"
 	quest.26D59E04760C5747.quest_desc: [
@@ -3867,6 +3933,11 @@
 		"&b电力&r就是你&6科技之旅&r的开端！"
 	]
 	quest.2A8BA3D5BB4B3023.title: "&c电力&f的开端"
+	quest.2AA1FF7D5AD163F1.quest_desc: [
+		"Just like the previous tiers, you'll want to upgrade to &6Draconic Cores&r if you want to craft any of &6Draconic&r items."
+		""
+		"This also allows you to upgrade how much energy your gear can hold by installing the &6Draconic Energy Modules&r."
+	]
 	quest.2AAD4463A90C639B.quest_desc: [
 		"&3维度矿井&r可以用于从荒无人烟的挖矿维度中采集资源。"
 		""
@@ -4032,6 +4103,8 @@
 		"想要用它制作新物品的话，你需要让两个不同控制器中的物品发生碰撞。"
 	]
 	quest.2C0C63951FDED180.title: "&d粒子加速器"
+	quest.2C141655079AC173.quest_desc: ["The &dWyvern Sword&r is a powered sword that allows for a ton of customization options using &aUpgrade Modules&r."]
+	quest.2C141655079AC173.title: "&dWyvern &fSword"
 	quest.2C1649AE3DADD71D.quest_desc: [
 		"&b建筑之棒&r是一个旨在加快建造过程的模组。"
 		""
@@ -4081,6 +4154,11 @@
 		"它可以让掉落作物直接传送到锄头绑定的存储方块中！"
 	]
 	quest.2CBB753B405D3888.title: "&d苍穹晶锄"
+	quest.2CD6F96F2BD402C9.quest_desc: [
+		"The &dCelestial Manipulator&r can change both the time and the weather using power."
+		""
+		"Once placed, you can open up the GUI to configure the mode and settings for each mode."
+	]
 	quest.2CEF038B5DA1FF25.quest_desc: ["消耗烟花火箭发电。"]
 	quest.2CEF038B5DA1FF25.title: "&f菌丝网络烟花火箭发电机"
 	quest.2D09494ED3235CC8.quest_desc: [
@@ -4360,6 +4438,14 @@
 		"The &aClutch&r stops rotation when powered by redstone."
 	]
 	quest.2F31738F510B87C5.title: "&fRotation Control"
+	quest.2F32FF00B68F8618.quest_desc: [
+		"To use any of the &6Draconic Evolution&r equipment, you will need to install &aModules&r in each one you plan to use."
+		""
+		"While there are several types of modules, every piece of gear will need some kind of &cEnergy Module&r installed."
+		""
+		"[\"To install a module, press \", { \"keybind\": \"key.draconicevolution.tool_modules\", \"color\": \"green\" }, \" while holding the tool in your hand.\"]"
+	]
+	quest.2F32FF00B68F8618.title: "Draconic Modules"
 	quest.2F34A04C7FB2D605.quest_desc: [
 		"你可以通过&6聚变反应堆&r将多种流体制成&5氦等离子体&r。"
 		""
@@ -4541,6 +4627,11 @@
 		"这个机器可以用来制造&6乙烯&r、&6高密度聚乙烯丸&r以及更多别的材料！"
 	]
 	quest.31705AD5BE50E2CB.title: "&f加压反应室"
+	quest.31777D0226DDE440.quest_desc: [
+		"The &dDraconium Chest&r can hold 234 stacks of items, as well as having a built-in crafting table and auto-smelting furnace using power."
+		""
+		"When broken, the items do not drop and are carried inside of it."
+	]
 	quest.318747B4EF9E1D5B.quest_desc: [
 		"&a热力发电机&r在下方放有&c热源方块&r，且有稳定外部水源供应时，会产生能量。"
 		""
@@ -4946,7 +5037,7 @@
 	quest.34C57701B6B07948.quest_desc: [
 		"&2矿晶&r模组添加了许多种类的晶洞和对应的母岩，让搭建晶洞农场这一想法得以实现。现在主世界会刷新很多种类的金属晶洞。"
 		""
-		"While they can't be moved by mining, you can create automated &dGolem&r farms as a great passive resource farm, or move them using items such as &6Mekanism's Cardboard Box&r."
+		"While they can't be moved by mining, you can create automated &dGolem&r farms as a great passive resource farm."
 	]
 	quest.34C57701B6B07948.title: "&2矿晶"
 	quest.34C8F98F68B133B5.title: "&b高级精华&f工具"
@@ -5278,6 +5369,7 @@
 		"要开始上手&6AE2&r，你首先需要制作一台&a充能器&r。这个机器可以接收能量来为物品充电，而充电后的物品是推进该模组进度的关键。"
 	]
 	quest.37104662F0BDDE66.title: "&f准备开始发展&6应用能源&f！"
+	quest.371B1D35A5F4F4E1.quest_desc: ["The &aEnergy Transfuser&r is used to charge and discharge items and blocks."]
 	quest.371D1FEFBD49CCFF.quest_desc: [
 		"&b苍穹晶剑&r是上一阶剑的升级版，它不再消耗耐久，而是&c能量&r！"
 		""
@@ -5724,6 +5816,12 @@
 		"{image:ftbevolution:textures/quests/ars/arcanistset.png width:130 height:125 align:center}"
 	]
 	quest.3C03D41F5B1A8BDC.title: "&b奥术师套装"
+	quest.3C0508E6233BC014.quest_desc: [
+		"The &zChaotic Bow&r is the final upgrade of the &dDraconic Bow&r."
+		""
+		"This tier has the most storage for &aUpgrade Modules&r."
+	]
+	quest.3C0508E6233BC014.title: "&zChaotic&r Bow"
 	quest.3C0D9DFFEC915E2C.quest_subtitle: "传输流体"
 	quest.3C0D9DFFEC915E2C.title: "&f流体导管"
 	quest.3C25B0FAC773D70A.quest_desc: [
@@ -6002,6 +6100,12 @@
 		"一块蚀空烬质的能量比&d虚炎煤炭&r多三倍。"
 	]
 	quest.3F81397C7818B7C5.title: "&5蚀空烬质"
+	quest.3F8EC64FB8A78A4A.quest_desc: [
+		"The &6Draconic Bow&r is an upgraded version of the &dBow&r, with room for more &aUpgrade Modules&r."
+		""
+		"With access to &6Awakened Draconium&r, you can also install the &6Projectile Immunity Cancellation Module&r. This module allows you to kill things like Enderman and Withers with your bow."
+	]
+	quest.3F8EC64FB8A78A4A.title: "&6Draconic&r Bow"
 	quest.3FB2A1A98B36234F.quest_desc: ["&5三一宝石&r是&c灵魂宝石&r的升级版，几乎能捕捉任何一种生物。"]
 	quest.3FB2A1A98B36234F.title: "&5三一宝石"
 	quest.3FB51F0568B0896C.quest_desc: [
@@ -6025,6 +6129,11 @@
 	quest.3FC961B8C0657214.quest_desc: ["&a碳纤维&r坚固到足以用于机器与&b插件&r的制作中，并可作为机器制作其他高级组件的制作材料。"]
 	quest.3FC961B8C0657214.quest_subtitle: "这玩意真的能算是纤维吗？"
 	quest.3FC961B8C0657214.title: "&3碳纤维&r"
+	quest.3FE863C60B2D2719.quest_desc: [
+		"The &dDisenchanter&r can be used to remove enchantments from items at the cost of experience and durability damage to the item."
+		""
+		"You can reduce the damage by placing either &2Bookcases&r around the &dDisenchanter&r."
+	]
 	quest.3FE99AE10B0737BB.title: "&f大量存储单一物品"
 	quest.3FF612F915DF4BF5.quest_desc: [
 		"&a仙人掌符石&r反射受到伤害的25%给攻击者。"
@@ -6825,6 +6934,12 @@
 	quest.4887C8EA4441F62B.title: "&c燃料发电机&r"
 	quest.48935669BAAC9142.quest_desc: ["&a末影透镜&r是用于制作&b插件&r和机器的组件。"]
 	quest.48935669BAAC9142.title: "&f末影透镜"
+	quest.48935E2DFCA1E835.quest_desc: [
+		"Once you've defeated the &zChaos Dragon&r, you can use harness the power of &zChaos&r to upgrade your fusion injectors."
+		""
+		"This will allow you to upgrade your &6Draconic Gear&r to the highest tier: &zChaotic Tier&r."
+	]
+	quest.48935E2DFCA1E835.title: "&zChaotic Infusion"
 	quest.48CADAFA7696B518.quest_desc: [
 		"Perhaps these ruins are hiding something. Going deeper, you'll find a massive &bCrystal&r. This is exactly what we're looking for!"
 		""
@@ -6839,6 +6954,11 @@
 		"如果你不确定要做什么，&aFargo符石指南&r可以帮助你。"
 	]
 	quest.48E284F256F6453E.title: "&f欢迎游玩&eFargo的符石&f！"
+	quest.4939A75E99826CF6.quest_desc: [
+		"&aDraconic Capacitors&r are portable batteries that can store and provide power to other items within your inventory, like your Wyvern gear!"
+		""
+		"&eNote&f: Capacitors can also go in your Curio Slots."
+	]
 	quest.493E152B4A7BB767.quest_desc: ["&a红石请求器&r在接收到红石信号时，从连接的库存网络中请求特定物品。"]
 	quest.493E152B4A7BB767.title: "&a红石请求器"
 	quest.49603EC381DD1818.quest_desc: [
@@ -6941,6 +7061,12 @@
 		"Within the dimension, you have a 13x13x13 workspace to build whatever you need! Make sure to &aforce load&r the chunk from the inside to keep it loaded and working when you aren't inside."
 	]
 	quest.49ECE2A618E86CBD.title: "&f个人&d口袋维度&r"
+	quest.49F40F94FB7B0F60.quest_desc: [
+		"After sending &2Solar Sails&r, you can start harvesting the power of the sun using &dRay Recievers&r."
+		""
+		"Other players can join your &6Sphere&r by interacting with any multiblock and clicking the \"Subscribe to this sphere\" button on the bottom left."
+	]
+	quest.49F40F94FB7B0F60.title: "&dRay Receiver Controller&r"
 	quest.4A0DE2C23F9145ED.quest_desc: [
 		"&6Forbidden \\&\\ Arcanus&r is a beautiful magic mod with some very unique mechanics for crafting items!"
 		""
@@ -6949,6 +7075,14 @@
 		"&3Darkstone&r is a stone that is very common in very low levels of the world. As for &aArcane Crystals&r, you'll find this ore more commonly in deepslate!"
 	]
 	quest.4A0DE2C23F9145ED.title: "&fGetting Started With &6Forbidden \\&\\ Arcanus&f!"
+	quest.4A1DBDE0963407E7.quest_desc: [
+		"&6Draconic Evolution&r is a late-game mod focused on using the power of &zDragons&r to create overpowered items and equipment, or &mreally expensive holes&r lots of power."
+		""
+		"To get started with &6DE&r, you will need &dDraconium Dust&r."
+		""
+		"&dDraconium Dust&r can be found deep in the overworld, mining dimension, or abundantly in the &eEnd&r."
+	]
+	quest.4A1DBDE0963407E7.title: "&fWelcome to &eDraconic Evolution"
 	quest.4A1E69C9C543011E.quest_desc: [
 		"&7多刺符石&r使玩家免疫来自甜浆果丛的伤害。"
 		""
@@ -7350,6 +7484,37 @@
 	quest.4E3A4B79573FC1F2.title: "&dAmethyst Rapier"
 	quest.4E455724E9CCA854.quest_desc: ["Have you run into any &aSuspicous Blocks&r? Trying using a &aBrush&r on them to see what they are hiding!"]
 	quest.4E455724E9CCA854.title: "&fAmateur &aArchaeologist"
+	quest.4E474C940C683371.quest_desc: [
+		"The &6Draconic Reactor&r is the ultimate energy generator, capable of producing hundreds of millions of RF/t with the correct setup. &cThis Reactor can explode!&r"
+		""
+		"To start setting one, place the &6Reactor Core&r in the center with the &aStabilizers&r up to 5 blocks away from it each in a separate direction, and the &2Injector&r above or below it."
+		""
+		"To fuel the Reactor, you must provide it with &6Awakened Draconium&r (max 8 blocks at a time) and a massive amount of energy: the more energy you provide, the more energy it'll produce."
+		""
+		"&7&oMore information on the next page ->"
+		"{@pagebreak}"
+		"{image:ftbevolution:textures/quests/draconic_evolution/reactor_ui_charge.png width:150 height:133 align:center}"
+		"Before you can power on your reactor, you'll be met with this interface, and you'll need to know what's what to avoid a Reactor meltdown that will nuke everything within 500 blocks."
+		""
+		"We'll go over the interface, from left to right, on the next page ->"
+		"{@pagebreak}"
+		"- Core Temperature: Requires at least 2000°C to Activate the Reactor. A temperature of 8000°C or higher will begin heating up the core exponentially, increasing the chance of a meltdown occurring."
+		""
+		"- Containment Field Strength: Controls the protection around the core. If this reaches 0 the Reactor will explode. The lower this value the more power you can make."
+		""
+		"- Energy Saturation: Increases as it absorbs more energy and reduces when you pull out energy. The higher the saturation the lower the generation rate. Higher Saturation also increases temperature"
+		""
+		"- Fuel Conversion: How much fuel you have left and how much has been converted into energy (how much fuel is spent per tick to keep the reactor going). A perfectly balanced reactor burns nothing per tick. The Longer it stays balanced the longer it'll maintain its temperature."
+		""
+		"&7&oMore on the next page ->"
+		"{@pagebreak}"
+		"Once everything is in place and you've provided fuel to your Reactor, you can safely hit \"Charge\" to start the Reactor."
+		""
+		"First, it'll change the Containment Field and Energy Saturation to 50%, then start heating up to 2kC. At this point it'll give you the option to Activate the reactor. If all goes well, nothing blows up."
+		""
+		"Your \"Active\" interface should look something like this:"
+		"{image:ftbevolution:textures/quests/draconic_evolution/reactor_ui_activate.png width:188 height:166 align:center}"
+	]
 	quest.4E4D77AD4D7F6262.quest_desc: [
 		"&a绑定结&r可以添加到大多数工具和武器中，对于&6鞘翅&r来说则是必需部分。"
 		""
@@ -7857,6 +8022,8 @@
 	quest.535C11E589E11056.title: "&d挖掘疲劳护身符"
 	quest.53682D91399F1898.quest_desc: ["If you need a flat place to build that is also a great place to find ores, you should make yourself a &aMining Portal&r!"]
 	quest.53682D91399F1898.title: "&fThe &aMining &fDimension"
+	quest.5388B67410670702.quest_desc: ["The &6Draconic Sword&r is an upgraded version of the &dWyvern Sword&r, with room for more &aUpgrade Modules&r."]
+	quest.5388B67410670702.title: "&6Draconic&r Sword"
 	quest.53B7A49C8138D3B0.quest_desc: ["[\"使用\", {\"text\": \"灰色\", \"color\": \"#929292\"}, \"和\", {\"text\": \"橙色\", \"color\": \"#FCA645\"}, \"粉笔，和\", {\"text\": \"魔灵同调水晶\", \"color\": \"#FF55FF\"}, \"，你现在就可以控制\", {\"text\": \"火灵\", \"color\": \"#FF55FF\"}, \" 附身僵尸猪灵了。它被杀死后会掉落\", {\"text\": \"恶魔之肉\", \"color\": \"#55FF55\"}, \" \"]"]
 	quest.53B7A49C8138D3B0.quest_subtitle: "附身五芒星：级别3"
 	quest.53B7A49C8138D3B0.title: "&c阿巴拉斯开环强令召唤术"
@@ -8566,6 +8733,12 @@
 		"-\\u00A0&b湮灭之瓶&r可以当成背包中的垃圾桶，但它和垃圾桶不同的一点就是可以把销毁物品变为魔力！潜行时手持使用瓶子即可激活，然后副手拿着要销毁的物品并使用瓶子，就能将物品加入销毁清单。瓶子激活后，销毁清单中的物品在被丢出时会自动销毁。瓶子必须放在快捷栏才能正常工作。"
 	]
 	quest.5BDBB419A8FA0D2D.title: "瓶装&d魔法&f"
+	quest.5BE257CE3FD1FDAC.quest_desc: [
+		"The next step will be to upgrade your &dFusion Crafting Injectors&r to &6Awakened&r tier."
+		""
+		"This will allow you to create new items and gear using &6Awakened Draconium&r."
+	]
+	quest.5BE257CE3FD1FDAC.title: "&6Awakened Infusion"
 	quest.5BFA3D0271320E07.quest_desc: [
 		"每个随机刻时，&3温室玻璃&r都有可能将种在它下方的作物或树苗的生长阶段加快。"
 		""
@@ -8786,6 +8959,8 @@
 	quest.5E1FFB29D89798F5.quest_desc: ["虽然随时放置一个&aQIO仪表板&r来访问存储已足够便捷，但如果你根本不需要放置它呢？"]
 	quest.5E1FFB29D89798F5.quest_subtitle: "但咱们能不能让它‘无线’得更彻底一些？"
 	quest.5E1FFB29D89798F5.title: "&f便携式&aQIO仪表板"
+	quest.5E2F4A6147694D5C.quest_desc: ["The &zChaotic Staff of Power&r an All-In-One tool and weapon that is crafted by combining the &zChaotic Pickaxe, Shovel,&r and &zSword&r. "]
+	quest.5E2F4A6147694D5C.title: "&zChaotic Staff of Power"
 	quest.5E36696532C72B3A.quest_desc: [
 		"&a物品栏读取器&r可以读取所连接的容器的各种数据：物品栏填满与否、物品总数、装满度、容器中都有哪些物品等等。"
 		""
@@ -9490,6 +9665,11 @@
 		"&d石墨电极&r也能通过金属冲压机制作，该方法无需蓝图，但耐久度只有一半。"
 	]
 	quest.660443512BB2E867.title: "&d石墨电极"
+	quest.660955FF7D0920A8.quest_desc: [
+		"&zChaotic Cores&r are the highest tier crafting cores you can make."
+		""
+		"This also allows you to craft the highest tier of energy storage by installing &zChaotic Energy Modules&r."
+	]
 	quest.6633EE3A02AA52E1.quest_desc: [
 		"The &aHerbalist Bench&r is used for cutting and slicing items."
 		""
@@ -9549,6 +9729,20 @@
 	quest.669DCBD04E5C4D5E.title: "&d时间标记"
 	quest.66B66C0C33071D7B.quest_desc: ["在&3化学反应釜&r中让&a粗铂矿&r和&e硫酸&r反应，我们就可以得到&d硫酸铂溶液&r。"]
 	quest.66B66C0C33071D7B.title: "&d硫酸铂溶液"
+	quest.66B6E08271B1EF27.quest_desc: [
+		"The &eDE&r energy core is a tiered energy storage solution capable of storing a near-infinite quantity of power when fully upgraded."
+		""
+		"Its core components are the &aEnergy Core&r and the &2Energy Core Stabilizers&r, which can be placed in any direction up to 8 blocks away from the core."
+		""
+		"To insert or extract power from the Core, you'll need to place down an &bEnergy Pylon&r within 10 blocks of the core, then place a glass block under or above it."
+		"{@pagebreak}"
+		"To upgrade the core, you'll need to surround the &aEnergy Core&r with more &dDraconium Blocks&r per tier. At tier 8, you'll also need to surround it with &6Awakened Draconium Blocks&r."
+		""
+		"The energy core has a build guide within its interface when you interact with it that can automatically place the blocks in their position from your inventory."
+		""
+		"At tier 8, you will also need to upgrade your &2Stabilizers&r into a ring, requiring a total of 36 blocks (9 per ring)."
+	]
+	quest.66B6E08271B1EF27.title: "Energy Core"
 	quest.66B9795304E0E752.quest_desc: [
 		"When breaking some leaves by hand, you may occasionaly find random berries."
 		""
@@ -9796,6 +9990,12 @@
 	quest.69282BCC2FA04060.title: "&f变量卡箱"
 	quest.693E3765975EF799.quest_desc: ["&a移动式存储接口&r允许你从结构中输入/提取物品。"]
 	quest.693E3765975EF799.title: "&f和动力结构交互"
+	quest.69997DAB93184551.quest_desc: [
+		"The &dWyvern Chestpiece&r is a powered piece of armor that allows for a ton of customization options using &aUpgrade Modules&r."
+		""
+		"Instead of providing armor values, this chestpiece has its own &dShield&r system when using &dShield Modules&r."
+	]
+	quest.69997DAB93184551.title: "&dWyvern&r Chestpiece"
 	quest.69C82E67CEA88673.quest_desc: [
 		"&a煤炭发电机&r消耗燃料产生能量。"
 		""
@@ -10184,6 +10384,16 @@
 		"&aHealing Poultice&r can be used to heal the player."
 	]
 	quest.6FFE1E65585E14F7.title: "&aOther Powders"
+	quest.700716B4ACCBD4F4.quest_desc: ["The &6Draconic Chestpiece&r is an upgraded version of the &dWyvern Chestpiece&r, with room for more &aUpgrade Modules&r."]
+	quest.700716B4ACCBD4F4.title: "&6Draconic Chestpiece"
+	quest.704DA4761DD8FDDD.quest_desc: [
+		"To craft more advanced items in &eDraconic Evolution&r, you will need a special crafting setup called &dFusion Crafting&r."
+		""
+		"The &dFusion Crafting Core&r must be the middle of the setup, with &dDraconium Fusion Crafting Ejectors&r placed facing towards the Core 2 blocks apart. The amount of Injectors needed will depend on the recipe."
+		""
+		"The Core will also need a redstone signal to start a craft."
+	]
+	quest.704DA4761DD8FDDD.title: "&cFusion Crafting&r"
 	quest.7067E5B47D381423.quest_desc: [
 		"假如你想让魔源能自由传输的话，就要制作几台&b魔源中继器&r。"
 		""
@@ -10394,6 +10604,12 @@
 	]
 	quest.723303AA9DCD6588.title: "&d主世界之力"
 	quest.72363599C6D14626.title: "&6Hexerei &aTrees"
+	quest.7244348CAB8356E0.quest_desc: [
+		"The &zChaotic Chestpiece&r is the final upgrade of the &dDraconic Chestpiece&r."
+		""
+		"This tier has the most storage for &aUpgrade Modules&r."
+	]
+	quest.7244348CAB8356E0.title: "&zChaotic&r Chestpiece"
 	quest.7244D5DADCF0D7A2.quest_desc: [
 		"&b水之过滤海洋书架&r最多可以放六本附魔书，放到其中的附魔不会再在附魔台中出现。"
 		""
@@ -10427,6 +10643,8 @@
 	]
 	quest.726B9A931D3E1242.title: "&d魔法装备"
 	quest.72766EEF59130E19.title: "游玩&c25&r小时"
+	quest.7279FFED00B223D7.quest_desc: ["The &dDraconium Core&r is one of the main crafting components of the mod, and is used in tons of recipes."]
+	quest.7279FFED00B223D7.title: "&dDraconium Cores&r"
 	quest.727F2932543CADDA.quest_desc: [
 		"与该模组内的物品和方块互动时，扳手是个好用的工具。"
 		""
@@ -10739,6 +10957,11 @@
 		"注意：你也可以直接把覆层的原材料应用到装备上，无需将材料跟蓝图一起合成。只需要在锻造台里把它们跟工具一起合成即可。（需要模板且只能用于寂静装备的工具）"
 	]
 	quest.748CD701E0452769.title: "&f覆层蓝图"
+	quest.74A0C37A8115B90F.quest_desc: [
+		"&aUn-bound Dislocators&r can be set then placed onto a &aDislocator Pedestal&r to act as waystones to teleport you places. "
+		""
+		"By using the pedestal, it doesn't use durability!"
+	]
 	quest.74AB8112B4B1D4E0.quest_desc: ["与监守者的魔法力量结合后，&3灵魂触摸幽匿书架&r能够提供更强的附魔能力，以及更深远的视界。"]
 	quest.74AB8112B4B1D4E0.title: "&3回响幽匿书架"
 	quest.74BED9604BDE1EA5.quest_desc: [
@@ -10749,6 +10972,8 @@
 	quest.74BED9604BDE1EA5.title: "&f存储能量"
 	quest.74C6CBDB38C29D4D.quest_desc: ["本章中，你会了解到很多游戏中的实用物品和技巧！"]
 	quest.74C6CBDB38C29D4D.title: "&f提示与技巧！"
+	quest.74CC3450902370F7.quest_desc: ["&6Draconic Tools&r is an upgraded versions of their &dWyvern&r counterparts with room for more &aUpgrade Modules&r."]
+	quest.74CC3450902370F7.title: "&6Draconic&r Tools"
 	quest.74CC5FF2097C0839.quest_desc: [
 		"&6敌对神经网络（Hostile Neural Networks, &6HNN&r）&r允许你从生物中收集数据，以&b预测产物&r的形式获取掉落物。"
 		""
@@ -11313,6 +11538,14 @@
 		"潜行右击它将其链接到库存并享受所有新交易！你还需要确保保持有压力的状态。"
 	]
 	quest.7B30DD6FB76E75A5.title: "&f亚马龙网络"
+	quest.7B4CBCAF13C6F189.quest_desc: [
+		"To upgrade to the &dWyvern Fusion Injectors&r, you will need at least 8 &dDraconium Injectors&r placed around the &dFusion Crafting Core&r."
+		""
+		"You can right-click each item the injectors need to craft the upgrade. Each injector will also need power."
+		""
+		"With all items placed in the injectors, you can place the main item in the &aCore&r, and the craft should start once it has a redstone signal."
+	]
+	quest.7B4CBCAF13C6F189.title: "&dWyvern &fInfusion"
 	quest.7B579D0762DB9F33.quest_desc: [
 		"等你搞到&a锇&r了，就可以用&6通用机械&r的&e热力发电机&r开始产能了。"
 		""
@@ -11447,6 +11680,26 @@
 		"它还用于制作&3Minecraft之魂&r。"
 	]
 	quest.7CD3D31BAA53F592.title: "&b敌手之力"
+	quest.7CEB9C5F6924AAFC.quest_desc: [
+		"&eDE &bEnergy Crystals&r can transfer RF power to linked blocks via an energy network with at least one &aI/O Crystal&r and one &2Wireless Crystal&r."
+		""
+		"To link the crystals, you'll need the &aCrystal Binder&r."
+		""
+		"Shift + Right-click your Wireless Crystal to start linking it to other blocks by Right-clicking."
+		""
+		"&aRelays&r can only connect to other Network components, so they are only used to extend the range of your network."
+		""
+		"&7&oCheck the next page for transfer rates ->"
+		"{@pagebreak}"
+		"Each crystal tier can output a different amount of power per connection:"
+		""
+		"The &aBasic Tier&r can transfer up to 32,000 RF/t"
+		""
+		"The &dWyvern Tier&r can transfer up to 128,000 RF/t"
+		""
+		"The &6Draconic Tier&r can transfer up to 256,000 RF/t"
+	]
+	quest.7CEB9C5F6924AAFC.title: "Power Logistics"
 	quest.7D0175F16F9A2D0D.quest_desc: ["&a电磁铁&r是一种能量驱动的饰品，它可以将最大5格内的物品吸到你的物品栏中。"]
 	quest.7D0175F16F9A2D0D.title: "&2电磁铁"
 	quest.7D090A60681CC97D.quest_desc: [
@@ -11473,6 +11726,20 @@
 	quest.7D11FCF02C35213F.quest_subtitle: "钻吧宝贝钻吧"
 	quest.7D11FCF02C35213F.title: "&f动力钻头"
 	quest.7D23D1C9DE75721F.title: "&f击杀20只&c骷髅"
+	quest.7D2FB7B5F19AC143.quest_desc: [
+		"The &zChaos Dragon&r can be found in an arena that is generated at any set of coordinates which is divisible by 10000 (x:0, z:10000) within the &dEnd&r."
+		""
+		"Just like the &dEnder Dragon&r, there are multiple pillars that house &dCrystals&r to keep it protected."
+		""
+		"Before you have &zChaotic Tools&r, the only way to destroy these crystals is to direct the &zChaos Dragon's&r attacks to hit each one. Once hit, you should be able to break them by hand."
+		""
+		"Once each crystal is broken, the shield will drop and you'll be able to damage the &zChaos Dragon&r directly."
+		""
+		"Once defeated, you can dig down into the center of the arena to mine up the &zChaos Crystal&r."
+		""
+		"&eNote&r: This is an &cextremely dangerous&r fight. It's best to have a &6Draconic Chestpiece&r with a beefy shield."
+	]
+	quest.7D2FB7B5F19AC143.title: "The &zChaos Dragon&r"
 	quest.7D3A5740B5857874.quest_desc: [
 		"&d安全管理器&r可设置不同用户对各种网络功能的权限。"
 		""
@@ -11850,14 +12117,17 @@
 	reward_table.1E2D6248E209E76E.title: "&aRS2物品奖励箱"
 	reward_table.1E75B6A7FCDDE38A.title: "&b普通奖励&r"
 	reward_table.2084F1B73457F96A.title: "一袋&6无瑕&r宝石"
+	reward_table.2E963B0E502827D5.title: "&dRandom Wyvern Module"
 	reward_table.31242894075EA0C8.title: "一袋&b宝石&r"
 	reward_table.32AF1F440497F6AA.title: "随机工具箱"
 	reward_table.37050078793DE537.title: "&aAE2物品奖励箱&r"
+	reward_table.381948E46381F07F.title: "&6Random Draconic Module"
 	reward_table.3C56BFBFAEFD4069.title: "&f安山时代"
 	reward_table.3FFDFA44781533D7.title: "初始者小屋"
 	reward_table.40521CF80673B184.title: "&6可选奖励板条箱&r"
 	reward_table.41AB264E28626CDB.title: "一袋&6遗物&r"
 	reward_table.49B86AAFA614A4EF.title: "&a蒸汽高炉"
+	reward_table.4C9C6D038A2EA64A.title: "&zRandom Chaotic Module"
 	reward_table.4D3135F03143C7CC.title: "传送器奖励包"
 	reward_table.4D6F39068B0224D8.title: "&aRS2物品奖励箱"
 	reward_table.563CD2BA14CBB267.title: "一袋&6护身符&r"
@@ -11876,6 +12146,7 @@
 	reward_table.74D2721A88E9AAA0.title: "&b精华奖励包&r"
 	reward_table.790A03E65CE8EBE4.title: "&6奶奶的味道&r"
 	reward_table.7D4F4BCAA73DD644.title: "&6冒险家大礼包&r"
+	task.0029527998A30224.title: "Energy Relay Crystals"
 	task.00A4D09EDA359F3C.title: "&f量子计算机合成存储器"
 	task.00F90C52CBAECEBB.title: "&d法术&a墨水"
 	task.014032E1127D63B6.title: "任意符文树苗"
@@ -11895,12 +12166,12 @@
 	task.074CA59C4911AD67.title: "&e召唤一个&d被附身的潜影贝"
 	task.07A28AE0ECC4CDDE.title: "&d魔法&f腰带！"
 	task.07B3E353519E2FE6.title: "&9至高木"
-	task.07CD5267730566F9.title: "塑料片"
 	task.07F3A67702DAA987.title: "物品栏垃圾桶！"
 	task.07FB5E0C90164FF9.title: "Leave The Bumblezone"
 	task.08061F73E1D9775F.title: "电池"
 	task.089B53BB412A3113.title: "&e召唤一个&3恶魔妻子"
 	task.08A176AF81AFB67F.title: "&b高级精华&f工具"
+	task.08BD44461F482A53.title: "Energy Modules"
 	task.0942F933E8D6C1D3.title: "&dDimensional Storage&r"
 	task.096452CE0C4FC543.title: "任意锄"
 	task.09BA8AE5976CB602.title: "喷气背包"
@@ -11926,6 +12197,7 @@
 	task.10F21F1905A48313.title: "&e召唤一个&3特殊动物"
 	task.110E6C2DF4533110.title: "黑曜石粉"
 	task.1114E07F8446FAA0.title: "方块管理"
+	task.1136F216C8AF9FE6.title: "Effect Modules"
 	task.1203293F62D3F55F.title: "第三层：完成"
 	task.1211B7B1BC40225B.title: "存储控制器"
 	task.1257CB86BCFAFF54.title: "&6觉醒精华&f盔甲"
@@ -11945,6 +12217,7 @@
 	task.1817578EA1A618AB.title: "&b高级精华&f盔甲"
 	task.183FEFA2AEF46058.title: "观察&a灵火"
 	task.185302C49E85B5E3.title: "&e召唤一个&a小鹿使魔"
+	task.1894234815710814.title: "&6Draconic&r Tools"
 	task.18BBCE523EABE49C.title: "Coal"
 	task.19FEB64A680EC482.title: "MI流体管道"
 	task.1A3819027110CDC5.title: "&e召唤一个&a普通动物"
@@ -11958,6 +12231,7 @@
 	task.1C0BB83393437BDF.title: "&f组件界面"
 	task.1C1B6CA8991CBB5D.title: "&f岩浆发电机"
 	task.1C70AB93B6A0F1A6.title: "&6一些有用的方块&r"
+	task.1C9447A9D0AFACAA.title: "Wyvern Bow Modules"
 	task.1CE8A62210A2D217.title: "&e观察&f：合金窑"
 	task.1D13D516425A8FDE.title: "&b五芒星&r已完成"
 	task.1DBB6B2E600D2533.title: "任意锄头"
@@ -12004,12 +12278,14 @@
 	task.2B2473620B056467.title: "游玩&d50小时"
 	task.2B2AC5A9A28F14A9.title: "蓄电池"
 	task.2B97A2DFF700B056.title: "&6Fargo的符石"
+	task.2BAC28B76BC52485.title: "Wyvern Tools"
 	task.2BB5021FC9A3E6EB.title: "&e召唤一个&a鹦鹉"
 	task.2C1245371800E1E7.title: "蜜蜂种类"
 	task.2C8687501A9C54A8.title: "&2初级精华&f工具"
 	task.2CA99A333EDFB6FC.title: "&a精华耕地&r"
 	task.2CC8184A4A0C3AED.title: "就地升级"
 	task.2D6AEF337BEAFA58.title: "任意坩埚增强"
+	task.2D9AA4F523B2C5B5.title: "&zChaotic&r Tools"
 	task.2DCE94139CB2078D.title: "&a实用升级"
 	task.2E079C677B170563.title: "基础粉笔"
 	task.2E1EB6FEC1AE28D0.title: "Silent Gear Blueprint"
@@ -12022,6 +12298,7 @@
 	task.307A38BAB131FECA.title: "收集灵魂"
 	task.30C463CFF560647D.title: "&f修理一支粉笔"
 	task.310335F073D442F0.title: "漏斗升级"
+	task.31B6F2083880E70B.title: "&dDraconic &fCapacitors"
 	task.31D3D8C34525AC97.title: "&f过滤器实例演示"
 	task.327D6E2AE8863BC1.title: "&fKill: 1x &cPyromancer"
 	task.329BA2B5EB3185FC.title: "拆解可获得的材料"
@@ -12094,6 +12371,7 @@
 	task.4335140E412572D8.title: "&f打败十波&d永恒之门"
 	task.43F12298AA3644E9.title: "升级到铁质"
 	task.44471E3598AA381B.title: "&2二级&f生物种子"
+	task.449DF56ED27197D4.title: "&aSolar Beams"
 	task.45016D6A71CA38A9.title: "&c能量立方&r"
 	task.4507BF42E5A8FD9D.title: "&b四级&f种子"
 	task.4544EA17F4CDD321.title: "了解词缀物品的特性"
@@ -12118,6 +12396,7 @@
 	task.4B48F3912AE46B3C.title: "&e召唤一个&a被附身的幻翼"
 	task.4B65088186551D3C.title: "&f虚空升级"
 	task.4BB1855917140E38.title: "&b施放法术"
+	task.4BB8C201ABEE11F8.title: "&2Solar Sails"
 	task.4BEC813158265CFD.title: "&f太阳能板"
 	task.4BEC99EFB3F7A310.title: "&bSurvival Of The Fittest"
 	task.4C1919EBB6897E10.title: "进阶蜂箱"
@@ -12127,6 +12406,7 @@
 	task.4DBC16ACBFEF4D40.title: "堆叠升级"
 	task.4DDC10B7CDEA5CB5.title: "&fInterfaces"
 	task.4F3BD1ECA2A53285.title: "&f通用机械流体管道"
+	task.4F4857C71B02E666.title: "Basic Universal Modules"
 	task.4F725B8E1BB9B8D1.title: "&e绑定仪式"
 	task.4FAE5B3549E023A9.title: "&aFTB金字塔"
 	task.506C293E06A5C513.title: "&f热力发电机"
@@ -12177,6 +12457,7 @@
 	task.5B5BB0C38EB99A40.title: "&a预测掉落物"
 	task.5B8D61770B7554D0.title: "&f通用存储"
 	task.5B97CEFB80FF361B.title: "&f击杀10只&d潜影贝"
+	task.5BE70295CD54250B.title: "Shield Modules"
 	task.5BE8C72BDBCC78CE.title: "&e使魔仪式"
 	task.5BF75EED8F2F48DC.title: "&e召唤一个&3克苏鲁"
 	task.5C1A44148EE9D1D2.title: "Tame a &6Beehemoth&r"
@@ -12218,6 +12499,7 @@
 	task.63B6D52741114570.title: "&e召唤&7魔精伐木工"
 	task.63C4D2F3F7059C8E.title: "&f自动拾取升级！"
 	task.63CCD5B192C043E9.title: "&e观察&f：&7魔精碎矿者"
+	task.6417A042D97FD94E.title: "Wireless Energy Crystals"
 	task.643D8A56111D16B7.title: "任意&d法术卷轴&r"
 	task.64CC6BB34041EAFB.title: "&d五级&f种子"
 	task.654450BCAE6FF1CA.title: "&c中级精华&f盔甲"
@@ -12276,6 +12558,7 @@
 	task.768B60201808B40A.title: "磨珠"
 	task.76A47BD1041539C1.title: "&e召唤一个&a小型动物"
 	task.76A6B2D6E28D494F.title: "&f物品召唤"
+	task.76E0E763850E3BD4.title: "Energy I/O Crystals"
 	task.76F6FBEEF39FF917.title: "&e召唤&d降雨魔灵"
 	task.772E7B17FF9CE76E.title: "&e召唤一个&a河狸使魔"
 	task.774EBA6A762BC415.title: "重置远程技能树"
@@ -12287,6 +12570,7 @@
 	task.79137957EC19FAE3.title: "&aBarks"
 	task.79182D262D72B84F.title: "&f试炼召唤"
 	task.79684EDD87FFB47C.title: "&f击杀20只&c苦力怕"
+	task.79D413C019053417.title: "Item Collection Modules"
 	task.7A024E88591A8862.title: "&e召唤一个&3蝙蝠使魔"
 	task.7A2B58FD3F6E8094.title: "&f任意&e精致存储&a控制器"
 	task.7AC3BD79A70049CA.title: "&e击杀&f：&6牧师"

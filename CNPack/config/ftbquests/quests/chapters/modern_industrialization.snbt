@@ -562,7 +562,7 @@
 			y: -5.5d
 		}
 	]
-	order_index: 9
+	order_index: 10
 	quest_links: [ ]
 	quests: [
 		{
@@ -5639,7 +5639,7 @@
 					id: "0136098FDA46C65A"
 					item: {
 						count: 1
-						id: "modern_industrialization:titanium_plate"
+						id: "ftbmaterials:titanium_plate"
 					}
 					type: "item"
 				}

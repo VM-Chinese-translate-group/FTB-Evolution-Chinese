@@ -4625,7 +4625,11 @@
 					advancement: "occultism:occultism/possess_unbound_parrot"
 					criterion: ""
 					icon: {
-						id: "occultism:spawn_egg/familiar_parrot"
+						components: {
+							"!ftbquests:icon": { }
+							"ftbquests:entity_face": "minecraft:parrot"
+						}
+						id: "ftbquests:custom_icon"
 					}
 					id: "2BB5021FC9A3E6EB"
 					optional_task: true

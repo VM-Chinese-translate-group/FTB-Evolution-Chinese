@@ -103,7 +103,7 @@
 			y: 5.0d
 		}
 	]
-	order_index: 12
+	order_index: 13
 	quest_links: [ ]
 	quests: [
 		{
@@ -232,11 +232,8 @@
 				{
 					id: "07CD5267730566F9"
 					item: {
-						components: {
-							"ftbfiltersystem:filter": "or(item(oritech:plastic_sheet)item(pneumaticcraft:plastic)item(industrialforegoing:plastic))"
-						}
 						count: 1
-						id: "ftbfiltersystem:smart_filter"
+						id: "industrialforegoing:plastic"
 					}
 					type: "item"
 				}
