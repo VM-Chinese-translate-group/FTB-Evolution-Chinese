@@ -616,6 +616,22 @@
 			}
 			weight: 10.0f
 		}
+		{
+			id: "741DEF2D3E84C8F0"
+			item: {
+				count: 1
+				id: "draconicevolution:dislocator"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "6F29DA13C72CA1EE"
+			item: {
+				count: 1
+				id: "draconicevolution:advanced_dislocator"
+			}
+			weight: 10.0f
+		}
 	]
 	use_title: true
 }

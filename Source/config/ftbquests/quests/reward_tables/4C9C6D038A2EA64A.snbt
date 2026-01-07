@@ -1,0 +1,38 @@
+{
+	icon: {
+		id: "draconicevolution:chaotic_core"
+	}
+	id: "4C9C6D038A2EA64A"
+	loot_crate: {
+		color: 11141120
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		glow: 1b
+		item_name: "Random Chaotic Module"
+		string_id: "random_chaotic_module"
+	}
+	loot_size: 1
+	order_index: 35
+	rewards: [
+		{ id: "1D6AA8275C356069", item: { count: 1, id: "draconicevolution:item_chaotic_undying" } }
+		{ id: "62A9E68952B8CB23", item: { count: 1, id: "draconicevolution:item_chaotic_speed" } }
+		{ id: "200D72D2484C34F2", item: { count: 1, id: "draconicevolution:item_chaotic_shield_recovery" } }
+		{ id: "37D2BBE98DC21265", item: { count: 1, id: "draconicevolution:item_chaotic_shield_control" } }
+		{ id: "79F895BDB0916642", item: { count: 1, id: "draconicevolution:item_chaotic_shield_capacity" } }
+		{ id: "02768C4FDB03F228", item: { count: 1, id: "draconicevolution:item_chaotic_proj_velocity" } }
+		{ id: "10D0B14EC20DA124", item: { count: 1, id: "draconicevolution:item_chaotic_proj_penetration" } }
+		{ id: "5AEE8525844ACC30", item: { count: 1, id: "draconicevolution:item_chaotic_proj_grav_comp" } }
+		{ id: "6F626801E8287EB1", item: { count: 1, id: "draconicevolution:item_chaotic_proj_damage" } }
+		{ id: "3C91C612AA5AFBFF", item: { count: 1, id: "draconicevolution:item_chaotic_proj_accuracy" } }
+		{ id: "24A4D93D9E593B36", item: { count: 1, id: "draconicevolution:item_chaotic_large_shield_capacity" } }
+		{ id: "398917D854E36051", item: { count: 1, id: "draconicevolution:item_chaotic_jump" } }
+		{ id: "42905E8AF6878833", item: { count: 1, id: "draconicevolution:item_chaotic_flight" } }
+		{ id: "373A08DA782968D2", item: { count: 1, id: "draconicevolution:item_chaotic_energy" } }
+		{ id: "0E6EBE1509A45E49", item: { count: 1, id: "draconicevolution:item_chaotic_damage" } }
+		{ id: "36D319BD7F060F11", item: { count: 1, id: "draconicevolution:item_chaotic_aoe" } }
+	]
+	use_title: true
+}

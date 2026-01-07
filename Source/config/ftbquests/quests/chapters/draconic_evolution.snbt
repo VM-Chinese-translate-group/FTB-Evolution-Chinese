@@ -1,0 +1,1500 @@
+{
+	autofocus_id: "4A1DBDE0963407E7"
+	default_hide_dependency_lines: false
+	default_min_width: 250
+	default_quest_shape: ""
+	filename: "draconic_evolution"
+	group: "3E3B6463983F18FB"
+	icon: {
+		id: "draconicevolution:reactor_core"
+	}
+	id: "57B80311B81CBCBD"
+	images: [{
+		height: 3.5d
+		image: "ftbevolution:textures/quests/titles_and_logos/draconic_evolution_logo.png"
+		rotation: 0.0d
+		width: 11.0d
+		x: 3.5d
+		y: -7.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7B4CBCAF13C6F189"]
+			id: "5BE257CE3FD1FDAC"
+			rewards: [
+				{
+					count: 2
+					id: "01BEF843A288FD54"
+					item: {
+						count: 1
+						id: "draconicevolution:awakened_crafting_injector"
+					}
+					type: "item"
+				}
+				{
+					id: "6EEA952F17321C45"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "403CC73F80C49E5D"
+				item: { count: 1, id: "draconicevolution:awakened_crafting_injector" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7279FFED00B223D7"]
+			icon: {
+				id: "draconicevolution:crafting_core"
+			}
+			id: "704DA4761DD8FDDD"
+			rewards: [
+				{
+					count: 2
+					id: "7275FB0882F30317"
+					item: {
+						count: 1
+						id: "draconicevolution:basic_crafting_injector"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0631FE93F9427B39"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					id: "44D16D11C73F1000"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "0D222FF27CCD01CE"
+					item: { count: 1, id: "draconicevolution:basic_crafting_injector" }
+					type: "item"
+				}
+				{
+					id: "21CCFA70E97168C5"
+					item: { count: 1, id: "draconicevolution:crafting_core" }
+					type: "item"
+				}
+			]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7279FFED00B223D7"]
+			id: "2CD6F96F2BD402C9"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7D37F4A236F861EA"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					id: "4E8A8FC4B45F3DA3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "205C9E24B7302D5B"
+				item: { count: 1, id: "draconicevolution:celestial_manipulator" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7D2FB7B5F19AC143"]
+			id: "48935E2DFCA1E835"
+			rewards: [
+				{
+					count: 2
+					id: "41E233C15FEE7E1B"
+					item: {
+						count: 1
+						id: "draconicevolution:chaotic_crafting_injector"
+					}
+					type: "item"
+				}
+				{
+					id: "5B0118F114ED5C2B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "3C30E810ADE5486D"
+				item: { count: 1, id: "draconicevolution:chaotic_crafting_injector" }
+				type: "item"
+			}]
+			x: 21.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7279FFED00B223D7"]
+			id: "3FE863C60B2D2719"
+			optional: true
+			rewards: [
+				{
+					count: 3
+					id: "119463BCDE3544F5"
+					item: {
+						count: 1
+						id: "minecraft:bookshelf"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "3DEC325E1E76B8E4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "5D87D65FB828263C"
+				item: { count: 1, id: "draconicevolution:disenchanter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["74A0C37A8115B90F"]
+			icon: {
+				id: "draconicevolution:dislocator_receptacle"
+			}
+			id: "08E2F329A628BE50"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5BB1F0BAE33F1F03"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					id: "12BF9AB42E068160"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "02B1AA472DDDD1AF"
+					item: { count: 1, id: "draconicevolution:infused_obsidian" }
+					type: "item"
+				}
+				{
+					id: "3AAB7030DFD8B18B"
+					item: { count: 1, id: "draconicevolution:dislocator_receptacle" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["704DA4761DD8FDDD"]
+			id: "31777D0226DDE440"
+			optional: true
+			rewards: [{
+				id: "5143BF5FEBC713B7"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2179D12529659D37"
+				item: { count: 1, id: "draconicevolution:draconium_chest" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7279FFED00B223D7"]
+			icon: {
+				id: "draconicevolution:energy_core_stabilizer"
+			}
+			id: "66B6E08271B1EF27"
+			rewards: [
+				{
+					count: 2
+					id: "5C57358614302DE9"
+					item: {
+						count: 1
+						id: "draconicevolution:draconium_block"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "6222FA77C018BB56"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "08B419D3469EE3C7"
+					item: { count: 1, id: "draconicevolution:energy_core" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3D293313F8E35073"
+					item: { count: 1, id: "draconicevolution:energy_core_stabilizer" }
+					type: "item"
+				}
+				{
+					id: "0A0AA6C6AC988479"
+					item: { count: 1, id: "draconicevolution:energy_pylon" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7279FFED00B223D7"]
+			id: "371B1D35A5F4F4E1"
+			optional: true
+			rewards: [{
+				id: "6B770BF8525650F9"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7BB337BFAB4F5685"
+				item: { count: 1, id: "draconicevolution:energy_transfuser" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["48935E2DFCA1E835"]
+			icon: {
+				id: "draconicevolution:reactor_core"
+			}
+			icon_scale: 2.0d
+			id: "4E474C940C683371"
+			min_width: 350
+			rewards: [
+				{
+					count: 2
+					id: "76D5246D5FC75DE6"
+					item: {
+						count: 1
+						id: "draconicevolution:chaos_shard"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "55D073EC0F524FED"
+					table_id: 5520407105220027978L
+					type: "random"
+				}
+				{
+					id: "039DEC0AE58105A8"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			size: 2.0d
+			tasks: [
+				{
+					id: "7DF638393F15BE42"
+					item: { count: 1, id: "draconicevolution:reactor_core" }
+					type: "item"
+				}
+				{
+					id: "73FB9A33B28294C2"
+					item: { count: 1, id: "draconicevolution:reactor_injector" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "684B517EB1BAD7F8"
+					item: { count: 1, id: "draconicevolution:flux_gate" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "15B0C3704E98B4CF"
+					item: { count: 1, id: "draconicevolution:reactor_stabilizer" }
+					type: "item"
+				}
+			]
+			x: 25.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["704DA4761DD8FDDD"]
+			id: "7B4CBCAF13C6F189"
+			rewards: [
+				{
+					id: "233A8DCE6467F2ED"
+					item: {
+						count: 1
+						id: "draconicevolution:wyvern_core"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "398F297755CCDCA7"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "0F242C523068466E"
+				item: { count: 1, id: "draconicevolution:wyvern_crafting_injector" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5BE257CE3FD1FDAC"]
+			icon: {
+				id: "draconicevolution:awakened_core"
+			}
+			id: "2AA1FF7D5AD163F1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0C1DE10378246DF9"
+					table_id: 4042342286300934271L
+					type: "random"
+				}
+				{
+					id: "3E81DFA4B8E18170"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "0CA0B8C58AF62C63"
+					item: { count: 1, id: "draconicevolution:awakened_core" }
+					type: "item"
+				}
+				{
+					id: "5ED705DAD87D9184"
+					item: { count: 1, id: "draconicevolution:draconic_energy_core" }
+					type: "item"
+				}
+			]
+			x: 16.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["48935E2DFCA1E835"]
+			hide_dependency_lines: true
+			id: "3C0508E6233BC014"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D569E911F1F55E4"
+					table_id: 5520407105220027978L
+					type: "loot"
+				}
+				{
+					id: "7095198E0DE27781"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "55DDE37808F370E5"
+				item: { count: 1, id: "draconicevolution:chaotic_bow" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["48935E2DFCA1E835"]
+			hide_dependency_lines: true
+			id: "7244348CAB8356E0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0F4701A5F7085DA6"
+					table_id: 5520407105220027978L
+					type: "loot"
+				}
+				{
+					id: "0B03F4C17B4021AD"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "7F764DB3CB26B854"
+				item: { count: 1, id: "draconicevolution:chaotic_chestpiece" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["48935E2DFCA1E835"]
+			icon: {
+				id: "draconicevolution:chaotic_core"
+			}
+			id: "660955FF7D0920A8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "647FC78A647E08E1"
+					table_id: 5520407105220027978L
+					type: "loot"
+				}
+				{
+					id: "6E502A48A28DB0DD"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "3F6ECA465FE9B7CC"
+					item: { count: 1, id: "draconicevolution:chaotic_core" }
+					type: "item"
+				}
+				{
+					id: "088A55B629F226AC"
+					item: { count: 1, id: "draconicevolution:chaotic_energy_core" }
+					type: "item"
+				}
+			]
+			x: 21.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["48935E2DFCA1E835"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"draconicevolution:config_properties": [[
+						{
+							"": "DECIMAL"
+						}
+						{
+							formatter: "percent_1"
+							max: 1.0d
+							min: 0.0d
+							name: "mining_speed"
+							show_on_hud: 1b
+							value: 1.0d
+						}
+					]]
+					"draconicevolution:module_entities": [ ]
+					"draconicevolution:provider_identity": [I;
+						-1442911470
+						471942680
+						-1976804119
+						1246183698
+					]
+				}
+				id: "draconicevolution:chaotic_pickaxe"
+			}
+			id: "1ABB93F87483CA3E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6A8E9F1376068603"
+					table_id: 5520407105220027978L
+					type: "loot"
+				}
+				{
+					id: "3B7FA5E4DDA68511"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "2D9AA4F523B2C5B5"
+				item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:chaotic_axe)item(draconicevolution:chaotic_hoe)item(draconicevolution:chaotic_pickaxe)item(draconicevolution:chaotic_shovel))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"48935E2DFCA1E835"
+				"0D38D67E3FD120CB"
+				"1ABB93F87483CA3E"
+			]
+			hide_dependency_lines: true
+			id: "5E2F4A6147694D5C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "423B07A1834D82A8"
+					table_id: 5520407105220027978L
+					type: "loot"
+				}
+				{
+					id: "040B80CBF10D3C33"
+					type: "xp"
+					xp: 500
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "2706637624A0C88A"
+				item: { count: 1, id: "draconicevolution:chaotic_staff" }
+				type: "item"
+			}]
+			x: 21.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["48935E2DFCA1E835"]
+			hide_dependency_lines: true
+			id: "0D38D67E3FD120CB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "52C45450777D9574"
+					table_id: 5520407105220027978L
+					type: "loot"
+				}
+				{
+					id: "49534F0829198DC0"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "2F2B53219BB03706"
+				item: { count: 1, id: "draconicevolution:chaotic_sword" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4A1DBDE0963407E7"]
+			icon: {
+				id: "draconicevolution:dislocator"
+			}
+			id: "056492E163706EC5"
+			rewards: [
+				{
+					count: 2
+					id: "07E178A0FE974445"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					random_bonus: 4
+					type: "item"
+				}
+				{
+					id: "21657C9A65B240B1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "74F4009823415473"
+					item: { count: 1, id: "draconicevolution:dislocator" }
+					type: "item"
+				}
+				{
+					id: "02E449766077964E"
+					item: { count: 1, id: "draconicevolution:advanced_dislocator" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"5BE257CE3FD1FDAC"
+				"0EE67A1E7273D1A0"
+			]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"draconicevolution:config_properties": [ ]
+					"draconicevolution:module_entities": [ ]
+					"draconicevolution:provider_identity": [I;
+						877348442
+						-1809234471
+						-1642006283
+						1001007471
+					]
+				}
+				id: "draconicevolution:draconic_bow"
+			}
+			id: "3F8EC64FB8A78A4A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7A8722553F448C2C"
+					table_id: 4042342286300934271L
+					type: "random"
+				}
+				{
+					id: "32CE2D1F62C3821E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "06B7E45E4B761838"
+					item: { count: 1, id: "draconicevolution:draconic_bow" }
+					type: "item"
+				}
+				{
+					id: "26B6338C1BD9A024"
+					item: { count: 1, id: "draconicevolution:item_draconic_proj_anti_immune" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 17.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"5BE257CE3FD1FDAC"
+				"69997DAB93184551"
+			]
+			hide_dependency_lines: true
+			id: "700716B4ACCBD4F4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2A95085CE08E9C6C"
+					table_id: 4042342286300934271L
+					type: "random"
+				}
+				{
+					id: "12DCBACA704280B1"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "40CD7C34551A6922"
+				item: { count: 1, id: "draconicevolution:draconic_chestpiece" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"5BE257CE3FD1FDAC"
+				"26C56E80D6F15838"
+			]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"draconicevolution:config_properties": [[
+						{
+							"": "DECIMAL"
+						}
+						{
+							formatter: "percent_1"
+							max: 1.0d
+							min: 0.0d
+							name: "mining_speed"
+							show_on_hud: 1b
+							value: 1.0d
+						}
+					]]
+					"draconicevolution:module_entities": [ ]
+					"draconicevolution:provider_identity": [I;
+						205560593
+						285101815
+						-1504508398
+						-770755215
+					]
+				}
+				id: "draconicevolution:draconic_pickaxe"
+			}
+			id: "74CC3450902370F7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "32794E048CF3877C"
+					table_id: 4042342286300934271L
+					type: "random"
+				}
+				{
+					id: "552A83D1B6F1B7E2"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "1894234815710814"
+				item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:draconic_axe)item(draconicevolution:draconic_hoe)item(draconicevolution:draconic_pickaxe)item(draconicevolution:draconic_shovel))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"5BE257CE3FD1FDAC"
+				"74CC3450902370F7"
+				"5388B67410670702"
+			]
+			hide_dependency_lines: true
+			id: "11A35E8F97ACA240"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F81BECF8CB6BCC8"
+					table_id: 4042342286300934271L
+					type: "random"
+				}
+				{
+					id: "284F94B881E722B4"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "7599A30B39034A5B"
+				item: { count: 1, id: "draconicevolution:draconic_staff" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -5.5d
+		}
+		{
+			dependencies: [
+				"5BE257CE3FD1FDAC"
+				"2C141655079AC173"
+			]
+			hide_dependency_lines: true
+			id: "5388B67410670702"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "18F6BAAC2A573874"
+					table_id: 4042342286300934271L
+					type: "random"
+				}
+				{
+					id: "2D312B7C917C579B"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "43464862876C1D0F"
+				item: { count: 1, id: "draconicevolution:draconic_sword" }
+				type: "item"
+			}]
+			x: 17.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4A1DBDE0963407E7"]
+			id: "7279FFED00B223D7"
+			rewards: [{
+				id: "0D03C055A3E14CC4"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "39ECE6A6EA1D0AFF"
+				item: { count: 1, id: "draconicevolution:draconium_core" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "draconicevolution:draconium_dust"
+			}
+			id: "4A1DBDE0963407E7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "45A1D74730D145AE"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					id: "7967149B89855AC0"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "1225BD7A083DAD3B"
+					item: { count: 1, id: "draconicevolution:draconium_dust" }
+					type: "item"
+				}
+				{
+					id: "5DD3C3EED1F8129C"
+					item: { count: 1, id: "draconicevolution:draconium_ingot" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4A1DBDE0963407E7"]
+			icon: {
+				id: "draconicevolution:dragon_heart"
+			}
+			id: "038E10387B1547BA"
+			rewards: [
+				{
+					id: "7FF309E4C9B40E3A"
+					item: {
+						count: 1
+						id: "draconicevolution:dragon_heart"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "5BB52B1BBAA159DE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "heart"
+			size: 1.5d
+			tasks: [
+				{
+					id: "463D9F616F315075"
+					item: { count: 1, id: "draconicevolution:dragon_heart" }
+					type: "item"
+				}
+				{
+					id: "7A172DFC590C9109"
+					item: { count: 1, id: "draconicevolution:awakened_draconium_block" }
+					type: "item"
+				}
+			]
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["056492E163706EC5"]
+			icon: {
+				id: "draconicevolution:player_dislocator_unbound"
+			}
+			id: "74A0C37A8115B90F"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "73FE31FA504C47CD"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					id: "33E8E1397A1453CE"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "2D1C295A471C12A0"
+					item: { count: 1, id: "draconicevolution:player_dislocator_unbound" }
+					type: "item"
+				}
+				{
+					id: "6D4FA0F1591035F2"
+					item: { count: 1, id: "draconicevolution:dislocator_pedestal" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2F32FF00B68F8618"]
+			hide_dependency_lines: true
+			id: "0EE67A1E7273D1A0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "654EA8C9BA339411"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "474E01EC6BD485D0"
+					table_id: 3356935504911673301L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "0CFC124AFC3B7C45"
+				item: { count: 1, id: "draconicevolution:wyvern_bow" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2F32FF00B68F8618"]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"draconicevolution:attribute_data": {
+						damage: 5.25d
+						speed: 1.0d
+					}
+					"draconicevolution:config_properties": [[
+						{
+							"": "DECIMAL"
+						}
+						{
+							formatter: "percent_1"
+							max: 1.0d
+							min: 0.0d
+							name: "mining_speed"
+							show_on_hud: 1b
+							value: 1.0d
+						}
+					]]
+					"draconicevolution:destroy_speed_data": {
+						aoeSetting: 0.0f
+						multiplier: 0.0f
+						speedSetting: 1.0f
+					}
+					"draconicevolution:module_entities": [ ]
+					"draconicevolution:provider_identity": [I;
+						1309803405
+						-1903211805
+						-2062038358
+						718111282
+					]
+				}
+				id: "draconicevolution:wyvern_pickaxe"
+			}
+			id: "26C56E80D6F15838"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "717FD35DD2B30FDB"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0D1086AF693D009E"
+					table_id: 3356935504911673301L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "2BAC28B76BC52485"
+				item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:wyvern_pickaxe)item(draconicevolution:wyvern_hoe)item(draconicevolution:wyvern_axe)item(draconicevolution:wyvern_shovel))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2F32FF00B68F8618"]
+			hide_dependency_lines: true
+			id: "2C141655079AC173"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F43AA3D9DE10907"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6E1EF56242325224"
+					table_id: 3356935504911673301L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "2778893E646FC578"
+				item: { count: 1, id: "draconicevolution:wyvern_sword" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2F32FF00B68F8618"]
+			hide_dependency_lines: true
+			id: "69997DAB93184551"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "498D0E4B88227E8F"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "599A3347E4229A9C"
+					table_id: 3356935504911673301L
+					type: "loot"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "6141C07ED2894D51"
+				item: { count: 1, id: "draconicevolution:wyvern_chestpiece" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7B4CBCAF13C6F189"]
+			icon: {
+				components: {
+					"draconicevolution:config_properties": [
+						[
+							{
+								"": "BOOLEAN"
+							}
+							{
+								default_value: 0b
+								formatter: "true_false"
+								name: "charge_held_item"
+								show_on_hud: 1b
+								value: 0b
+							}
+						]
+						[
+							{
+								"": "BOOLEAN"
+							}
+							{
+								default_value: 0b
+								formatter: "true_false"
+								name: "charge_armor"
+								show_on_hud: 1b
+								value: 0b
+							}
+						]
+						[
+							{
+								"": "BOOLEAN"
+							}
+							{
+								default_value: 0b
+								formatter: "true_false"
+								name: "charge_hot_bar"
+								show_on_hud: 1b
+								value: 0b
+							}
+						]
+						[
+							{
+								"": "BOOLEAN"
+							}
+							{
+								default_value: 0b
+								formatter: "true_false"
+								name: "charge_main"
+								show_on_hud: 1b
+								value: 0b
+							}
+						]
+						[
+							{
+								"": "BOOLEAN"
+							}
+							{
+								default_value: 0b
+								formatter: "true_false"
+								name: "charge_curios"
+								show_on_hud: 1b
+								value: 0b
+							}
+						]
+					]
+					"draconicevolution:module_entities": [ ]
+					"draconicevolution:provider_identity": [I;
+						502336942
+						-1460189385
+						-1746885575
+						151837586
+					]
+				}
+				id: "draconicevolution:wyvern_capacitor"
+			}
+			id: "4939A75E99826CF6"
+			optional: true
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "20472E07E24863D6"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					id: "7EC23CA9CD874FC8"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "31B6F2083880E70B"
+				item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:wyvern_capacitor)item(draconicevolution:draconic_capacitor)item(draconicevolution:chaotic_capacitor))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2F32FF00B68F8618"]
+			icon: {
+				id: "draconicevolution:item_wyvern_speed"
+			}
+			id: "11B90CCB0C6ABE26"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "27C1DD8E1A6968B5"
+				table_id: 3356935504911673301L
+				type: "loot"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4F4857C71B02E666"
+				item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:item_wyvern_energy_link)item(draconicevolution:item_wyvern_speed))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2C141655079AC173"]
+			icon: {
+				id: "draconicevolution:item_draconium_damage"
+			}
+			id: "0129F0F40E40526E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "424EF4C1AE49014B"
+				table_id: 3356935504911673301L
+				type: "loot"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "44C325E432C0D927"
+					item: { count: 1, id: "draconicevolution:item_draconium_damage" }
+					type: "item"
+				}
+				{
+					id: "6C794895E1C115C4"
+					item: { count: 1, id: "draconicevolution:item_draconium_aoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 12.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7279FFED00B223D7"]
+			icon: {
+				id: "draconicevolution:basic_relay_crystal"
+			}
+			id: "7CEB9C5F6924AAFC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "79E6B85BAB92CC92"
+					table_id: 4634798818103374212L
+					type: "loot"
+				}
+				{
+					id: "7C46947BD4F52DAB"
+					type: "xp"
+					xp: 10
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "7E6C8C345EB64E7F"
+					item: { count: 1, id: "draconicevolution:crystal_binder" }
+					type: "item"
+				}
+				{
+					icon: {
+						id: "draconicevolution:basic_relay_crystal"
+					}
+					id: "0029527998A30224"
+					item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:basic_relay_crystal)item(draconicevolution:wyvern_relay_crystal)item(draconicevolution:draconic_relay_crystal))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					icon: {
+						id: "draconicevolution:basic_io_crystal"
+					}
+					id: "76E0E763850E3BD4"
+					item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:basic_io_crystal)item(draconicevolution:wyvern_io_crystal)item(draconicevolution:draconic_io_crystal))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					icon: {
+						id: "draconicevolution:basic_wireless_crystal"
+					}
+					id: "6417A042D97FD94E"
+					item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:basic_wireless_crystal)item(draconicevolution:wyvern_wireless_crystal)item(draconicevolution:draconic_wireless_crystal))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7B4CBCAF13C6F189"]
+			icon: {
+				id: "draconicevolution:item_draconium_energy"
+			}
+			id: "2F32FF00B68F8618"
+			rewards: [
+				{
+					id: "7667AAD0A7651C87"
+					item: {
+						count: 1
+						id: "draconicevolution:item_wyvern_energy"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "2208F4A9AB725220"
+					type: "xp"
+					xp: 25
+				}
+			]
+			shape: "diamond"
+			size: 1.0d
+			tasks: [
+				{
+					id: "71E588FFDC5A2620"
+					item: { count: 1, id: "draconicevolution:module_core" }
+					type: "item"
+				}
+				{
+					icon: {
+						id: "draconicevolution:item_draconium_energy"
+					}
+					id: "08BD44461F482A53"
+					item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:item_draconium_energy)item(draconicevolution:item_wyvern_energy)item(draconicevolution:item_draconic_energy)item(draconicevolution:item_chaotic_energy))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0EE67A1E7273D1A0"]
+			icon: {
+				id: "draconicevolution:item_wyvern_proj_damage"
+			}
+			id: "1B3D6FCEE76115B8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18B9C26B11FE0D96"
+				table_id: 3356935504911673301L
+				type: "loot"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1C9447A9D0AFACAA"
+				item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:item_wyvern_proj_velocity)item(draconicevolution:item_wyvern_proj_damage)item(draconicevolution:item_wyvern_proj_accuracy)item(draconicevolution:item_wyvern_proj_grav_comp)item(draconicevolution:item_wyvern_proj_penetration)item(draconicevolution:item_wyvern_auto_fire))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["69997DAB93184551"]
+			icon: {
+				id: "draconicevolution:item_wyvern_flight"
+			}
+			id: "47DBBF44375D313F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42D42AA6E4C479B0"
+				table_id: 3356935504911673301L
+				type: "loot"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "5BE70295CD54250B"
+					item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:item_wyvern_shield_capacity)item(draconicevolution:item_wyvern_large_shield_capacity)item(draconicevolution:item_wyvern_undying)item(draconicevolution:item_wyvern_shield_recovery)item(draconicevolution:item_wyvern_shield_control))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "1136F216C8AF9FE6"
+					item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:item_wyvern_mining_stability)item(draconicevolution:item_wyvern_aqua_adapt)item(draconicevolution:item_wyvern_hill_step)item(draconicevolution:item_draconium_auto_feed)item(draconicevolution:item_draconium_jump)item(draconicevolution:item_wyvern_flight)item(draconicevolution:item_wyvern_night_vision))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["26C56E80D6F15838"]
+			icon: {
+				components: {
+					"draconicevolution:bool_item_prop_1": {
+						default_value: 1b
+						formatter: "enabled_disabled"
+						name: "ender_collection_mod.enabled"
+						show_on_hud: 1b
+						value: 1b
+					}
+					"draconicevolution:ender_module_frequency": { }
+				}
+				id: "draconicevolution:item_wyvern_ender_collection"
+			}
+			id: "1A82E7842EE78A3F"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "529E09E2D4FBD5D7"
+				table_id: 3356935504911673301L
+				type: "loot"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "79D413C019053417"
+					item: { components: { "ftbfiltersystem:filter": "or(item(draconicevolution:item_wyvern_ender_collection)item(draconicevolution:item_wyvern_junk_filter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "647F533B8933C1E6"
+					item: { count: 1, id: "draconicevolution:item_draconium_aoe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5BE257CE3FD1FDAC"]
+			id: "7D2FB7B5F19AC143"
+			min_width: 300
+			rewards: [
+				{
+					count: 2
+					id: "22355834ACB831D8"
+					item: {
+						count: 1
+						id: "draconicevolution:chaos_shard"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "6A94CD5F605E3D66"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "363025444A92FCE3"
+				item: { count: 1, id: "draconicevolution:chaos_shard" }
+				type: "item"
+			}]
+			x: 18.5d
+			y: 0.0d
+		}
+	]
+}

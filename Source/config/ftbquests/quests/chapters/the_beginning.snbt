@@ -1329,7 +1329,7 @@
 				criterion: ""
 				icon: {
 					components: {
-						"ftbquests:icon": "ftbchunks:textures/faces/caverns_and_chasms/deeper.png"
+						"ftbquests:icon": "ftblibrary:textures/faces/caverns_and_chasms/deeper.png"
 					}
 					id: "ftbquests:custom_icon"
 				}
