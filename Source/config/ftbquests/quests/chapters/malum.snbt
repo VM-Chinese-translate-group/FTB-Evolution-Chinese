@@ -93,7 +93,7 @@
 		{
 			color: 5636095
 			height: 1.0d
-			image: "malum:textures/vfx/rite/aerial.png"
+			image: "malum:textures/vfx/rite/corrupt_gaze_greater_aerial_rite.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 3.5d
@@ -102,7 +102,7 @@
 		{
 			color: 43690
 			height: 1.0d
-			image: "malum:textures/vfx/rite/aqueous.png"
+			image: "malum:textures/vfx/rite/corrupt_gaze_lesser_aqueous_rite.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 3.5d
@@ -111,7 +111,7 @@
 		{
 			color: 16733695
 			height: 1.0d
-			image: "malum:textures/vfx/rite/arcane.png"
+			image: "malum:textures/vfx/rite/gaze_arcane.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 7.0d
@@ -120,7 +120,7 @@
 		{
 			color: 5635925
 			height: 1.0d
-			image: "malum:textures/vfx/rite/earthen.png"
+			image: "malum:textures/vfx/rite/corrupt_gaze_greater_earthen_rite.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 6.5d
@@ -129,7 +129,7 @@
 		{
 			color: 16755200
 			height: 1.0d
-			image: "malum:textures/vfx/rite/infernal.png"
+			image: "malum:textures/vfx/rite/corrupt_gaze_lesser_infernal_rite.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 6.5d
@@ -138,7 +138,7 @@
 		{
 			color: 16716652
 			height: 1.0d
-			image: "malum:textures/vfx/rite/sacred.png"
+			image: "malum:textures/vfx/rite/corrupt_gaze_greater_sacred_rite.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 5.0d
@@ -147,7 +147,7 @@
 		{
 			color: 11141290
 			height: 1.0d
-			image: "malum:textures/vfx/rite/wicked.png"
+			image: "malum:textures/vfx/rite/corrupt_gaze_lesser_wicked_rite.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 5.0d
@@ -1340,7 +1340,7 @@
 			dependencies: ["272E84656D0F133C"]
 			icon: {
 				components: {
-					"ftbquests:icon": "malum:textures/mob_effect/sacrificial_empowerment.png"
+					"ftbquests:icon": "malum:textures/mob_effect/wicked_intent.png"
 				}
 				id: "ftbquests:custom_icon"
 			}

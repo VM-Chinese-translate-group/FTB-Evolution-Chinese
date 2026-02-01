@@ -724,11 +724,13 @@
 				{
 					id: "45CFA4918DE33763"
 					item: { components: { "ftbfiltersystem:filter": "or(item(irons_spellbooks:copper_spell_book)item(irons_spellbooks:iron_spell_book))", "minecraft:custom_name": "\"Starter Spellbooks\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					match_components: "fuzzy"
 					type: "item"
 				}
 				{
 					id: "643D8A56111D16B7"
 					item: { components: { "ftbfiltersystem:filter": "or(item(irons_spellbooks:scroll))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					match_components: "fuzzy"
 					type: "item"
 				}
 			]
