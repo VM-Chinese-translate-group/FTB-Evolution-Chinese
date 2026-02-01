@@ -815,6 +815,7 @@
 						count: 1
 						id: "ftbfiltersystem:smart_filter"
 					}
+					match_components: "fuzzy"
 					type: "item"
 				}
 				{
@@ -826,6 +827,7 @@
 						count: 1
 						id: "ftbfiltersystem:smart_filter"
 					}
+					match_components: "fuzzy"
 					type: "item"
 				}
 			]
