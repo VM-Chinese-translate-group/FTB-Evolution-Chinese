@@ -1,9 +1,6 @@
 {
 	icon: {
-		components: {
-			"ftbquests:icon": "factory_blocks:block/fan/medium_fan"
-		}
-		id: "ftbquests:custom_icon"
+		id: "chisel:technical/malfunctionfan"
 	}
 	id: "5980398643E65CBF"
 	loot_crate: {

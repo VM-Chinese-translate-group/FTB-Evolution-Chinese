@@ -731,6 +731,7 @@
 					id: "643D8A56111D16B7"
 					item: { components: { "ftbfiltersystem:filter": "or(item(irons_spellbooks:scroll))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					match_components: "fuzzy"
+					optional_task: true
 					type: "item"
 				}
 			]
