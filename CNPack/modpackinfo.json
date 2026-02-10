@@ -1,12 +1,12 @@
 {
   "modpack": {
     "name": "FTB Evolution",
-    "version": "1.28.0",
+    "version": "1.29.0",
     "translation": {
       "id": "ftbe",
       "url": "https://vmct-cn.top/modpacks/ftbe/",
       "language": "zh_cn",
-      "version": "1.27.0",
+      "version": "1.29.0",
       "resourcePackName": "VM汉化组模组汉化包1.19及以上"
     }
   }
