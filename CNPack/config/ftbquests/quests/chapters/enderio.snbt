@@ -195,7 +195,7 @@
 		}
 		{
 			height: 8.0d
-			image: "enderio:item/enderface_none"
+			image: "ftbevolution:textures/quests/enderio/enderface_none.png"
 			rotation: 0.0d
 			width: 8.0d
 			x: -1.0d

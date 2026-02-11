@@ -828,6 +828,7 @@
 						id: "ftbfiltersystem:smart_filter"
 					}
 					match_components: "fuzzy"
+					optional_task: true
 					type: "item"
 				}
 			]
