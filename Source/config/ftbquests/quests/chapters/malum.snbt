@@ -916,8 +916,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "579A856376CC3518"
-				item: { components: { "ftbfiltersystem:filter": "item_tag(malum:soulhunters_treasure)item_tag(ars_elemental:soulbound_extra)or(item_tag(curios:belt)item_tag(curios:necklace)item_tag(curios:ring))or(mod(malum)mod(gaze))", "minecraft:custom_name": "\"Malum trinkets\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "46C58E4BD9617A03"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(ftb:malum_basic_trinkets)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: -4.0d
