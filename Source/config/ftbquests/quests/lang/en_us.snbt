@@ -156,7 +156,24 @@
 	quest.0174ACD260158165.quest_subtitle: "Transfers Gas or Chemicals"
 	quest.0174ACD260158165.title: "&fGas Pipe"
 	quest.018027C0128159CB.title: "&fShield Blueprint"
-	quest.018258B166F270D8.title: "&aRealized Transcendence"
+	quest.018258B166F270D8.quest_desc: [
+		"The &zRealized Transcendence&r focuses on some of the major &aBoss Fights&r in the pack!"
+		""
+		"&aNote&r: This item will not need to be automated, and is not consumed when used in recipes."
+		""
+		"&oBoss Checklist -->&r"
+		"{@pagebreak}"
+		"- Maledictus"
+		"- Echo of Tyros"
+		"- Starlight Golem"
+		"- Lunar Monstrosity"
+		"- Ancient Remnant"
+		"- Clawdian"
+		"- Scylla"
+		"- The Harbinger"
+	]
+	quest.018258B166F270D8.quest_subtitle: "Focus: Boss Fights and Exploration"
+	quest.018258B166F270D8.title: "&zRealized Transcendence"
 	quest.018B19721F4404FF.quest_desc: ["Generates power by consuming Ender Pearls or Eyes of Ender."]
 	quest.018B19721F4404FF.title: "&fEnder Mycelial Generator"
 	quest.019C7CBC9B62C803.quest_desc: [
@@ -240,7 +257,17 @@
 		"These ingots are used to make more advanced crafted items, like the &dHV Accumulator&r."
 	]
 	quest.026A64F01C301119.title: "&3HOP Graphite&r"
-	quest.028BF2D5CFCDA52A.title: "&eMekanized Super Computer"
+	quest.028BF2D5CFCDA52A.quest_desc: [
+		"It's time to create the final item: the &zMechanized Super Computer&r."
+		""
+		"The first big step to creating this item will be to create the 14 &zChaotic Fusion Crafting Injectors&r needed to hold the recipe items."
+		""
+		"You'll also need every pyramid item you've created so far on this journey, so I hope you have automated them along the way!"
+		""
+		"&o&3And a lot of power.&r"
+	]
+	quest.028BF2D5CFCDA52A.quest_subtitle: "Focus: Yes."
+	quest.028BF2D5CFCDA52A.title: "&zMekanized Super Computer"
 	quest.02BC61BBCDB931A3.quest_desc: [
 		"The &6Gas-Burning Generator&r is one of the best ways to generate power in the early game."
 		""
@@ -403,8 +430,6 @@
 		"It allows you to craft tier 3 talismans, &bForce Talismans&r, and can be upgraded into the &bLegendary Talisman Base&r."
 	]
 	quest.04561BBA227DE4D6.title: "&dEpic Talisman Base"
-	quest.04563030DE224F18.quest_desc: ["Anvils in &eApotheosis&r can be enchanted with &bUnbreaking&r to extend their lifetime!"]
-	quest.04563030DE224F18.title: "&fEnchant Your Anvils!"
 	quest.0457FBD64D57E07B.quest_desc: ["&3Empowered Emeradic Crystal Blocks&r are used to make &6FTB Pyramid's &dDissolved Potential&r."]
 	quest.0457FBD64D57E07B.title: "&3Empowered Emeradic Crystal"
 	quest.0467ED23E790F1C4.quest_desc: ["&aItem Vaults&r are an interfaceless storage that can be expanded by adding more &aItem Vaults&r together."]
@@ -1557,7 +1582,13 @@
 	quest.0F22A0A29B961A1C.quest_desc: ["While you get &eEthylbenzene&r from &3Distilling&r &dSteam-Cracked Naphtha&r, you can also combine extra &3Ethylene&r and &aBenzene&r you get to make more &eEthylbenzene&r."]
 	quest.0F22A0A29B961A1C.title: "&eEthylbenzene"
 	quest.0F27F75EC72DBAA9.quest_desc: ["[ \"The \", {\"text\": \"Long-Range Breaker\", \"color\": \"#55FF55\"}, \" works like a normal \", { \"text\": \"Breaker\", \"color\": \"#55FF55\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1CE0FEAC977DA7FF\" } }, \", but has an 8 block range.\" ]"]
-	quest.0F2DD1EF4E57E523.title: "&6Dimensional Memory Fragment"
+	quest.0F2DD1EF4E57E523.quest_desc: [
+		"The &zDimensional Memory Fragment&r will have you automating &dApotheosis Salvaging&r and using &2Cognition&r to make use of &eExperience&r from mob farms."
+		""
+		"&dApotheosis&r is a great mod for making great gear for fighting bosses!"
+	]
+	quest.0F2DD1EF4E57E523.quest_subtitle: "Focus: Gearing Up and Exploration"
+	quest.0F2DD1EF4E57E523.title: "&zDimensional Memory Fragment"
 	quest.0F3E0EBEC3DBED48.quest_desc: [
 		"&aPipe Boosters&r are used to massively increase the flow rate of &eItem&r and &bFluid&r Pipes."
 		""
@@ -1743,7 +1774,15 @@
 		"The &6Dictionary of Spirits&r is the ultimate guidebook for the mod. It's also needed for certain recipes, and can be used to create holograms to help you build out &bRituals&r!"
 	]
 	quest.10F792474C01A594.title: "&fWelcome to &eOccultism&f!"
-	quest.1105D1809EB9ADEF.title: "&eInfinitely Compressed Circuit Board"
+	quest.1105D1809EB9ADEF.quest_desc: [
+		"To create the &zInfinitely Compressed Circuit Board&r, you'll need to rely on several advanced tech mod setups!"
+		""
+		"This item heavily focuses on using &2PneumaticCraft&r. You will want a solid &aPCB Assembly&r setup going to create this item."
+		""
+		"You will also need to use both &6AE2&r and &6Refined Storage&r items to create it."
+	]
+	quest.1105D1809EB9ADEF.quest_subtitle: "Focus: Tech and Digital Storage Mods"
+	quest.1105D1809EB9ADEF.title: "&zInfinitely Compressed Circuit Board"
 	quest.11078789ACAB91CE.quest_desc: [
 		"Once you have Ender Pearls and some Blaze Powder, you can craft &6Eyes of Ender&r."
 		""
@@ -2656,6 +2695,12 @@
 		"The &eAncient Weave&r converts the armor to an alternate version of itself, but all other weaves change the armor to one set look."
 		"&o&7Ex. a Soulhunter Robe and a Soulstained Chestplate will seem identical after a Cornered Weave is applied.&r"
 	]
+	quest.1BDE743ABCC3E78A.quest_desc: [
+		"To get the first layer for the pyramid, you'll need to automate the first tier of items."
+		""
+		"Most of these items will need to be submitted, with the exception of the &zEvolutionary Arcanum&r."
+	]
+	quest.1BDE743ABCC3E78A.quest_subtitle: "Automation Check!"
 	quest.1BDE743ABCC3E78A.title: "&aThe First Layer"
 	quest.1C0024A48898FB90.quest_desc: [
 		"With an &aAlchemical Impetus&r as a focus, &aSpirit Crucibles&r are able to channel spirits into a physical form such as dusts or gems that align with their aspects. This slowly uses up the Impetus's material, but it can be repaired or made anew."
@@ -3260,7 +3305,15 @@
 		"Yes, it does work with &eUltimine&r!"
 	]
 	quest.22F07FB51C5DE600.title: "A Superior Tool"
-	quest.230A9E24A34690DE.title: "&6Time Prism"
+	quest.230A9E24A34690DE.quest_desc: [
+		"The &zTime Prism&r is created using the final tier of the &dHephaestus Forge&r."
+		""
+		"This item uses several end-game items from &6Just Dire Things&r, as well as combining &aXycraft&r's gems into the ultimate crystal."
+		""
+		"&aNote&r: Automating &bSouls&r can easily be done using &6Just Dire Things&r. All of the &6Relics&r have crafting recipes as well."
+	]
+	quest.230A9E24A34690DE.quest_subtitle: "Focus: Magic and Tech"
+	quest.230A9E24A34690DE.title: "&zTime Prism"
 	quest.230E34A0E4A4C014.quest_desc: [
 		"Harvesting &eHoneycombs&r and &eHoney Bottles&r by hand is exhausting. And who actually uses the campfire trick? Just get the sting over with, amirite?"
 		""
@@ -4612,7 +4665,15 @@
 	quest.30CE0A1635346670.title: "&6Meka-Gear"
 	quest.30D00AC248214D58.quest_desc: ["The &3Energetic Alloy&r is used in some crafting recipes, but is most commonly used to craft &aDouble Layer Capacitors&r and &dVibrant Alloy&r"]
 	quest.30D00AC248214D58.title: "&3Energetic Alloy"
-	quest.3142B7C67CB8EEB3.title: "&aOmega Dragon Egg"
+	quest.3142B7C67CB8EEB3.quest_desc: [
+		"The &zOmega Dragon Egg&r challenges your resource farms to create the ultimate dragon item!"
+		""
+		"You'll want to have both &2Mystical Agriculture&r and &eProductive Bee&r farms going to acquire this item. You might have to impress the &dQueen Bee&r along the way as well!"
+		""
+		"&aNote&r: The &6Essence of the Bees&r is not consumed when crafting this recipe, allowing for you to make multiple &zOmega Dragon Eggs&r."
+	]
+	quest.3142B7C67CB8EEB3.quest_subtitle: "Focus: Resource Production, Bees, and Dragons"
+	quest.3142B7C67CB8EEB3.title: "&zOmega Dragon Egg"
 	quest.3148FCED5BF543B5.quest_desc: [
 		"The &aTool Belt&r is the perfect place to store all of your tools in one place."
 		""
@@ -4644,7 +4705,15 @@
 		"Aside from the tier of the generator, different heat sources will multiply the amount of power that the generator makes. For example, &cLava&r is a 1x multiplier. If you use a &cBlazing Crystal Block&r instead, the generator will make 2.8x the RF/t!"
 	]
 	quest.318747B4EF9E1D5B.title: "&fThermo Gens"
-	quest.319098064145CF21.title: "&aEvolutionary Matter"
+	quest.319098064145CF21.quest_desc: [
+		"The &zEvolutionary Matter&r focuses on utilizing &2Mob Farms&r!"
+		""
+		"To create this item, you'll need to use several different methods of farming mobs, including killing the main vanilla bosses."
+		""
+		"The &dEvolutionary Amalgam&r is all about using &aHostile Neural Networks&r, which is a great server-friendly option for mob farming!"
+	]
+	quest.319098064145CF21.quest_subtitle: "Focus: Mob Farms and Vanilla Bosses"
+	quest.319098064145CF21.title: "&zEvolutionary Matter"
 	quest.319F49C16CFE900C.quest_desc: [
 		"While sleeping in a bed is the default way of setting your respawn point, you can also use the &a/sethome&r command to set a point to teleport back to with &a/home&r."
 		""
@@ -6686,7 +6755,13 @@
 		"To link the two, you'll need to create a pair of &dQuantum Entangled Singularities&r, and place one into a &6Quantum Network Bridge&r and the other into your &dWireless Terminal&r, along with the card itself."
 	]
 	quest.450A1BAD728F594B.title: "&dInfinite Wireless Access"
-	quest.451FD4CA758C6019.title: "&6Evolutionary Arcanum"
+	quest.451FD4CA758C6019.quest_desc: [
+		"The &zEvolutionary Arcanum&r is created from the progression of two magic mods: &dOccultism&r and &dForbidden and Arcanus&r."
+		""
+		"&aNote&r: This item is not required to be automated. &dForbidden&r &6Relics&r can also be crafted!"
+	]
+	quest.451FD4CA758C6019.quest_subtitle: "Focus: Magic Mods"
+	quest.451FD4CA758C6019.title: "&zEvolutionary Arcanum"
 	quest.452A356F35EE46DD.quest_desc: ["&3Empowered Diamantine Crystals&r are used in some &eActually Additions&r recipes, but they are also used when crafting &6FTB Pyramid's &dPrismatic Xychorium&r."]
 	quest.452A356F35EE46DD.title: "&3Empowered Diamantine Crystals"
 	quest.4554DAFCC3ED4543.title: "&bIce &fUpgrade Orb"
@@ -6762,7 +6837,13 @@
 	]
 	quest.45E7D62C229F898C.title: "&fME Crafting Terminal"
 	quest.45F8CB4497591B10.title: "&cTier 3 &fMob Seeds"
-	quest.4619BC2AB4CB9BD9.title: "&aElemental Arcanite"
+	quest.4619BC2AB4CB9BD9.quest_desc: [
+		"The &zElemental Arcanite&r focuses on the magical side of the pack."
+		""
+		"You'll explore basic setups from &dArs Nouveau&r and &dMalum&r, while collecting the different elemental items from &dIron's Spells 'n Spellbooks&r."
+	]
+	quest.4619BC2AB4CB9BD9.quest_subtitle: "Focus: Magic Mods"
+	quest.4619BC2AB4CB9BD9.title: "&zElemental Arcanite"
 	quest.461A01BDC4D4B1BD.quest_desc: ["&aDestructors&r can harvest resources in the world into your storage network."]
 	quest.461A01BDC4D4B1BD.title: "&aDestructor"
 	quest.462A47B2E1360AB5.quest_desc: ["On top of providing extra armor, the &dNetherite Diving Suit&r also provides immunity to Lava and Fire when wearing the full set."]
@@ -7497,7 +7578,7 @@
 	quest.4E455724E9CCA854.quest_desc: ["Have you run into any &aSuspicous Blocks&r? Trying using a &aBrush&r on them to see what they are hiding!"]
 	quest.4E455724E9CCA854.title: "&fAmateur &aArchaeologist"
 	quest.4E474C940C683371.quest_desc: [
-		"The &6Draconic Reactor&r is the ultimate energy generator, capable of producing hundreds of millions of RF/t with the correct setup. &cThis Reactor can explode!&r"
+		"The &6Draconic Reactor&r is the ultimate energy generator, capable of producing tens of millions of RF/t with the correct setup. &cThis Reactor can explode!&r"
 		""
 		"To start setting one, place the &6Reactor Core&r in the center with the &aStabilizers&r up to 5 blocks away from it each in a separate direction, and the &2Injector&r above or below it."
 		""
@@ -7901,6 +7982,7 @@
 		"These items can serve as simple enhancements or perform complex functions to assist the player."
 	]
 	quest.51D07B8762C46982.title: "&eBinding Rituals"
+	quest.51DE4859912D1EB6.quest_subtitle: "Automation Check!"
 	quest.51DE4859912D1EB6.title: "&eMid-Upper Layer"
 	quest.51DFB5D58190EEEF.quest_desc: [
 		"&cUranium 235&r is a rare isotope of &6Uranium&r, as opposed to &2Uranium 238&r, its more common sibling."
@@ -8683,6 +8765,7 @@
 	]
 	quest.5AF160C6E2843FBF.title: "&eBacteria Analyzer"
 	quest.5B063F5520171280.title: "&cTertium &fGear"
+	quest.5B164374A2849270.quest_subtitle: "Automation Check!"
 	quest.5B164374A2849270.title: "&6Mid-Lower Level"
 	quest.5B28036A3960FCAC.quest_desc: [
 		"The &dRain Talisman&r increases player swimimng speed 50% during the rain."
@@ -8779,7 +8862,15 @@
 		"All trains need at least one of these in order to work."
 	]
 	quest.5C7494C886570E80.title: "&3Train Controls"
-	quest.5C825FB7E9A2F962.title: "&aEthereal Essence"
+	quest.5C825FB7E9A2F962.quest_desc: [
+		"&zEthereal Essence&r continues your progression in the magic mods of the pack."
+		""
+		"You'll work to expand your &dOccultism&r rituals, expand your &dArs&r mana reserves, and even play under the cold night sky."
+		""
+		"&aNote&r: It might be worth creating mob farms from the &dOccultism&r spirits!"
+	]
+	quest.5C825FB7E9A2F962.quest_subtitle: "Focus: Magic Mods"
+	quest.5C825FB7E9A2F962.title: "&zEthereal Essence"
 	quest.5CA5F9BE51C24FC8.title: "&fRedstone Card"
 	quest.5CAC010680313D6B.quest_desc: [
 		"Using the &aFerricore Hoe&r to till dirt will create &aPrimogel Soil&r!"
@@ -8907,7 +8998,15 @@
 		"This is also another great way of getting &dFluxite&r!"
 	]
 	quest.5D9EAE2A6D2B6646.title: "&fThe &6Fragment Forge"
-	quest.5DA25070A4A1CF4E.title: "&aDissolved Potential"
+	quest.5DA25070A4A1CF4E.quest_desc: [
+		"&zDissolved Potential&r requires a step up from your typical Mob Farms."
+		""
+		"To create this item, you'll need more advanced mob drops, like &dWind Charges&r and &dWither Roses&r."
+		""
+		"This also requires more advanced Mob Farm setups from &2Industrial Foregoing&r and &aMob Grinding Utils&r!"
+	]
+	quest.5DA25070A4A1CF4E.quest_subtitle: "Focus: Mob Farms and Gear"
+	quest.5DA25070A4A1CF4E.title: "&zDissolved Potential"
 	quest.5DB30D6FE7046A35.title: "&fTome of the Archers"
 	quest.5DD4E634673638F8.quest_desc: [
 		"The &aLeaf Blower&r can blow away tall grass and flowers around you when you hold right-click."
@@ -9098,7 +9197,15 @@
 		"This item must be in a &eCurios&r slot to work."
 	]
 	quest.600DE37317142D0D.title: "&fPrismatic Battery"
-	quest.60105BDA4CA76BD6.title: "&cBio-Neural Circuit"
+	quest.60105BDA4CA76BD6.quest_desc: [
+		"The &zBio-Neural Circuit&r builds onto your existing &6Draconic Evolution&r and &2EnderIO&r setups."
+		""
+		"To create this item, your gear will also be challenged as you will need to defeat the &zChaos Dragon&r."
+		""
+		"&aNote&r: You should automate &zChaos Shards&r."
+	]
+	quest.60105BDA4CA76BD6.quest_subtitle: "Focus: End-Game Tech"
+	quest.60105BDA4CA76BD6.title: "&zBio-Neural Circuit"
 	quest.603BAFEF92DA275E.quest_desc: [
 		"With the help of &bProsperity Ingots&r and &bGemstones&r, we can upgrade Diamond armor to be even better."
 		""
@@ -10191,6 +10298,7 @@
 		"Once you have &6Nuclear Mixed Plates&r, blow them up in an &3Implosion Compressor&r to create &6Nuclear Alloy Plates&r. You'll need plenty of these for your reactors so its worth setting up a good automation line for them."
 	]
 	quest.6BD4E9B7B2C99C27.title: "&6Nuclear Alloy Plate"
+	quest.6C0B018694B279E1.quest_desc: ["With the &zMekanized Super Computer&r crafted, you have access to the final layer of the Pyramid!"]
 	quest.6C0B018694B279E1.title: "&cPyramid Top"
 	quest.6C4441CC63BC7603.quest_desc: [
 		"The &cThermal Evaporation Tower&r is a multiblock that heats up the liquid inside of it to create a new liquid. For this, we'll be making &eBrine&r from &9Water&r."
@@ -10296,7 +10404,17 @@
 		"With a Tier 4 Forge, you can upgrade your Quantum Catchers to &dBoss Catchers&r!"
 	]
 	quest.6D86FE4434EB30AB.title: "&6Hephaestus Forge: &bTier 4"
-	quest.6D8B17AD5ABEC7BC.title: "&6Ultimate Singularity"
+	quest.6D8B17AD5ABEC7BC.quest_desc: [
+		"The &zUltimate Singularity&r might hold the first real tech challenge of the Pyramid."
+		""
+		"This item explores more unique ways to create items, making use of &2Nautec&r and &eEnderIO&r."
+		""
+		"It is also worth having a nice &dSingularity&r setup using an &aInfinity Cobblestone Cell&r!"
+		""
+		"&aNote&r: Using &aModern Industrialization&r is optional to create this item."
+	]
+	quest.6D8B17AD5ABEC7BC.quest_subtitle: "Focus: Tech Mods"
+	quest.6D8B17AD5ABEC7BC.title: "&zUltimate Singularity"
 	quest.6DC738A434C5B02F.title: "&fKill 10 &dEndermen"
 	quest.6DD9A75EE8C97710.quest_desc: ["Rarely spawning alongside common hostile mobs, &dNecromancers&r are extremely dangerous when unprepared. Spawners summoning these can be rarely found in the &bIron's Spells Catacombs.&r"]
 	quest.6DD9A75EE8C97710.title: "&fKill 10 &dNecromancers"
@@ -10763,11 +10881,11 @@
 	quest.7318F114EA136854.quest_desc: [
 		"The &6FTB Pyramid Challenge&r is the ultimate goal of the pack!"
 		""
-		"You can expect to dip your toes in the many adventures created by the different mods in the pack."
+		"The items required by the Pyramid will take you through each major aspect of your playthrough. These items focus on things like &aMob Farms&r, &2Tech Mods&r, &dMagic Mods&r, &eExploration&r, and more!"
 		""
-		"You can create each of the required items for these quests in any order you choose, and will be rewarded with layer blocks from the quests at the end of each layer. Ultimately, you will build your own functional FTB Pyramid. It's built just like a max tier Beacon!"
+		"Each layer of the Pyramid comes with its own difficulty, and you can expect to automate and upgrade your setups as you build up."
 		""
-		"For those who are up to the challenge, we'll see you at the top!"
+		"Ultimately, you will build your own functional &zFTB Pyramid&r. It's built just like a max tier Beacon! For those who are up to the challenge, we'll see you at the top!"
 	]
 	quest.7318F114EA136854.title: "&fThe &6FTB Pyramid Challenge"
 	quest.73254377A0723540.quest_desc: [
@@ -11021,7 +11139,7 @@
 		""
 		"Congrats. You beat the pack!"
 	]
-	quest.755E80CFF2053CF8.title: "&3Activating The Pyramid"
+	quest.755E80CFF2053CF8.title: "&6Activating The Pyramid"
 	quest.75621DDF80A2B05F.quest_desc: ["The &aCollector Relay&r will automatically take Source from any Source Jar it is not connected to within 5 blocks of it."]
 	quest.75621DDF80A2B05F.title: "&dSource Collection"
 	quest.757191CC5F6D98CC.quest_desc: [
@@ -11155,7 +11273,15 @@
 		"Configuring them is made easy using the &aYeta Wrench&r. If any pipe is hidden beneath a Facade, holding the wrench in your hand will uncover them for easy configuration."
 	]
 	quest.77372AD6C4049263.title: "&6EnderIO &dConduits"
-	quest.773C44B85A2A1042.title: "&eSupercritical Mass"
+	quest.773C44B85A2A1042.quest_desc: [
+		"The &zSupercritical&r &z&mBurrito&r &zMass&r focuses on the end-game of several advanced tech mods."
+		""
+		"The &dPlasmatic Core&r can be created using either &aModern Industrialization&r items, or making &dAntimatter&r and &dD-T Fuel&r from &2Mekanism&r."
+		""
+		"Similar to some burritos, this item has an explosive end."
+	]
+	quest.773C44B85A2A1042.quest_subtitle: "Focus: Advanced Tech Burrito"
+	quest.773C44B85A2A1042.title: "&zSupercritical Mass"
 	quest.773F797227054C32.quest_desc: [
 		"If you've ever looked at a mob and thought: \"Hmm, I wish I could do that\". Wish granted!"
 		""
@@ -11903,7 +12029,15 @@
 		"You can also adjust even more options like filtering which items it can pick up, or how fast it picks items up."
 	]
 	quest.7EDCDC0CA1A03FA0.title: "&eJustDire's &fItem Collector"
-	quest.7EE04D8B354DC5CB.title: "&6Ender Transmitter"
+	quest.7EE04D8B354DC5CB.quest_desc: [
+		"The &zEnder Transmitter&r is a combination of several powerful tech mods coming together!"
+		""
+		"This item will require you to build several setups in the major tech mods in the pack."
+		""
+		"These setups will be reused and upgraded for the more difficult items in the Pyramid as well!"
+	]
+	quest.7EE04D8B354DC5CB.quest_subtitle: "Focus: Tech Mods"
+	quest.7EE04D8B354DC5CB.title: "&zEnder Transmitter"
 	quest.7EF3DE47C8EF094A.quest_desc: [
 		"&bHanging Herbs&r are a way to store and process your collected &aHerbs&r."
 		""
@@ -12262,7 +12396,6 @@
 	task.110E6C2DF4533110.title: "Obsidian Dust"
 	task.1114E07F8446FAA0.title: "Block Management"
 	task.1136F216C8AF9FE6.title: "Effect Modules"
-	task.1203293F62D3F55F.title: "Mid Upper Layer"
 	task.1211B7B1BC40225B.title: "Storage Controllers"
 	task.1257CB86BCFAFF54.title: "&6Awakened Supremium &fArmor"
 	task.1367AF5545964395.title: "&fOn Walkabout"
@@ -12479,6 +12612,7 @@
 	task.461DC877898F48C2.title: "&fWorld Blocks"
 	task.4668931B20B14CA6.title: "&6JustDire's &fEmpowered Coal"
 	task.46A0E4B6FD54A5EA.title: "&fKill: 1x &dLunar Monstrosity"
+	task.46C58E4BD9617A03.title: "Any &aBasic Malum Trinket"
 	task.46EE0C8B37617833.title: "Visit Every Dimension"
 	task.473509F84E9C3147.title: "Nest Spawning"
 	task.4742ACCF0E820BD4.title: "&eSummon&r: &3Drikwing"
@@ -12492,7 +12626,6 @@
 	task.497CF86F5BC5A7D0.title: "Basic Cables"
 	task.49DF96867DE0BB9D.title: "Any aspected spirit"
 	task.4A0037264C36EBE1.title: "&eObserve&f: &dArc Furnace"
-	task.4A18F4F81AEA7421.title: "The First Layer"
 	task.4A3E55075B97791B.title: "Don't you dare press this."
 	task.4A5574B73D5286B1.title: "Any equippable rune"
 	task.4AAA15EBC25F0934.title: "Hi Mikey"
@@ -12549,7 +12682,6 @@
 	task.56E777FE460B3ED0.title: "&fPlates"
 	task.575929717A890AFE.title: "Rituals"
 	task.575F4232C0E9D957.title: "Magical Equipment"
-	task.579A856376CC3518.title: "Any Malum trinket"
 	task.57A9D2B9030E96F9.title: "&2Prudentium &fArmor"
 	task.57FEAD1653F0F2DD.title: "&eSummon&r: &3Villager"
 	task.580FC1A9FFD21906.title: "I have read and agreed to create the very best potion that has ever potioned"
@@ -12680,7 +12812,6 @@
 	task.734212F4FDFDAD92.title: "&eSummon&r: &aGreedy Familiar"
 	task.747DDA167BA0D47A.title: "&fKill: 1x &dSavage Ender Dragon"
 	task.750AE47AA678E482.title: "Spirits"
-	task.757810F183F6346C.title: "Mid-Lower Level"
 	task.75950ADE1D19EBBB.title: "&eSummon&r: &3Dusk Spirit"
 	task.75A91CC491740DEA.title: "&aSophisticated Storages&r"
 	task.75CE8877F456D5E9.title: "Reset Mining"
