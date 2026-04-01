@@ -364,13 +364,12 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["7318F114EA136854"]
 			icon: {
-				components: {
-					"ftbquests:icon": "ftbevolution:item/evolutionary_matter"
-				}
-				id: "ftbquests:custom_icon"
+				id: "ftbevolution:evolutionary_matter"
 			}
 			id: "319098064145CF21"
+			min_width: 300
 			rewards: [
 				{
 					exclude_from_claim_all: true
@@ -386,76 +385,27 @@
 			]
 			tasks: [
 				{
-					count: 64L
-					id: "57757102A3B267D2"
+					id: "2EE82D189A4D1BA1"
 					item: {
 						count: 1
-						id: "hostilenetworks:overworld_prediction"
+						id: "ftbevolution:prediction_amalgam"
 					}
 					type: "item"
 				}
 				{
-					count: 64L
-					id: "53B2F016983EB77A"
+					id: "2034814E3423B720"
 					item: {
 						count: 1
-						id: "hostilenetworks:nether_prediction"
+						id: "ftbevolution:evolutionary_matter"
 					}
-					type: "item"
-				}
-				{
-					count: 64L
-					id: "77E6B5F70EB682D0"
-					item: {
-						count: 1
-						id: "hostilenetworks:end_prediction"
-					}
-					type: "item"
-				}
-				{
-					count: 64L
-					id: "26E3BA565712C3A9"
-					item: {
-						components: {
-							"hostilenetworks:data_model": "hostilenetworks:warden"
-						}
-						count: 1
-						id: "hostilenetworks:prediction"
-					}
-					match_components: "strict"
-					type: "item"
-				}
-				{
-					count: 64L
-					id: "30547BCA2C84B8BA"
-					item: {
-						components: {
-							"hostilenetworks:data_model": "hostilenetworks:wither"
-						}
-						count: 1
-						id: "hostilenetworks:prediction"
-					}
-					match_components: "strict"
-					type: "item"
-				}
-				{
-					count: 64L
-					id: "3EC3DD0040D24B46"
-					item: {
-						components: {
-							"hostilenetworks:data_model": "hostilenetworks:ender_dragon"
-						}
-						count: 1
-						id: "hostilenetworks:prediction"
-					}
-					match_components: "strict"
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: -1.0d
 			y: 1.5d
 		}
 		{
+			dependencies: ["7318F114EA136854"]
 			id: "7EE04D8B354DC5CB"
 			rewards: [
 				{
@@ -478,10 +428,14 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.5d
+			x: 3.0d
+			y: 1.5d
 		}
 		{
+			dependencies: ["5B164374A2849270"]
+			icon: {
+				id: "ftbevolution:supercritical_mass"
+			}
 			id: "773C44B85A2A1042"
 			rewards: [
 				{
@@ -496,18 +450,29 @@
 					xp: 1000
 				}
 			]
-			tasks: [{
-				id: "272883C0A77A52A1"
-				item: {
-					count: 1
-					id: "ftbevolution:supercritical_mass"
+			tasks: [
+				{
+					id: "6FE01266838FCD01"
+					item: {
+						count: 1
+						id: "ftbevolution:plasmatic_core"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "4469D119682C9B91"
+					item: {
+						count: 1
+						id: "ftbevolution:supercritical_mass"
+					}
+					type: "item"
+				}
+			]
 			x: 1.0d
 			y: -0.5d
 		}
 		{
+			dependencies: ["7318F114EA136854"]
 			id: "0F2DD1EF4E57E523"
 			rewards: [
 				{
@@ -530,10 +495,14 @@
 				}
 				type: "item"
 			}]
-			x: 1.0d
-			y: 0.5d
+			x: 0.0d
+			y: 1.5d
 		}
 		{
+			dependencies: ["5B164374A2849270"]
+			icon: {
+				id: "ftbevolution:time_prism"
+			}
 			id: "230A9E24A34690DE"
 			rewards: [
 				{
@@ -549,23 +518,23 @@
 				}
 			]
 			tasks: [{
-				id: "0E452464ECE78E32"
+				id: "39F04BCB3D8B5044"
 				item: {
 					count: 1
 					id: "ftbevolution:time_prism"
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: 0.5d
+			x: 0.0d
+			y: -0.5d
 		}
 		{
 			dependencies: [
-				"451FD4CA758C6019"
 				"6D8B17AD5ABEC7BC"
-				"0F2DD1EF4E57E523"
-				"230A9E24A34690DE"
-				"7EE04D8B354DC5CB"
+				"5C825FB7E9A2F962"
+				"018258B166F270D8"
+				"5DA25070A4A1CF4E"
+				"3142B7C67CB8EEB3"
 			]
 			hide_dependent_lines: true
 			icon: {
@@ -581,14 +550,60 @@
 				}
 				type: "item"
 			}]
-			tasks: [{
-				id: "757810F183F6346C"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 16L
+					id: "4637CE44F4F763A2"
+					item: {
+						count: 1
+						id: "ftbevolution:dissolved_potential"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 5L
+					id: "6D850A6E4286B749"
+					item: {
+						count: 1
+						id: "ftbevolution:ethereal_essence"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 4L
+					id: "1F29982AD20A4C79"
+					item: {
+						count: 1
+						id: "ftbevolution:ultimate_singularity"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "5DC9A780880CAB89"
+					item: {
+						count: 1
+						id: "ftbevolution:omega_dragon_egg"
+					}
+					type: "item"
+				}
+				{
+					id: "0F80B6DEC924E060"
+					item: {
+						count: 1
+						id: "ftbevolution:realized_transcendence"
+					}
+					type: "item"
+				}
+			]
 			x: 4.0d
 			y: 0.5d
 		}
 		{
+			dependencies: ["7318F114EA136854"]
 			id: "1105D1809EB9ADEF"
 			rewards: [
 				{
@@ -611,10 +626,11 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: -0.5d
+			x: 4.0d
+			y: 1.5d
 		}
 		{
+			dependencies: ["1BDE743ABCC3E78A"]
 			id: "5C825FB7E9A2F962"
 			rewards: [
 				{
@@ -637,10 +653,11 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: 1.5d
+			x: 0.0d
+			y: 0.5d
 		}
 		{
+			dependencies: ["1BDE743ABCC3E78A"]
 			id: "018258B166F270D8"
 			rewards: [
 				{
@@ -663,13 +680,13 @@
 				}
 				type: "item"
 			}]
-			x: -1.0d
-			y: 1.5d
+			x: 2.0d
+			y: 0.5d
 		}
 		{
 			dependencies: [
-				"1105D1809EB9ADEF"
-				"028BF2D5CFCDA52A"
+				"230A9E24A34690DE"
+				"60105BDA4CA76BD6"
 				"773C44B85A2A1042"
 			]
 			hide_dependent_lines: true
@@ -686,14 +703,41 @@
 				}
 				type: "item"
 			}]
-			tasks: [{
-				id: "1203293F62D3F55F"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					count: 4L
+					id: "482357B325B3C0E6"
+					item: {
+						count: 1
+						id: "ftbevolution:time_prism"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 4L
+					id: "08FB67B85504A307"
+					item: {
+						count: 1
+						id: "ftbevolution:supercritical_mass"
+					}
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7E808F141BAA5422"
+					item: {
+						count: 1
+						id: "ftbevolution:bio_neural_circuit"
+					}
+					type: "item"
+				}
+			]
 			x: 3.0d
 			y: -0.5d
 		}
 		{
+			dependencies: ["1BDE743ABCC3E78A"]
 			id: "5DA25070A4A1CF4E"
 			rewards: [
 				{
@@ -716,11 +760,11 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 1.5d
+			x: -1.0d
+			y: 0.5d
 		}
 		{
-			dependencies: ["60105BDA4CA76BD6"]
+			dependencies: ["028BF2D5CFCDA52A"]
 			hide_dependent_lines: true
 			icon: {
 				id: "ftbevolution:pyramid_top"
@@ -743,12 +787,7 @@
 			y: -1.5d
 		}
 		{
-			dependencies: [
-				"5B164374A2849270"
-				"51DE4859912D1EB6"
-				"1BDE743ABCC3E78A"
-				"6C0B018694B279E1"
-			]
+			dependencies: ["5B164374A2849270"]
 			id: "755E80CFF2053CF8"
 			progression_mode: "linear"
 			rewards: [
@@ -798,6 +837,7 @@
 			y: -2.5d
 		}
 		{
+			dependencies: ["7318F114EA136854"]
 			id: "451FD4CA758C6019"
 			rewards: [
 				{
@@ -820,17 +860,21 @@
 				}
 				type: "item"
 			}]
-			x: -1.0d
-			y: 0.5d
+			x: 2.0d
+			y: 1.5d
 		}
 		{
+			dependencies: ["51DE4859912D1EB6"]
+			icon: {
+				id: "ftbevolution:mekanized_super_computer"
+			}
 			id: "028BF2D5CFCDA52A"
 			rewards: [
 				{
 					exclude_from_claim_all: true
-					id: "67700B5F3CE5308C"
+					id: "44BA1EF2AB34D82B"
 					table_id: 6877677034228860611L
-					type: "loot"
+					type: "choice"
 				}
 				{
 					id: "41520F2AAC995950"
@@ -839,17 +883,22 @@
 				}
 			]
 			tasks: [{
-				id: "35ABD78841632298"
+				consume_items: true
+				id: "2E7D7812538CE062"
 				item: {
 					count: 1
 					id: "ftbevolution:mekanized_super_computer"
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: -0.5d
+			x: 1.0d
+			y: -1.5d
 		}
 		{
+			dependencies: ["5B164374A2849270"]
+			icon: {
+				id: "ftbevolution:bio_neural_circuit"
+			}
 			id: "60105BDA4CA76BD6"
 			rewards: [
 				{
@@ -865,18 +914,20 @@
 				}
 			]
 			tasks: [{
-				id: "6B1721A50D91999B"
+				id: "472CEC1914B56184"
 				item: {
 					count: 1
 					id: "ftbevolution:bio_neural_circuit"
 				}
 				type: "item"
 			}]
-			x: 1.0d
-			y: -1.5d
+			x: 2.0d
+			y: -0.5d
 		}
 		{
+			dependencies: ["1BDE743ABCC3E78A"]
 			id: "3142B7C67CB8EEB3"
+			min_width: 300
 			rewards: [
 				{
 					exclude_from_claim_all: true
@@ -898,10 +949,14 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: 3.0d
+			y: 0.5d
 		}
 		{
+			dependencies: ["7318F114EA136854"]
+			icon: {
+				id: "ftbevolution:elemental_arcanite"
+			}
 			id: "4619BC2AB4CB9BD9"
 			rewards: [
 				{
@@ -916,18 +971,29 @@
 					xp: 1000
 				}
 			]
-			tasks: [{
-				id: "4671E6299F81ADDA"
-				item: {
-					count: 1
-					id: "ftbevolution:elemental_arcanite"
+			tasks: [
+				{
+					id: "3B72B80B875C5AA8"
+					item: {
+						count: 1
+						id: "ftbevolution:primal_essence"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "4671E6299F81ADDA"
+					item: {
+						count: 1
+						id: "ftbevolution:elemental_arcanite"
+					}
+					type: "item"
+				}
+			]
 			x: 1.0d
 			y: 1.5d
 		}
 		{
+			dependencies: ["1BDE743ABCC3E78A"]
 			id: "6D8B17AD5ABEC7BC"
 			rewards: [
 				{
@@ -950,17 +1016,17 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
+			x: 1.0d
 			y: 0.5d
 		}
 		{
 			dependencies: [
+				"451FD4CA758C6019"
 				"4619BC2AB4CB9BD9"
 				"319098064145CF21"
-				"5C825FB7E9A2F962"
-				"018258B166F270D8"
-				"5DA25070A4A1CF4E"
-				"3142B7C67CB8EEB3"
+				"1105D1809EB9ADEF"
+				"0F2DD1EF4E57E523"
+				"7EE04D8B354DC5CB"
 			]
 			hide_dependent_lines: true
 			icon: {
@@ -976,10 +1042,66 @@
 				}
 				type: "item"
 			}]
-			tasks: [{
-				id: "4A18F4F81AEA7421"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					consume_items: true
+					count: 8L
+					id: "5E924ADAFF9633D4"
+					item: {
+						count: 1
+						id: "ftbevolution:evolutionary_matter"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 8L
+					id: "62DEBC46899488C4"
+					item: {
+						count: 1
+						id: "ftbevolution:dimensional_memory_fragment"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 8L
+					id: "202925583F5EEDA5"
+					item: {
+						count: 1
+						id: "ftbevolution:elemental_arcanite"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 32L
+					id: "5AB2F5E04A20FE24"
+					item: {
+						count: 1
+						id: "ftbevolution:ender_transmitter"
+					}
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 32L
+					id: "6CB5F2CDD971351E"
+					item: {
+						count: 1
+						id: "ftbevolution:infinitely_compressed_circuit_board"
+					}
+					type: "item"
+				}
+				{
+					id: "623E17859EAA9277"
+					item: {
+						count: 1
+						id: "ftbevolution:evolutionary_arcanum"
+					}
+					type: "item"
+				}
+			]
 			x: 5.0d
 			y: 1.5d
 		}
@@ -992,6 +1114,11 @@
 			}
 			id: "7318F114EA136854"
 			min_width: 300
+			rewards: [{
+				id: "2A37EFB53523AFDD"
+				type: "xp"
+				xp: 10
+			}]
 			tasks: [{
 				id: "4FAE5B3549E023A9"
 				type: "checkmark"
