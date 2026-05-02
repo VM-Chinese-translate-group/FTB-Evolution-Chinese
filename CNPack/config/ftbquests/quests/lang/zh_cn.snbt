@@ -155,7 +155,24 @@
 	quest.0174ACD260158165.quest_subtitle: "传输气体和化学品"
 	quest.0174ACD260158165.title: "&f气体管道"
 	quest.018027C0128159CB.title: "&f盾牌蓝图"
-	quest.018258B166F270D8.title: "&a超脱证悟"
+	quest.018258B166F270D8.quest_desc: [
+		"The &zRealized Transcendence&r focuses on some of the major &aBoss Fights&r in the pack!"
+		""
+		"&aNote&r: This item will not need to be automated, and is not consumed when used in recipes."
+		""
+		"&oBoss Checklist -->&r"
+		"{@pagebreak}"
+		"- Maledictus"
+		"- Echo of Tyros"
+		"- Starlight Golem"
+		"- Lunar Monstrosity"
+		"- Ancient Remnant"
+		"- Clawdian"
+		"- Scylla"
+		"- The Harbinger"
+	]
+	quest.018258B166F270D8.quest_subtitle: "Focus: Boss Fights and Exploration"
+	quest.018258B166F270D8.title: "&zRealized Transcendence"
 	quest.018B19721F4404FF.quest_desc: ["消耗末影珍珠或末影之眼发电。"]
 	quest.018B19721F4404FF.title: "&f菌丝网络末影发电机"
 	quest.019C7CBC9B62C803.quest_desc: [
@@ -239,7 +256,17 @@
 		"这些锭用于制作一些高级物品，如&d高压蓄电池&r。"
 	]
 	quest.026A64F01C301119.title: "&3高定向热解石墨&r"
-	quest.028BF2D5CFCDA52A.title: "&e机械化超级计算机"
+	quest.028BF2D5CFCDA52A.quest_desc: [
+		"It's time to create the final item: the &zMechanized Super Computer&r."
+		""
+		"The first big step to creating this item will be to create the 14 &zChaotic Fusion Crafting Injectors&r needed to hold the recipe items."
+		""
+		"You'll also need every pyramid item you've created so far on this journey, so I hope you have automated them along the way!"
+		""
+		"&o&3And a lot of power.&r"
+	]
+	quest.028BF2D5CFCDA52A.quest_subtitle: "Focus: Yes."
+	quest.028BF2D5CFCDA52A.title: "&zMekanized Super Computer"
 	quest.02BC61BBCDB931A3.quest_desc: [
 		"游戏早期时，&6燃气发电机&r是最佳发电手段。"
 		""
@@ -402,8 +429,6 @@
 		"你可以使用它制作三级符石——&b力之符石&r，也可以将其升级为&b传说符石基底&r。"
 	]
 	quest.04561BBA227DE4D6.title: "&d史诗护身符模板"
-	quest.04563030DE224F18.quest_desc: ["神化模组中，铁砧如果附上了耐久魔咒的话，其耐久就会大幅提升！"]
-	quest.04563030DE224F18.title: "&f给铁砧附魔！"
 	quest.0457FBD64D57E07B.quest_desc: ["你需要&3充能绿宝石水晶块&r来制作&6FTB金字塔所需物品：&d溶解潜能&r。"]
 	quest.0457FBD64D57E07B.title: "&3充能绿宝石水晶"
 	quest.0467ED23E790F1C4.quest_desc: ["&3物品保险库&r是一种无交互界面的存储设备，把更多的&3物品保险库&r组合可以对其进行扩容。"]
@@ -1555,7 +1580,13 @@
 	quest.0EFA11536D00E653.title: "&2生物燃料发电"
 	quest.0F22A0A29B961A1C.quest_desc: ["在你着手&3蒸馏&r&d蒸汽裂解石脑油&r得到&e乙苯&r的时候，你也可以把多余的&3乙烯&r和&a苯&r化合以获得更多的&e乙苯&r。"]
 	quest.0F22A0A29B961A1C.title: "&e乙苯"
-	quest.0F2DD1EF4E57E523.title: "&6次元记忆碎片"
+	quest.0F2DD1EF4E57E523.quest_desc: [
+		"The &zDimensional Memory Fragment&r will have you automating &dApotheosis Salvaging&r and using &2Cognition&r to make use of &eExperience&r from mob farms."
+		""
+		"&dApotheosis&r is a great mod for making great gear for fighting bosses!"
+	]
+	quest.0F2DD1EF4E57E523.quest_subtitle: "Focus: Gearing Up and Exploration"
+	quest.0F2DD1EF4E57E523.title: "&zDimensional Memory Fragment"
 	quest.0F3E0EBEC3DBED48.quest_desc: [
 		"&a管道升压器&r用于大幅提高&e物品管道&r和&b流体管道&r的运作速度。"
 		""
@@ -1741,7 +1772,15 @@
 		"&6魔灵全典&r提供此模组的全部入门指导。同时它也作为某些物品的合成材料之一，还能用于展示全息图来辅助你搭建&b仪式&r！"
 	]
 	quest.10F792474C01A594.title: "&f欢迎游玩&e神秘学&f！"
-	quest.1105D1809EB9ADEF.title: "&e无限压缩电路板"
+	quest.1105D1809EB9ADEF.quest_desc: [
+		"To create the &zInfinitely Compressed Circuit Board&r, you'll need to rely on several advanced tech mod setups!"
+		""
+		"This item heavily focuses on using &2PneumaticCraft&r. You will want a solid &aPCB Assembly&r setup going to create this item."
+		""
+		"You will also need to use both &6AE2&r and &6Refined Storage&r items to create it."
+	]
+	quest.1105D1809EB9ADEF.quest_subtitle: "Focus: Tech and Digital Storage Mods"
+	quest.1105D1809EB9ADEF.title: "&zInfinitely Compressed Circuit Board"
 	quest.11078789ACAB91CE.quest_desc: [
 		"有了末影珍珠和烈焰粉后，就可以制作&6末影之眼&r了。"
 		""
@@ -2654,6 +2693,12 @@
 		"&e古代织物&r会把不同盔甲转化成不同独立的样式，而其他织物无论转化什么盔甲都是同一种样式。（注：实测都只有一套样式）"
 		"&o&7举个例子，用了指挥官织物后，灵魂猎手长袍会和魂染钢胸甲长得一模一样。&r"
 	]
+	quest.1BDE743ABCC3E78A.quest_desc: [
+		"To get the first layer for the pyramid, you'll need to automate the first tier of items."
+		""
+		"Most of these items will need to be submitted, with the exception of the &zEvolutionary Arcanum&r."
+	]
+	quest.1BDE743ABCC3E78A.quest_subtitle: "Automation Check!"
 	quest.1BDE743ABCC3E78A.title: "&a第一层"
 	quest.1C0024A48898FB90.quest_desc: [
 		"只要以&a炼金促符&r作为核心材料，你就能用&a精魂坩埚&r来把精魂转化成其派别对应的物理形式，比如粉末或是宝石。这种转化会缓慢消耗促符的耐久度，不过你可以修复它，也可以重新制作。"
@@ -3258,7 +3303,15 @@
 		"是的，它能使用&e连锁破坏&r！"
 	]
 	quest.22F07FB51C5DE600.title: "超棒的挖矿工具"
-	quest.230A9E24A34690DE.title: "&6时间棱镜"
+	quest.230A9E24A34690DE.quest_desc: [
+		"The &zTime Prism&r is created using the final tier of the &dHephaestus Forge&r."
+		""
+		"This item uses several end-game items from &6Just Dire Things&r, as well as combining &aXycraft&r's gems into the ultimate crystal."
+		""
+		"&aNote&r: Automating &bSouls&r can easily be done using &6Just Dire Things&r. All of the &6Relics&r have crafting recipes as well."
+	]
+	quest.230A9E24A34690DE.quest_subtitle: "Focus: Magic and Tech"
+	quest.230A9E24A34690DE.title: "&zTime Prism"
 	quest.230E34A0E4A4C014.quest_desc: [
 		"手动收获&e蜜脾&r和&e蜂蜜瓶&r相当累人，而且真有人用营火驱蜜蜂吗？被蛰了接着干就是了，懂吗家人们？"
 		""
@@ -4606,7 +4659,15 @@
 	quest.30CE0A1635346670.title: "&6Meka装备"
 	quest.30D00AC248214D58.quest_desc: ["&3充能合金&r可用于许多合成配方，但主要还是用来合成&a双层电容&r和&d振动合金&r。"]
 	quest.30D00AC248214D58.title: "&3充能合金"
-	quest.3142B7C67CB8EEB3.title: "&aΩ龙蛋"
+	quest.3142B7C67CB8EEB3.quest_desc: [
+		"The &zOmega Dragon Egg&r challenges your resource farms to create the ultimate dragon item!"
+		""
+		"You'll want to have both &2Mystical Agriculture&r and &eProductive Bee&r farms going to acquire this item. You might have to impress the &dQueen Bee&r along the way as well!"
+		""
+		"&aNote&r: The &6Essence of the Bees&r is not consumed when crafting this recipe, allowing for you to make multiple &zOmega Dragon Eggs&r."
+	]
+	quest.3142B7C67CB8EEB3.quest_subtitle: "Focus: Resource Production, Bees, and Dragons"
+	quest.3142B7C67CB8EEB3.title: "&zOmega Dragon Egg"
 	quest.3148FCED5BF543B5.quest_desc: [
 		"你可以把工具都放在&a工具皮带&r里。"
 		""
@@ -4638,7 +4699,15 @@
 		"除了发电机等级能影响产能外，不同的热源也可以加倍能源产出。比如&c熔岩&r是一倍产出，但如果你放个&c烈焰晶体块&r的话，则RF产出会是原来的2.8倍！"
 	]
 	quest.318747B4EF9E1D5B.title: "&f热力发电机"
-	quest.319098064145CF21.title: "&a进化物质"
+	quest.319098064145CF21.quest_desc: [
+		"The &zEvolutionary Matter&r focuses on utilizing &2Mob Farms&r!"
+		""
+		"To create this item, you'll need to use several different methods of farming mobs, including killing the main vanilla bosses."
+		""
+		"The &dEvolutionary Amalgam&r is all about using &aHostile Neural Networks&r, which is a great server-friendly option for mob farming!"
+	]
+	quest.319098064145CF21.quest_subtitle: "Focus: Mob Farms and Vanilla Bosses"
+	quest.319098064145CF21.title: "&zEvolutionary Matter"
 	quest.319F49C16CFE900C.quest_desc: [
 		"虽然睡觉是设置重生点的经典方法，但你也可以选择使用&a/sethome&r命令来设定家，输入&a/home&r回家。"
 		""
@@ -6674,7 +6743,13 @@
 		"如果想把终端和网络链接在一起的话，首先做一对&d量子纠缠奇点&r，然后一个放在接入基地的&6量子桥&r内，另一个和量子桥卡一起装入你的&d无线终端&r即可。"
 	]
 	quest.450A1BAD728F594B.title: "&d无限距离无线访问"
-	quest.451FD4CA758C6019.title: "&6进化秘石"
+	quest.451FD4CA758C6019.quest_desc: [
+		"The &zEvolutionary Arcanum&r is created from the progression of two magic mods: &dOccultism&r and &dForbidden and Arcanus&r."
+		""
+		"&aNote&r: This item is not required to be automated. &dForbidden&r &6Relics&r can also be crafted!"
+	]
+	quest.451FD4CA758C6019.quest_subtitle: "Focus: Magic Mods"
+	quest.451FD4CA758C6019.title: "&zEvolutionary Arcanum"
 	quest.452A356F35EE46DD.quest_desc: ["&a充能钻石水晶&r可以合成一些&e实用拓展&r的东西，但它的最大用处是合成FTB金字塔的关键材料：&d异彩棱晶&r。"]
 	quest.452A356F35EE46DD.title: "&3充能钻石水晶"
 	quest.4554DAFCC3ED4543.title: "&b冰霜&f升级法球"
@@ -6750,7 +6825,13 @@
 	]
 	quest.45E7D62C229F898C.title: "&fME合成终端"
 	quest.45F8CB4497591B10.title: "&c三级&f生物种子"
-	quest.4619BC2AB4CB9BD9.title: "&a元素奥石"
+	quest.4619BC2AB4CB9BD9.quest_desc: [
+		"The &zElemental Arcanite&r focuses on the magical side of the pack."
+		""
+		"You'll explore basic setups from &dArs Nouveau&r and &dMalum&r, while collecting the different elemental items from &dIron's Spells 'n Spellbooks&r."
+	]
+	quest.4619BC2AB4CB9BD9.quest_subtitle: "Focus: Magic Mods"
+	quest.4619BC2AB4CB9BD9.title: "&zElemental Arcanite"
 	quest.461A01BDC4D4B1BD.quest_desc: ["&a破坏器&r可将世界中的资源收集到你的存储网络中。"]
 	quest.461A01BDC4D4B1BD.title: "&a破坏器"
 	quest.462A47B2E1360AB5.quest_desc: ["除了提供额外的护甲外，&d下界合金潜水服&r在完整穿戴时还能免疫熔岩和火焰伤害。"]
@@ -7485,7 +7566,7 @@
 	quest.4E455724E9CCA854.quest_desc: ["Have you run into any &aSuspicous Blocks&r? Trying using a &aBrush&r on them to see what they are hiding!"]
 	quest.4E455724E9CCA854.title: "&fAmateur &aArchaeologist"
 	quest.4E474C940C683371.quest_desc: [
-		"The &6Draconic Reactor&r is the ultimate energy generator, capable of producing hundreds of millions of RF/t with the correct setup. &cThis Reactor can explode!&r"
+		"The &6Draconic Reactor&r is the ultimate energy generator, capable of producing tens of millions of RF/t with the correct setup. &cThis Reactor can explode!&r"
 		""
 		"To start setting one, place the &6Reactor Core&r in the center with the &aStabilizers&r up to 5 blocks away from it each in a separate direction, and the &2Injector&r above or below it."
 		""
@@ -7887,6 +7968,7 @@
 		"这些物品可以简单的增强功能或执行复杂的功能来帮助玩家。"
 	]
 	quest.51D07B8762C46982.title: "&e绑定仪式"
+	quest.51DE4859912D1EB6.quest_subtitle: "Automation Check!"
 	quest.51DE4859912D1EB6.title: "&e第三层"
 	quest.51DFB5D58190EEEF.quest_desc: [
 		"&c铀-235&r是&6铀&r的罕见同位素，至于&2铀-238&r，它是更常见的同位素。"
@@ -8669,6 +8751,7 @@
 	]
 	quest.5AF160C6E2843FBF.title: "分析仪"
 	quest.5B063F5520171280.title: "&c中级精华&f工具"
+	quest.5B164374A2849270.quest_subtitle: "Automation Check!"
 	quest.5B164374A2849270.title: "&6第二层"
 	quest.5B28036A3960FCAC.quest_desc: [
 		"&d雨落符石&r在雨天时增加50%游泳速度。"
@@ -8765,7 +8848,15 @@
 		"所有列车都需要至少一个这样的部件才能运行。"
 	]
 	quest.5C7494C886570E80.title: "&3列车驾驶台"
-	quest.5C825FB7E9A2F962.title: "&a灵蕴精华"
+	quest.5C825FB7E9A2F962.quest_desc: [
+		"&zEthereal Essence&r continues your progression in the magic mods of the pack."
+		""
+		"You'll work to expand your &dOccultism&r rituals, expand your &dArs&r mana reserves, and even play under the cold night sky."
+		""
+		"&aNote&r: It might be worth creating mob farms from the &dOccultism&r spirits!"
+	]
+	quest.5C825FB7E9A2F962.quest_subtitle: "Focus: Magic Mods"
+	quest.5C825FB7E9A2F962.title: "&zEthereal Essence"
 	quest.5CA5F9BE51C24FC8.title: "&f红石卡"
 	quest.5CAC010680313D6B.quest_desc: [
 		"&a核源铁锄&r可以耕出&a原初浆壤&r！"
@@ -8893,7 +8984,15 @@
 		"用它来获取&d辐水晶&r是个不错的主意！"
 	]
 	quest.5D9EAE2A6D2B6646.title: "&6粉碎工厂"
-	quest.5DA25070A4A1CF4E.title: "&a溶解潜能"
+	quest.5DA25070A4A1CF4E.quest_desc: [
+		"&zDissolved Potential&r requires a step up from your typical Mob Farms."
+		""
+		"To create this item, you'll need more advanced mob drops, like &dWind Charges&r and &dWither Roses&r."
+		""
+		"This also requires more advanced Mob Farm setups from &2Industrial Foregoing&r and &aMob Grinding Utils&r!"
+	]
+	quest.5DA25070A4A1CF4E.quest_subtitle: "Focus: Mob Farms and Gear"
+	quest.5DA25070A4A1CF4E.title: "&zDissolved Potential"
 	quest.5DB30D6FE7046A35.title: "&f射手宝典"
 	quest.5DD4E634673638F8.quest_desc: [
 		"当你手持&a吹叶器&r长按鼠标右键时，它就会自动把周围的高草丛或花吹走。"
@@ -9084,7 +9183,15 @@
 		"这件物品必须放置在&e饰品栏&r对应的槽位中才能发挥作用。"
 	]
 	quest.600DE37317142D0D.title: "&f海蓝电池"
-	quest.60105BDA4CA76BD6.title: "&c生物神经回路"
+	quest.60105BDA4CA76BD6.quest_desc: [
+		"The &zBio-Neural Circuit&r builds onto your existing &6Draconic Evolution&r and &2EnderIO&r setups."
+		""
+		"To create this item, your gear will also be challenged as you will need to defeat the &zChaos Dragon&r."
+		""
+		"&aNote&r: You should automate &zChaos Shards&r."
+	]
+	quest.60105BDA4CA76BD6.quest_subtitle: "Focus: End-Game Tech"
+	quest.60105BDA4CA76BD6.title: "&zBio-Neural Circuit"
 	quest.603BAFEF92DA275E.quest_desc: [
 		"现在你有了&b活化水晶锭&r和&b宝石&r，用它们把钻石盔甲大换新吧。"
 		""
@@ -9754,8 +9861,6 @@
 		"&3钚&r可以通过少量盐水或盐处理后，回收为&7裂变燃料&r。"
 		""
 		"如果你正在用&d反应堆&r发电，并且&a铀&r、&e硫&r甚至&7氟石&r告急，不要怕，这个过程可以循环利用，让你的初始燃料使用的时间延长最多五倍，同时废料减少不到10%。这就是循环利用的魔力！"
-		""
-		"它也可以用来制作&6FTB金字塔&r的一个所需物品。"
 	]
 	quest.66BC4434409F959B.title: "&d再处理裂变碎片"
 	quest.66E5ACACAC79B1F8.title: "&a两栖靴"
@@ -10177,6 +10282,7 @@
 		"做出&6混合核合金板&r后，要把它们放进&3内爆压缩机&r炸一下才能变为&6核合金板&r，一座反应堆将会需要大量的核合金板，你最好建一条生产线。"
 	]
 	quest.6BD4E9B7B2C99C27.title: "&6核合金板"
+	quest.6C0B018694B279E1.quest_desc: ["With the &zMekanized Super Computer&r crafted, you have access to the final layer of the Pyramid!"]
 	quest.6C0B018694B279E1.title: "&c金字塔顶层"
 	quest.6C4441CC63BC7603.quest_desc: [
 		"&c热力蒸馏塔&r可以加热内部流体，以此制造出新的流体。这次我们将用&9水&r来提炼出&e盐水&r。"
@@ -10282,7 +10388,17 @@
 		"With a Tier 4 Forge, you can upgrade your Quantum Catchers to &dBoss Catchers&r!"
 	]
 	quest.6D86FE4434EB30AB.title: "&6Hephaestus Forge: &bTier 4"
-	quest.6D8B17AD5ABEC7BC.title: "&6终极奇点"
+	quest.6D8B17AD5ABEC7BC.quest_desc: [
+		"The &zUltimate Singularity&r might hold the first real tech challenge of the Pyramid."
+		""
+		"This item explores more unique ways to create items, making use of &2Nautec&r and &eEnderIO&r."
+		""
+		"It is also worth having a nice &dSingularity&r setup using an &aInfinity Cobblestone Cell&r!"
+		""
+		"&aNote&r: Using &aModern Industrialization&r is optional to create this item."
+	]
+	quest.6D8B17AD5ABEC7BC.quest_subtitle: "Focus: Tech Mods"
+	quest.6D8B17AD5ABEC7BC.title: "&zUltimate Singularity"
 	quest.6DC738A434C5B02F.title: "&f击杀10只&d末影人"
 	quest.6DD9A75EE8C97710.quest_desc: ["&d亡灵术士&r与常见的敌对生物同时刷出来的概率极低，如果未做好准备，碰到他们将极为致命。在&b地下墓穴&r中，有时能碰到生成它们的刷怪笼。"]
 	quest.6DD9A75EE8C97710.title: "&f击杀10只&d亡灵术士"
@@ -10749,11 +10865,11 @@
 	quest.7318F114EA136854.quest_desc: [
 		"&6FTB金字塔挑战&r是这个包的最终挑战！"
 		""
-		"为了完成这个挑战，你需要深入探索这个由许多模组交织而成的世界。"
+		"The items required by the Pyramid will take you through each major aspect of your playthrough. These items focus on things like &aMob Farms&r, &2Tech Mods&r, &dMagic Mods&r, &eExploration&r, and more!"
 		""
-		"你可以选择的任何顺序制作这些任务的每个必需物品，并将在每层结束时获得任务的对应层方块奖励。最终，你将搭建自己的功能性FTB金字塔。它的结构就像一个最高等级的信标！"
+		"Each layer of the Pyramid comes with its own difficulty, and you can expect to automate and upgrade your setups as you build up."
 		""
-		"热爱挑战之人，我们顶峰相见！"
+		"Ultimately, you will build your own functional &zFTB Pyramid&r. It's built just like a max tier Beacon! For those who are up to the challenge, we'll see you at the top!"
 	]
 	quest.7318F114EA136854.title: "&6FTB挑战：金字塔&r"
 	quest.73254377A0723540.quest_desc: [
@@ -11007,7 +11123,7 @@
 		""
 		"恭喜你！你通关了这个整合包！"
 	]
-	quest.755E80CFF2053CF8.title: "&3激活金字塔&r"
+	quest.755E80CFF2053CF8.title: "&6Activating The Pyramid"
 	quest.75621DDF80A2B05F.quest_desc: ["&a魔源中继器：收集型&r会自动从未用支配之杖建立连接的魔源罐中提取魔源，提取范围为五格。"]
 	quest.75621DDF80A2B05F.title: "&d收集魔源"
 	quest.757191CC5F6D98CC.quest_desc: [
@@ -11141,7 +11257,15 @@
 		"调节这些管道需要&a耶塔扳手&r，如果你把管道放在了导管框架下，但是又想调整这个管道的话，手持耶塔扳手就可以隐藏导管框架，轻松调整。"
 	]
 	quest.77372AD6C4049263.title: "&6末影接口&d导管"
-	quest.773C44B85A2A1042.title: "&e超临界物质"
+	quest.773C44B85A2A1042.quest_desc: [
+		"The &zSupercritical&r &z&mBurrito&r &zMass&r focuses on the end-game of several advanced tech mods."
+		""
+		"The &dPlasmatic Core&r can be created using either &aModern Industrialization&r items, or making &dAntimatter&r and &dD-T Fuel&r from &2Mekanism&r."
+		""
+		"Similar to some burritos, this item has an explosive end."
+	]
+	quest.773C44B85A2A1042.quest_subtitle: "Focus: Advanced Tech Burrito"
+	quest.773C44B85A2A1042.title: "&zSupercritical Mass"
 	quest.773F797227054C32.quest_desc: [
 		"你是否曾经看着一只怪物，想着“啊，我要是也能这样就好了”？现在这已经可以实现了！"
 		""
@@ -11888,7 +12012,15 @@
 		"还可以调整物品收集器的拾取白名单，以及拾取频率！"
 	]
 	quest.7EDCDC0CA1A03FA0.title: "&eJustDire的&f物品拾取器"
-	quest.7EE04D8B354DC5CB.title: "&6末影发讯芯片"
+	quest.7EE04D8B354DC5CB.quest_desc: [
+		"The &zEnder Transmitter&r is a combination of several powerful tech mods coming together!"
+		""
+		"This item will require you to build several setups in the major tech mods in the pack."
+		""
+		"These setups will be reused and upgraded for the more difficult items in the Pyramid as well!"
+	]
+	quest.7EE04D8B354DC5CB.quest_subtitle: "Focus: Tech Mods"
+	quest.7EE04D8B354DC5CB.title: "&zEnder Transmitter"
 	quest.7EF3DE47C8EF094A.quest_desc: [
 		"&bHanging Herbs&r are a way to store and process your collected &aHerbs&r."
 		""
@@ -12198,7 +12330,6 @@
 	task.110E6C2DF4533110.title: "黑曜石粉"
 	task.1114E07F8446FAA0.title: "方块管理"
 	task.1136F216C8AF9FE6.title: "Effect Modules"
-	task.1203293F62D3F55F.title: "第三层：完成"
 	task.1211B7B1BC40225B.title: "存储控制器"
 	task.1257CB86BCFAFF54.title: "&6觉醒精华&f盔甲"
 	task.1367AF5545964395.title: "&f漫游"
@@ -12379,6 +12510,7 @@
 	task.45E409BCABAACDB1.title: "&a异界树林"
 	task.461DC877898F48C2.title: "&f世界中的方块"
 	task.4668931B20B14CA6.title: "&6JustDire的&f高能煤炭"
+	task.46C58E4BD9617A03.title: "Any &aBasic Malum Trinket"
 	task.473509F84E9C3147.title: "蜂巢和蜜蜂刷新"
 	task.4742ACCF0E820BD4.title: "&e召唤一个&3具翼"
 	task.4750B6095A6DC2F2.title: "&e观察&f：粉碎机"
@@ -12391,7 +12523,6 @@
 	task.497CF86F5BC5A7D0.title: "基础线缆"
 	task.49DF96867DE0BB9D.title: "任意派别的精魂"
 	task.4A0037264C36EBE1.title: "&e观察&f：&d电弧炉"
-	task.4A18F4F81AEA7421.title: "第一层：完成"
 	task.4A5574B73D5286B1.title: "任意可佩戴的符文"
 	task.4B48F3912AE46B3C.title: "&e召唤一个&a被附身的幻翼"
 	task.4B65088186551D3C.title: "&f虚空升级"
@@ -12436,7 +12567,6 @@
 	task.56BA1011DDE093D0.title: "&f粗锇"
 	task.56E777FE460B3ED0.title: "&fPlates"
 	task.575F4232C0E9D957.title: "魔法装备"
-	task.579A856376CC3518.title: "任意灵灾饰品"
 	task.57A9D2B9030E96F9.title: "&2初级精华&f盔甲"
 	task.57FEAD1653F0F2DD.title: "&e召唤一个&3村民"
 	task.580FC1A9FFD21906.title: "我已阅读并同意创造有史以来最好的药剂"
@@ -12550,7 +12680,6 @@
 	task.731217604FF8A844.title: "床"
 	task.734212F4FDFDAD92.title: "&e召唤一个&a贪婪使魔"
 	task.747DDA167BA0D47A.title: "&fKill: 1x &dSavage Ender Dragon"
-	task.757810F183F6346C.title: "第二层：完成"
 	task.75950ADE1D19EBBB.title: "&eSummon&r: &3Dusk Spirit"
 	task.75A91CC491740DEA.title: "&a精妙存储&r"
 	task.75CE8877F456D5E9.title: "重置挖掘技能树"
