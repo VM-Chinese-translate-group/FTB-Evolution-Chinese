@@ -3368,7 +3368,7 @@
 										}
 									}
 									{
-										Name: "farmersdelight:basket"
+										Name: "farmersdelight:bamboo_basket"
 										Properties: {
 											enabled: "true"
 											facing: "up"

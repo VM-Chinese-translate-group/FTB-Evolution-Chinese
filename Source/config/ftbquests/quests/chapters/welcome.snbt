@@ -45,14 +45,14 @@
 			click: "https://github.com/FTBTeam/FTB-Modpack-Issues/issues"
 			height: 1.0d
 			hover: ["Report A Bug"]
-			image: "azurelib:icons/error"
+			image: "refinedstorage:textures/gui/sprites/error.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 1.0d
 			y: 3.0d
 		}
 		{
-			color: 5636095
+			color: 16774136
 			height: 1.0d
 			image: "ftbquests:textures/shapes/square/background.png"
 			order: -1

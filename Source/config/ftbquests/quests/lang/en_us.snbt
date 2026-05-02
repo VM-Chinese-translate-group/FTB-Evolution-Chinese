@@ -9875,8 +9875,6 @@
 		"&3Plutonium&r can be reclaimed into &7Fissile Fuel&r with a bit of brine or salt processing."
 		""
 		"If you're using your &dReactor&r for power and hurting for &aUranium&r, &eSulfur&r, or even &7Fluorite&r, this process can be looped to make your initial fuel last up to five times as long over time with up to less than a tenth of the waste. That's the magic of recycling at work!"
-		""
-		"It can also be used to craft a completion item for the &6FTB Pyramid&r."
 	]
 	quest.66BC4434409F959B.title: "&dReprocessed Fissile Fragments"
 	quest.66E5ACACAC79B1F8.title: "&aAmphibian Boot"
