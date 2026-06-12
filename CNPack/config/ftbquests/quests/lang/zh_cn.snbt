@@ -23,11 +23,12 @@
 	chapter.485ABBDAA9A6C0CD.title: "Fargo's Talismans"
 	chapter.4A4EF884469A95F5.title: "狂猎"
 	chapter.4DC3791895990DEA.title: "Roots \\&\\ Pagan's Blessing"
-	chapter.57B80311B81CBCBD.title: "Draconic Evolution"
+	chapter.57B80311B81CBCBD.title: "龙之进化"
 	chapter.618927B4ED1733F6.title: "现代工业化"
 	chapter.6237554E573576FE.title: "模块化力场系统"
 	chapter.642768EC48CAFC60.title: "海蓝科技（NauTec）"
 	chapter.663E3448E59F8F90.title: "奖励测试用章节"
+	chapter.67DDE0406A5EE303.title: "Neo Vitae"
 	chapter.6A58A6F56CD199A3.title: "动态联合"
 	chapter.6CA0553DF634A937.title: "新生魔艺"
 	chapter.6F0ED7CA1077DD3C.title: "末影接口"
@@ -147,6 +148,8 @@
 	]
 	quest.013375F170CE6A2F.quest_subtitle: "附身五芒星：级别2"
 	quest.013375F170CE6A2F.title: "&3伊哈根奴役术"
+	quest.0154D0F30F095E63.quest_desc: ["Crystal Catalyst can accelerate the growth of a similarly aspected crystal cluster. So if you use a raw calayst on a raw crystal it will grow substantially faster. If you use an aspected catalyst however it will change the type of the growing crystal into the new aspected type."]
+	quest.0154D0F30F095E63.title: "Coaxing Crystals"
 	quest.016821326AD093AF.quest_desc: ["Each &dEnergized Standing Stone&r provides its own function in an area around them forever, without any cost."]
 	quest.016821326AD093AF.title: "&dEnergized Standing Stones"
 	quest.016E959A387A1E03.quest_desc: ["[\"粉碎末地石能让你制作\", {\"text\": \"紫色粉笔\", \"color\": \"#9D7AD0\"}, \",它是更高级的\", {\"text\": \"粉笔\", \"color\": \"green\"}, \"也是我们接下来举行仪式所需的\", {\"text\": \"粉笔\", \"color\": \"aqua\"}, \".\"]"]
@@ -522,9 +525,9 @@
 	quest.0533C0C07AE600FD.quest_subtitle: "核裂变的最低要求"
 	quest.0533C0C07AE600FD.title: "&d小型模块化反应堆"
 	quest.056492E163706EC5.quest_desc: [
-		"The &aDislocator&r can be used to store a teleport location by Sneak + Right-clicking with it in the world."
+		"潜行+右击可将你当前的位置（包括维度）存储到&a传送符咒&r。"
 		""
-		"Once stored, simply Right-click to teleport to that stored location, up to 32 times."
+		"存储位置后，手持符咒右击即可传送到此位置，最多使用32次。"
 	]
 	quest.056492E163706EC5.title: "&aDislocator"
 	quest.0566053CCA772771.quest_desc: [
@@ -611,6 +614,12 @@
 		"&a激光炮塔&r是基地防御设施，消耗能量攻击敌人。可设置为攻击玩家模式，防止他人闯入你的基地。"
 	]
 	quest.06765AD5169D189D.title: "&a保卫基地&r！"
+	quest.067E4D25501B94F3.quest_desc: [
+		"A ritual needs a heart. Lay a &cMaster Ritual Stone&r at the center, mark the lesser stones around it with the &cRitual Diviner&r, and ignite the working with a &cWeak Activation Crystal&r."
+		""
+		"From the Well of Suffering to Overgrowth to the Endless Quarry, the circle does the labor you would otherwise bleed for."
+	]
+	quest.067E4D25501B94F3.title: "Rites and Rituals"
 	quest.06918197435AF24E.quest_desc: [
 		"你可以用&a进阶样板供应器升级&r将AE2供应器升级到AdvancedAE版。"
 		""
@@ -856,7 +865,7 @@
 		""
 		"Once you have a &aDislocator&r that is bound to a location, you can Right+click the Dislocator onto the &dDislocator Receptacle&r to activate the portal."
 	]
-	quest.08E2F329A628BE50.title: "Custom Portals"
+	quest.08E2F329A628BE50.title: "自定义传送门"
 	quest.08E4BC23ACDC52EA.quest_desc: [
 		"把它加装到&a离心机&r后，离心机就可以处理&b流体&r离心配方了！"
 		""
@@ -1059,6 +1068,8 @@
 		"注意：一些合金可以用别的模组机器合成，甚至手搓都可以，不过代价就是消耗更多资源。"
 	]
 	quest.0A6E103A6945D11E.title: "&6铸造器"
+	quest.0A7737571F027A95.quest_desc: ["A hundred and eight runes and corners of Hellforged Block raise the altar to &cTier IV&r, home of the &cDominus Orb of Vitae&r and the most destructive rites in all of Vitaemancy."]
+	quest.0A7737571F027A95.title: "Tier IV: The Archmage's Orb"
 	quest.0A81E251CAB36215.quest_desc: [
 		"充能时，&a细胞分析器&r可将&a有机物质&r转化为&a细胞&r。"
 		""
@@ -1373,6 +1384,9 @@
 		"注：&d魔灵同调水晶&r在搭建附魔台时很有用！"
 	]
 	quest.0D0892AD0DB44795.title: "&f魔灵同调宝石"
+	quest.0D0A1E61C2384E37.quest_desc: ["Raw will bends to purpose. With a catalyst and an &cAnimus Mote&r drawn from a Daemonium Animaris, a Raw cluster becomes &cRuina&r, &cNihilum&r, &cVindicta&r, or &cInvictus&r, each its own cruelty and each reshaping how your Sentient Tools behave."]
+	quest.0D0A1E61C2384E37.quest_subtitle: "Any one aspect proves the craft."
+	quest.0D0A1E61C2384E37.title: "The Five Aspects"
 	quest.0D35D0D33922A201.title: "&f打败十波&d永恒之门"
 	quest.0D38D67E3FD120CB.quest_desc: [
 		"The &zChaotic Sword&r is the final upgrade of the &dDraconic Sword&r."
@@ -1872,6 +1886,12 @@
 		"{image:minecraft:textures/painting/wither.png width:100 height:100 align:center}"
 	]
 	quest.1237537100194BED.title: "&f击杀&d凋灵"
+	quest.124509FFC6717603.quest_desc: [
+		"Your first sigil comes from the Alchemy Array. The &cDivination Sigil&r reads the well of Anima within you and the EV held in an altar before you."
+		""
+		"You cannot manage what you cannot measure."
+	]
+	quest.124509FFC6717603.title: "A Sense for Anima"
 	quest.12468F8BF7B80737.quest_desc: [
 		"探索一大堆维度会花费非常多时间，尤其找类似传送门一样的结构最累人！"
 		""
@@ -2041,6 +2061,12 @@
 		"有空都看一遍吧！"
 	]
 	quest.141CE17C25D2A53A.title: "&f空白升级"
+	quest.143B171B2AE08145.quest_desc: [
+		"Perform &cBreaching the Edge of Demon Realm&r and you tear a one-time wound in the veil, building an &cAntechamber&r on the far side."
+		""
+		"Step through. Bring keys, or the means to find them."
+	]
+	quest.143B171B2AE08145.title: "Breaching the Veil"
 	quest.143E07D2565798AB.quest_desc: [
 		"&6Oritech&r模组的主要机器为&b多方块机器&r，其中绝大多数的多方块机器都需要用上&a机器核心&r。记得查看机器的工具提示，其中标出了需要多少核心。"
 		""
@@ -2166,6 +2192,7 @@
 		"It can be obtained by right-clicking with a &aBoline&r on a &aBlack Thorn Log&r that has a green spot on it."
 	]
 	quest.16484C884A6ACE7F.title: "&aEssence Of The Forest"
+	quest.165A563C9EFE232B.quest_desc: ["A flask is a held effect; a &cTipped Throwing Dagger&r is that effect delivered to someone else's throat."]
 	quest.166BA0D04A1686C7.quest_desc: [
 		"&3Fortron&r可以从&a能源转换器&r或其他&bFortron驱动的机器&r中提取。"
 		""
@@ -2397,6 +2424,12 @@
 		"当你没有使用普通&a细胞&r，而是使用&d转基因细胞&r时，它的&bDNA螺旋&r会更倾向于那个特定的怪物。"
 	]
 	quest.190616DB4087BDE9.title: "&2DNA提取器"
+	quest.191E3A2225AD70FA.quest_desc: [
+		"Bind an iron piece on a Binding array with a charged gem and the metal wakes up. &cSentient Armour&r starts humble: a hundred points of room to grow, and a long memory."
+		""
+		"The chestplate banks what you do: blows taken, miles walked, blocks broken."
+	]
+	quest.191E3A2225AD70FA.title: "The Sentient Shell"
 	quest.1953C2127633B6D7.quest_desc: [
 		"&d无线通用终端&r集成了数种不同类型无线终端的功能于一体。"
 		""
@@ -2797,6 +2830,13 @@
 	quest.1CCED3AEA33EBC1E.title: "&f唤魔者典籍"
 	quest.1CD21F10064581B4.quest_subtitle: "自然粉笔"
 	quest.1CD21F10064581B4.title: "&a绿色粉笔"
+	quest.1CE38D8CD1B5CA50.quest_desc: [
+		"Every Tabula Vitae reagent is a sigil waiting to happen. Water that never runs dry, lava on demand, a void that swallows fluids, haste, magnetism, hastened growth."
+		""
+		"Scribe the trades that suit you."
+	]
+	quest.1CE38D8CD1B5CA50.quest_subtitle: "Any one will do; collect them all in time."
+	quest.1CE38D8CD1B5CA50.title: "The Sigil Catalog"
 	quest.1CEA8C4CF222E70B.quest_desc: [
 		"先回顾一下，免得大家搞不清楚，三阶矿物处理产线的结构是这样的！"
 		""
@@ -2922,6 +2962,14 @@
 	]
 	quest.1E2A91B73A752B3B.quest_subtitle: "&o你又是谁？"
 	quest.1E2A91B73A752B3B.title: "&a生物识别器"
+	quest.1E2F0E34FF11233F.quest_desc: [
+		"The &cHighway to Hell&r ritual tears open a permanent gate to the &cEndless Realm&r."
+		""
+		"Come armed and armored; the realm does not suffer the unprepared."
+		""
+		"As you progress you will see a message about a rift opening or creatures stirring in the depth. This means new door types will begin to be available like the mines entrance. Make sure to select those keys when opening whenever available. "
+	]
+	quest.1E2F0E34FF11233F.title: "Highway to Hell"
 	quest.1E39AB995B86D47A.quest_desc: [
 		"在你的&a压力管道&r上应用&b聚乙烯&r层后，您可以将它们升级为&2强化压力管道&r，使它们能够承受高达10&bBAR&r的压力！"
 		""
@@ -3067,6 +3115,12 @@
 		"{image:ftbevolution:textures/quests/clibano_guide.png width:200 height:200 align:center fit:true}"
 	]
 	quest.1FB7C690C945F528.title: "&fThe &cClibano Forge"
+	quest.1FB8BF0898FD99D9.quest_desc: [
+		"Twenty-eight runes and four pillars capped in Blood Stained Glass raise the altar to &cTier II&r, where it can craft the &cVeneficus Orb of Vitae&r."
+		""
+		"At Tier II the altar stops being a tool and becomes an engine."
+	]
+	quest.1FB8BF0898FD99D9.title: "Tier II: The Magician's Orb"
 	quest.1FBEA2EB39456FD5.quest_subtitle: "存储气体"
 	quest.1FBEA2EB39456FD5.title: "{\"text\": \"基础化学品储罐\", \"color\": \"#5EFCB6\"}"
 	quest.1FCE7E6527304CC5.quest_desc: ["&a储能单元&r可以将EU存起来以供之后使用，其传输速率与同等级的发电机一致。"]
@@ -3283,6 +3337,7 @@
 	quest.22878CFA5B7B90AD.title: "&6化学品结晶&r"
 	quest.228C9567BB43034A.quest_desc: ["&a气动能源炉&r可以将&b压力&r转化为&cFE&r。"]
 	quest.228C9567BB43034A.title: "&f把压力转换为FE"
+	quest.229B331555E15B4A.quest_desc: ["With the Dusk Diviner, the &cRitual of Sentient Evolution&r raises your armour's cap from &c100&r to &c300&r points. The &cSentient Extraction&r ritual strips upgrades into Tomes you can bank in a &cTraining Bracelet&r."]
 	quest.22B223553DE205D6.quest_desc: [
 		"&a动力搅拌器&r可用于配方制作、混合药水以及其他一些混合配方。"
 		""
@@ -3528,6 +3583,8 @@
 		"这是前期获取&6末影化合物&r的最佳方式。"
 	]
 	quest.24CE908ED60FD514.title: "&f粉碎时间到！"
+	quest.24E04D4C7C3E7CA4.quest_desc: ["Mine the veins the Foreman guarded. &cDemonite&r is the only honest source of Hellforged metal, the capstone material for the ultimate altar tiers."]
+	quest.24E04D4C7C3E7CA4.title: "Demonite"
 	quest.24E11CBBB6EC58D5.quest_subtitle: "酿造台的燃料。"
 	quest.24E11CBBB6EC58D5.title: "&f烈焰粉"
 	quest.24E7F983A5ED730F.quest_desc: ["&3列车机壳&r用于制作列车组件和装饰方块。"]
@@ -3551,6 +3608,8 @@
 	quest.25023C87AA259688.quest_desc: ["虽然这可能不是最坚固的盔甲，但当你穿上全套&a纸板&r套装时，&a纸板盔甲&r会为你提供酷炫的潜行效果。"]
 	quest.25023C87AA259688.quest_subtitle: "偷偷摸摸"
 	quest.25023C87AA259688.title: "&a纸板盔甲"
+	quest.2507A7FD69022F2C.quest_desc: ["Burn Spiritus in the &cVas Maleficum&r and the air of the chunk grows thick with will. Read it with the &cSpiritus Aura Gauge&r."]
+	quest.2507A7FD69022F2C.title: "The Aura Between Worlds"
 	quest.25605901343EF3BF.quest_desc: [
 		"[\"这把\",{\"text\":\"末影电磁炮\",\"color\":\"#FCD205\"},\"是一种强大的远程武器，可发射高速射弹，对敌人造成巨额伤害，并能远距离破坏方块。该\",{\"text\":\"电磁炮\",\"color\":\"#FCD205\"},\"由RF能源驱动，且必须蓄能后才能使用。\"]"
 		""
@@ -3630,6 +3689,12 @@
 		"注意：&a石英玻璃&r可以在合金炉用4个下界石英熔炼出来。"
 	]
 	quest.262F5FE957F52F5D.title: "&f绑定灵魂"
+	quest.263045D3780542C0.quest_desc: [
+		"Tau alone is potential. The &cAthanor&r refines it, pressing &cTau Oil&r and saturating fruit into the shards a higher altar demands."
+		""
+		"Build the furnace of the patient alchemist."
+	]
+	quest.263045D3780542C0.title: "The Athanor"
 	quest.2638544A28C99F78.title: "&fEngraved Blade"
 	quest.264C4CE122513D7B.quest_desc: [
 		"&6矿脉领主魔王&r是最强大的&b魔灵&r矿工。"
@@ -3906,6 +3971,13 @@
 	quest.2953423FCB0A3146.title: "&f水下酿造"
 	quest.296C424C7D2C7589.quest_subtitle: "气体/化学品管道"
 	quest.296C424C7D2C7589.title: "{\"text\": \"基础加压管道\", \"color\": \"#5EFCB6\"}"
+	quest.297703FC2EBF8CD8.quest_desc: [
+		"Crystals don't grow from nothing; they grow out of the Spiritus Aura, an invisible miasma measured per chunk, capped at 100 per Aspect."
+		""
+		"Fill a chunk's Aura by burning Spiritus in a Vas Maleficum (feed it a charged gem, loose Spiritus, or crystals of any Aspect)."
+		""
+		"Read the local concentration with a Spiritus Aura Gauge (sneak for exact 0–100 numbers per Aspect)."
+	]
 	quest.298BFB73F3B2E3D5.quest_desc: [
 		"&a电池&r很适合便携存储能量，无论是有线还是无线都能给它充能。"
 		""
@@ -4175,6 +4247,12 @@
 	quest.2C32209F81B64294.title: "&b电动挖矿工具"
 	quest.2C55C6EBABA86BA8.title: "&f初级方块破坏器"
 	quest.2C7CFA7BB32C25BA.title: "&d末影&f升级法球"
+	quest.2C9A224C8B8436BB.quest_desc: [
+		"Past a Spatial Distortion lies the entrance to the &cMines&r. &cMine Dungeon Keys&r open the way inward, toward the veins of Demonite."
+		""
+		"The Daemonium that haunt these halls are no reskinned villagers. Learn them by killing them."
+	]
+	quest.2C9A224C8B8436BB.title: "The Mines"
 	quest.2C9DEB9B0DF58090.quest_desc: [
 		"Pink Slime can be turned into &dPink Slime Ingots&r."
 		""
@@ -4220,6 +4298,12 @@
 		"The transfer rate of fluids is dependant on the &bRPM&r of the &aMechanical Pump&r."
 	]
 	quest.2D09494ED3235CC8.title: "&aMechanical Pump"
+	quest.2D254A8045093FED.quest_desc: [
+		"The &cHellfire Forge&r is fueled by &cSpiritus&r, the residue you tear from creatures wounded by your daggers."
+		""
+		"From it come &cSpiritus Gems&r, &cSentient Tools&r, explosive charges, and more. It will be hungry."
+	]
+	quest.2D254A8045093FED.title: "The Hellfire Forge"
 	quest.2D2EC0BCFF1DA68C.quest_desc: [
 		"用蜜蜂笼捕获蜜蜂后，大多数蜜蜂会显示具体的属性。我们来看一看这些属性吧！"
 		""
@@ -4390,6 +4474,12 @@
 	quest.2E3D059E42C0BB35.title: "&aWillow Broom"
 	quest.2E3D56F5BC1075DB.quest_desc: ["这个升级可以让你拥有创造飞行的能力，把它加装到你的&d蚀空合金胸甲&r上就行。"]
 	quest.2E3D56F5BC1075DB.title: "&f升级：飞行"
+	quest.2E5484E8811384DA.quest_desc: [
+		"Saturated Tau, worked through the Athanor, condenses into a &cWeak Blood Shard&r."
+		""
+		"It crowns the Tier III pillars and gates everything beyond, alongside stronger anointments and potion catalysts."
+	]
+	quest.2E5484E8811384DA.title: "The Weak Blood Shard"
 	quest.2E56DB4CBFE2F37C.quest_desc: ["1个高级精华=64个下级精华"]
 	quest.2E56DB4CBFE2F37C.quest_subtitle: "四阶"
 	quest.2E56DB4CBFE2F37C.title: "&b高级精华&r"
@@ -4743,6 +4833,11 @@
 	]
 	quest.31BD9A98AE5893B9.quest_subtitle: "可以储存配方所需物品。"
 	quest.31BD9A98AE5893B9.title: "&f调料架"
+	quest.31BF04D4FDB8DC2F.quest_desc: [
+		"The &cTabula Vitae&r is your first alchemical bench. With an Orb of Vitae placed inside, it draws EV from your Anima to brew &cArcane Scribe Tools&r, sigil reagents, early anointments, and 2x ore processing recipes."
+		""
+		"Build it; the rest of the craft opens from here."
+	]
 	quest.31C83D9253FFF685.quest_desc: [
 		"&3工业涡轮&r是垂直的多方块结构，能将&7蒸汽&r转化为能量，并可选择使用&9饱和冷凝器&r将其变回&b水&r。请注意，如果涡轮储存的能量已满，它将停止运行或储存蒸汽。"
 		""
@@ -5866,6 +5961,8 @@
 		"[\"You can remove the \", {\"text\": \"rust\", \"color\": \"#D5510E\"}, \" by making some \", {\"text\": \"Etching Acid\", \"color\": \"#55FF55\"}, \" then placing it down and throwing your items in them. It takes a few seconds.\"]"
 	]
 	quest.3BAE611AE4CEA7A6.title: "[{\"text\": \"Removing The \", \"color\": \"#FFFFFF\"}, {\"text\":\"Rust\", \"color\": \"#D5510E\"}]"
+	quest.3BB1A111D7035936.quest_desc: ["The Novicius Orb runs dry too fast. The &cDiscipulus Orb of Vitae&r holds more and draws faster, befitting a hand that no longer trembles at the cut."]
+	quest.3BB1A111D7035936.title: "The Apprentice's Orb"
 	quest.3BCB8667CCEBAE57.quest_desc: [
 		"&a存储促动器基座&r是访问您的存储维度所需的两个部件中的第一个部件。"
 		""
@@ -5874,6 +5971,8 @@
 	quest.3BCB8667CCEBAE57.title: "&a存储促动器基座"
 	quest.3BD6FEDB8CFAC914.quest_desc: ["精炼&a乙醛&r与&a杂酚油&r即可制造出&a酚醛树脂&r，一种用于制作塑料的材料。"]
 	quest.3BD6FEDB8CFAC914.title: "&f酚醛树脂"
+	quest.3BDF260175FFE44F.quest_desc: ["Demonite refines into &cHellforged Ingots&r, the spine of every endgame thing you will ever build."]
+	quest.3BDF260175FFE44F.title: "Hellforged Steel"
 	quest.3BFF8EFB5E7186A4.quest_desc: [
 		"多方块&6量子计算机&r内部可以用不同方块填充。"
 		""
@@ -6112,6 +6211,12 @@
 		"如果想要重置星宝石兽的运输设定，拿着魔杖潜行右击它就可以。"
 	]
 	quest.3E92AE1CCA722AA3.title: "&d魔法&f松鼠"
+	quest.3EC0F38A5F8D01E2.quest_desc: [
+		"Your first act as a Vitaemancer is to construct an &cAra Vitae&r."
+		""
+		"Place it on flat stone where you can reach every side. With no Essentia Vitae of its own, the altar draws blood from any nearby who carry no Blood Orb, refining it into &cEV&r. It never kills; it takes only what it needs."
+	]
+	quest.3EC0F38A5F8D01E2.title: "Raise the Ara Vitae"
 	quest.3EC49141168794C9.quest_desc: [
 		"The &3Terrastomp Prism&r is one of the 4 Elemental Prisms you can make with your Forge."
 		""
@@ -6283,6 +6388,12 @@
 		"气压越大，温差越大。"
 	]
 	quest.40B00524384110B9.title: "&f涡流管"
+	quest.40B51E2F7CFBF442.quest_desc: [
+		"Lay a &bdiamond&r upon the bare altar and let the EV transfigure it into your first &cNovicius Orb of Vitae&r."
+		""
+		"Bind it to yourself by right-clicking with it in hand. From then on you offer your own blood at will: right-click the bound orb. Near an altar the blood flows into the basin; away from one it is stored in the orb to carry and pour in later."
+	]
+	quest.40B51E2F7CFBF442.title: "Bind a Novicius Orb"
 	quest.40B9A5403390D8A1.quest_desc: [
 		"你现在有了青铜，就可以制作&e现代工业化&r&a管道&r了。这些管道用途非常广泛，值得你使用。"
 		""
@@ -6987,6 +7098,12 @@
 	]
 	quest.4843F5564CA5810C.title: "&f柴油发电机"
 	quest.48567556D94D1ADC.title: "&c烈焰金斧"
+	quest.48784773302B05B5.quest_desc: [
+		"Strange fruit grows in the Antechamber. &cWeak Tau&r is a seed of the demon realm's vitality."
+		""
+		"Carry it home and cultivate it."
+	]
+	quest.48784773302B05B5.title: "The Tau Harvest"
 	quest.4879B6C32F7B1749.quest_desc: [
 		"&a搅拌机&r用来将多种物品或液体混合产生新的物质。使用时请注意配方需求的搅拌机等级！"
 		""
@@ -7042,6 +7159,12 @@
 	]
 	quest.493E152B4A7BB767.quest_desc: ["&a红石请求器&r在接收到红石信号时，从连接的库存网络中请求特定物品。"]
 	quest.493E152B4A7BB767.title: "&a红石请求器"
+	quest.494F66F00941F48C.quest_desc: [
+		"Cultivated and saturated, Weak Tau ripens into &cStrong Tau&r: dense enough to refine."
+		""
+		"To grow this you must allow it to grow with animals walking on it. They will be damaged over time and each time there is a chance the Tau will becomes saturated and will evolve into Strong Tau. "
+	]
+	quest.494F66F00941F48C.title: "Saturated Tau"
 	quest.49603EC381DD1818.quest_desc: [
 		"欢迎来到&6核能时代&r！是时候开始享受&6超高压&r的乐趣了。"
 		""
@@ -7712,6 +7835,11 @@
 	]
 	quest.4F092D86017F37E9.title: "&f充能台"
 	quest.4F10BBE77BDD9F10.title: "&6A Journey's End"
+	quest.4F21AE8F87333085.quest_desc: [
+		"Tau Oil is a refining reagent. It upgrades your Athanor's Cutting Fluid from Basic to Intermediate, and it is the base for the extended and greater anointments that keep your blades and bows potent far longer. "
+		""
+		"It also lets you make Spiritus Catalysts which can coax Spiritus Crystals into growing. "
+	]
 	quest.4F3787D3DCAFBB6F.quest_desc: ["能瞬间破坏东西的话，谁还需要效率附魔啊？"]
 	quest.4F3787D3DCAFBB6F.title: "&f升级：瞬间破坏"
 	quest.4F3CA2DCE719D18A.quest_desc: [
@@ -7756,6 +7884,12 @@
 		"你可以使用它制作&6魂之部件&r，也可以将其升级为&6神圣符石基底&r。"
 	]
 	quest.4FA9FABD84B4751A.title: "&c终极护身符模板"
+	quest.4FB5C89723323FA1.quest_desc: [
+		"A &cSentient Sword&r harvests Spiritus far more efficiently than a thrown dagger, and grows stronger the more will you feed it."
+		""
+		"An optional but potent early investment."
+	]
+	quest.4FB5C89723323FA1.title: "Sentient Steel"
 	quest.4FD0504ADB98E0C0.quest_desc: [
 		"By upgrading your &aEziveus' Spectral Compulsion&r, you can permanently bind a &3Djinni&r into an item."
 		""
@@ -7830,6 +7964,13 @@
 		"它还用于制作&d主世界之力&r。"
 	]
 	quest.5063CB99AD11CEB6.title: "&a红石护身符"
+	quest.50941BEEA38BE2C9.quest_desc: [
+		"The ultimate Ara Vitae. &cCrystal Clusters&r crown its pillars; an immense ring of runes girds its foundation. Capacity and crafting power without equal, and the &cDivinus Orb of Vitae&r to wield it."
+		""
+		"You came asking what power costs. You know now: everything, paid a drop at a time, until the asking and the answering are the same act."
+	]
+	quest.50941BEEA38BE2C9.quest_subtitle: "What you do with that power is yours to decide."
+	quest.50941BEEA38BE2C9.title: "Tier V: The Pinnacle"
 	quest.50951E558DE644C6.quest_desc: [
 		"你应该已经通过&3电解&r水&r得到大量&b氧气&r了。"
 		""
@@ -8088,6 +8229,11 @@
 	quest.52FDF71C284D22C6.title: "&aBroom Brush"
 	quest.53031F8BB47F117D.quest_desc: ["&a太阳能电池板&r可以产生大量能量，产能基于建造它使用的&b机械核心&r。"]
 	quest.53031F8BB47F117D.title: "&f大型太阳能电池板"
+	quest.530F5E2E4ADB1BA4.quest_desc: [
+		"If altar construction starts to drag, the &cpotioncrafting&r system opens at Tier I. Brew &cAlchemy Flasks&r or tip &cAmethyst Throwing Daggers&r with dozens of effects."
+		""
+		"A Vitaemancer with a well-stocked flask belt is never truly in danger."
+	]
 	quest.532DA0BDBF2F215A.title: "&f牛肉饼"
 	quest.53319642E4ECC11F.title: "&f核源铁斧"
 	quest.5346FF153D836A07.quest_desc: [
@@ -8117,6 +8263,12 @@
 		"这是下一阶的合金，你需要用它制作&9精英控制电路&r。"
 	]
 	quest.53EEF2EC6314E8F2.title: "&b强化合金"
+	quest.53F28C95FE1BAF29.quest_desc: [
+		"Eight runes laid around the altar make it &cTier I&r. Begin with &cBlank Runes&r, then inscribe them with purpose: capacity, speed, sacrifice."
+		""
+		"While at Tier I you may hold an Orb in your off-hand and kill creatures to harvest EV straight into your Anima, sparing your own veins."
+	]
+	quest.53F28C95FE1BAF29.title: "Tier I: The Ring of Runes"
 	quest.53FBBFC675F1FE7F.quest_desc: ["与普通的&a时间量子单元&r相比，&d时间量子电池&r可以存储更多的&b时间量子&r，而且它还是参与更高级合成的原材料。"]
 	quest.53FBBFC675F1FE7F.title: "&d时间量子电池"
 	quest.54016A2A0FAB6B4B.quest_desc: ["大型电动机既是一种制作原料，也是一种加快物品管道传输速度的方法。与&e现代工业化&r中的大多数部件一样，你需要一个生产线来稳定补给这种材料。"]
@@ -8258,6 +8410,12 @@
 	quest.5574D291E6E69013.quest_desc: ["1个初级精华=4个下级精华"]
 	quest.5574D291E6E69013.quest_subtitle: "二阶"
 	quest.5574D291E6E69013.title: "&2初级精华"
+	quest.557EBAB98F32B85F.quest_desc: [
+		"Not everything must die slowly. &cThrowing Daggers&r are your early ranged weapon and the seed of the Spiritus economy."
+		""
+		"A creature wounded by a dagger sheds &cRaw Spiritus&r when it dies; keep what falls."
+	]
+	quest.557EBAB98F32B85F.title: "Throwing Daggers"
 	quest.55897B86C2908176.quest_desc: [
 		"同类型的&a底盘&r会相互连接形成结构，并允许控制它们如何连接到这些结构。"
 		""
@@ -8561,6 +8719,11 @@
 		"&a绕过上限&r就是无视设备传输速率，直接拉满。"
 	]
 	quest.583FFE29C881EE8C.title: "&f关于网络的一切！"
+	quest.58503249A5084026.quest_desc: [
+		"The Crystallum Fractura is ideal for automating will. It will double the speed that crystals of all types grow at and will automatically harvest them when grown. "
+		""
+		"For each fully-grown crystal in range that it can afford it applies scaling Fortune based on the chunk's Raw Spiritus when harvesting."
+	]
 	quest.586E18023A595A6C.quest_desc: [
 		"蜜蜂很可爱，但是只能产蜂蜜……要是蜜蜂能产其他的东西呢？"
 		""
@@ -9000,6 +9163,12 @@
 		"&a进阶吹叶器&r速度更快，而且正如其名，它可以吹走树叶。"
 	]
 	quest.5DD4E634673638F8.title: "&a吹叶器"
+	quest.5DE88B0427A5B039.quest_desc: [
+		"Fifty-six runes, pillars crowned in Bloodstone Brick and Weak Blood Shards, raise the altar to &cTier III&r."
+		""
+		"Here you forge the &cMagus Orb of Vitae&r, the &cRitual Diviner [Dusk]&r, and the &cAwakened Activation Crystal&r that the advanced rites demand."
+	]
+	quest.5DE88B0427A5B039.title: "Tier III: The Master's Orb"
 	quest.5DF40808F9C6FEC0.quest_desc: [
 		"你可以用新到手的&a核源铁&r制作一些该模组的简易机器。"
 		""
@@ -9041,6 +9210,12 @@
 		"- 能量管道：每1tick传输10kRF"
 	]
 	quest.5E0AF550AAE74676.title: "&f基础物流"
+	quest.5E12FC7FD8720FBA.quest_desc: [
+		"Something runs the Mines, and it does not clock out. The &cForeman&r is a Daemonium Doloris swollen with authority: six hundred hearts of spite and a key no one else carries."
+		""
+		"Take the &cMine Entrance Key&r from him."
+	]
+	quest.5E12FC7FD8720FBA.title: "The Foreman"
 	quest.5E18F5B83FC4EC2D.quest_desc: [
 		"&3祛魔透镜&r可以把单个魔咒从工具传输到书或附魔书上。"
 		""
@@ -9131,6 +9306,8 @@
 		"对于初学者，蜜蜂小食可以用来制作&a蜜蜂笼&r，以便在旅途中捕获蜜蜂！这是一次性使用的，但你可以在战利品箱中找到可重复使用的版本！"
 	]
 	quest.5FB291FDE43A727F.title: "&e蜜蜂&f小食"
+	quest.5FB4402384B3143D.quest_desc: ["The &cSeer's Sigil&r reads an altar in detail: its progress, EV per tick, and charge reserve. Invaluable when building toward higher tiers."]
+	quest.5FB4402384B3143D.title: "The Seer's Eye"
 	quest.5FBD41923B66C239.quest_desc: [
 		"普通抽屉只能以基础存储上限存储东西，但是你可以升级它的存储上限！"
 		""
@@ -10317,6 +10494,12 @@
 		"此外，你还可以通过向&d薛定谔保险柜&r的侧面用&a末影激光器&r输入能量，来使其容量获得指数级增长，最高可达5000倍。"
 	]
 	quest.6C4783132CC50BF0.title: "&d薛定谔保险柜"
+	quest.6C79D3E7AD6D6766.quest_desc: [
+		"Inscribe upgrades onto your shell with &cUpgrade Tomes&r. Right-click to add a level; sneak and use to add the maximum at once."
+		""
+		"Body Builder, Repair, Fierce Strike, Dwarven Might: build the body you need."
+	]
+	quest.6C79D3E7AD6D6766.title: "Wear It In"
 	quest.6C7F31673B12795D.quest_desc: [
 		"&d蚀空合金剑&r是这个模组中最强大的剑。"
 		""
@@ -10428,6 +10611,7 @@
 	quest.6F06B178DDBCAC38.title: "&e氯"
 	quest.6F0C07BA71E2325D.quest_desc: ["&3巨灵碎矿者&r的功能与其他所有的&b碎矿者&r相同，但它的产出量是三倍。"]
 	quest.6F0C07BA71E2325D.title: "&3巨灵碎矿者"
+	quest.6F13D27CE61DC87A.quest_desc: ["Hellforged parts will allow you to maximize your runes. Upgrading them with hellforged parts will double the value they previously provided to your altar."]
 	quest.6F1C6E863E9F698F.quest_desc: [
 		"你可以使用&3伊哈根奴役术&r召唤&e被附身的怪物&r，将其杀死以获得战利品"
 		""
@@ -10478,6 +10662,12 @@
 		"&c敌对生物&r也一样有效！"
 	]
 	quest.6FB2393F2348D59E.title: "&f转移生物"
+	quest.6FC8C1C775AB24BE.quest_desc: [
+		"Raw Spiritus slips through the fingers. A &cPetty Spiritus Gem&r holds it."
+		""
+		"Wound mobs with your daggers, gather what they shed, and forge your first gem."
+	]
+	quest.6FC8C1C775AB24BE.title: "A Vessel for the Soul"
 	quest.6FEA088D2D5A3AEF.quest_desc: [
 		"假如你想搭建以魔法生物为基础的数字化存储系统，那就先做一个&d书龙护符&r吧。"
 		""
@@ -10609,6 +10799,11 @@
 	]
 	quest.7141C2CA9321B710.quest_subtitle: "看似复杂，其实很简单。"
 	quest.7141C2CA9321B710.title: "&f自动化&d无人机&f来耕种！"
+	quest.714730CCF0AC9FD6.quest_desc: [
+		"A slate is nothing until the altar makes it something. Transmute smooth stone into &cTabula Rasa&r on the Ara Vitae."
+		""
+		"It is the substrate for almost every sigil you will ever scribe."
+	]
 	quest.714E3D428D37EE24.title: "&fDiscover All &6Bumblezone &fStructures"
 	quest.71806E77AEE9E050.quest_desc: [
 		"一旦你获得了一些&a锇&r，就可使用&e热力发电机&r开始生成基础电力。"
@@ -11214,6 +11409,12 @@
 	quest.76B7E898697F688F.quest_desc: ["Want to build in a void world? Make the &dVoid Portal&r to teleport to the &dVoid&r Dimension!"]
 	quest.76B7E898697F688F.title: "&fThe &dVoid &fDimension"
 	quest.76C535C621A58F74.title: "&d苍穹晶斧"
+	quest.76CE17956D6DA7A1.quest_desc: [
+		"Brew an &cArcane Scribe Tool&r in the Tabula Vitae."
+		""
+		"Strike the ground with it and a circle of power awakens: the &cAlchemy Array&r. It accepts two offerings. Some combinations yield crafted objects, others invoke immediate effects upon the world."
+	]
+	quest.76CE17956D6DA7A1.title: "Circle of Intent"
 	quest.76D5941D76026588.quest_desc: ["消耗食物发电。"]
 	quest.76D5941D76026588.title: "&f菌丝网络烹饪发电机"
 	quest.76E1D4957D0633B5.quest_desc: ["&a强力胶&r能让你通过……嗯……把方块粘在一起来组装结构。"]
@@ -11796,6 +11997,12 @@
 		"而且它可以给下方的耕地自动浇水。"
 	]
 	quest.7CA250EE0C5FBEFA.title: "&f全自动农场！"
+	quest.7CB9F4716DEA240C.quest_desc: [
+		"Where spiritus runs thickest, the &cCrystallarium Maleficum&r seeds a cluster. This new cluster will grow over time by absorbing spiritus of it's type from the Aura. You can move the cluster off the Crystallarium once it forms to allow more to grow. "
+		""
+		"The aura must be fully saturated with 100 of that type or the crystal will not grow!"
+	]
+	quest.7CB9F4716DEA240C.quest_subtitle: "The crystaline cradle"
 	quest.7CD3D31BAA53F592.quest_desc: [
 		"&b敌手之力&r提供用于制作它的所有符石的效果："
 		""
@@ -12336,6 +12543,7 @@
 	task.2951F1493E615F65.title: "&eSummon&r: &3Devil"
 	task.2988CAF299690CDB.title: "实用命令！"
 	task.29E62F8F9462B690.title: "&5量子头盔"
+	task.2A007083FA537679.title: "Sentient Evolution"
 	task.2ACCB542504DF591.title: "铁质挖掘工具"
 	task.2B2473620B056467.title: "游玩&d50小时"
 	task.2B2AC5A9A28F14A9.title: "蓄电池"
@@ -12364,6 +12572,7 @@
 	task.31D3D8C34525AC97.title: "&f过滤器实例演示"
 	task.327D6E2AE8863BC1.title: "&fKill: 1x &cPyromancer"
 	task.329BA2B5EB3185FC.title: "拆解可获得的材料"
+	task.32BB363771C3ABF3.title: "Crystallum Fractura"
 	task.32FB3083ABF6FFB4.title: "&f通用机械能量线缆"
 	task.33E428135EC63BC7.title: "&f玩家供电仪"
 	task.344DCD6A3921B1ED.title: "效率升级"
@@ -12488,6 +12697,7 @@
 	task.5434F149E894EFA6.title: "欢迎"
 	task.543F7E507C47F2EB.title: "&e修理盔甲"
 	task.5483D23444F3E019.title: "&e召唤一个&3龙"
+	task.553A5E5210050F3F.title: "The Blank Slate"
 	task.553BD544A0125D67.title: "&b五芒星&r已完成"
 	task.55B1C70507F60EDF.title: "&bAE2内置指南书&r"
 	task.55CC22F0E7476029.title: "&e召唤一尊&6艾瑟金属傀儡"

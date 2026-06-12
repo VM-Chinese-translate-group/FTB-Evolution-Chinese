@@ -1492,6 +1492,7 @@
 						id: "minecraft:spyglass"
 					}
 					id: "530B680860B7C5E7"
+					observation_type: "entity_type"
 					observe_type: 5
 					optional_task: true
 					timer: 0L
@@ -1584,6 +1585,7 @@
 						id: "minecraft:spyglass"
 					}
 					id: "6A495CBF42B6447E"
+					observation_type: "entity_type"
 					observe_type: 5
 					optional_task: true
 					timer: 0L
@@ -1637,6 +1639,7 @@
 						id: "minecraft:spyglass"
 					}
 					id: "3BAB7DD1F21B76F7"
+					observation_type: "entity_type"
 					observe_type: 5
 					optional_task: true
 					timer: 0L

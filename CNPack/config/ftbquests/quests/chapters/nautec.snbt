@@ -1262,6 +1262,7 @@
 					id: "nautec:prismarine_sand"
 				}
 				id: "301841E2EFD9CDF4"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "nautec:prismarine_sand"
