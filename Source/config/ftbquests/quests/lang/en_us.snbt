@@ -28,6 +28,7 @@
 	chapter.6237554E573576FE.title: "Modular Force Field"
 	chapter.642768EC48CAFC60.title: "NauTec"
 	chapter.663E3448E59F8F90.title: "Reward Test Chapter"
+	chapter.67DDE0406A5EE303.title: "Neo Vitae"
 	chapter.6A58A6F56CD199A3.title: "Integrated Dynamics"
 	chapter.6CA0553DF634A937.title: "Ars Nouveau"
 	chapter.6F0ED7CA1077DD3C.title: "EnderIO"
@@ -147,6 +148,8 @@
 	]
 	quest.013375F170CE6A2F.quest_subtitle: "Possession Pentacle: Tier 2"
 	quest.013375F170CE6A2F.title: "&3Ihagan's Enthrallment"
+	quest.0154D0F30F095E63.quest_desc: ["Crystal Catalyst can accelerate the growth of a similarly aspected crystal cluster. So if you use a raw calayst on a raw crystal it will grow substantially faster. If you use an aspected catalyst however it will change the type of the growing crystal into the new aspected type."]
+	quest.0154D0F30F095E63.title: "Coaxing Crystals"
 	quest.016821326AD093AF.quest_desc: ["Each &dEnergized Standing Stone&r provides its own function in an area around them forever, without any cost."]
 	quest.016821326AD093AF.title: "&dEnergized Standing Stones"
 	quest.016E959A387A1E03.quest_desc: ["[\"Crushing endstone allows you to craft \", {\"text\": \"Purple Chalk\", \"color\": \"#9D7AD0\"}, \", which is the next tier of \", {\"text\": \"Chalk\", \"color\": \"green\"}, \" we'll need to perform better \", {\"text\": \"Rituals\", \"color\": \"aqua\"}, \".\"]"]
@@ -611,6 +614,12 @@
 		"&aLaser Turrets&r are base defense turrets that use power to shoot enemies. These can be configured to also shoot players to keep them out of your base."
 	]
 	quest.06765AD5169D189D.title: "&aBase Defense&r!"
+	quest.067E4D25501B94F3.quest_desc: [
+		"A ritual needs a heart. Lay a &cMaster Ritual Stone&r at the center, mark the lesser stones around it with the &cRitual Diviner&r, and ignite the working with a &cWeak Activation Crystal&r."
+		""
+		"From the Well of Suffering to Overgrowth to the Endless Quarry, the circle does the labor you would otherwise bleed for."
+	]
+	quest.067E4D25501B94F3.title: "Rites and Rituals"
 	quest.06918197435AF24E.quest_desc: [
 		"You can upgrade your Providers to the AdvancedAE version using &aAdvanced Pattern Provider Upgrades&r."
 		""
@@ -1059,6 +1068,8 @@
 		"Note: Some of these alloys can also be crafted by hand or other modded machines, but doing so often consumes more resources."
 	]
 	quest.0A6E103A6945D11E.title: "&fThe &6Foundry"
+	quest.0A7737571F027A95.quest_desc: ["A hundred and eight runes and corners of Hellforged Block raise the altar to &cTier IV&r, home of the &cDominus Orb of Vitae&r and the most destructive rites in all of Vitaemancy."]
+	quest.0A7737571F027A95.title: "Tier IV: The Archmage's Orb"
 	quest.0A81E251CAB36215.quest_desc: [
 		"When powered, the &aCell Analyzer&r converts &aOrganic Matter&r into &aCells&r."
 		""
@@ -1373,6 +1384,9 @@
 		"Note: &dSpirit Attuned Crystals&r are great to use in your Enchanting setups!"
 	]
 	quest.0D0892AD0DB44795.title: "&fSpirit Attuned Gem"
+	quest.0D0A1E61C2384E37.quest_desc: ["Raw will bends to purpose. With a catalyst and an &cAnimus Mote&r drawn from a Daemonium Animaris, a Raw cluster becomes &cRuina&r, &cNihilum&r, &cVindicta&r, or &cInvictus&r, each its own cruelty and each reshaping how your Sentient Tools behave."]
+	quest.0D0A1E61C2384E37.quest_subtitle: "Any one aspect proves the craft."
+	quest.0D0A1E61C2384E37.title: "The Five Aspects"
 	quest.0D35D0D33922A201.title: "&fDefeat 10 &dGateways To Eternity"
 	quest.0D38D67E3FD120CB.quest_desc: [
 		"The &zChaotic Sword&r is the final upgrade of the &dDraconic Sword&r."
@@ -1872,6 +1886,12 @@
 		"{image:minecraft:textures/painting/wither.png width:100 height:100 align:center}"
 	]
 	quest.1237537100194BED.title: "&fKill The &dWither"
+	quest.124509FFC6717603.quest_desc: [
+		"Your first sigil comes from the Alchemy Array. The &cDivination Sigil&r reads the well of Anima within you and the EV held in an altar before you."
+		""
+		"You cannot manage what you cannot measure."
+	]
+	quest.124509FFC6717603.title: "A Sense for Anima"
 	quest.12468F8BF7B80737.quest_desc: [
 		"Exploring every dimension might take a lot of time, especially when you are hunting for very specific structures like portals!"
 		""
@@ -2041,6 +2061,12 @@
 		"Make sure to check them all out!"
 	]
 	quest.141CE17C25D2A53A.title: "&fUpgrade Base"
+	quest.143B171B2AE08145.quest_desc: [
+		"Perform &cBreaching the Edge of Demon Realm&r and you tear a one-time wound in the veil, building an &cAntechamber&r on the far side."
+		""
+		"Step through. Bring keys, or the means to find them."
+	]
+	quest.143B171B2AE08145.title: "Breaching the Veil"
 	quest.143E07D2565798AB.quest_desc: [
 		"&6Oritech&r is all about building &bMultiblock Machines&r, most of which require using &aMachine Cores&r. You can always check to see how many cores are needed by checking the tooltip of the machine."
 		""
@@ -2166,6 +2192,7 @@
 		"It can be obtained by right-clicking with a &aBoline&r on a &aBlack Thorn Log&r that has a green spot on it."
 	]
 	quest.16484C884A6ACE7F.title: "&aEssence Of The Forest"
+	quest.165A563C9EFE232B.quest_desc: ["A flask is a held effect; a &cTipped Throwing Dagger&r is that effect delivered to someone else's throat."]
 	quest.166BA0D04A1686C7.quest_desc: [
 		"&3Fortron&r can be extracted from the buffer of a &aCoercion Deriver&r or any other &bFortron-based machines&r."
 		""
@@ -2397,6 +2424,12 @@
 		"When using a &dGenetically Modified Cell&r instead of a regular &aCell&r, it will reveal a stronger &bDNA Helix&r genetic for that specific mob."
 	]
 	quest.190616DB4087BDE9.title: "&2DNA Extractor"
+	quest.191E3A2225AD70FA.quest_desc: [
+		"Bind an iron piece on a Binding array with a charged gem and the metal wakes up. &cSentient Armour&r starts humble: a hundred points of room to grow, and a long memory."
+		""
+		"The chestplate banks what you do: blows taken, miles walked, blocks broken."
+	]
+	quest.191E3A2225AD70FA.title: "The Sentient Shell"
 	quest.1953C2127633B6D7.quest_desc: [
 		"The &dWireless Universal Terminal&r allows you to make use of the several different types of Wireless Terminals."
 		""
@@ -2797,6 +2830,13 @@
 	quest.1CCED3AEA33EBC1E.title: "&fGrimoire of Evokation"
 	quest.1CD21F10064581B4.quest_subtitle: "Chalk of Nature"
 	quest.1CD21F10064581B4.title: "&aGreen Chalk"
+	quest.1CE38D8CD1B5CA50.quest_desc: [
+		"Every Tabula Vitae reagent is a sigil waiting to happen. Water that never runs dry, lava on demand, a void that swallows fluids, haste, magnetism, hastened growth."
+		""
+		"Scribe the trades that suit you."
+	]
+	quest.1CE38D8CD1B5CA50.quest_subtitle: "Any one will do; collect them all in time."
+	quest.1CE38D8CD1B5CA50.title: "The Sigil Catalog"
 	quest.1CEA8C4CF222E70B.quest_desc: [
 		"Just as a recap so we don't get lost, a Tier 3 chain looks like this!"
 		""
@@ -2922,6 +2962,14 @@
 	]
 	quest.1E2A91B73A752B3B.quest_subtitle: "&oWho are you again?"
 	quest.1E2A91B73A752B3B.title: "&aBiometric Identifier"
+	quest.1E2F0E34FF11233F.quest_desc: [
+		"The &cHighway to Hell&r ritual tears open a permanent gate to the &cEndless Realm&r."
+		""
+		"Come armed and armored; the realm does not suffer the unprepared."
+		""
+		"As you progress you will see a message about a rift opening or creatures stirring in the depth. This means new door types will begin to be available like the mines entrance. Make sure to select those keys when opening whenever available. "
+	]
+	quest.1E2F0E34FF11233F.title: "Highway to Hell"
 	quest.1E39AB995B86D47A.quest_desc: [
 		"By applying a &bPolyethylene&r layer to your &aBasic Pressure Tubes&r, you're able to upgrade them to &2Reinforced Pressure Tubes&r, allowing them to handle up to 10 &bBAR&r of pressure!"
 		""
@@ -3067,6 +3115,12 @@
 		"{image:ftbevolution:textures/quests/clibano_guide.png width:200 height:200 align:center fit:true}"
 	]
 	quest.1FB7C690C945F528.title: "&fThe &cClibano Forge"
+	quest.1FB8BF0898FD99D9.quest_desc: [
+		"Twenty-eight runes and four pillars capped in Blood Stained Glass raise the altar to &cTier II&r, where it can craft the &cVeneficus Orb of Vitae&r."
+		""
+		"At Tier II the altar stops being a tool and becomes an engine."
+	]
+	quest.1FB8BF0898FD99D9.title: "Tier II: The Magician's Orb"
 	quest.1FBEA2EB39456FD5.quest_subtitle: "Stores Gases"
 	quest.1FBEA2EB39456FD5.title: "{\"text\": \"Basic Chemical Tank\", \"color\": \"#5EFCB6\"}"
 	quest.1FCE7E6527304CC5.quest_desc: ["&aStorage Units&r allow for saving EU for a later time. Just like the generators, they handle the same EU rate as their tier."]
@@ -3283,6 +3337,7 @@
 	quest.22878CFA5B7B90AD.title: "&6Crystallizing Chemicals"
 	quest.228C9567BB43034A.quest_desc: ["The &aPneumatic Dynamo&r converts excess &bAir Pressure into &cFE&r."]
 	quest.228C9567BB43034A.title: "&fTurning Pressure Into FE"
+	quest.229B331555E15B4A.quest_desc: ["With the Dusk Diviner, the &cRitual of Sentient Evolution&r raises your armour's cap from &c100&r to &c300&r points. The &cSentient Extraction&r ritual strips upgrades into Tomes you can bank in a &cTraining Bracelet&r."]
 	quest.22B223553DE205D6.quest_desc: [
 		"The &aMechanical Mixer&r is used for recipes, mixing potions, and some other mixing recipes."
 		""
@@ -3528,6 +3583,8 @@
 		"In the early game, this is also the best way to get &6Enderic Compounds&r."
 	]
 	quest.24CE908ED60FD514.title: "&fIt's Crushing Time"
+	quest.24E04D4C7C3E7CA4.quest_desc: ["Mine the veins the Foreman guarded. &cDemonite&r is the only honest source of Hellforged metal, the capstone material for the ultimate altar tiers."]
+	quest.24E04D4C7C3E7CA4.title: "Demonite"
 	quest.24E11CBBB6EC58D5.quest_subtitle: "The fuel for brewing stands."
 	quest.24E11CBBB6EC58D5.title: "&fBlaze Powder"
 	quest.24E7F983A5ED730F.quest_desc: ["&3Train Casings&r are used to craft train parts and decorative blocks."]
@@ -3551,6 +3608,8 @@
 	quest.25023C87AA259688.quest_desc: ["While it may not be the most protective armor out there, the &aCardboard Armor&r provides you with a cool stealth effect whenever you wear the full &aCardboard&r set."]
 	quest.25023C87AA259688.quest_subtitle: "Sneaky Sneaky"
 	quest.25023C87AA259688.title: "&aCardboard Armor"
+	quest.2507A7FD69022F2C.quest_desc: ["Burn Spiritus in the &cVas Maleficum&r and the air of the chunk grows thick with will. Read it with the &cSpiritus Aura Gauge&r."]
+	quest.2507A7FD69022F2C.title: "The Aura Between Worlds"
 	quest.25605901343EF3BF.quest_desc: [
 		"[\"The \", {\"text\": \"Enderic Railgun\", \"color\": \"#FCD205\"}, \" is a powerful ranged weapon that fires a high speed projectile, dealing significant damage to enemies and break blocks at a distance. The \", {\"text\": \"Railgun\", \"color\": \"#FCD205\"}, \" is powered by RF, and must be charged to function.\"]"
 		""
@@ -3630,6 +3689,12 @@
 		"Note: &aFused Quartz&r is made by smelting 4 Nether Quarts in an Alloy Smelter."
 	]
 	quest.262F5FE957F52F5D.title: "&fBinding Souls"
+	quest.263045D3780542C0.quest_desc: [
+		"Tau alone is potential. The &cAthanor&r refines it, pressing &cTau Oil&r and saturating fruit into the shards a higher altar demands."
+		""
+		"Build the furnace of the patient alchemist."
+	]
+	quest.263045D3780542C0.title: "The Athanor"
 	quest.2638544A28C99F78.title: "&fEngraved Blade"
 	quest.264C4CE122513D7B.quest_desc: [
 		"The &6Master Marid Miner&r is the most powerful miner &bSpirit&r."
@@ -3906,6 +3971,13 @@
 	quest.2953423FCB0A3146.title: "&fUnderwater Brewing"
 	quest.296C424C7D2C7589.quest_subtitle: "Gas/Chemical Pipes"
 	quest.296C424C7D2C7589.title: "{\"text\": \"Basic Pressurized Tube\", \"color\": \"#5EFCB6\"}"
+	quest.297703FC2EBF8CD8.quest_desc: [
+		"Crystals don't grow from nothing; they grow out of the Spiritus Aura, an invisible miasma measured per chunk, capped at 100 per Aspect."
+		""
+		"Fill a chunk's Aura by burning Spiritus in a Vas Maleficum (feed it a charged gem, loose Spiritus, or crystals of any Aspect)."
+		""
+		"Read the local concentration with a Spiritus Aura Gauge (sneak for exact 0–100 numbers per Aspect)."
+	]
 	quest.298BFB73F3B2E3D5.quest_desc: [
 		"&aBatteries&r are a good way to store energy to move around. They can be charged with any wired or wireless charging method."
 		""
@@ -4175,6 +4247,12 @@
 	quest.2C32209F81B64294.title: "&bPowered Mining Tools"
 	quest.2C55C6EBABA86BA8.title: "&fSimple Block Breaker"
 	quest.2C7CFA7BB32C25BA.title: "&dEnder &fUpgrade Orb"
+	quest.2C9A224C8B8436BB.quest_desc: [
+		"Past a Spatial Distortion lies the entrance to the &cMines&r. &cMine Dungeon Keys&r open the way inward, toward the veins of Demonite."
+		""
+		"The Daemonium that haunt these halls are no reskinned villagers. Learn them by killing them."
+	]
+	quest.2C9A224C8B8436BB.title: "The Mines"
 	quest.2C9DEB9B0DF58090.quest_desc: [
 		"Pink Slime can be turned into &dPink Slime Ingots&r."
 		""
@@ -4220,6 +4298,12 @@
 		"The transfer rate of fluids is dependant on the &bRPM&r of the &aMechanical Pump&r."
 	]
 	quest.2D09494ED3235CC8.title: "&aMechanical Pump"
+	quest.2D254A8045093FED.quest_desc: [
+		"The &cHellfire Forge&r is fueled by &cSpiritus&r, the residue you tear from creatures wounded by your daggers."
+		""
+		"From it come &cSpiritus Gems&r, &cSentient Tools&r, explosive charges, and more. It will be hungry."
+	]
+	quest.2D254A8045093FED.title: "The Hellfire Forge"
 	quest.2D2EC0BCFF1DA68C.quest_desc: [
 		"When captured in a Bee Cage, most bees will show specific stats. Let's go over those!"
 		""
@@ -4390,6 +4474,12 @@
 	quest.2E3D059E42C0BB35.title: "&aWillow Broom"
 	quest.2E3D56F5BC1075DB.quest_desc: ["When installed in the &dEclipse Alloy Chestplate&r, this upgrade allows you to have creative flight."]
 	quest.2E3D56F5BC1075DB.title: "&fUpgrade: Flight"
+	quest.2E5484E8811384DA.quest_desc: [
+		"Saturated Tau, worked through the Athanor, condenses into a &cWeak Blood Shard&r."
+		""
+		"It crowns the Tier III pillars and gates everything beyond, alongside stronger anointments and potion catalysts."
+	]
+	quest.2E5484E8811384DA.title: "The Weak Blood Shard"
 	quest.2E56DB4CBFE2F37C.quest_desc: ["1 Imperium = 64 Inferium Essence"]
 	quest.2E56DB4CBFE2F37C.quest_subtitle: "Tier 4"
 	quest.2E56DB4CBFE2F37C.title: "&bImperium Essence&r"
@@ -4743,6 +4833,11 @@
 	]
 	quest.31BD9A98AE5893B9.quest_subtitle: "Storage for recipes."
 	quest.31BD9A98AE5893B9.title: "&fSpice Rack"
+	quest.31BF04D4FDB8DC2F.quest_desc: [
+		"The &cTabula Vitae&r is your first alchemical bench. With an Orb of Vitae placed inside, it draws EV from your Anima to brew &cArcane Scribe Tools&r, sigil reagents, early anointments, and 2x ore processing recipes."
+		""
+		"Build it; the rest of the craft opens from here."
+	]
 	quest.31C83D9253FFF685.quest_desc: [
 		"&3Industrial Turbines&r are vertical multiblock structures that turn &7Steam&r into energy, and optionally back into &bWater&r using &9Saturating Condensers&r. Be careful if a turbine is full of energy, as it will stop or dump steam."
 		""
@@ -5866,6 +5961,8 @@
 		"[\"You can remove the \", {\"text\": \"rust\", \"color\": \"#D5510E\"}, \" by making some \", {\"text\": \"Etching Acid\", \"color\": \"#55FF55\"}, \" then placing it down and throwing your items in them. It takes a few seconds.\"]"
 	]
 	quest.3BAE611AE4CEA7A6.title: "[{\"text\": \"Removing The \", \"color\": \"#FFFFFF\"}, {\"text\":\"Rust\", \"color\": \"#D5510E\"}]"
+	quest.3BB1A111D7035936.quest_desc: ["The Novicius Orb runs dry too fast. The &cDiscipulus Orb of Vitae&r holds more and draws faster, befitting a hand that no longer trembles at the cut."]
+	quest.3BB1A111D7035936.title: "The Apprentice's Orb"
 	quest.3BCB8667CCEBAE57.quest_desc: [
 		"The &aStorage Actuator Base&r is the first of two parts needed to access your storage dimension."
 		""
@@ -5874,6 +5971,8 @@
 	quest.3BCB8667CCEBAE57.title: "&aStorage Actuator Base"
 	quest.3BD6FEDB8CFAC914.quest_desc: ["Refining &aAcetaldehyde&r and &aCreosote Oil&r together produces &aPhenolic Resin&r, which is used in the creation of plastics."]
 	quest.3BD6FEDB8CFAC914.title: "&fPhenolic Resin"
+	quest.3BDF260175FFE44F.quest_desc: ["Demonite refines into &cHellforged Ingots&r, the spine of every endgame thing you will ever build."]
+	quest.3BDF260175FFE44F.title: "Hellforged Steel"
 	quest.3BFF8EFB5E7186A4.quest_desc: [
 		"The inside of the &6Quantum Computer&r multiblock can be customized using a mix of different blocks."
 		""
@@ -6112,6 +6211,12 @@
 		"To reset the Starbuncle, just sneak-use the Wand on the Starbuncle to clear instructions."
 	]
 	quest.3E92AE1CCA722AA3.title: "&dMagical &fSquirrels"
+	quest.3EC0F38A5F8D01E2.quest_desc: [
+		"Your first act as a Vitaemancer is to construct an &cAra Vitae&r."
+		""
+		"Place it on flat stone where you can reach every side. With no Essentia Vitae of its own, the altar draws blood from any nearby who carry no Blood Orb, refining it into &cEV&r. It never kills; it takes only what it needs."
+	]
+	quest.3EC0F38A5F8D01E2.title: "Raise the Ara Vitae"
 	quest.3EC49141168794C9.quest_desc: [
 		"The &3Terrastomp Prism&r is one of the 4 Elemental Prisms you can make with your Forge."
 		""
@@ -6283,6 +6388,12 @@
 		"The higher the airflow, the more extreme the temperature difference will be."
 	]
 	quest.40B00524384110B9.title: "&fVortex Tube"
+	quest.40B51E2F7CFBF442.quest_desc: [
+		"Lay a &bdiamond&r upon the bare altar and let the EV transfigure it into your first &cNovicius Orb of Vitae&r."
+		""
+		"Bind it to yourself by right-clicking with it in hand. From then on you offer your own blood at will: right-click the bound orb. Near an altar the blood flows into the basin; away from one it is stored in the orb to carry and pour in later."
+	]
+	quest.40B51E2F7CFBF442.title: "Bind a Novicius Orb"
 	quest.40B9A5403390D8A1.quest_desc: [
 		"Now that you have bronze, you'll be able to make &eMI &aPipes&r. These are highly versatile and absolutely worth using."
 		""
@@ -6987,6 +7098,12 @@
 	]
 	quest.4843F5564CA5810C.title: "&fDiesel Generator"
 	quest.48567556D94D1ADC.title: "&cBlazegold Axe"
+	quest.48784773302B05B5.quest_desc: [
+		"Strange fruit grows in the Antechamber. &cWeak Tau&r is a seed of the demon realm's vitality."
+		""
+		"Carry it home and cultivate it."
+	]
+	quest.48784773302B05B5.title: "The Tau Harvest"
 	quest.4879B6C32F7B1749.quest_desc: [
 		"&aMixers&r are used to combine multiple components and sometimes liquids into new ingredients. Make sure to pay attention to the tier of mixer required for recipes!"
 		""
@@ -7042,6 +7159,12 @@
 	]
 	quest.493E152B4A7BB767.quest_desc: ["&aRedstone Requesters&r allow you to request specific item(s) from a linked stock network when pulsed with a redstone signal."]
 	quest.493E152B4A7BB767.title: "&aRedstone Requester"
+	quest.494F66F00941F48C.quest_desc: [
+		"Cultivated and saturated, Weak Tau ripens into &cStrong Tau&r: dense enough to refine."
+		""
+		"To grow this you must allow it to grow with animals walking on it. They will be damaged over time and each time there is a chance the Tau will becomes saturated and will evolve into Strong Tau. "
+	]
+	quest.494F66F00941F48C.title: "Saturated Tau"
 	quest.49603EC381DD1818.quest_desc: [
 		"Welcome to the &6Nuclear Age&r! It's time to start having fun with &6Extreme Voltage&r."
 		""
@@ -7712,6 +7835,11 @@
 	]
 	quest.4F092D86017F37E9.title: "&fEnergizing Orb"
 	quest.4F10BBE77BDD9F10.title: "&6A Journey's End"
+	quest.4F21AE8F87333085.quest_desc: [
+		"Tau Oil is a refining reagent. It upgrades your Athanor's Cutting Fluid from Basic to Intermediate, and it is the base for the extended and greater anointments that keep your blades and bows potent far longer. "
+		""
+		"It also lets you make Spiritus Catalysts which can coax Spiritus Crystals into growing. "
+	]
 	quest.4F3787D3DCAFBB6F.quest_desc: ["Who needs efficiency enchants when you can just break things instantly?"]
 	quest.4F3787D3DCAFBB6F.title: "&fUpgrade: Instant Break"
 	quest.4F3CA2DCE719D18A.quest_desc: [
@@ -7756,6 +7884,12 @@
 		"It allows you to craft &6Soul Parts&r, and can be upgraded into the &6Godly Talisman Base&r."
 	]
 	quest.4FA9FABD84B4751A.title: "&cUltimate Talisman Base"
+	quest.4FB5C89723323FA1.quest_desc: [
+		"A &cSentient Sword&r harvests Spiritus far more efficiently than a thrown dagger, and grows stronger the more will you feed it."
+		""
+		"An optional but potent early investment."
+	]
+	quest.4FB5C89723323FA1.title: "Sentient Steel"
 	quest.4FD0504ADB98E0C0.quest_desc: [
 		"By upgrading your &aEziveus' Spectral Compulsion&r, you can permanently bind a &3Djinni&r into an item."
 		""
@@ -7830,6 +7964,13 @@
 		"It is also used to craft the &dForce of Overworld&r."
 	]
 	quest.5063CB99AD11CEB6.title: "&aRedstone Talisman"
+	quest.50941BEEA38BE2C9.quest_desc: [
+		"The ultimate Ara Vitae. &cCrystal Clusters&r crown its pillars; an immense ring of runes girds its foundation. Capacity and crafting power without equal, and the &cDivinus Orb of Vitae&r to wield it."
+		""
+		"You came asking what power costs. You know now: everything, paid a drop at a time, until the asking and the answering are the same act."
+	]
+	quest.50941BEEA38BE2C9.quest_subtitle: "What you do with that power is yours to decide."
+	quest.50941BEEA38BE2C9.title: "Tier V: The Pinnacle"
 	quest.50951E558DE644C6.quest_desc: [
 		"You should have plenty of extra &bOxygen&r from &3Electrolyzing&r water from &aHydrogen&r."
 		""
@@ -8088,6 +8229,11 @@
 	quest.52FDF71C284D22C6.title: "&aBroom Brush"
 	quest.53031F8BB47F117D.quest_desc: ["The &aSolar Panel&r can generate a variable amount of energy, depending on the tier of &bMachine Core&r used to build it."]
 	quest.53031F8BB47F117D.title: "&fBig Solar Panel"
+	quest.530F5E2E4ADB1BA4.quest_desc: [
+		"If altar construction starts to drag, the &cpotioncrafting&r system opens at Tier I. Brew &cAlchemy Flasks&r or tip &cAmethyst Throwing Daggers&r with dozens of effects."
+		""
+		"A Vitaemancer with a well-stocked flask belt is never truly in danger."
+	]
 	quest.532DA0BDBF2F215A.title: "&fBeef Patty"
 	quest.53319642E4ECC11F.title: "&fFerricore Axe"
 	quest.5346FF153D836A07.quest_desc: [
@@ -8117,6 +8263,12 @@
 		"This is the next tier of alloys, allowing us to make &9Elite Control Circuits&r."
 	]
 	quest.53EEF2EC6314E8F2.title: "&bReinforced Alloy"
+	quest.53F28C95FE1BAF29.quest_desc: [
+		"Eight runes laid around the altar make it &cTier I&r. Begin with &cBlank Runes&r, then inscribe them with purpose: capacity, speed, sacrifice."
+		""
+		"While at Tier I you may hold an Orb in your off-hand and kill creatures to harvest EV straight into your Anima, sparing your own veins."
+	]
+	quest.53F28C95FE1BAF29.title: "Tier I: The Ring of Runes"
 	quest.53FBBFC675F1FE7F.quest_desc: ["The &dChronon Battery&r can store much more &bChronon&r than the simple &aChronon Cell&r, and is also a crafting ingredient used in some of the more advanced &eTempad&r recipes."]
 	quest.53FBBFC675F1FE7F.title: "&dChronon Battery"
 	quest.54016A2A0FAB6B4B.quest_desc: ["Large motors are both a crafting ingredient and a way to speed your item pipes up. As with most subcomponents in &eMI&r you'll want a production chain setup to ensure you have these available."]
@@ -8258,6 +8410,12 @@
 	quest.5574D291E6E69013.quest_desc: ["1 = 4 Inferium Essence"]
 	quest.5574D291E6E69013.quest_subtitle: "Tier 2"
 	quest.5574D291E6E69013.title: "&2Prudentium Essence"
+	quest.557EBAB98F32B85F.quest_desc: [
+		"Not everything must die slowly. &cThrowing Daggers&r are your early ranged weapon and the seed of the Spiritus economy."
+		""
+		"A creature wounded by a dagger sheds &cRaw Spiritus&r when it dies; keep what falls."
+	]
+	quest.557EBAB98F32B85F.title: "Throwing Daggers"
 	quest.55897B86C2908176.quest_desc: [
 		"&aChassis&r of the same type connect to each other to form contraptions and allow for control over how they attach to these contraptions."
 		""
@@ -8561,6 +8719,11 @@
 		"&aBypass Limit&r just ignores the device's Transfer Limit settings and sets it to max."
 	]
 	quest.583FFE29C881EE8C.title: "&fAll About Networks!"
+	quest.58503249A5084026.quest_desc: [
+		"The Crystallum Fractura is ideal for automating will. It will double the speed that crystals of all types grow at and will automatically harvest them when grown. "
+		""
+		"For each fully-grown crystal in range that it can afford it applies scaling Fortune based on the chunk's Raw Spiritus when harvesting."
+	]
 	quest.586E18023A595A6C.quest_desc: [
 		"Bees are pretty cute, but you can only do so much with plain honey... but what if Bees could make more than just honey?"
 		""
@@ -9000,6 +9163,12 @@
 		"The &aAdvanced Leaf Blower&r is much faster and also breaks leaves."
 	]
 	quest.5DD4E634673638F8.title: "&aLeaf Blower"
+	quest.5DE88B0427A5B039.quest_desc: [
+		"Fifty-six runes, pillars crowned in Bloodstone Brick and Weak Blood Shards, raise the altar to &cTier III&r."
+		""
+		"Here you forge the &cMagus Orb of Vitae&r, the &cRitual Diviner [Dusk]&r, and the &cAwakened Activation Crystal&r that the advanced rites demand."
+	]
+	quest.5DE88B0427A5B039.title: "Tier III: The Master's Orb"
 	quest.5DF40808F9C6FEC0.quest_desc: [
 		"With access to &aFerricore&r, you can make many of the simple machines that the mod offers."
 		""
@@ -9041,6 +9210,12 @@
 		"- Energy Pipes: 10k RF per 1 Tick."
 	]
 	quest.5E0AF550AAE74676.title: "&fBasic Logistics"
+	quest.5E12FC7FD8720FBA.quest_desc: [
+		"Something runs the Mines, and it does not clock out. The &cForeman&r is a Daemonium Doloris swollen with authority: six hundred hearts of spite and a key no one else carries."
+		""
+		"Take the &cMine Entrance Key&r from him."
+	]
+	quest.5E12FC7FD8720FBA.title: "The Foreman"
 	quest.5E18F5B83FC4EC2D.quest_desc: [
 		"The &3Lens of Disenchanting&r can be used to transfer a single enchantment from an enchanted item to a blank or already enchanted book."
 		""
@@ -9131,6 +9306,8 @@
 		"For starters, these can be used to make &aBee Cages&r for capturing Bees on the go! These are a one-time use item, but you can find reusable ones as loot!"
 	]
 	quest.5FB291FDE43A727F.title: "&eHoney &fTreats"
+	quest.5FB4402384B3143D.quest_desc: ["The &cSeer's Sigil&r reads an altar in detail: its progress, EV per tick, and charge reserve. Invaluable when building toward higher tiers."]
+	quest.5FB4402384B3143D.title: "The Seer's Eye"
 	quest.5FBD41923B66C239.quest_desc: [
 		"By default, drawers can only hold a base amount of items depending on their size. You can upgrade this with these upgrades! "
 		""
@@ -10317,6 +10494,12 @@
 		"You can also exponentially increase the capacity of &dSchrödinger's Safe&r by powering its sides with &aEnderic Lasers&r, up to 5000x"
 	]
 	quest.6C4783132CC50BF0.title: "&dSchrödinger's Safe"
+	quest.6C79D3E7AD6D6766.quest_desc: [
+		"Inscribe upgrades onto your shell with &cUpgrade Tomes&r. Right-click to add a level; sneak and use to add the maximum at once."
+		""
+		"Body Builder, Repair, Fierce Strike, Dwarven Might: build the body you need."
+	]
+	quest.6C79D3E7AD6D6766.title: "Wear It In"
 	quest.6C7F31673B12795D.quest_desc: [
 		"The &dEclipse Alloy Sword&r is the highest tier sword from the mod."
 		""
@@ -10428,6 +10611,7 @@
 	quest.6F06B178DDBCAC38.title: "&eChlorine"
 	quest.6F0C07BA71E2325D.quest_desc: ["The &3Djinni Crusher&r functions like all other &bCrushers&r, but provides 3x the output."]
 	quest.6F0C07BA71E2325D.title: "&3Djinni Crusher"
+	quest.6F13D27CE61DC87A.quest_desc: ["Hellforged parts will allow you to maximize your runes. Upgrading them with hellforged parts will double the value they previously provided to your altar."]
 	quest.6F1C6E863E9F698F.quest_desc: [
 		"Using &3Ihagan's Enthrallment&r you can summon &ePossessed Mobs&r that drop loot when killed."
 		""
@@ -10478,6 +10662,12 @@
 		"Works on &chostile mobs&r as well!"
 	]
 	quest.6FB2393F2348D59E.title: "&fMoving Mobs"
+	quest.6FC8C1C775AB24BE.quest_desc: [
+		"Raw Spiritus slips through the fingers. A &cPetty Spiritus Gem&r holds it."
+		""
+		"Wound mobs with your daggers, gather what they shed, and forge your first gem."
+	]
+	quest.6FC8C1C775AB24BE.title: "A Vessel for the Soul"
 	quest.6FEA088D2D5A3AEF.quest_desc: [
 		"If you'd like to start your own digital storage system using magical creatures, you'll need to start by making a &dBookwrym Charm&r."
 		""
@@ -10609,6 +10799,11 @@
 	]
 	quest.7141C2CA9321B710.quest_subtitle: "Seems complicated, but its actually quite simple."
 	quest.7141C2CA9321B710.title: "&fAutomating &dDrones &fto Farm!"
+	quest.714730CCF0AC9FD6.quest_desc: [
+		"A slate is nothing until the altar makes it something. Transmute smooth stone into &cTabula Rasa&r on the Ara Vitae."
+		""
+		"It is the substrate for almost every sigil you will ever scribe."
+	]
 	quest.714E3D428D37EE24.title: "&fDiscover All &6Bumblezone &fStructures"
 	quest.71806E77AEE9E050.quest_desc: [
 		"Once you have some &aOsmium&r, we can start generating some basic power using the &eHeat Generator&r."
@@ -11214,6 +11409,12 @@
 	quest.76B7E898697F688F.quest_desc: ["Want to build in a void world? Make the &dVoid Portal&r to teleport to the &dVoid&r Dimension!"]
 	quest.76B7E898697F688F.title: "&fThe &dVoid &fDimension"
 	quest.76C535C621A58F74.title: "&dCelestigem Axe"
+	quest.76CE17956D6DA7A1.quest_desc: [
+		"Brew an &cArcane Scribe Tool&r in the Tabula Vitae."
+		""
+		"Strike the ground with it and a circle of power awakens: the &cAlchemy Array&r. It accepts two offerings. Some combinations yield crafted objects, others invoke immediate effects upon the world."
+	]
+	quest.76CE17956D6DA7A1.title: "Circle of Intent"
 	quest.76D5941D76026588.quest_desc: ["Generates power by consuming Food Items."]
 	quest.76D5941D76026588.title: "&fCulinary Mycelial Generator"
 	quest.76E1D4957D0633B5.quest_desc: ["&aSuper Glue&r allows you to assemble contraptions by... well... gluing blocks together."]
@@ -11796,6 +11997,12 @@
 		"Additionally, it hydrates the farmland below."
 	]
 	quest.7CA250EE0C5FBEFA.title: "&fAutomating Crop Farms!"
+	quest.7CB9F4716DEA240C.quest_desc: [
+		"Where spiritus runs thickest, the &cCrystallarium Maleficum&r seeds a cluster. This new cluster will grow over time by absorbing spiritus of it's type from the Aura. You can move the cluster off the Crystallarium once it forms to allow more to grow. "
+		""
+		"The aura must be fully saturated with 100 of that type or the crystal will not grow!"
+	]
+	quest.7CB9F4716DEA240C.quest_subtitle: "The crystaline cradle"
 	quest.7CD3D31BAA53F592.quest_desc: [
 		"The &bForce of Rejectors&r provides all effects of the talisman used to craft it:"
 		""
@@ -12297,6 +12504,7 @@
 	task.2951F1493E615F65.title: "&eSummon&r: &3Devil"
 	task.2988CAF299690CDB.title: "Useful Commands!"
 	task.29E62F8F9462B690.title: "&5Quantum Helmet"
+	task.2A007083FA537679.title: "Sentient Evolution"
 	task.2ACCB542504DF591.title: "Iron Mining Tools"
 	task.2B2473620B056467.title: "&fPlay For &d50 Hours"
 	task.2B2AC5A9A28F14A9.title: "Accumulators"
@@ -12325,6 +12533,7 @@
 	task.31D3D8C34525AC97.title: "&fFilter Examples"
 	task.327D6E2AE8863BC1.title: "&fKill: 1x &cPyromancer"
 	task.329BA2B5EB3185FC.title: "Salvaged Materials"
+	task.32BB363771C3ABF3.title: "Crystallum Fractura"
 	task.32FB3083ABF6FFB4.title: "&fMekanism's Energy Cable"
 	task.33E428135EC63BC7.title: "&fPlayer Transmitters"
 	task.344DCD6A3921B1ED.title: "Efficiency Upgrades"
@@ -12449,6 +12658,7 @@
 	task.5434F149E894EFA6.title: "Welcome"
 	task.543F7E507C47F2EB.title: "&eRepair&r: &dArmor"
 	task.5483D23444F3E019.title: "&eSummon&r: &3Dragon"
+	task.553A5E5210050F3F.title: "The Blank Slate"
 	task.553BD544A0125D67.title: "&bPentacle&r Complete"
 	task.55B1C70507F60EDF.title: "&fThe &bAE2 Guide"
 	task.55CC22F0E7476029.title: "&eSummon&r: &6Iesnium Golem"

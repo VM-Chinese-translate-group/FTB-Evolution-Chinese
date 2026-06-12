@@ -966,6 +966,7 @@
 						id: "forbidden_arcanus:hephaestus_forge_tier_2"
 					}
 					id: "7EC6573A0A9B85B2"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "forbidden_arcanus:hephaestus_forge_tier_2"
@@ -1019,6 +1020,7 @@
 						id: "forbidden_arcanus:hephaestus_forge_tier_3"
 					}
 					id: "7BBFED3FA3E1ABB6"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "forbidden_arcanus:hephaestus_forge_tier_3"
@@ -1073,6 +1075,7 @@
 						id: "forbidden_arcanus:hephaestus_forge_tier_4"
 					}
 					id: "2FC498CA55003A32"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "forbidden_arcanus:hephaestus_forge_tier_4"
@@ -1133,6 +1136,7 @@
 						id: "forbidden_arcanus:hephaestus_forge_tier_5"
 					}
 					id: "11A72D0A80386EF4"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "forbidden_arcanus:hephaestus_forge_tier_5"

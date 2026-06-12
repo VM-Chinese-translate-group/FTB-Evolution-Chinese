@@ -46,7 +46,7 @@
 		}
 		{
 			height: 3.0d
-			image: "xycraft_override:block/connected/glass_single"
+			image: "enderio:block/ctm/clear_glass/particle"
 			rotation: 0.0d
 			width: 3.0d
 			x: 3.0d
@@ -54,7 +54,7 @@
 		}
 		{
 			height: 3.0d
-			image: "xycraft_override:block/connected/glass_single"
+			image: "enderio:block/ctm/clear_glass/particle"
 			rotation: 0.0d
 			width: 3.0d
 			x: 3.0d
