@@ -33,7 +33,7 @@
 	chapter.6CA0553DF634A937.title: "新生魔艺"
 	chapter.6F0ED7CA1077DD3C.title: "末影接口"
 	chapter.6F822DE2465C4A31.title: "通用机械"
-	chapter.7598810BEF4F4370.title: "Getting Started"
+	chapter.7598810BEF4F4370.title: "新手上路"
 	chapter.78D9A0ADE8A319B1.title: "灵灾"
 	chapter.7B3ADCA4950CB4F0.title: "Oritech"
 	chapter.7ECA39E2497C35D1.title: "资源自给自足"
@@ -175,7 +175,7 @@
 		"- The Harbinger"
 	]
 	quest.018258B166F270D8.quest_subtitle: "Focus: Boss Fights and Exploration"
-	quest.018258B166F270D8.title: "&zRealized Transcendence"
+	quest.018258B166F270D8.title: "&z超脱证悟"
 	quest.018B19721F4404FF.quest_desc: ["消耗末影珍珠或末影之眼发电。"]
 	quest.018B19721F4404FF.title: "&f菌丝网络末影发电机"
 	quest.019C7CBC9B62C803.quest_desc: [
@@ -269,7 +269,7 @@
 		"&o&3And a lot of power.&r"
 	]
 	quest.028BF2D5CFCDA52A.quest_subtitle: "Focus: Yes."
-	quest.028BF2D5CFCDA52A.title: "&zMekanized Super Computer"
+	quest.028BF2D5CFCDA52A.title: "&z机械化超级计算机"
 	quest.02BC61BBCDB931A3.quest_desc: [
 		"游戏早期时，&6燃气发电机&r是最佳发电手段。"
 		""
@@ -391,7 +391,7 @@
 	]
 	quest.03BEFC2150D09E7A.title: "&d无线终端"
 	quest.03DCAAACA804353E.quest_desc: [
-		"Automatically plants seeds placed inside its inventory."
+		"自动种植它物品缓存内的种子。"
 		""
 		"&a植物收割机&r收获的种子可以重新输入播种机，这样就能搭建自动农场！"
 		""
@@ -738,7 +738,7 @@
 		""
 		"材料有以下等级：E D C B A S SS SSS，以及最高级的&6MAX&r。"
 	]
-	quest.07E089F01484D9C7.title: "&fGrading &aMaterials"
+	quest.07E089F01484D9C7.title: "&a材料&f分级"
 	quest.07FFA633237BB905.quest_desc: [
 		"&d白昼符石&r在白天时增加5%伤害。"
 		""
@@ -1600,7 +1600,7 @@
 		"&dApotheosis&r is a great mod for making great gear for fighting bosses!"
 	]
 	quest.0F2DD1EF4E57E523.quest_subtitle: "Focus: Gearing Up and Exploration"
-	quest.0F2DD1EF4E57E523.title: "&zDimensional Memory Fragment"
+	quest.0F2DD1EF4E57E523.title: "&z次元记忆碎片"
 	quest.0F3E0EBEC3DBED48.quest_desc: [
 		"&a管道升压器&r用于大幅提高&e物品管道&r和&b流体管道&r的运作速度。"
 		""
@@ -1794,13 +1794,13 @@
 		"You will also need to use both &6AE2&r and &6Refined Storage&r items to create it."
 	]
 	quest.1105D1809EB9ADEF.quest_subtitle: "Focus: Tech and Digital Storage Mods"
-	quest.1105D1809EB9ADEF.title: "&zInfinitely Compressed Circuit Board"
+	quest.1105D1809EB9ADEF.title: "&z无限压缩电路板"
 	quest.11078789ACAB91CE.quest_desc: [
 		"有了末影珍珠和烈焰粉后，就可以制作&6末影之眼&r了。"
 		""
 		"你可以把它当末影珍珠丢，但它并不会传送你。这种珍珠会飞向天空，然后指向最近的&6要塞&r。"
 		""
-		"Most of the time, the Eye of Ender will float back down and you can pick it up. Sometimes it doesn't and just vanishes instead. I'd suggest on making 15 or so."
+		"一般情况下末影之眼都会飘下来，然后你直接把它捡起来就行。不过有时这玩意会直接消失，所以我建议你做15个保险点。"
 		""
 		"Alternatively, you can use the &dExplorer's Compass&r to locate the stronghold for you by searching for &bbetterstrongholds:stronghold&r."
 	]
@@ -2417,7 +2417,7 @@
 	]
 	quest.18D208281439A865.title: "&aSatchels"
 	quest.18E870A4E5F4CE4F.title: "&f钉锤蓝图"
-	quest.1902A402B951AAF6.title: "&bSpellbreaker"
+	quest.1902A402B951AAF6.title: "&b破法者"
 	quest.190616DB4087BDE9.quest_desc: [
 		"充能时，&2DNA提取器&r可将&a细胞&r加工成未知的&bDNA螺旋&r。"
 		""
@@ -3291,7 +3291,7 @@
 	]
 	quest.21E22024A842E46E.title: "&f降噪升级"
 	quest.21E650EB5E0F2D30.quest_desc: ["虽然效果没比骨粉更强，但是自动化生产很轻松。"]
-	quest.21E650EB5E0F2D30.title: "&fFertilizer"
+	quest.21E650EB5E0F2D30.title: "&f肥料"
 	quest.21E8659A60134C9B.quest_desc: [
 		"&a红石酸&r用于在&a蓄电池&r内部存储电力，还能用于氧化铜块。"
 		""
@@ -3366,7 +3366,7 @@
 		"&aNote&r: Automating &bSouls&r can easily be done using &6Just Dire Things&r. All of the &6Relics&r have crafting recipes as well."
 	]
 	quest.230A9E24A34690DE.quest_subtitle: "Focus: Magic and Tech"
-	quest.230A9E24A34690DE.title: "&zTime Prism"
+	quest.230A9E24A34690DE.title: "&z时间棱镜"
 	quest.230E34A0E4A4C014.quest_desc: [
 		"手动收获&e蜜脾&r和&e蜂蜜瓶&r相当累人，而且真有人用营火驱蜜蜂吗？被蛰了接着干就是了，懂吗家人们？"
 		""
@@ -3766,7 +3766,7 @@
 		""
 		"虽然需要&d灌注龙息&r才能做，但是末地书架相对还是比较便宜的。"
 	]
-	quest.26B74124E89189F7.title: "&eEndshelf"
+	quest.26B74124E89189F7.title: "&e末地书架"
 	quest.26C56E80D6F15838.quest_desc: ["&dWyvern&r tools consume power instead of durability and can be customized using &aUpgrade Modules&r."]
 	quest.26C56E80D6F15838.title: "&dWyvern &fTools"
 	quest.26D4074DECF26C04.quest_desc: ["&6等离子涡轮机&r是&e现代工业化&r最高级的发电设施，它会通过消耗&5氦等离子体&r以产出&c一百万EU/t&r的能量。"]
@@ -3797,7 +3797,7 @@
 	]
 	quest.26EA309139C7C27E.title: "&a熔炉"
 	quest.26ECC091E6B3FA57.quest_desc: [
-		"You can find &dAzure Silver Ore&r in the End."
+		"你可以在末地找到&d蔚蓝银矿&r。"
 		""
 		"这种矿物的挖掘等级为下界合金，一般用来制造&d蔚蓝琥珀金锭&r。"
 	]
@@ -4458,11 +4458,11 @@
 	]
 	quest.2E283756BD053685.title: "&d获取免费资源"
 	quest.2E30AE23A0602A0A.quest_desc: [
-		"Need to teleport to different parts of your base? Maybe to completely different bases? Keep an eye out for &dWaystones&r!"
+		"需要在基地中快速传送？而且基地之间隔得很远？留意一下路上的&d传送石碑&r吧！"
 		""
-		"These can be found in villages and pretty much all over the map. You can break the ones you find and place them to use for yourself."
+		"你可以在各种地方，尤其是村庄内找到传送石碑，找到后挖掉留着自己用就行。"
 		""
-		"Need to teleport to a waystone while out in the wild? Make a &dWarp Stone&r to access all of your waystones!"
+		"在野外想迅速传送到某个传送石碑？做个&d传送石&r，轻松造访所有指路石！"
 	]
 	quest.2E30AE23A0602A0A.title: "&b旅行指南"
 	quest.2E3D059E42C0BB35.quest_desc: [
@@ -4486,7 +4486,7 @@
 	quest.2E6C0103BEF01BDD.quest_desc: ["Aside from using teleport commands, you can escape the &6Bumblezone&r by going out of the top or the bottom of the dimension."]
 	quest.2E6C0103BEF01BDD.title: "&fLeave The Bumblezone"
 	quest.2E742BCED0CDEAB9.quest_desc: [
-		"许多玩家都在苦苦追寻&6创世神殿&r的踪迹，传说中那是一座高塔，里头挤满了宝藏……还有刷怪笼。"
+		"许多玩家都在苦苦追寻&6创世神殿&r的踪迹，传说中那是一座高塔，里面塞满了宝藏……还有刷怪笼。"
 		""
 		"这个结构估计是整个包最酷的结构了。"
 	]
@@ -4568,7 +4568,7 @@
 	quest.2F15D918EF183051.quest_desc: [
 		"&6FTB Evolution&r是个沙盒模式为主，任务为辅的整合包，你可以按自己的方式游玩！"
 		""
-		"这个包里头的模组包罗万象，无论你的游玩风格怎么样，它都能满足你！这些模组不需要推进任务解锁，所以想怎么玩就怎么玩吧！"
+		"这个包里的模组包罗万象，无论你的游玩风格怎么样，它都能满足你！这些模组不需要推进任务解锁，所以想怎么玩就怎么玩吧！"
 		""
 		"对于那些渴望挑战的玩家，这个整合包的最终目标就是完成&dFTB金字塔&r挑战，你觉得你有这个能力吗？"
 	]
@@ -4757,7 +4757,7 @@
 		"&aNote&r: The &6Essence of the Bees&r is not consumed when crafting this recipe, allowing for you to make multiple &zOmega Dragon Eggs&r."
 	]
 	quest.3142B7C67CB8EEB3.quest_subtitle: "Focus: Resource Production, Bees, and Dragons"
-	quest.3142B7C67CB8EEB3.title: "&zOmega Dragon Egg"
+	quest.3142B7C67CB8EEB3.title: "&zΩ龙蛋"
 	quest.3148FCED5BF543B5.quest_desc: [
 		"你可以把工具都放在&a工具皮带&r里。"
 		""
@@ -4797,7 +4797,7 @@
 		"The &dEvolutionary Amalgam&r is all about using &aHostile Neural Networks&r, which is a great server-friendly option for mob farming!"
 	]
 	quest.319098064145CF21.quest_subtitle: "Focus: Mob Farms and Vanilla Bosses"
-	quest.319098064145CF21.title: "&zEvolutionary Matter"
+	quest.319098064145CF21.title: "&z进化物质"
 	quest.319F49C16CFE900C.quest_desc: [
 		"虽然睡觉是设置重生点的经典方法，但你也可以选择使用&a/sethome&r命令来设定家，输入&a/home&r回家。"
 		""
@@ -4960,7 +4960,7 @@
 		""
 		"它可以用来酿造药水，而且还能分解&b法术卷轴&r，有概率产出撰写该卷轴的&b墨水&r。"
 		""
-		"而且这个锅是唯一获取&c猩红精华&r的办法，把生物丢进这个锅里头就行！"
+		"而且这个锅是唯一获取&c猩红精华&r的办法，把生物丢进这个锅里就行！"
 	]
 	quest.32C6E1FD67863F50.title: "&d炼金锅"
 	quest.32C950B612E0F0F7.quest_desc: ["{ftbquests.chapter.mvvvvvvv.quest24.description1}"]
@@ -4987,11 +4987,11 @@
 	quest.32E0A399AFBE3099.quest_subtitle: "绑定五芒星：级别1"
 	quest.32E0A399AFBE3099.title: "&a粉笔需求增大"
 	quest.32F68E7AE8DEF05E.quest_desc: [
-		"Below Y-64, you'll stumble into the &dInfinity Caves&r."
+		"如果挖到Y-64之下，你就会进入&d无限洞穴&r里。"
 		""
-		"Mobs will constantly spawn here, and they definitely want to give you a hug. They also drop some awesome loot!"
+		"这里的怪物刷新频率极高，而且我确信它们都想“给你个爱的抱抱”，不过它们的掉落物很好！"
 		""
-		"&cBe warned, this is a very dangerous place.&r "
+		"&c千万小心，这地方极为危险。&r "
 	]
 	quest.32F68E7AE8DEF05E.title: "&fStumble Into The &dInfinity Caves"
 	quest.330F69D2F2626B50.quest_desc: ["&a斑斓透镜&r射出的激光会穿透物品，然后改变它们本身的颜色，比如染色玻璃或玻璃板、地毯、染料、羊毛以及带釉陶瓦。"]
@@ -5024,7 +5024,7 @@
 	quest.333FB6E921401537.quest_desc: [
 		"地下有一个叫&6铸造厂&r的地方，是个很大的结构。"
 		""
-		"这个地方充满刷怪笼和危险怪物，不过里头战利品也很多。如果你想的话，这里也会是个很棒的基地选址！"
+		"这个地方充满刷怪笼和危险怪物，不过里面战利品也很多。如果你想的话，这里也会是个很棒的基地选址！"
 	]
 	quest.333FB6E921401537.title: "&f发现&6铸造厂"
 	quest.334A319CC010293A.quest_desc: [
@@ -5558,11 +5558,11 @@
 	quest.373AB8CD1B10D694.title: "&b效率升级"
 	quest.37588DD1D7FA6795.title: "&f巧克力派"
 	quest.37930E206E34084C.quest_desc: [
-		"Like fighting mobs? Check out the &6Wild Hunt&r quest chapter for all of the mob bounties you can claim!"
+		"喜欢杀怪？看看&6荒野猎手&r章节，了解所有可以完成的杀怪任务！"
 		""
-		"If you want a challenge, that's the chapter you'll find it in."
+		"如果你想要挑战自我，那就是你所要找的章节。"
 	]
-	quest.37930E206E34084C.title: "&bThe Wild Hunt"
+	quest.37930E206E34084C.title: "&b狂猎"
 	quest.37A31A3936ADD670.quest_desc: [
 		"你得需要一台&d热交换机&r才能回收你的高压水。"
 		""
@@ -6155,7 +6155,7 @@
 	]
 	quest.3DEA6BCF3DD509D9.quest_subtitle: "无线连接"
 	quest.3DEA6BCF3DD509D9.title: "&f部件强化：偏移"
-	quest.3DEA89318D4B1477.quest_desc: ["Trust me, I get sick of these guys spawning and getting in my face. The solution? Make a &a'No Solicitors!' Sign&r!"]
+	quest.3DEA89318D4B1477.quest_desc: ["那些到处刷新然后在你面前瞎溜达的卖东西的简直太烦人了，立一个&a“游人止步！”告示牌&r吧！"]
 	quest.3DEA89318D4B1477.title: "&6拒绝上门推销&f！"
 	quest.3E00AA33AC5304F9.quest_desc: [
 		"当把&a蚯蚓&r放置在草方块或泥土上后，它就会为它周边3x3的方块自动耕地、浇水。还能提升作物生长速度。"
@@ -6844,8 +6844,8 @@
 		"多留意一下这些任务，因为推进主线会经常用到。"
 	]
 	quest.44E044BA9C152631.title: "&a一些关于这条任务线的提示"
-	quest.44F07423FC4BA868.quest_desc: ["You really only use the &2Wooden Pickaxe&r to mine enough cobble to make a &aCobblestone Pickaxe&r! And of course, all of the other stone tools as well."]
-	quest.44F07423FC4BA868.title: "&fThe &aStone &fAge"
+	quest.44F07423FC4BA868.quest_desc: ["你只需要用&2木镐&r挖三个圆石做&a石镐&r！如果你想，别的石制工具也可以安排上。"]
+	quest.44F07423FC4BA868.title: "&a石器&f时代"
 	quest.4505690AA252B1DA.quest_desc: ["&aSage Seeds&r can be found when breaking grass and planted to yield &aSage&r, which is used in a variety of recipes."]
 	quest.4505690AA252B1DA.title: "&aSage"
 	quest.450A1BAD728F594B.quest_desc: [
@@ -6860,7 +6860,7 @@
 		"&aNote&r: This item is not required to be automated. &dForbidden&r &6Relics&r can also be crafted!"
 	]
 	quest.451FD4CA758C6019.quest_subtitle: "Focus: Magic Mods"
-	quest.451FD4CA758C6019.title: "&zEvolutionary Arcanum"
+	quest.451FD4CA758C6019.title: "&z进化秘石"
 	quest.452A356F35EE46DD.quest_desc: ["&a充能钻石水晶&r可以合成一些&e实用拓展&r的东西，但它的最大用处是合成FTB金字塔的关键材料：&d异彩棱晶&r。"]
 	quest.452A356F35EE46DD.title: "&3充能钻石水晶"
 	quest.4554DAFCC3ED4543.title: "&b冰霜&f升级法球"
@@ -6942,7 +6942,7 @@
 		"You'll explore basic setups from &dArs Nouveau&r and &dMalum&r, while collecting the different elemental items from &dIron's Spells 'n Spellbooks&r."
 	]
 	quest.4619BC2AB4CB9BD9.quest_subtitle: "Focus: Magic Mods"
-	quest.4619BC2AB4CB9BD9.title: "&zElemental Arcanite"
+	quest.4619BC2AB4CB9BD9.title: "&z元素奥石"
 	quest.461A01BDC4D4B1BD.quest_desc: ["&a破坏器&r可将世界中的资源收集到你的存储网络中。"]
 	quest.461A01BDC4D4B1BD.title: "&a破坏器"
 	quest.462A47B2E1360AB5.quest_desc: ["除了提供额外的护甲外，&d下界合金潜水服&r在完整穿戴时还能免疫熔岩和火焰伤害。"]
@@ -7804,7 +7804,7 @@
 		""
 		"该工具可以把&a圆粒金刚石&r与&b宝石&r结合，制作&6镶嵌首饰&r。这种物品可以把宝石镶嵌到&b项链、戒指&r，或是&b手镯&r上。"
 	]
-	quest.4EE236E24901E582.title: "&aJewelry"
+	quest.4EE236E24901E582.title: "&a宝石匠具&r"
 	quest.4EE97D251DD2E9B7.quest_desc: [
 		"&e现代工业化&r（&eMI&r）有多种不同等级的线缆。&a现代工业化&r的管道和线缆可以随意调整，且同一个方块内可以放置多种管线，颜色也可以不同。如果你打算发展一下&aMI&r的话，那用这些东西在机器中传递东西是很不错的，千万别忘了做这个模组的&a扳手&r！"
 		""
@@ -8248,7 +8248,7 @@
 		"它还用于制作&b负性之力&r。"
 	]
 	quest.535C11E589E11056.title: "&d挖掘疲劳护身符"
-	quest.53682D91399F1898.quest_desc: ["If you need a flat place to build that is also a great place to find ores, you should make yourself a &aMining Portal&r!"]
+	quest.53682D91399F1898.quest_desc: ["如果你想要一个平坦世界拿来建东西，而且那个地方还能拿来挖矿的话，做一个&a采矿传送门&r就行！"]
 	quest.53682D91399F1898.title: "&fThe &aMining &fDimension"
 	quest.5388B67410670702.quest_desc: ["The &6Draconic Sword&r is an upgraded version of the &dWyvern Sword&r, with room for more &aUpgrade Modules&r."]
 	quest.5388B67410670702.title: "&6Draconic&r Sword"
@@ -9019,7 +9019,7 @@
 		"&aNote&r: It might be worth creating mob farms from the &dOccultism&r spirits!"
 	]
 	quest.5C825FB7E9A2F962.quest_subtitle: "Focus: Magic Mods"
-	quest.5C825FB7E9A2F962.title: "&zEthereal Essence"
+	quest.5C825FB7E9A2F962.title: "&z灵蕴精华"
 	quest.5CA5F9BE51C24FC8.title: "&f红石卡"
 	quest.5CAC010680313D6B.quest_desc: [
 		"&a核源铁锄&r可以耕出&a原初浆壤&r！"
@@ -9155,7 +9155,7 @@
 		"This also requires more advanced Mob Farm setups from &2Industrial Foregoing&r and &aMob Grinding Utils&r!"
 	]
 	quest.5DA25070A4A1CF4E.quest_subtitle: "Focus: Mob Farms and Gear"
-	quest.5DA25070A4A1CF4E.title: "&zDissolved Potential"
+	quest.5DA25070A4A1CF4E.title: "&z溶解潜能"
 	quest.5DB30D6FE7046A35.title: "&f射手宝典"
 	quest.5DD4E634673638F8.quest_desc: [
 		"当你手持&a吹叶器&r长按鼠标右键时，它就会自动把周围的高草丛或花吹走。"
@@ -9368,7 +9368,7 @@
 		"&aNote&r: You should automate &zChaos Shards&r."
 	]
 	quest.60105BDA4CA76BD6.quest_subtitle: "Focus: End-Game Tech"
-	quest.60105BDA4CA76BD6.title: "&zBio-Neural Circuit"
+	quest.60105BDA4CA76BD6.title: "&z生物神经回路"
 	quest.603BAFEF92DA275E.quest_desc: [
 		"现在你有了&b活化水晶锭&r和&b宝石&r，用它们把钻石盔甲大换新吧。"
 		""
@@ -9585,11 +9585,11 @@
 	]
 	quest.627CC178ACA711E6.title: "&6艾瑟傀儡"
 	quest.627D7AE4939A894F.quest_desc: [
-		"With &aEasy Villagers&r, you can literally pick up villagers by sneak-right clicking on them. This makes for super easy villager halls!"
+		"该整合包有&a简单村民&r，你可以潜行右击村民把它们抱起来，方便你搭建一个超大交易所！"
 		""
-		"This mod also allows for one block solutions for trading, iron farms, and more!"
+		"这个模组可以进行单方块贸易、刷铁……还有更多便利！"
 	]
-	quest.627D7AE4939A894F.title: "&bEasy Villagers"
+	quest.627D7AE4939A894F.title: "&b简单村民"
 	quest.629308DC692DB140.quest_desc: [
 		"&7荧石符石&r对玩家半径12格范围内的不可见敌对生物施加发光效果，让它们在世界中高亮显示。"
 		""
@@ -10090,7 +10090,7 @@
 	]
 	quest.673ABC4EB43B8576.title: "&fThe &dQueen's Desire"
 	quest.67452E837BE2A6B8.quest_desc: [
-		"This is the ultimate fight in vanilla Minecraft, but in Evolution, it's been made a lot harder thanks to &6Savage Ender Dragon&r."
+		"在原版mc中这就是最后一战了，不过Evolution加装了&6更凶猛的末影龙&r，所以难度更高了！"
 		""
 		"What's new? Crystals can respawn and can summon mobs when broken, the Dragon can strike you with lightning bolts randomly, you might get knocked out of the sky when flying, &oand&r you can't use beds to kill her either."
 		""
@@ -10581,7 +10581,7 @@
 		"&aNote&r: Using &aModern Industrialization&r is optional to create this item."
 	]
 	quest.6D8B17AD5ABEC7BC.quest_subtitle: "Focus: Tech Mods"
-	quest.6D8B17AD5ABEC7BC.title: "&zUltimate Singularity"
+	quest.6D8B17AD5ABEC7BC.title: "&z终极奇点"
 	quest.6DC738A434C5B02F.title: "&f击杀10只&d末影人"
 	quest.6DD9A75EE8C97710.quest_desc: ["&d亡灵术士&r与常见的敌对生物同时刷出来的概率极低，如果未做好准备，碰到他们将极为致命。在&b地下墓穴&r中，有时能碰到生成它们的刷怪笼。"]
 	quest.6DD9A75EE8C97710.title: "&f击杀10只&d亡灵术士"
@@ -10940,7 +10940,7 @@
 		""
 		"打开镭射钻UI，确认一下它是否正确连接！"
 		"{@pagebreak}"
-		"Inside of the &dFluid Laser Base&r, make sure to place in the &5Purple Laser Lens&r to tell it what type of fluid to extract."
+		"在&d流体镭射钻&r的UI界面里放入&5紫色镭射聚焦透镜&r，以设定镭射钻的提取目标。"
 		""
 		"你还需要把机器的&bY轴&r和凋灵位置匹配上，万事俱备后你就可以开始提取&d以太气体&r了！"
 	]
@@ -11020,11 +11020,11 @@
 	]
 	quest.72D582D05DC9C7A2.title: "&f橡木蜂巢"
 	quest.72DEF57BE1372907.quest_desc: [
-		"With basic tools to mine and explore with, it's time to get out and adventure into the world!"
+		"现在你有了挖掘和探索的简易工具，出门探索一下怎么样？"
 		""
-		"In Evolution, the world gen is completely customized to generate some amazing landscapes. You must also be very careful when mining below Y-64, as you'll find yourself within the &6Infinity Caves&r. This is a very dangerous place for those who aren't geared."
+		"在这个整合包中，我们完全自定义化了世界生成，以此生成一些不错的风景。如果你在Y-64层以下挖矿的话，我建议你最好小心点。你可能会跑到&6无限洞穴&r里，对那些装备不齐全的探险者们来说，这地方能要了他们的命。"
 		""
-		"There are plenty of new structures for you to find and loot, so get out there!"
+		"这个世界上有那么多新结构供你探索，别宅家里头了，出去转转！"
 	]
 	quest.72DEF57BE1372907.title: "&b探索时间到&f！"
 	quest.72E5DE96165E5DE2.quest_desc: [
@@ -11318,7 +11318,7 @@
 		""
 		"恭喜你！你通关了这个整合包！"
 	]
-	quest.755E80CFF2053CF8.title: "&6Activating The Pyramid"
+	quest.755E80CFF2053CF8.title: "&6激活金字塔"
 	quest.75621DDF80A2B05F.quest_desc: ["&a魔源中继器：收集型&r会自动从未用支配之杖建立连接的魔源罐中提取魔源，提取范围为五格。"]
 	quest.75621DDF80A2B05F.title: "&d收集魔源"
 	quest.757191CC5F6D98CC.quest_desc: [
@@ -11466,7 +11466,7 @@
 		"Similar to some burritos, this item has an explosive end."
 	]
 	quest.773C44B85A2A1042.quest_subtitle: "Focus: Advanced Tech Burrito"
-	quest.773C44B85A2A1042.title: "&zSupercritical Mass"
+	quest.773C44B85A2A1042.title: "&z超临界物质"
 	quest.773F797227054C32.quest_desc: [
 		"你是否曾经看着一只怪物，想着“啊，我要是也能这样就好了”？现在这已经可以实现了！"
 		""
@@ -11676,15 +11676,15 @@
 	]
 	quest.78C04CC1114AECF7.title: "&7魔精\\u00A0&f异界树苗交易者"
 	quest.78C2CC0F263728A5.quest_desc: [
-		"For those who might be tired of living in your 465th \"Cave Base\", why not try starting with a prebuilt base?"
+		"这是给那些不想再住地沟老鼠窝的人准备的。既然不想住地下基地，那为什么不试试预制房屋呢？"
 		""
-		"This quest lets you choose one \"Starter-Home-In-A-Bag\". These will place prebuilt house in a 9x9x9 cube centered around where you use the bag."
+		"你可以用这个任务获得一个“袋装初始小屋”，使用后它就会在使用中心的9x9x9范围内放出一个预制房屋。"
 		""
 		"You can only choose one, so take the time to check out each page to get a preview!"
 		""
 		"&cImportant&r: &bThe block that you use the bag on will be the bottom-middle block of the cube.&r"
 		"{@pagebreak}"
-		"House #1:"
+		"房屋一："
 		"{image:ftbevolution:textures/quests/house1.png width:100 height:100 align:center fit:true}"
 		"{@pagebreak}"
 		"House #2:"
@@ -12227,7 +12227,7 @@
 		"These setups will be reused and upgraded for the more difficult items in the Pyramid as well!"
 	]
 	quest.7EE04D8B354DC5CB.quest_subtitle: "Focus: Tech Mods"
-	quest.7EE04D8B354DC5CB.title: "&zEnder Transmitter"
+	quest.7EE04D8B354DC5CB.title: "&z末影发讯芯片"
 	quest.7EF3DE47C8EF094A.quest_desc: [
 		"&bHanging Herbs&r are a way to store and process your collected &aHerbs&r."
 		""
@@ -12539,7 +12539,7 @@
 	task.27FFF0492348277F.title: "&d生长加速器&r"
 	task.281F47BF78FD194B.title: "&9锤子时间到&r"
 	task.2863432ECAE88DDF.title: "&f荒野召唤"
-	task.28B9FEA413CD2BCD.title: "Pot Sherd"
+	task.28B9FEA413CD2BCD.title: "罐子碎片"
 	task.2951F1493E615F65.title: "&eSummon&r: &3Devil"
 	task.2988CAF299690CDB.title: "实用命令！"
 	task.29E62F8F9462B690.title: "&5量子头盔"
@@ -12716,7 +12716,7 @@
 	task.58C446166902A90E.title: "&e召唤一个&3恶魔丈夫"
 	task.58DC7CD2A4F595DD.title: "&f击杀&f：&d高位唤魔者"
 	task.591E2F53EFC69C37.title: "&9二阶"
-	task.59A1C4B408D26923.title: "Find an Infinity Cave"
+	task.59A1C4B408D26923.title: "找到一个无限洞穴"
 	task.5A0B7C6C05EEBEE2.title: "&6抽屉升级"
 	task.5A1A65112702EB49.title: "Herbs"
 	task.5A24652F0FB1E8F3.title: "&fKill: 1x &dLunar Monstrosity"
@@ -12782,7 +12782,7 @@
 	task.67AA4D77994AA256.title: "&a私人存储"
 	task.68E6367E2F80DCBE.title: "&c采掘小帮手&r"
 	task.69165B138F6A0983.title: "&c中级精华&f工具"
-	task.6925E00B803A9170.title: "Waystones"
+	task.6925E00B803A9170.title: "传送石碑"
 	task.69A9B5B0B534F7D4.title: "激光束"
 	task.6A2D276566E902AD.title: "&b五芒星&r已完成"
 	task.6A495CBF42B6447E.title: "Find a &cPyromancer"
@@ -12810,7 +12810,7 @@
 	task.6FBF3A3F71E35DF0.title: "高级机器"
 	task.700CAE784D0CDAAB.title: "&d三阶"
 	task.70A33763E18B8F83.title: "蓝带蜜蜂巢"
-	task.70D1CD95527B6359.title: "Exploration"
+	task.70D1CD95527B6359.title: "探索"
 	task.71287B1349E0A4AC.title: "&dEnergized Standing Stones"
 	task.7143B1EFAB0A1582.title: "&f群聚召唤"
 	task.71989748299ABB54.title: "&a怪物状态"
