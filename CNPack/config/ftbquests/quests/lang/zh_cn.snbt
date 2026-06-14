@@ -319,9 +319,9 @@
 	quest.031B9060B5055268.quest_desc: [
 		"你可以用&a糖&r喂养&6蜜糖史莱姆&r。"
 		""
-		"Breed them together &b6 Times&r to get this advancement!"
+		"喂蜜糖史莱姆&b共计六次&r，就可以完成这个进度！"
 	]
-	quest.031B9060B5055268.title: "&fBreeding... &aSlimes&f?"
+	quest.031B9060B5055268.title: "&f养一坨……&a史莱姆&f？"
 	quest.032BAE6F419CA6C8.quest_desc: [
 		"&a传送带&r是&6工业先锋&r的基础物品传输方式。"
 		""
@@ -694,11 +694,11 @@
 	quest.073BE902F972D190.title: "&f枪支改造"
 	quest.0764D0BFDD7EBF71.title: "&f弩蓝图"
 	quest.077F5C3829CA7300.quest_desc: [
-		"To encourage eating a variety of foods, foods in this pack have a &6Diversity&r stat."
+		"这个包里的食物都有&6多样性&r属性，目的就是鼓励你多吃不同种类的食物。"
 		""
-		"At higher levels of Diversity, you'll gain some pretty nice buffs like &dExtra Health&r, &cAttack Damage&r, and more!"
+		"随着你吃的不同食物增加，会获得一些不错的效果，比如&d额外血上限&r，或者&c攻击伤害提升&r之类的！"
 		""
-		"To keep up with which foods you've eaten and your current Diversity stat, you can always look in the &aFood Book&r."
+		"制作一本&a饮食清单&r，然后用它来确认自己已经吃过的食物……还有当前的食物多样性数据！"
 	]
 	quest.077F5C3829CA7300.title: "&f饮食多样性"
 	quest.078CAC5AA9A2D84D.quest_desc: ["手持&3存储访问器&r潜行右击&a维度存储促动器&r以连接它，然后你就可以通过这个物品在世界的任何角落访问你的存储，甚至跨维度。"]
@@ -1356,13 +1356,13 @@
 	]
 	quest.0CA75E81F6824B22.title: "&eIron的法术与魔法书"
 	quest.0CB00B02D232F8F1.quest_desc: [
-		"The &eDyson Cube Project&f mod allows you to build your own Dyson Sphere megastructure in Minecraft and harvest the power of the sun, producing up to 1 BILLION FE/t!"
+		"借助&e戴森球模组&f模组，你可在Minecraft中建造专属的戴森球巨构，汲取太阳之力，产出高达10 亿FE/t的能量！"
 		""
-		"To get started in this mod, you'll want to set up at least one &3EM Rail Ejector&r to send items to the sun, though more are definitely recommended. These can only work during non rainy days, and they will stop working when the sun is at its peak."
+		"模组入门需搭建至少一台&3电磁弹射器&r向太阳发射物品，当然强烈建议多造几台。请注意：弹射器仅在无雨天气运作，且当太阳升至最高点时会暂停工作。"
 		""
-		"When provided with power, the &3EM Rail Ejectors&r will work faster and ramp up how many items they send each time."
+		"通电后，&3电磁弹射器&r的运作速度将加快，并逐步增加单次发射的物品数量。"
 	]
-	quest.0CB00B02D232F8F1.title: "&6Harvesting The Sun"
+	quest.0CB00B02D232F8F1.title: "&6汲取太阳"
 	quest.0CD3050976F79358.title: "&f熟鸡肉丁"
 	quest.0CE337F7A4B27E89.quest_desc: [
 		"The Forge can be used to craft &6Elemental Prisms&r, but it requires a special relic for the recipe."
@@ -1723,7 +1723,7 @@
 		"&e合金和烧炼配方&r：这个模式下熔炼和合金配方不分离，实现自动化的时候可能会出现该做成合金的材料反而会被熔炼的问题。"
 	]
 	quest.109CB437DFAECDC6.title: "&a合金炉"
-	quest.10AB0C0930A5D77D.title: "&5Regeneration"
+	quest.10AB0C0930A5D77D.title: "&5生命恢复"
 	quest.10B7437F3E412D26.quest_desc: [
 		"对&a钻石蜜蜂&r使用&a下界合金块&r以将其转换成&6远古蜜蜂&r。"
 		""
@@ -1819,7 +1819,7 @@
 		"如果想要编写这个模组的法术，你得先做一本&a初学者法术书&r。这本书能让你制造、储存以及施放&a一阶法术&r！之后你需要先学习基础法术（&b魔符&r）再构建法术！"
 	]
 	quest.1114D1FD164E514B.title: "&f欢迎游玩&6新生魔艺&f！"
-	quest.111F60263C10C60B.title: "&fHamburger"
+	quest.111F60263C10C60B.title: "&f汉堡"
 	quest.114B4840D2FA1CDF.quest_desc: [
 		"&a提纯仓&r可以提升粗矿的矿物产量。"
 		""
@@ -2279,7 +2279,7 @@
 	]
 	quest.16F7490FA5DE307C.title: "&a生物粉碎机"
 	quest.1706D0B9391ED8E1.quest_desc: [
-		"&6Powah&r actually has the fastest energy cables! However, these don't have a buffer for storage like Mekanism's cables."
+		"&6Powah&r模组有传输效率最高的线缆！但它没有通用机械线缆的缓存效果，只能瞬间传输。"
 		""
 		"这些线缆是机器间传递能量的桥梁。"
 	]
@@ -2521,13 +2521,13 @@
 	quest.1A3C52B662D8237B.quest_subtitle: "召唤五芒星：级别6"
 	quest.1A3C52B662D8237B.title: "&6法特玛极效引诱"
 	quest.1A3D873292E4CB7B.quest_desc: [
-		"Within each &3Rail Ejector&r, you may choose to place in either &aBeams&r or &2Sails&r through the bottom-middle block of the multiblock structure."
+		"你可在&3电磁弹射器&r结构底部正中的方块，装填&a结构梁&r或&2太阳帆&r。"
 		""
-		"&aBeams&r allow your &6Sphere&r to accept more &2Sails&r, which is what actually increases your power generation. 1 beam supports 6 solar sails by default."
+		"&a结构梁&r用于提升&6戴森球&r可容纳的&2太阳帆&r上限，后者为发电主力。默认1个结构梁可支撑 6 个太阳帆。"
 		""
-		"Your network can contain a maximum of 50 Million &2Sails&r at maximum capacity, which takes around 8.3 Million &aBeams&r."
+		"满载状态下，网络最多可容纳5000万个&2太阳帆&r，约需830万个&a结构梁&r。"
 	]
-	quest.1A3D873292E4CB7B.title: "&fSolar &aBeams &fand &2Sails"
+	quest.1A3D873292E4CB7B.title: "&a结构梁&f和&2太阳帆"
 	quest.1A43F480970FEBBB.quest_desc: [
 		"&d蚀空合金锄&r可以耕出最强大的耕地：&5暗影脉壤&r。"
 		""
@@ -2684,7 +2684,7 @@
 	quest.1B20BEE2BE4476A7.title: "&d赛博改造中心"
 	quest.1B2E6CA3642024B7.quest_desc: ["&a固值器&r可以用来创造已有&b变量&r的副本。"]
 	quest.1B2E6CA3642024B7.quest_subtitle: "复制和粘贴变量"
-	quest.1B2E6CA3642024B7.title: "&fMaterializer"
+	quest.1B2E6CA3642024B7.title: "&f复制器"
 	quest.1B3B2B9697D7AEA6.quest_desc: ["把你目前能做出的最佳工具组合起来！"]
 	quest.1B3B2B9697D7AEA6.title: "&5蚀空合金镐尖斧"
 	quest.1B9C122BAE5A64BC.quest_desc: [
@@ -3103,7 +3103,7 @@
 		""
 		"主要用于制作&a液态混凝土&r，&a红石酸&r以及&d液态药水&r。"
 	]
-	quest.1F9E582F684EA247.title: "&fMixer"
+	quest.1F9E582F684EA247.title: "&f搅拌机"
 	quest.1FB7C690C945F528.quest_desc: [
 		"The &cClibano&r is a multiblock Blast Furnace capable of faster smelting as well as making stronger &aAlloys&r."
 		""
@@ -3540,7 +3540,7 @@
 	quest.244681F38E9D5552.quest_desc: [
 		"This boss is located deep beneath the surface of the &dEternal Starlight&r dimension, inside the &3Golem Forge&r."
 		""
-		"It seems to be powered by some neary &aEnergy Source&r..."
+		"好像它周围有为它供能的&a能量源&r……"
 	]
 	quest.244681F38E9D5552.title: "&fKill The &dStarlight Golem"
 	quest.245825E960D2B752.quest_desc: [
@@ -3829,11 +3829,11 @@
 	quest.272E84656D0F133C.quest_subtitle: "介绍虽少，用处繁多"
 	quest.272E84656D0F133C.title: "图腾仪式"
 	quest.27562CA8FEC4A764.quest_desc: [
-		"Storing items and liquids across dimensions has been made much easier through the use of &aDimStorage&r!"
+		"有了&aDimStorage&r以后，跨维度存取物品和流体简直易如反掌！"
 		""
-		"This mod adds two dimensional storage options, the &aDimensional Chest&r and the &aDimensional Tank&r. These work off of frequencies that can be locked so that only you can access them."
+		"这个模组加了两个跨维度存储方法，&a维度箱子&r和&a维度储罐&r。它们依靠特定频率互相连接，而且可以上锁，这样就只有你能打开它们了。"
 		""
-		"By using a &dDimensional Tablet&r on a chest, you can wirelessly access its contents."
+		"对着箱子使用&d维度板&r后，就可以无线访问其中物品了。"
 	]
 	quest.275F70A4E1F7382A.quest_subtitle: "可合成"
 	quest.275F70A4E1F7382A.title: "&a学徒法术书"
@@ -4150,11 +4150,11 @@
 	quest.2B2C42F215FD0385.quest_desc: ["&dClockwork Bearings&r turn attached contraptions relative to the time of day in minecraft, like a clock."]
 	quest.2B2C42F215FD0385.title: "&dClockwork Bearing"
 	quest.2B4392602E94D3D8.quest_desc: [
-		"Within the Nether you can find &aDungeons&r from the mod &6Fargo's Talismans&r."
+		"你在下界探索的时候，可能会碰到&6Fargo's Talismans&r模组的&a地牢&r。"
 		""
-		"This is a great place to go loot to get your hands on some &6Talisman&r crafting mats!"
+		"这个地方很适合搜刮战利品，搞到一些制作&6护符&r的材料！"
 	]
-	quest.2B4392602E94D3D8.title: "&fFind A &cFargo's Dungeon"
+	quest.2B4392602E94D3D8.title: "&f找到&cFargo的地牢"
 	quest.2B5ED424CC73B3EB.quest_desc: [
 		"&7绿宝石符石&r可以翻倍对掠夺者/灾厄村民造成的伤害，且每15秒对玩家半径两格范围内的作物施加催熟效果。"
 		""
@@ -4703,7 +4703,7 @@
 		""
 		"Large animals include Cows, Horses, Llamas, Pigs, and Sheep."
 	]
-	quest.3031334952FA6DCC.title: "&aPreparing The &bRitual"
+	quest.3031334952FA6DCC.title: "&a准备&r仪式"
 	quest.304B25BADD64077D.quest_desc: [
 		"升级你的背包，扩大存储空间！"
 		""
@@ -6184,7 +6184,7 @@
 	]
 	quest.3E63D54D05A3E300.title: "&6液态锂"
 	quest.3E692E6066ECB45B.quest_desc: [
-		"Bees love to be fed."
+		"蜜蜂喜欢让别人喂它们吃的。"
 		""
 		"所以你得喂蜜蜂48次，可以用蜂蜜、蜂蜜瓶和糖水瓶喂。"
 		""
@@ -6958,7 +6958,7 @@
 	]
 	quest.464AED8311A32476.title: "&f理解&a词缀&f物品"
 	quest.465A950126ABF758.quest_desc: [
-		"Have you ever gone caving and stumbled onto a random fully grown tree? That's most likely an &2Otherworld Grove&r."
+		"在洞穴探险的时候有偶然见过长在地底下的树吗？那说不定是&2异界树林&r的标志。"
 		""
 		"&a异界树林&r是一个长满了&2异界树&r的巨大洞穴，四周围绕着&9异界石&r。"
 		""
@@ -7258,19 +7258,19 @@
 	]
 	quest.49E9EBFC7B717D8E.title: "&f精制油"
 	quest.49ECE2A618E86CBD.quest_desc: [
-		"Making a lot of automated farms can easily start hitting your framerates when playing modded. Instead of building them far away, tuck them into a &6Hyperbox&r!"
+		"做太多自动化设施能把你帧率轻松击穿，不过现在不需要把它们建很远，直接用&6Hyperbox&r模组就行！"
 		""
-		"The Hyperbox is a mini-dimension in a single block. Once you place it down, you can name your new dimension and enter it from within the interface. To exit, just right click on one of the &6Hyperbox&r blocks on one of the walls."
+		"Hyperbox是个单方块内的小维度。当你把它放下后，直接右击交互这个方块表面就可以给它命名，然后进入这个维度。想出去的话，直接右击墙上的&6Hyperbox&r方块就行。"
 		""
-		"Within the dimension, you have a 13x13x13 workspace to build whatever you need! Make sure to &aforce load&r the chunk from the inside to keep it loaded and working when you aren't inside."
+		"这个维度内，有13x13x13的空间任你肆意挥霍！别忘了从内部&a强加载&r这个区块，不然你不在的时候机器不干活的。"
 	]
 	quest.49ECE2A618E86CBD.title: "&f个人&d口袋维度&r"
 	quest.49F40F94FB7B0F60.quest_desc: [
-		"After sending &2Solar Sails&r, you can start harvesting the power of the sun using &dRay Recievers&r."
+		"部署&2太阳帆&r后，即可利用&d射线接收站&r收集太阳能。"
 		""
-		"Other players can join your &6Sphere&r by interacting with any multiblock and clicking the \"Subscribe to this sphere\" button on the bottom left."
+		"其他玩家可通过与任意多方块结构交互，并点击左下角的“绑定至此戴森球”按钮，加入你的&6戴森球&r。"
 	]
-	quest.49F40F94FB7B0F60.title: "&dRay Receiver Controller&r"
+	quest.49F40F94FB7B0F60.title: "&d射线接收站控制器&r"
 	quest.4A0DE2C23F9145ED.quest_desc: [
 		"&6Forbidden \\&\\ Arcanus&r is a beautiful magic mod with some very unique mechanics for crafting items!"
 		""
@@ -7418,7 +7418,7 @@
 		""
 		"&d潜影贝&r：潜影壳(1-2)"
 		""
-		"&dWarden&r: Echo Shard (6+), with a chance for Music Discs/Fragments, and Smithing Templates"
+		"&d监守者&r：回响碎片(6+)，有概率掉落音乐唱片/唱片残片，以及古城相关锻造模板"
 	]
 	quest.4B50B455573D924B.title: "&d阿巴拉斯魔灵附身"
 	quest.4B589FFCCE44FFAC.quest_desc: [
@@ -7744,11 +7744,11 @@
 	quest.4E627F4AC4829EB5.quest_desc: ["&d坚固板&r用于制造列车组件。"]
 	quest.4E627F4AC4829EB5.title: "&3Sturdy Sheet"
 	quest.4E69128D8178DCBE.quest_desc: [
-		"&aPollen Puff&r is a common resource in the &6Bumblezone&r, but did you know that you can throw it?"
+		"&a花粉团&r在&6蜜蜂领域&r中非常常见，但你知道它可以丢出去吗？"
 		""
-		"To unlock this advancement, you need to hit 24 entities with Pollen Fluff. Players also count!"
+		"如果想解锁这个成就，你需要丢花粉球，并至少命中24个实体……玩家也算哦！"
 	]
-	quest.4E69128D8178DCBE.title: "&6Pollen Fight"
+	quest.4E69128D8178DCBE.title: "&6花粉大战"
 	quest.4E6B0E9C678618A3.quest_desc: [
 		"&a物品筛选器&r可以轻松设定什么物品可以穿过某个管道。"
 		""
@@ -8344,7 +8344,7 @@
 	quest.548800EFCB31F6F3.quest_desc: [
 		"The &6Queen&r has one last request."
 		""
-		"Trade with her 128 times."
+		"和她交易共计128次。"
 		""
 		"&o&8(she has a trading problem)&r"
 	]
@@ -8576,9 +8576,9 @@
 	quest.570CA0A0CA64C09E.quest_subtitle: "回魂五芒星"
 	quest.570CA0A0CA64C09E.title: "&a萨斯杰斯简易圆环"
 	quest.57229B7D91D3DD38.quest_desc: [
-		"&6Pollen Puffs&r can also be used to grow new flowers!"
+		"&6花粉球&r还可以用来增殖花！"
 		""
-		"&bSpawn 8 Flowers&r by using Pollen Puff on them to grow more flowers."
+		"将花粉球对着花使用，&b再种八朵花&r出来。"
 	]
 	quest.57229B7D91D3DD38.title: "&fDoing The Bee Thing"
 	quest.57260AC6D2C4A9F9.quest_desc: [
@@ -8959,7 +8959,7 @@
 		""
 		"&m生命力&r就是效率。"
 	]
-	quest.5B9E15BA5FDF0F24.title: "&fBioreactor"
+	quest.5B9E15BA5FDF0F24.title: "&f生物反应器"
 	quest.5BA74A759CC43BBB.quest_desc: [
 		"&e现代工业化&r每个阶段都有几种不同的电缆。"
 		""
@@ -9090,8 +9090,8 @@
 		"&e仅开采矿石&r模式下，它会检索它下方的方块，直到找到矿物为止。然后它就会自动挖掘，并将挖掘到的矿石储存在内部空间。"
 	]
 	quest.5D4E2FAD79F5AC0A.title: "&3垂直挖矿机"
-	quest.5D5D0878275558BC.quest_subtitle: "Chalk of Ice"
-	quest.5D5D0878275558BC.title: "{\"text\": \"Light Blue Chalk\", \"color\": \"#A6CAFC\"}"
+	quest.5D5D0878275558BC.quest_subtitle: "冰霜粉笔"
+	quest.5D5D0878275558BC.title: "{\"text\": \"淡蓝色粉笔\", \"color\": \"#A6CAFC\"}"
 	quest.5D622DB7CB6889EA.quest_desc: ["&a物品舱口&r可以让你将手持物或玩家物品栏中的物品瞬间存入相连的容器"]
 	quest.5D622DB7CB6889EA.quest_subtitle: "稍后再处理"
 	quest.5D622DB7CB6889EA.title: "&f物品舱口"
@@ -9276,8 +9276,8 @@
 		""
 		"大多数使用&b五芒星&r的&b仪式&r都是可选择进行的。"
 	]
-	quest.5F0AAD028931A220.quest_subtitle: "Summoning Pentacle: Tier 2"
-	quest.5F0AAD028931A220.title: "&3Ophyx' Calling"
+	quest.5F0AAD028931A220.quest_subtitle: "召唤五芒星：级别2"
+	quest.5F0AAD028931A220.title: "&3欧菲克斯的呼唤"
 	quest.5F2E83D75D192FA8.quest_desc: ["&3魔咒线索&r为你的附魔台带来了更多描述，从而让你在附魔前更清楚地知道将要附到书/物品上的是什么魔咒。"]
 	quest.5F2E83D75D192FA8.title: "&c能让你知道自己在附什么魔！"
 	quest.5F5A8762D664CBF0.quest_desc: [
@@ -9404,11 +9404,11 @@
 	]
 	quest.60871670B71C711F.title: "&b自动生产水晶"
 	quest.60984D2D55BF2E24.quest_desc: [
-		"The &dDeep Ore Afrit Miner&r harvests ores like the &3Djinni&r, and additionally mines deepslate ores."
+		"&d淘金者火灵&r与&3掘矿者巨灵&r采集的矿石种类差不多，但是前者还会额外采集矿石的深层变种。"
 		""
-		"It is faster and more efficient, damaging its lamp even more slowly."
+		"它更快且高效，耐久度消耗更加缓慢。"
 	]
-	quest.60984D2D55BF2E24.title: "&dDeep Ore Afrit Miner"
+	quest.60984D2D55BF2E24.title: "&d淘金者火灵"
 	quest.609DF15D870AE2C0.quest_desc: [
 		"&6Energistics&r是&6Industrial Foregoing: Souls&r和&6Applied Energistics 2&r的附属模组。它实现了通过&6AE2&r网络自动化传输灵魂的功能。"
 		""
@@ -9719,7 +9719,7 @@
 		""
 		"你也可以使用&b伪装方块&r来隐藏&a逻辑线缆&r。将伪装方块\\u00A0-\\u00A0无与你想使用的方块合成即可。"
 	]
-	quest.63A3450169DD4B17.title: "&fNetworks"
+	quest.63A3450169DD4B17.title: "&f网络"
 	quest.63A3D154A4307BCC.quest_desc: ["&d伸缩机械手&r可以大幅增加你的攻击距离。"]
 	quest.63A3D154A4307BCC.title: "&d伸缩机械手"
 	quest.63B7AC676FC1EE7F.quest_desc: [
@@ -10084,9 +10084,9 @@
 	]
 	quest.6738195241EF3317.title: "&3Electrolyzer"
 	quest.673ABC4EB43B8576.quest_desc: [
-		"Trading with the Queen will unlock a special questline for her!"
+		"和蜂后交易后，就会解锁蜂后交易任务线！"
 		""
-		"Whenever you hold an item she might like, a prompt will pop up to let you know. Try throwing something she likes at her."
+		"当你拿着蜂后感兴趣的物品后，她面前就会弹出来一个提示。然后把她喜欢的东西丢给她就行。"
 	]
 	quest.673ABC4EB43B8576.title: "&fThe &dQueen's Desire"
 	quest.67452E837BE2A6B8.quest_desc: [
@@ -10893,9 +10893,9 @@
 	quest.721B40D73EDF8589.quest_desc: [
 		"游戏早期时，&6燃气发电机&r是最佳发电手段。这种发电方式可以用到游戏中期，所以很多人感觉这个发电机太强大了。"
 		""
-		"This generator can burn &6Ethene&r to produce power at a very high rate! To learn more about what you'll need to get this set up, it's worth jumping into the &aMekanism&r quest chapter."
+		"这个机器可以以极高效率烧&6乙烯&r发电！你最好去&a通用机械&r章节深入了解一下怎么利用它。"
 		""
-		"Note: This generator has been heavily nerfed compared to previous versions, and you can expect each full GBG to generate ~5k RF/t."
+		"注意：这台发电机被大削了，现在你只能约产出5000RF/t的能源。"
 	]
 	quest.721B40D73EDF8589.title: "&a燃气发电机"
 	quest.722901B4259D8AEC.quest_desc: [
@@ -12397,7 +12397,7 @@
 	reward_table.40521CF80673B184.title: "&6可选奖励板条箱&r"
 	reward_table.41AB264E28626CDB.title: "一袋&6遗物&r"
 	reward_table.49B86AAFA614A4EF.title: "&a蒸汽高炉"
-	reward_table.4C9C6D038A2EA64A.title: "&zRandom Chaotic Module"
+	reward_table.4C9C6D038A2EA64A.title: "&z随机旋转模块"
 	reward_table.4D3135F03143C7CC.title: "传送器奖励包"
 	reward_table.4D6F39068B0224D8.title: "&aRS2物品奖励箱"
 	reward_table.563CD2BA14CBB267.title: "一袋&6护身符&r"
@@ -12437,12 +12437,12 @@
 	task.07A28AE0ECC4CDDE.title: "&d魔法&f腰带！"
 	task.07B3E353519E2FE6.title: "&9至高木"
 	task.07F3A67702DAA987.title: "物品栏垃圾桶！"
-	task.07FB5E0C90164FF9.title: "Leave The Bumblezone"
+	task.07FB5E0C90164FF9.title: "如何离开蜜蜂领域"
 	task.08061F73E1D9775F.title: "电池"
 	task.089B53BB412A3113.title: "&e召唤一个&3恶魔妻子"
 	task.08A176AF81AFB67F.title: "&b高级精华&f工具"
 	task.08BD44461F482A53.title: "Energy Modules"
-	task.0942F933E8D6C1D3.title: "&dDimensional Storage&r"
+	task.0942F933E8D6C1D3.title: "&d跨次元存储&r"
 	task.096452CE0C4FC543.title: "任意锄"
 	task.09BA8AE5976CB602.title: "喷气背包"
 	task.0A6AA7DD87D2EDE2.title: "&3恶魔伴侣"
@@ -12523,7 +12523,7 @@
 	task.23DB2322C9E7ACFA.title: "精良和极致机器核心"
 	task.247B79A552BA6CCE.title: "穿戴整齐，出门探险！"
 	task.2499252075BAB96E.title: "&a一级&f种子"
-	task.250E86F309F06DC5.title: "&eSummon&r: &7Foliot Janitor"
+	task.250E86F309F06DC5.title: "&e召唤&r：&7魔精清洁工"
 	task.25225ED0412FB977.title: "&e召唤一个&6魔王熔炼工"
 	task.2536607E3473FFF4.title: "&5量子靴子"
 	task.257DB4A574FF1E69.title: "&f游玩&b1小时"
@@ -12642,7 +12642,7 @@
 	task.4335140E412572D8.title: "&f打败十波&d永恒之门"
 	task.43F12298AA3644E9.title: "升级到铁质"
 	task.44471E3598AA381B.title: "&2二级&f生物种子"
-	task.449DF56ED27197D4.title: "&aSolar Beams"
+	task.449DF56ED27197D4.title: "&a结构梁"
 	task.45016D6A71CA38A9.title: "&c能量立方&r"
 	task.4507BF42E5A8FD9D.title: "&b四级&f种子"
 	task.4544EA17F4CDD321.title: "了解词缀物品的特性"
@@ -12667,7 +12667,7 @@
 	task.4B48F3912AE46B3C.title: "&e召唤一个&a被附身的幻翼"
 	task.4B65088186551D3C.title: "&f虚空升级"
 	task.4BB1855917140E38.title: "&b施放法术"
-	task.4BB8C201ABEE11F8.title: "&2Solar Sails"
+	task.4BB8C201ABEE11F8.title: "&2太阳帆"
 	task.4BEC813158265CFD.title: "&f太阳能板"
 	task.4BEC99EFB3F7A310.title: "&bSurvival Of The Fittest"
 	task.4C1919EBB6897E10.title: "进阶蜂箱"
@@ -12675,7 +12675,7 @@
 	task.4D5C3B07083B5ED6.title: "我已经有了电力"
 	task.4D7A00AE354FCBB7.title: "&eFind Structure: &6Keep Kayra"
 	task.4DBC16ACBFEF4D40.title: "堆叠升级"
-	task.4DDC10B7CDEA5CB5.title: "&fInterfaces"
+	task.4DDC10B7CDEA5CB5.title: "&f接口"
 	task.4F3BD1ECA2A53285.title: "&f通用机械流体管道"
 	task.4F4857C71B02E666.title: "Basic Universal Modules"
 	task.4F725B8E1BB9B8D1.title: "&e绑定仪式"
@@ -12755,7 +12755,7 @@
 	task.607C59BF2D47F072.title: "供电指南"
 	task.609F04747AC7E954.title: "&a神秘学&f的魔灵矿工"
 	task.60AC4DF069C58E68.title: "&5量子胸甲"
-	task.60AE0E54D1CAE9EE.title: "&fBatteries"
+	task.60AE0E54D1CAE9EE.title: "&f电池"
 	task.6130E9ED81C8EECD.title: "&e魔法存储"
 	task.6149E8B94920BEB3.title: "&f堆叠升级"
 	task.616ED86B19DC0FFB.title: "&e观察&f：焦炉"
@@ -12777,8 +12777,8 @@
 	task.654B395F536F0D7C.title: "&f实用的&a一阶&r魔符"
 	task.66A435F191CD5929.title: "独居石副产品"
 	task.671339615BA68B10.title: "&f击杀：&b冰霜术士"
-	task.67773EAE20B67BD2.title: "&eSummon&r: &3Dawn Spirit"
-	task.67A22BBA4C91522B.title: "Item Use"
+	task.67773EAE20B67BD2.title: "&e召唤&r：&3破晓魔灵"
+	task.67A22BBA4C91522B.title: "使用物品"
 	task.67AA4D77994AA256.title: "&a私人存储"
 	task.68E6367E2F80DCBE.title: "&c采掘小帮手&r"
 	task.69165B138F6A0983.title: "&c中级精华&f工具"
@@ -12803,7 +12803,7 @@
 	task.6E326027133166B6.title: "&a海德林魔灵附身"
 	task.6F06D38FC0B0F1EF.title: "&f修理一个矿工"
 	task.6F4FE88A7268862A.title: "&e召唤一个&a被附身的末影螨"
-	task.6F50B64460D2EC3D.title: "Find A Fargo's Dungeon"
+	task.6F50B64460D2EC3D.title: "找到一个Fargo地牢"
 	task.6F72448CD3FD5163.title: "如何获得蜜蜂！"
 	task.6FA17DE3B63BDA1A.title: "&f压缩抽屉"
 	task.6FA6CE6F848C29EC.title: "&f游玩&a10小时"
@@ -12821,7 +12821,7 @@
 	task.731217604FF8A844.title: "床"
 	task.734212F4FDFDAD92.title: "&e召唤一个&a贪婪使魔"
 	task.747DDA167BA0D47A.title: "&fKill: 1x &dSavage Ender Dragon"
-	task.75950ADE1D19EBBB.title: "&eSummon&r: &3Dusk Spirit"
+	task.75950ADE1D19EBBB.title: "&e召唤&r：&3黄昏魔灵"
 	task.75A91CC491740DEA.title: "&a精妙存储&r"
 	task.75CE8877F456D5E9.title: "重置挖掘技能树"
 	task.7675055D1AE5D019.title: "&e召唤一个&3巨灵熔炼工"
