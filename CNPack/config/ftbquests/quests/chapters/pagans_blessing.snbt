@@ -921,7 +921,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(rootsclassic:living_sword)item(rootsclassic:living_pickaxe)item(rootsclassic:living_shovel)item(rootsclassic:living_axe)item(rootsclassic:living_hoe))"
-						"minecraft:custom_name": "\"Living Tools\""
+						"minecraft:custom_name": "“蕴生工具”"
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
