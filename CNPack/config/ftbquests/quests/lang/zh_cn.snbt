@@ -418,8 +418,8 @@
 		"这种燃料在&6初级燃液发电机&r中可以产出更多能量。"
 	]
 	quest.04013A6813F80EF7.title: "&f升级版&c燃料"
-	quest.0443A2BAF6025343.quest_desc: ["Collects &cSewage&r, which can be turned into fertilizer for crop farms with a &cSewage Composter&r."]
-	quest.0443A2BAF6025343.title: "&cSewer"
+	quest.0443A2BAF6025343.quest_desc: ["你可以把&c污水&r存着，日后用&c污水堆肥机&r可以将其转化为肥料，肥料可以加速作物生长。"]
+	quest.0443A2BAF6025343.title: "&c污水"
 	quest.0444EF9A04406894.quest_desc: [
 		"&a细胞&r用于合成&bDNA螺旋&r。"
 		""
@@ -4254,7 +4254,7 @@
 	]
 	quest.2C9A224C8B8436BB.title: "The Mines"
 	quest.2C9DEB9B0DF58090.quest_desc: [
-		"Pink Slime can be turned into &dPink Slime Ingots&r."
+		"粉红黏液可以做成&d粉红史莱姆锭&r。"
 		""
 		"你需要它才能制作&6FTB金字塔&r所需物品！"
 	]
@@ -5687,7 +5687,7 @@
 	quest.388EAAF7CFA6535F.title: "&e金蜜蜂"
 	quest.389A8206E7B3A22C.title: "&f初级方块放置器"
 	quest.38AE15CA25C50869.quest_desc: ["这是&6工业先锋&r的矿物增产线起始任务。你要做的就是：将粗矿和&c肉汤&r混合，然后把它发酵，最后筛分产物。这样你就可以获得比投入量多的矿粉。"]
-	quest.38AE15CA25C50869.title: "&dWashing Factory"
+	quest.38AE15CA25C50869.title: "&d洗涤工厂"
 	quest.38BD69DD1995E971.quest_desc: [
 		"当你拥有提纯仓，粉碎机以及富集仓后，就可以准备搭建&9二阶矿物处理线&r了。搭建好后一个粗矿就可以生产出三个锭。"
 		""
@@ -5960,7 +5960,7 @@
 		""
 		"[\"You can remove the \", {\"text\": \"rust\", \"color\": \"#D5510E\"}, \" by making some \", {\"text\": \"Etching Acid\", \"color\": \"#55FF55\"}, \" then placing it down and throwing your items in them. It takes a few seconds.\"]"
 	]
-	quest.3BAE611AE4CEA7A6.title: "[{\"text\": \"Removing The \", \"color\": \"#FFFFFF\"}, {\"text\":\"Rust\", \"color\": \"#D5510E\"}]"
+	quest.3BAE611AE4CEA7A6.title: "[{\"text\": \"除\", \"color\": \"#FFFFFF\"}, {\"text\":\"锈\", \"color\": \"#D5510E\"}]"
 	quest.3BB1A111D7035936.quest_desc: ["The Novicius Orb runs dry too fast. The &cDiscipulus Orb of Vitae&r holds more and draws faster, befitting a hand that no longer trembles at the cut."]
 	quest.3BB1A111D7035936.title: "The Apprentice's Orb"
 	quest.3BCB8667CCEBAE57.quest_desc: [
@@ -6577,7 +6577,7 @@
 		""
 		"You'll likely run into some &bCrates&r down there, so bring a &aCrowbar&r just in case."
 	]
-	quest.424089E985536C5E.title: "&aDiving Suit"
+	quest.424089E985536C5E.title: "&a潜水套装"
 	quest.424BFFB9EFAB9565.quest_desc: ["&a电子管&r是一种合成部件，用于在&6机械动力&r中制作一些电子或可以控制的机械装置。"]
 	quest.424BFFB9EFAB9565.title: "&a电子管"
 	quest.425A41A378E7BF52.quest_desc: ["&a工程师护目镜&r可显示你的&a机械动力&r网络中的各种元素，包括特定方块的 &bRPM&r。"]
@@ -7139,13 +7139,13 @@
 	]
 	quest.48935E2DFCA1E835.title: "&zChaotic Infusion"
 	quest.48CADAFA7696B518.quest_desc: [
-		"Perhaps these ruins are hiding something. Going deeper, you'll find a massive &bCrystal&r. This is exactly what we're looking for!"
+		"也许这些废墟地下藏着什么，往下走走就能发现一大块&b水晶&r，它就是你来这的主要目的！"
 		""
 		"Using the &aAquatic Catalyst&r, we can give it some fuel to burn into power. Place the &aCatalyst&r a few blocks away from the &bCrystal&r. You want to make sure that the small side is pointing directly towards its upper center."
 		""
 		"Now we can right click it with some &2Prismarine&r to give it power."
 	]
-	quest.48CADAFA7696B518.title: "&fFinding a &9Crystal Geode"
+	quest.48CADAFA7696B518.title: "&f找到一个&9海蓝水晶洞穴"
 	quest.48E284F256F6453E.quest_desc: [
 		"&eFargo的符石&r模组允许你制作强力的符石，他们具有各种各样的效果，比如把泥土变成草方块，获得创造飞行和超音速移动速度，甚至免疫所有种类的负面效果！"
 		""
@@ -7282,11 +7282,11 @@
 	quest.4A1DBDE0963407E7.quest_desc: [
 		"&6Draconic Evolution&r is a late-game mod focused on using the power of &zDragons&r to create overpowered items and equipment, or &mreally expensive holes&r lots of power."
 		""
-		"To get started with &6DE&r, you will need &dDraconium Dust&r."
+		"要开始发展&6龙之进化&r，你需要获取一些&d龙尘&r。"
 		""
 		"&dDraconium Dust&r can be found deep in the overworld, mining dimension, or abundantly in the &eEnd&r."
 	]
-	quest.4A1DBDE0963407E7.title: "&fWelcome to &eDraconic Evolution"
+	quest.4A1DBDE0963407E7.title: "&f欢迎游玩&e龙之进化"
 	quest.4A1E69C9C543011E.quest_desc: [
 		"&7多刺符石&r使玩家免疫来自甜浆果丛的伤害。"
 		""
@@ -7689,7 +7689,7 @@
 	quest.4E455724E9CCA854.quest_desc: ["你碰到过&a可疑的方块&r吗？对着它使用一下&a刷子&r，看看会发生什么！"]
 	quest.4E455724E9CCA854.title: "&f业余&a考古学家"
 	quest.4E474C940C683371.quest_desc: [
-		"The &6Draconic Reactor&r is the ultimate energy generator, capable of producing tens of millions of RF/t with the correct setup. &cThis Reactor can explode!&r"
+		"&6神龙反应堆&r是终极产能装置，正确搭建后，便能实现数以千万计的产能速率。&c这种反应堆会爆炸！&r"
 		""
 		"若要开始搭建，首先需要在其中心位置放置&6反应堆核心&r，并在核心的四周放置&a稳定器&r，至多距离5格方块，然后在核心上方或下方放置&2反应堆能量注入器&r。"
 		""
@@ -8251,7 +8251,7 @@
 	quest.53682D91399F1898.quest_desc: ["如果你想要一个平坦世界拿来建东西，而且那个地方还能拿来挖矿的话，做一个&a采矿传送门&r就行！"]
 	quest.53682D91399F1898.title: "&a挖矿&f维度"
 	quest.5388B67410670702.quest_desc: ["The &6Draconic Sword&r is an upgraded version of the &dWyvern Sword&r, with room for more &aUpgrade Modules&r."]
-	quest.5388B67410670702.title: "&6Draconic&r Sword"
+	quest.5388B67410670702.title: "&6双足飞龙&r剑"
 	quest.53B7A49C8138D3B0.quest_desc: ["[\"使用\", {\"text\": \"灰色\", \"color\": \"#929292\"}, \"和\", {\"text\": \"橙色\", \"color\": \"#FCA645\"}, \"粉笔，和\", {\"text\": \"魔灵同调水晶\", \"color\": \"#FF55FF\"}, \"，你现在就可以控制\", {\"text\": \"火灵\", \"color\": \"#FF55FF\"}, \" 附身僵尸猪灵了。它被杀死后会掉落\", {\"text\": \"恶魔之肉\", \"color\": \"#55FF55\"}, \" \"]"]
 	quest.53B7A49C8138D3B0.quest_subtitle: "附身五芒星：级别3"
 	quest.53B7A49C8138D3B0.title: "&c阿巴拉斯开环强令召唤术"
@@ -8887,11 +8887,11 @@
 	quest.5AB25AAEDAA965C4.quest_desc: [
 		"Inside of the dark forest's &dCursed Garden&r labirinth, you'll find a corrupted plant that wants to eat your face."
 		""
-		"Kill it with fire!"
+		"用火烧死它！"
 		""
 		"&9Try using a Thermal Springstone Sword to assist you if needed."
 	]
-	quest.5AB25AAEDAA965C4.title: "&fKill The &dLunar Monstrosity"
+	quest.5AB25AAEDAA965C4.title: "&f击杀&d月藤巨物"
 	quest.5AC7EEC3D69AF032.quest_desc: [
 		"你可以将铲子、镐子和斧头合并为&b苍穹晶镐尖斧&r。"
 		""
@@ -10014,17 +10014,17 @@
 	quest.66B66C0C33071D7B.quest_desc: ["在&3化学反应釜&r中让&a粗铂矿&r和&e硫酸&r反应，我们就可以得到&d硫酸铂溶液&r。"]
 	quest.66B66C0C33071D7B.title: "&d硫酸铂溶液"
 	quest.66B6E08271B1EF27.quest_desc: [
-		"The &eDE&r energy core is a tiered energy storage solution capable of storing a near-infinite quantity of power when fully upgraded."
+		"&e龙之进化&r的能量核心是一种分阶能量储存装置，升至满阶后，就能存储近乎无限的能量。"
 		""
-		"Its core components are the &aEnergy Core&r and the &2Energy Core Stabilizers&r, which can be placed in any direction up to 8 blocks away from the core."
+		"其核心部件是&a能量核心&r和&2能量核心稳定器&r，稳定器可以放置在核心的任意方位，至多距离8格方块。"
 		""
-		"To insert or extract power from the Core, you'll need to place down an &bEnergy Pylon&r within 10 blocks of the core, then place a glass block under or above it."
+		"若要实现核心内能量的输入输出，你需要在核心10格范围内放置一台&b能量塔&r，并在其上方或下方放置一块玻璃。"
 		"{@pagebreak}"
-		"To upgrade the core, you'll need to surround the &aEnergy Core&r with more &dDraconium Blocks&r per tier. At tier 8, you'll also need to surround it with &6Awakened Draconium Blocks&r."
+		"若要升级核心，你需要在&a能量核心&r周围放置更多&d龙块&r以逐阶提升。升至8阶时，还需要在其周围放置&6觉醒龙块&r。"
 		""
-		"The energy core has a build guide within its interface when you interact with it that can automatically place the blocks in their position from your inventory."
+		"能量核心的界面中内置了搭建指导功能，与其交互便能自动将你物品栏中的方块放置到相应位置。"
 		""
-		"At tier 8, you will also need to upgrade your &2Stabilizers&r into a ring, requiring a total of 36 blocks (9 per ring)."
+		"升至8阶时，你还需要把&2稳定器&r升级为环型结构，共需要36个（每个环9个）。"
 	]
 	quest.66B6E08271B1EF27.title: "Energy Core"
 	quest.66B9795304E0E752.quest_desc: [
@@ -10088,7 +10088,7 @@
 		""
 		"当你拿着蜂后感兴趣的物品后，她面前就会弹出来一个提示。然后把她喜欢的东西丢给她就行。"
 	]
-	quest.673ABC4EB43B8576.title: "&fThe &dQueen's Desire"
+	quest.673ABC4EB43B8576.title: "&d蜂后之请"
 	quest.67452E837BE2A6B8.quest_desc: [
 		"在原版mc中这就是最后一战了，不过Evolution加装了&6更凶猛的末影龙&r，所以难度更高了！"
 		""
@@ -10127,7 +10127,7 @@
 		""
 		"Some of them contain &aHoney Compasses&r that will lead you to random structures. Find the rare Honey Compass that leads you to the &dThrone Pillar&r!"
 	]
-	quest.679EFBF590E16AD4.title: "&fFind The Rare &6Honey Compass"
+	quest.679EFBF590E16AD4.title: "&f找到稀有的&6蜂蜜指南针"
 	quest.67BDF0122CA3FAC1.quest_desc: [
 		"&d中级机器框架&r是&d高压级别&r机器的基础构建方块。"
 		""
@@ -11284,7 +11284,7 @@
 	quest.74C6CBDB38C29D4D.quest_desc: ["本章中，你会了解到很多游戏中的实用物品和技巧！"]
 	quest.74C6CBDB38C29D4D.title: "&f提示与技巧！"
 	quest.74CC3450902370F7.quest_desc: ["&6Draconic Tools&r is an upgraded versions of their &dWyvern&r counterparts with room for more &aUpgrade Modules&r."]
-	quest.74CC3450902370F7.title: "&6Draconic&r Tools"
+	quest.74CC3450902370F7.title: "&6神龙&r工具"
 	quest.74CC5FF2097C0839.quest_desc: [
 		"&6敌对神经网络（Hostile Neural Networks, &6HNN&r）&r允许你从生物中收集数据，以&b预测产物&r的形式获取掉落物。"
 		""
@@ -12486,7 +12486,7 @@
 	task.1817578EA1A618AB.title: "&b高级精华&f盔甲"
 	task.183FEFA2AEF46058.title: "观察&a灵火"
 	task.185302C49E85B5E3.title: "&e召唤一个&a小鹿使魔"
-	task.1894234815710814.title: "&6Draconic&r Tools"
+	task.1894234815710814.title: "&6神龙&r工具"
 	task.18BBCE523EABE49C.title: "煤炭"
 	task.19FEB64A680EC482.title: "MI流体管道"
 	task.1A3819027110CDC5.title: "&e召唤一个&a普通动物"
