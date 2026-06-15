@@ -4001,7 +4001,7 @@
 	quest.29AA81DC43CD093F.quest_desc: [
 		"&6Deorum Ingots&r are the main crafting ingots for the mod! This is needed to build out the platform for the &dHephaestus Forge&r."
 		""
-		"These also make a lot of beautiful decorative blocks."
+		"这玩意做的装饰性方块挺漂亮的。"
 	]
 	quest.29AA81DC43CD093F.title: "&6Deorum"
 	quest.29C1C4491D8B344E.quest_desc: [
@@ -4410,9 +4410,9 @@
 	quest.2DDC9D75FBFA1F3C.quest_subtitle: "是时候为变量赋值了"
 	quest.2DDC9D75FBFA1F3C.title: "&f逻辑编程器"
 	quest.2DE46EAADB16159E.quest_desc: [
-		"For the final tier for the Forge, you'll need to kill the Ender Dragon for her scales."
+		"你需要斩杀末影龙，因为铸台需要她的鳞片才能到达最终等级。"
 		""
-		"This is the ultimate tier of the Hephaestus Forge, which allows you to create one of challenge items needed for the &dFTB Pyramid&r."
+		"这是最高级别的锻台，同时你也需要它才能完成&dFTB金字塔&r的一件挑战物品。"
 	]
 	quest.2DE46EAADB16159E.title: "&6Hephaestus Forge: &3Tier 5"
 	quest.2E01CCF4FC7D949F.quest_desc: [
@@ -4993,7 +4993,7 @@
 		""
 		"&c千万小心，这地方极为危险。&r "
 	]
-	quest.32F68E7AE8DEF05E.title: "&fStumble Into The &dInfinity Caves"
+	quest.32F68E7AE8DEF05E.title: "&f前往&d无限洞穴"
 	quest.330F69D2F2626B50.quest_desc: ["&a斑斓透镜&r射出的激光会穿透物品，然后改变它们本身的颜色，比如染色玻璃或玻璃板、地毯、染料、羊毛以及带釉陶瓦。"]
 	quest.330F69D2F2626B50.title: "&a斑斓透镜"
 	quest.3334E05101A7297F.quest_desc: [
@@ -5182,7 +5182,7 @@
 		"如果你想要取之不尽用之不竭的建材，这些会很重要！"
 	]
 	quest.3490E1E29396D066.title: "&a一级&f种子"
-	quest.349143B50076A759.quest_desc: ["Each &6Tier 4 Dimensional Storage Stablizer&r adds 4096000 items, and 512 item types, up to four &aStablizers&r."]
+	quest.349143B50076A759.quest_desc: ["每个&d四阶维度存储稳定器&r能增加4096000个物品和512个物品种类，最多支持四个&a稳定器&r。"]
 	quest.349143B50076A759.title: "&6四阶维度存储稳定器"
 	quest.349A02A0278CB88E.quest_desc: ["&6蜂后&r特别讨厌蜘蛛，帮她杀32只。"]
 	quest.349A02A0278CB88E.title: "&f好多的腿"
@@ -5956,7 +5956,7 @@
 	]
 	quest.3B9B79565D5E2CA3.title: "灵魂猎手套装"
 	quest.3BAE611AE4CEA7A6.quest_desc: [
-		"[\"You'll find lots of old \", {\"text\":\"rusty items\", \"color\": \"#D5510E\"}, \" from loot crates or underwater mobs.\"]"
+		"[\"你可以在战利品箱和水下怪物身上搜刮到很多\", {\"text\":\"生锈\", \"color\": \"#D5510E\"}, \"物品。\"]"
 		""
 		"[\"You can remove the \", {\"text\": \"rust\", \"color\": \"#D5510E\"}, \" by making some \", {\"text\": \"Etching Acid\", \"color\": \"#55FF55\"}, \" then placing it down and throwing your items in them. It takes a few seconds.\"]"
 	]
@@ -6069,7 +6069,7 @@
 		"要了解更多有关该机器的信息，请查阅&b工程师手册&r！"
 	]
 	quest.3CF48BB941321C47.title: "&f灌装机"
-	quest.3CF6C19B0626B465.quest_desc: ["Portals. Portals everywhere."]
+	quest.3CF6C19B0626B465.quest_desc: ["传送门，到处都是传送门。"]
 	quest.3CF6C19B0626B465.title: "&5空间切割器"
 	quest.3D0DC34C36A173F5.quest_desc: [
 		"你现在有了制造&c外骨骼盔甲&r的全部资源！它是一套专门设计用来辅助你冒险的装备，每个都能给你带来独特增益："
@@ -6115,8 +6115,8 @@
 		"高浓度MOX：27 -> 36 (+9)"
 	]
 	quest.3D4A837CF7C2C173.title: "&5钚粉"
-	quest.3D687BF735E54AE8.quest_desc: ["Firey sentries of the nether fortresses"]
-	quest.3D687BF735E54AE8.title: "&fKill 10 &cBlazes"
+	quest.3D687BF735E54AE8.quest_desc: ["下界要塞的烈焰守卫"]
+	quest.3D687BF735E54AE8.title: "&f击杀10只&c烈焰人"
 	quest.3D767C3E2F0DE320.quest_desc: [
 		"多方块&6量子计算机&r的结构是从3x3到7x7范围之间的正方体。"
 		""
@@ -6573,7 +6573,7 @@
 	quest.423C04D5968C6A2B.quest_subtitle: "更多插槽！"
 	quest.423C04D5968C6A2B.title: "&a皮带"
 	quest.424089E985536C5E.quest_desc: [
-		"Deep underwater, there are &6NauTec&r ruins that hold a giant crystal. I don't suggest trying to go there without some kind of &aDiving Suit&r, okay?"
+		"深海之下坐落着一个&6NauTec&r废墟，里面有一块巨大的水晶。我建议你最好穿上&a潜水服&r再钻下去。"
 		""
 		"You'll likely run into some &bCrates&r down there, so bring a &aCrowbar&r just in case."
 	]
@@ -7272,9 +7272,9 @@
 	]
 	quest.49F40F94FB7B0F60.title: "&d射线接收站控制器&r"
 	quest.4A0DE2C23F9145ED.quest_desc: [
-		"&6Forbidden \\&\\ Arcanus&r is a beautiful magic mod with some very unique mechanics for crafting items!"
+		"&6禁忌与奥秘&r是个很绚丽的魔法模组，在合成物品上设计了一些独特的机制！"
 		""
-		"To get started, you'll need some of the base resources you'll find in the world."
+		"如果想要开始游玩此模组的话，你得需要一些在主世界就能找到的基础资源。"
 		""
 		"&3Darkstone&r is a stone that is very common in very low levels of the world. As for &aArcane Crystals&r, you'll find this ore more commonly in deepslate!"
 	]
@@ -7424,7 +7424,7 @@
 	quest.4B589FFCCE44FFAC.quest_desc: [
 		"In a &cClibano&r that has an &dArtisan Relic&r, you can combine Raw Iron with Obsidian to create &dObsidiansteel&r."
 		""
-		"This powerful alloy is used to create some end-game items in the mod, including the &6Dark Nether Star&r!"
+		"这种强大的合金可以合成该模组的后期物品，比如&6暗黑下界之星&r！"
 	]
 	quest.4B589FFCCE44FFAC.title: "&dObsidiansteel"
 	quest.4B5BFD1142133E93.quest_desc: [
@@ -7474,8 +7474,8 @@
 	quest.4BF0B397B0B9EE8C.title: "&f重置防御技能树"
 	quest.4BFEF3BDD452DEF4.quest_desc: ["在提供气压后&d土豆加农炮&r会用致命的蔬菜射击你的敌人。"]
 	quest.4BFEF3BDD452DEF4.title: "&d土豆加农炮"
-	quest.4C30F4091C2424E7.quest_desc: ["The &aCollector&r from &eXycraft's Machines&r works like a vacuum hopper. It will automatically collect any item with a &a3 Block Radius&r from the Collector, and push them into an inventory below."]
-	quest.4C30F4091C2424E7.title: "&eXycraft's &fItem Collector"
+	quest.4C30F4091C2424E7.quest_desc: ["&eXycraft's Machines&r模组的&a收集器&r和虚空漏斗差不多。它会自动拾取收集器&a三格半径&r内的任意物品，然后向下输出。"]
+	quest.4C30F4091C2424E7.title: "&eXycraft&f的物品收集器"
 	quest.4C3F295D0F44A730.quest_desc: [
 		"&d大型蒸汽涡轮机&r会把&7普通蒸汽&r或者&7高压蒸汽&r转化为能量。它生产上限为16384EU/t。"
 		""
@@ -7686,8 +7686,8 @@
 	]
 	quest.4E384E7EC467743D.title: "&aIncenses"
 	quest.4E3A4B79573FC1F2.title: "&dAmethyst Rapier"
-	quest.4E455724E9CCA854.quest_desc: ["Have you run into any &aSuspicous Blocks&r? Trying using a &aBrush&r on them to see what they are hiding!"]
-	quest.4E455724E9CCA854.title: "&fAmateur &aArchaeologist"
+	quest.4E455724E9CCA854.quest_desc: ["你碰到过&a可疑的方块&r吗？对着它使用一下&a刷子&r，看看会发生什么！"]
+	quest.4E455724E9CCA854.title: "&f业余&a考古学家"
 	quest.4E474C940C683371.quest_desc: [
 		"The &6Draconic Reactor&r is the ultimate energy generator, capable of producing tens of millions of RF/t with the correct setup. &cThis Reactor can explode!&r"
 		""
@@ -7978,15 +7978,15 @@
 	]
 	quest.50951E558DE644C6.title: "&b氧气"
 	quest.50B38DD40C5F5B1A.quest_desc: [
-		"The &3Ferrognetic Mixture&r is one of the first items you'll be able to make with your Forge."
+		"&3铁磁混合物&r是你可以用锻炉做出的第一件物品。"
 		""
-		"This mixture can be used on the Pedestals to convert them into &aMagnetized Darkstone Pedestals&r, which makes automating rituals easier!"
+		"这件物品可以将基座变为&a磁化暗黑石基座&r，这种基座可以轻松将仪式自动化！"
 		""
-		"These Pedestals will automatically display items thrown on them."
+		"这种基座会自动把丢在上面的物品展示。"
 		""
 		"You can also apply this mixture to your boots to pick up items easier."
 	]
-	quest.50B38DD40C5F5B1A.title: "&3Ferrognetic Mixture"
+	quest.50B38DD40C5F5B1A.title: "&3铁磁性混合物"
 	quest.50B7CA94F8BB6F58.quest_desc: [
 		"&a离心机&r是一台能分离与转化特定物品的简易机器。"
 		""
@@ -8249,7 +8249,7 @@
 	]
 	quest.535C11E589E11056.title: "&d挖掘疲劳护身符"
 	quest.53682D91399F1898.quest_desc: ["如果你想要一个平坦世界拿来建东西，而且那个地方还能拿来挖矿的话，做一个&a采矿传送门&r就行！"]
-	quest.53682D91399F1898.title: "&fThe &aMining &fDimension"
+	quest.53682D91399F1898.title: "&a挖矿&f维度"
 	quest.5388B67410670702.quest_desc: ["The &6Draconic Sword&r is an upgraded version of the &dWyvern Sword&r, with room for more &aUpgrade Modules&r."]
 	quest.5388B67410670702.title: "&6Draconic&r Sword"
 	quest.53B7A49C8138D3B0.quest_desc: ["[\"使用\", {\"text\": \"灰色\", \"color\": \"#929292\"}, \"和\", {\"text\": \"橙色\", \"color\": \"#FCA645\"}, \"粉笔，和\", {\"text\": \"魔灵同调水晶\", \"color\": \"#FF55FF\"}, \"，你现在就可以控制\", {\"text\": \"火灵\", \"color\": \"#FF55FF\"}, \" 附身僵尸猪灵了。它被杀死后会掉落\", {\"text\": \"恶魔之肉\", \"color\": \"#55FF55\"}, \" \"]"]
@@ -8425,13 +8425,13 @@
 	quest.5593FBFD07336685.quest_desc: ["The &dCoille Slat&r grants a bonemeal-like effect when fully charged."]
 	quest.5593FBFD07336685.title: "&dCoille Slat"
 	quest.559506BB99B32914.quest_desc: [
-		"&cBlood&r is one of the 4 Essences the &dHephaestus Forge&r requires to perform rituals."
+		"&d赫菲斯托斯锻台&r执行仪式所需的四大精华中，&b血液&r是仪式的基础。"
 		""
 		"This essence can be gathered manually by harming mobs with a &cTest Tube&r in the off-hand."
 		""
 		"One other way to gather blood for the Forge is by harming a mob or player on the platform near the Hephaestus Forge."
 	]
-	quest.559506BB99B32914.title: "&cBlood &fEssence"
+	quest.559506BB99B32914.title: "&c生命&f本质"
 	quest.55B7E3EE706E8D6F.quest_desc: [
 		"&b强化石&r是最先进的气动工艺机器的基础材料。"
 		""
@@ -8793,11 +8793,11 @@
 	quest.5901B0375947AAE4.title: "&a太阳能板"
 	quest.59090638A27CEC29.title: "&d终极精华&f盔甲"
 	quest.592271A09A5655D4.quest_desc: [
-		"Head into the mines, grab you some &braw Iron&r, and get ready to make some metal. The &aFurnace&r is how we're going to smelt down any &braw ores&r into &bIngots&r!"
+		"深入矿井，刨点&b粗铁&r，烧点铁锭。接下来你要做的就是&a熔炉&r，用它把&b粗矿&r烧制成&d锭&r！"
 		""
-		"You can also smelt down &2Logs&r into &bCharcoal&r to use if you don't have enough Coal."
+		"假如煤炭不够用的话，把&2原木&r烧成&b木炭&r也能用。"
 	]
-	quest.592271A09A5655D4.title: "&bIt's All Coming Together"
+	quest.592271A09A5655D4.title: "&b挖矿烧锭什么的一起上吧！"
 	quest.59376277A06E251A.quest_desc: [
 		"给箱子的升级数不胜数，但以上升级能让你玩的更舒服！"
 		""
@@ -8816,8 +8816,8 @@
 		"不过，将金属拆分并把精魂融入实体，意味着武器造成的伤害也会&e以相似的形式分开计算&r，其中一半的伤害会被转化为魔法伤害。这既有可能是个好处，也有可能是个坏处。"
 	]
 	quest.59497745146C1EFD.title: "魂染工具"
-	quest.595F8AC6DB5DACD8.quest_desc: ["Getting your first &bDiamond&r in vanilla is a pretty big deal! You should definitely save up enough to make a &bDiamond Pickaxe&r."]
-	quest.595F8AC6DB5DACD8.title: "&aYour First &bDiamond"
+	quest.595F8AC6DB5DACD8.quest_desc: ["原版中得到第一枚&b钻石&r挺费事的，所以你应该一直攒钻石，直到能做&b钻石镐&r为止。"]
+	quest.595F8AC6DB5DACD8.title: "&a你的第一颗&b钻石"
 	quest.5994E561F25FAEEC.quest_desc: ["有这么多附魔，你很难得到你想要的。所以，你可以通过制作&d宝典&r来代替书，它只支持某一类的附魔。"]
 	quest.5994E561F25FAEEC.title: "&f随心调整附魔属性"
 	quest.59968CB3EFFC440D.quest_desc: ["当被激活时，&a位置广播器&r将会把你目前的位置作为标记点广播到其他玩家的&6任意门&r中（需安装玩家传送升级）。"]
@@ -9030,15 +9030,15 @@
 	quest.5CB6AE8F5F9A1211.quest_desc: ["充能时，&c血液净化器&r可净化&a注射器&r。"]
 	quest.5CB6AE8F5F9A1211.title: "&c血液净化器"
 	quest.5CC11DF487EA2867.quest_desc: [
-		"The &7Foliot Janitor&r will pick up dropped items and deposit them into a target inventory."
+		"&7魔精清洁工&r会拾取掉落物，并将其存放到目标容器中。"
 		""
-		"To bind the &7Foliot Janitor&r to an inventory simply Sneak + Right-click with the &aJanitor Book of Calling&r on that inventory. "
+		"为了给&7魔精清洁工&r绑定一个容器，需要手持&a召唤之书：魔精清洁工&r潜行右击那个容器"
 		""
-		"You can also have the &7Foliot Janitor&r wander around a select area by pulling up that interface."
+		"你也可以选定一个范围，让&7魔精清洁工&r在这个范围里游荡"
 		""
-		"Sneak + Right-click the &7Foliot Janitor&r to configure an allow/block list to specify which items to pick up or ignore. This is set to allow mode by default, so it will only pick up items you specify in the list. You can use tags to handle whole groups of items."
+		"潜行右击&7魔精清洁工&r来设置其黑白名单，以指定它能够拾取，或忽略的物品。默认为白名单模式，因此它将拾取你选定的物品，你可以使用标签功能来一次性选定所有拥有该标签的物品"
 	]
-	quest.5CC11DF487EA2867.title: "&7Foliot &fJanitor"
+	quest.5CC11DF487EA2867.title: "&7魔精&f清洁工"
 	quest.5CC2FE30CF016754.title: "&a1k 存储组件"
 	quest.5CC65B3FE402E58B.quest_desc: [
 		"&d夜晚符石&r在夜晚时增加10%护甲。"
@@ -9528,11 +9528,11 @@
 	]
 	quest.61A8D9B0C8D22D50.title: "&f剪贴板"
 	quest.61AF606D6D451E9C.quest_desc: [
-		"Using &dStellarite&r that's found deep underground, you can create one of the most OP items from the mod: the &6Eternal Stella&r."
+		"你可以用在地底找到的&d流星碎片&r来合成该模组最强大的东西：&6永恒之石&r。"
 		""
-		"This item can be combined with most items in a Smithing Table to make it &dindestructible&r."
+		"将其和大部分工具在锻造台组合，然后对应物品就会&d无法被摧毁&r。"
 	]
-	quest.61AF606D6D451E9C.title: "&6Eternal Stella"
+	quest.61AF606D6D451E9C.title: "&6永恒之石"
 	quest.61B948F3E526ADF9.quest_desc: [
 		"只要把正确的材料放进&a魂缚火盆&r，你就能为自己的灵魂签下一个半永久的&b条约&r，这会在各种大大小小的方面改变你的游戏体验。"
 		""
@@ -9867,9 +9867,9 @@
 	quest.64E34B2DA32D3586.quest_desc: ["本&b章节&r将会主要介绍如何传输物品、能量、流体和其他东西！"]
 	quest.64E34B2DA32D3586.title: "&f通用物流"
 	quest.64F8FC212D088BE1.quest_desc: [
-		"The &dHephaestus Forge&r is the ultimate crafting table of &6Forbidden \\&\\ Arcanus&r!"
+		"&6赫菲斯托斯锻台&r是&6禁忌与奥秘&r中的最高级工作台！"
 		""
-		"To make this, you'll need to build out a large platform as shown below."
+		"首先你需要按下图的样式搭建一个大平台。"
 		"{image:ftbevolution:textures/quests/hephforge.png width:150 height:150 align:center}"
 		"{@pagebreak}"
 		"The easiest way I've found to build this is to first build out a 7x7 platform of Polished Darkstone."
@@ -9882,7 +9882,7 @@
 		""
 		"Sneak-use a piece of &6Mundabitur Dust&r on the Smithing Table and you'll convert it over to the &dHephaestus Forge&r."
 	]
-	quest.64F8FC212D088BE1.title: "&fThe &6Hephaestus Forge"
+	quest.64F8FC212D088BE1.title: "&6赫菲斯托斯锻台"
 	quest.64FE17214A14F903.title: "&d苍穹晶头盔"
 	quest.6507BA74DED764C1.quest_desc: ["&5氘&r是&6反应堆&r中&9水&r被&6快中子&r轰击时的副产物，可以用来生产&9重水&r。"]
 	quest.6507BA74DED764C1.title: "&5氘"
@@ -10094,7 +10094,7 @@
 		""
 		"What's new? Crystals can respawn and can summon mobs when broken, the Dragon can strike you with lightning bolts randomly, you might get knocked out of the sky when flying, &oand&r you can't use beds to kill her either."
 		""
-		"If you've been leveling your &6Skills&r, you should be ready to take on the &dEnder Dragon&r!"
+		"如果你一直在磨练自己的&6技能&r，那你估计已经准备好面对&d末影龙&r了！"
 	]
 	quest.67452E837BE2A6B8.title: "&f击败&d末影龙"
 	quest.6750DD01D865937D.quest_desc: ["&5稳定维度存储促动器&r不受&a存储稳定器&r影响，但额外预装了一个&6四级维度稳定器&r"]
@@ -10589,7 +10589,7 @@
 	quest.6E07405D08CCC2D4.title: "[{\"text\": \"\", \"color\": \"#FFFFFF\"}, {\"text\": \"黄绿色\", \"color\": \"#E2FC97\"}, \" & \", {\"text\": \"淡灰色\", \"color\": \"#C2C2C2\"}, \" 粉笔\"]"
 	quest.6E62CF3784A15E0F.title: "&f化学品卡"
 	quest.6E66D752E153E00F.title: "&f实用的&a一阶&r魔符"
-	quest.6E9BCC46F9963413.quest_subtitle: "11x11 Watering!"
+	quest.6E9BCC46F9963413.quest_subtitle: "11x11的灌溉范围！"
 	quest.6E9BCC46F9963413.title: "&d终级精华&f洒水壶"
 	quest.6EA5652195DB5FE3.quest_desc: [
 		"在你做出第一台机器前，得先做点基础合成材料。"
@@ -10693,9 +10693,9 @@
 	quest.700716B4ACCBD4F4.quest_desc: ["The &6Draconic Chestpiece&r is an upgraded version of the &dWyvern Chestpiece&r, with room for more &aUpgrade Modules&r."]
 	quest.700716B4ACCBD4F4.title: "&6Draconic Chestpiece"
 	quest.704DA4761DD8FDDD.quest_desc: [
-		"To craft more advanced items in &eDraconic Evolution&r, you will need a special crafting setup called &dFusion Crafting&r."
+		"要制作&e龙之进化&r更高级的物品，你需要一种被称作&d聚合注入&r的特殊合成装置。"
 		""
-		"The &dFusion Crafting Core&r must be the middle of the setup, with &dDraconium Fusion Crafting Ejectors&r placed facing towards the Core 2 blocks apart. The amount of Injectors needed will depend on the recipe."
+		"&d聚合核心&r必须位于装置中央，并在间隔2个方块处，面向核心放置&d聚合注入器&r。"
 		""
 		"The Core will also need a redstone signal to start a craft."
 	]
@@ -11222,7 +11222,7 @@
 	quest.740DA65D6FB1F0EC.quest_desc: ["&a魂金&r是一种被注入灵魂的特殊合金，能用来做一些游戏后期的机器，比如&d灵魂绑定器&r和&a头颅装配机&r。"]
 	quest.740DA65D6FB1F0EC.title: "&f魂金锭"
 	quest.741109BCCBFAF482.quest_desc: [
-		"For those heading down the path of &aMekanism&r, using the &dDigital Miner&r is a great idea for mining up ores within an area."
+		"&d数字化采矿机&r对于那些喜欢推&a通用机械&r的玩家来说，可以轻松挖掉一片区域的矿物。"
 		""
 		"把机器放下后，配置好就可以自动挖掘一片区域内的特定矿物，不用再到处找矿脉了！不过这台机器是头电老虎，你得保证好供电。"
 	]
@@ -11406,8 +11406,8 @@
 		"后期你还可以做无限使用的注魔水晶，不过现在你还是做点这个凑合用用吧。"
 	]
 	quest.7695C03E7A574D93.title: "&b活化水晶碎片"
-	quest.76B7E898697F688F.quest_desc: ["Want to build in a void world? Make the &dVoid Portal&r to teleport to the &dVoid&r Dimension!"]
-	quest.76B7E898697F688F.title: "&fThe &dVoid &fDimension"
+	quest.76B7E898697F688F.quest_desc: ["想在虚空世界随意建造东西吗？做个直达&d虚空&r维度的&d虚空传送门&r！"]
+	quest.76B7E898697F688F.title: "&d虚空&f维度"
 	quest.76C535C621A58F74.title: "&d苍穹晶斧"
 	quest.76CE17956D6DA7A1.quest_desc: [
 		"Brew an &cArcane Scribe Tool&r in the Tabula Vitae."
@@ -11490,9 +11490,9 @@
 	]
 	quest.7755246DDD1956F3.title: "&3Engraved Blade"
 	quest.776324EE68F3ADAB.quest_desc: [
-		"&bAureal&r is one of the 4 Essences that the &dHephaestus Forge&r requires to perform rituals."
+		"&d赫菲斯托斯锻台&r执行仪式所需的四大精华中，&b耀金&r是最核心的精华。"
 		""
-		"You can gather &bAureal Bottles&r from chests you find in the world, or from crafting them using potions."
+		"你可以直接从世界中找到&b耀金瓶&r，或者用药水制造它。"
 		""
 		"又或者你可以用&d神秘水晶方尖碑&r来为铸台持续供应耀金！"
 		"{@pagebreak}"
@@ -11504,9 +11504,9 @@
 	]
 	quest.776324EE68F3ADAB.title: "&bAureal &fEssence"
 	quest.7768A4D80488E53D.quest_desc: [
-		"Using a &bDiamond Pickaxe&r, you'll be able to break &dObsidian&r. Obsidian is needed to make a portal to the &cNether&r!"
+		"你可以用&d钻石镐&r挖&d黑曜石&r，黑曜石可以用来搭建&c下界&r传送门！"
 		""
-		"To create the portal, you'll need to make a portal frame using at least 10 &dObsidian&r, then light the portal with a &aFlint and Steel&r."
+		"要开启传送门，你需要用至少10块&d黑曜石&r来搭建一个传送门框架，然后用&a打火石&r点燃传送门。"
 	]
 	quest.7768A4D80488E53D.title: "&c下界&b之旅"
 	quest.776A013F2CDD8ACD.quest_desc: [
@@ -11687,10 +11687,10 @@
 		"房屋一："
 		"{image:ftbevolution:textures/quests/house1.png width:100 height:100 align:center fit:true}"
 		"{@pagebreak}"
-		"House #2:"
+		"房屋二："
 		"{image:ftbevolution:textures/quests/house2.png width:100 height:100 align:center fit:true}"
 		"{@pagebreak}"
-		"House #3:"
+		"房屋三："
 		"{image:ftbevolution:textures/quests/house3.png width:100 height:100 align:center fit:true}"
 	]
 	quest.78C2CC0F263728A5.title: "&fYour Own Prebuilt Starter House!"
@@ -11866,9 +11866,9 @@
 	quest.7B4CBCAF13C6F189.quest_desc: [
 		"To upgrade to the &dWyvern Fusion Injectors&r, you will need at least 8 &dDraconium Injectors&r placed around the &dFusion Crafting Core&r."
 		""
-		"You can right-click each item the injectors need to craft the upgrade. Each injector will also need power."
+		"你可以手持所需物品右击注入器来制作此升级。每个注入器都需要能量。"
 		""
-		"With all items placed in the injectors, you can place the main item in the &aCore&r, and the craft should start once it has a redstone signal."
+		"将物品全部放置到注入器上后，你就可以把主要物品放入&a核心&r，并用红石信号启动合成。"
 	]
 	quest.7B4CBCAF13C6F189.title: "&dWyvern &fInfusion"
 	quest.7B579D0762DB9F33.quest_desc: [
@@ -12016,19 +12016,19 @@
 		""
 		"To link the crystals, you'll need the &aCrystal Binder&r."
 		""
-		"Shift + Right-click your Wireless Crystal to start linking it to other blocks by Right-clicking."
+		"潜行右击无线水晶，再右击其他方块便能设立连接。"
 		""
-		"&aRelays&r can only connect to other Network components, so they are only used to extend the range of your network."
+		"&a中继水晶&r只能与能量网络中的其他部件连接，所以它只用于扩展你的网络范围。"
 		""
 		"&7&o下一页为各等级水晶的传输速率->"
 		"{@pagebreak}"
-		"Each crystal tier can output a different amount of power per connection:"
+		"不同等级的水晶在连接时输出的能量值也不同："
 		""
-		"The &aBasic Tier&r can transfer up to 32,000 RF/t"
+		"&a基础等级&r至多传输32,000 RF/t"
 		""
-		"The &dWyvern Tier&r can transfer up to 128,000 RF/t"
+		"&d双足飞龙等级&r至多传输128,000 RF/t"
 		""
-		"The &6Draconic Tier&r can transfer up to 256,000 RF/t"
+		"&6神龙等级&r至多传输256,000 RF/t"
 	]
 	quest.7CEB9C5F6924AAFC.title: "Power Logistics"
 	quest.7D0175F16F9A2D0D.quest_desc: ["&a电磁铁&r是一种能量驱动的饰品，它可以将最大5格内的物品吸到你的物品栏中。"]
@@ -12165,11 +12165,11 @@
 	]
 	quest.7E7C206547156447.title: "&6高级升级"
 	quest.7E884375320D7823.quest_desc: [
-		"The mod &6Silent Gear&r offers a customized experience when making tools and weapons!"
+		"&6寂静装备&r模组有着全新的工具和武器！"
 		""
-		"It also adds several new tool and weapon types, as well as the ability to mix and match different material types to make your tools even better. Instead of just breaking, you can even repair them using &aRepair Kits&r!"
+		"它还添加了几种新的工具和武器类型，以及混合不同材料类型以让你的工具更好的能力。它们甚至不会损坏，你可以使用修复套件来修复它们！"
 	]
-	quest.7E884375320D7823.title: "&bCustom Tools and Weapons"
+	quest.7E884375320D7823.title: "&b自定义工具和武器"
 	quest.7E88C7654F281E43.quest_desc: [
 		"[\"此\", {\"text\": \"强化台\", \"color\": \"#EA6F14\"}, \"是一个游戏末期才能制作的制作站，用于增强装备的\", {\"text\": \"词缀\", \"color\": \"#55FFFF\"}]"
 		""
@@ -12431,7 +12431,7 @@
 	task.04A70E089DED1FFE.title: "&e观察&f：金属冲压机"
 	task.0530149F4E3FF764.title: "厨房橱柜"
 	task.05B209B3FC005914.title: "击杀每种敌对生物各一只"
-	task.05BA59C2F9E1F43B.title: "&fKill 10 &cBlazes"
+	task.05BA59C2F9E1F43B.title: "&f击杀10只&c烈焰人"
 	task.07417ECE0AFC0BDA.title: "太阳能板"
 	task.074CA59C4911AD67.title: "&e召唤一个&d被附身的潜影贝"
 	task.07A28AE0ECC4CDDE.title: "&d魔法&f腰带！"
@@ -12487,7 +12487,7 @@
 	task.183FEFA2AEF46058.title: "观察&a灵火"
 	task.185302C49E85B5E3.title: "&e召唤一个&a小鹿使魔"
 	task.1894234815710814.title: "&6Draconic&r Tools"
-	task.18BBCE523EABE49C.title: "Coal"
+	task.18BBCE523EABE49C.title: "煤炭"
 	task.19FEB64A680EC482.title: "MI流体管道"
 	task.1A3819027110CDC5.title: "&e召唤一个&a普通动物"
 	task.1A4A5A59FFF815E2.title: "&c加热器&r"
@@ -12558,7 +12558,7 @@
 	task.2D9AA4F523B2C5B5.title: "&zChaotic&r Tools"
 	task.2DCE94139CB2078D.title: "&a实用升级"
 	task.2E079C677B170563.title: "基础粉笔"
-	task.2E1EB6FEC1AE28D0.title: "Silent Gear Blueprint"
+	task.2E1EB6FEC1AE28D0.title: "寂静装备蓝图"
 	task.2E2AAC08F926D8EE.title: "&f能量与你"
 	task.2E2CF42092AA43D8.title: "升级版&a磁盘接口"
 	task.2E7ED86FD24E5718.title: "&f撸树"
@@ -12613,7 +12613,7 @@
 	task.3D09A59994D73C21.title: "&f气压"
 	task.3D77BC2D58CE8E37.title: "&f实用的&a三阶&r魔符"
 	task.3D8249AFA2C607A0.title: "&d夜晚护身符&r"
-	task.3E8EE10AD935D436.title: "&fFurnace &aAugments"
+	task.3E8EE10AD935D436.title: "&f熔炉&a强化"
 	task.3EB3DC0E20ACCE4A.title: "找到陨石！"
 	task.3EDDF62E803A56A4.title: "杀掉32只蜘蛛"
 	task.3EF3D33D52CB41A5.title: "虚空升级"
