@@ -6437,7 +6437,7 @@
 		""
 		"Place the required items by right-clicking on the &aCauldron&r, and then shift right-click to begin the grinding process."
 	]
-	quest.40EAA60943D3E8B2.title: "&aImbuing Cauldron"
+	quest.40EAA60943D3E8B2.title: "&a工业炼药锅"
 	quest.4101E75F69C9909F.quest_desc: [
 		"&d量子物品编排&r（&dQIO&r）系统是&e通用机械&r的无线、无需电力且可扩展的数字存储解决方案"
 		""
@@ -8580,7 +8580,7 @@
 		""
 		"将花粉球对着花使用，&b再种八朵花&r出来。"
 	]
-	quest.57229B7D91D3DD38.title: "&fDoing The Bee Thing"
+	quest.57229B7D91D3DD38.title: "&f干点蜜蜂会干的事"
 	quest.57260AC6D2C4A9F9.quest_desc: [
 		"&d转速控制器&r用于控制系统中速度和旋转方向。"
 		""
@@ -8849,7 +8849,7 @@
 		""
 		"You can use &aSeeking Eyes&r or the &aExplorer's Compass&r to help you find the boss structures."
 	]
-	quest.5A09605B5A2134B2.title: "&fVisit the &dEternal Starlight &fDimension"
+	quest.5A09605B5A2134B2.title: "&f造访&d星光&f维度"
 	quest.5A284AE3AC14D070.title: "&f游玩&b1小时"
 	quest.5A387326C0C56255.quest_desc: ["The &cRunic Charge&r recharges your &dRune Slabs&r after they are drained from a &bRitual&r."]
 	quest.5A387326C0C56255.title: "&cRunic Charge"
@@ -9970,7 +9970,7 @@
 		"你肯定会想给所有处理器都安排一个&e压印器&r，而且最好赶快把自动化完成。每个压印器都可以安装&b四张加速卡&r，大大加快它的工作速度。"
 	]
 	quest.663460DE8AF7E464.title: "&a压印处理器"
-	quest.6638E6BB63D5EE71.title: "&fTame a &6Beehemoth"
+	quest.6638E6BB63D5EE71.title: "&f驯服&6蜜蜂巨兽"
 	quest.664924519F78893C.quest_desc: [
 		"&d长者手杖&r是一种前期武器，很容易就能打造出来。"
 		""
@@ -10350,13 +10350,13 @@
 	quest.6A56B7AFBFA70B08.quest_desc: ["The &dEnhanced Broom Brush&r lasts twice as long as the regular &aBroom Brush&r."]
 	quest.6A56B7AFBFA70B08.title: "&dEnhanced Broom Brush"
 	quest.6A5EC34554DB4B95.quest_desc: [
-		"Don't let the Beehives fool you. There is a lot more room in that one little block than it looks."
+		"别被蜂巢的外表骗了，它那一个小方块的外表下也许藏着个桃花源呢。"
 		""
-		"Try finding out for yourself! Maybe try using a &aPiston&r? Or maybe and &dEnder Pearl&r will work..."
+		"要不要亲自探索一下？&a活塞&r怎么样？或者往上面砸一个&d末影珍珠&r？"
 		""
 		"&7&oAdvanced Beehives can also be used the Bumblezone"
 	]
-	quest.6A5EC34554DB4B95.title: "&fEnter The &6Bumblezone&f!"
+	quest.6A5EC34554DB4B95.title: "&f踏入&6蜜蜂领域&f！"
 	quest.6A67BDD225DCF812.title: "&f重锤"
 	quest.6A691F59D434B379.quest_desc: [
 		"以下是许多反应堆机制的简单概述。"
@@ -12731,7 +12731,7 @@
 	task.5BE70295CD54250B.title: "Shield Modules"
 	task.5BE8C72BDBCC78CE.title: "&e使魔仪式"
 	task.5BF75EED8F2F48DC.title: "&e召唤一个&3克苏鲁"
-	task.5C1A44148EE9D1D2.title: "Tame a &6Beehemoth&r"
+	task.5C1A44148EE9D1D2.title: "驯服&6蜜蜂巨兽&r"
 	task.5C621DC20ED224E0.title: "厨柜"
 	task.5CC1B15C0C7AA7C3.title: "&5量子护腿"
 	task.5CE52CCA9AEA95D5.title: "提示与技巧！"
@@ -12849,7 +12849,7 @@
 	task.7C0D41D354010177.title: "重置运动技能树"
 	task.7C7AAE907BD49D83.title: "&a简单村民&r"
 	task.7CC63F579A168885.title: "Starter House"
-	task.7D1CC440F9B6E58D.title: "&fVisit the &dEternal Starlight &fDimension"
+	task.7D1CC440F9B6E58D.title: "&f造访&d星光&f维度"
 	task.7D4016582D0FDBDB.title: "&e召唤一个&3被附身的末影人"
 	task.7D546DE558467587.title: "&e召唤一个&3奇美拉"
 	task.7EA1CB8D304927B8.title: "一棍式服务！"
