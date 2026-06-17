@@ -166,9 +166,9 @@
 		"&oBoss Checklist -->&r"
 		"{@pagebreak}"
 		"- Maledictus"
-		"- Echo of Tyros"
+		"- 提洛斯回响"
 		"- Starlight Golem"
-		"- Lunar Monstrosity"
+		"- 月藤巨物"
 		"- Ancient Remnant"
 		"- Clawdian"
 		"- Scylla"
@@ -3644,7 +3644,7 @@
 	]
 	quest.25A18CFB6B3E038B.title: "&a水晶修复器"
 	quest.25B68364744A64CC.quest_desc: ["The &aPestle and Mortar&r is used to turn things into paste, and to create &aSeed Mixture&r used to tame &bCrows&r."]
-	quest.25B68364744A64CC.title: "&fPestle and Mortar"
+	quest.25B68364744A64CC.title: "&f研杵和研钵"
 	quest.25CDD6087C675F1A.quest_desc: [
 		"&e多级线缆&r模组提供了许多升级版本的成型器，越高级的工作速度越快，过滤槽位越多。"
 		""
@@ -8342,13 +8342,13 @@
 	quest.5467BAFD48002643.title: "&2Sage Bundle"
 	quest.5484F0F27A60F614.title: "&e失物招领：第三层"
 	quest.548800EFCB31F6F3.quest_desc: [
-		"The &6Queen&r has one last request."
+		"&6蜂后&r还有最后一个任务给你。"
 		""
 		"和她交易共计128次。"
 		""
-		"&o&8(she has a trading problem)&r"
+		"&o&8（她怕不是有交易癖哦）&r"
 	]
-	quest.548800EFCB31F6F3.title: "&fThe &6Queen's &fFavorite Trader"
+	quest.548800EFCB31F6F3.title: "&6蜂后&f最爱的商人"
 	quest.548DEBAD9D4CB726.quest_desc: ["&d火灵碎矿者&r的功能与其他所有的&b碎矿者&r相同，但它的产出量是四倍。"]
 	quest.548DEBAD9D4CB726.title: "&d火灵碎矿者"
 	quest.549D8C17D292D5AE.quest_desc: ["&d魔咒工厂&r可以自动以30级经验的等级附魔一本书，代价是消耗大量&a精华液&r。"]
@@ -9396,7 +9396,7 @@
 		""
 		"To complete this achievement, you must &bcraft&r 6 Bee Hives or Bee Nests. "
 	]
-	quest.6081E348AE536CDA.title: "&fCraft 6 Beehives or Bee Nests"
+	quest.6081E348AE536CDA.title: "&f制造六个蜂巢或蜂箱"
 	quest.60871670B71C711F.quest_desc: [
 		"水晶母岩的生长速度很缓慢，尤其是急着搭建AE系统的时候，绝对没人想等那么久的。"
 		""
@@ -10699,7 +10699,7 @@
 		""
 		"The Core will also need a redstone signal to start a craft."
 	]
-	quest.704DA4761DD8FDDD.title: "&cFusion Crafting&r"
+	quest.704DA4761DD8FDDD.title: "&c聚合制作&r"
 	quest.7067E5B47D381423.quest_desc: [
 		"假如你想让魔源能自由传输的话，就要制作几台&b魔源中继器&r。"
 		""
@@ -10804,7 +10804,7 @@
 		""
 		"It is the substrate for almost every sigil you will ever scribe."
 	]
-	quest.714E3D428D37EE24.title: "&fDiscover All &6Bumblezone &fStructures"
+	quest.714E3D428D37EE24.title: "&f探索并发现&6蜜蜂领域&r的全部结构"
 	quest.71806E77AEE9E050.quest_desc: [
 		"一旦你获得了一些&a锇&r，就可使用&e热力发电机&r开始生成基础电力。"
 		""
@@ -10920,7 +10920,7 @@
 		""
 		"This tier has the most storage for &aUpgrade Modules&r."
 	]
-	quest.7244348CAB8356E0.title: "&zChaotic&r Chestpiece"
+	quest.7244348CAB8356E0.title: "&z混沌&r护胸"
 	quest.7244D5DADCF0D7A2.quest_desc: [
 		"&b水之过滤海洋书架&r最多可以放六本附魔书，放到其中的附魔不会再在附魔台中出现。"
 		""
@@ -11328,7 +11328,7 @@
 		""
 		"你可以在蜂蜜茧中找到整套装甲，或者和蜂后交易也行。"
 	]
-	quest.757191CC5F6D98CC.title: "&fA Worthy Challenge"
+	quest.757191CC5F6D98CC.title: "&f仅为值得之人准备的挑战"
 	quest.7577594004D188D9.quest_desc: ["在&3化学反应釜&r中将&c氯乙烯&r和&4铅粉末&r/&3铬粉末&r反应以产出&a聚氯乙烯&r。"]
 	quest.7577594004D188D9.title: "&c氯乙烯"
 	quest.75818C9F54BD4C02.quest_desc: [
@@ -11917,7 +11917,7 @@
 		""
 		"这样做后就会得到&6蜂群之护&rbuff，我敢说谁也不敢惹有蜜蜂护体的人。"
 	]
-	quest.7BCC6F2A109B4AFD.title: "&fWin Over &eThe Hive"
+	quest.7BCC6F2A109B4AFD.title: "让&e蜂巢&f为你蜂狂"
 	quest.7BEB2CB9C3BF6318.quest_desc: ["&a仓储链接站&r允许你设置和管理物品的库存网络，使这些物品可以在同一网络中的其他系统请求时可用。"]
 	quest.7BEB2CB9C3BF6318.title: "&a仓储链接站"
 	quest.7C03724DFA7CC612.quest_desc: [
@@ -12719,7 +12719,7 @@
 	task.59A1C4B408D26923.title: "找到一个无限洞穴"
 	task.5A0B7C6C05EEBEE2.title: "&6抽屉升级"
 	task.5A1A65112702EB49.title: "Herbs"
-	task.5A24652F0FB1E8F3.title: "&fKill: 1x &dLunar Monstrosity"
+	task.5A24652F0FB1E8F3.title: "&f击杀：1x &d月藤巨物"
 	task.5A4A1F326C2F75BC.title: "&b五芒星&r已完成"
 	task.5A7D16167EA18581.title: "&d末地&f蜂巢"
 	task.5AC8CFBCB4375AC0.title: "&e召唤一个&d火灵熔炼工"
