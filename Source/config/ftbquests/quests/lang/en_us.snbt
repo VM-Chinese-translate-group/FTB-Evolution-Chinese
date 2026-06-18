@@ -618,6 +618,8 @@
 		"A ritual needs a heart. Lay a &cMaster Ritual Stone&r at the center, mark the lesser stones around it with the &cRitual Diviner&r, and ignite the working with a &cWeak Activation Crystal&r."
 		""
 		"From the Well of Suffering to Overgrowth to the Endless Quarry, the circle does the labor you would otherwise bleed for."
+		""
+		"The &aRitual Configurator&r lets you define the range and area a ritual works in."
 	]
 	quest.067E4D25501B94F3.title: "Rites and Rituals"
 	quest.06918197435AF24E.quest_desc: [
@@ -1519,6 +1521,8 @@
 	quest.0E19151FCABF4759.title: "&fReset Athletics"
 	quest.0E1F59CE575178C7.title: "&dCelestigem Leggings"
 	quest.0E33289A3EE45E1A.quest_desc: [""]
+	quest.0E3D0533331945A1.quest_desc: ["Forge a Master Routing Node Core to widen the veins of your network. It will allow more items/liquid/energy to be carried with every transmission, and a Speed Core to quicken frequency of transmissions. Seat them within the Master Routing Node, and stack as many as your ambition demands. A network so driven will move oceans in moments."]
+	quest.0E3D0533331945A1.quest_subtitle: "A sluggish heart serves only a small body."
 	quest.0E610A03BB4007B6.quest_desc: ["Generates power by consuming some Mob Drops."]
 	quest.0E610A03BB4007B6.title: "&fDeath Mycelial Generator"
 	quest.0EA1B56A92D0403F.quest_desc: [
@@ -1584,6 +1588,21 @@
 	quest.0EE35D6E57FAD973.title: "&dEnchantment Library"
 	quest.0EE67A1E7273D1A0.quest_desc: ["The &dWyvern Bow&r is a powered bow that allows for a ton of customization options using &aUpgrade Modules&r."]
 	quest.0EE67A1E7273D1A0.title: "&dWyvern &fBow"
+	quest.0EEF432D13F80720.quest_desc: [
+		"The &bHeart Pulse Belt&r is a curios when equipped the player gets an increased movement speed, step-assist, and increased jump height."
+		""
+		"{@pagebreak}"
+		"Each Upgrade Increases the base value."
+		""
+		"&cRed Heartpulse Belt&r : 1.5 Block Height Jump and slight speed increase."
+		""
+		"&eYellow Heartpulse Belt&r : 2 Block Height Jump and moderate speed increase."
+		""
+		"&9Blue Heartpulse Belt&r: 2.5 Block Height Jump and fast speed increase."
+		""
+		"&aGreen Heartpulse Belt&r: 3 Block Height Jump and very fast speed increase."
+	]
+	quest.0EEF432D13F80720.title: "A Better Movement"
 	quest.0EFA11536D00E653.quest_desc: [
 		"&2Bio Fuel&r can also be used as a great power source in the early game!"
 		""
@@ -1820,6 +1839,12 @@
 	]
 	quest.1114D1FD164E514B.title: "&fWelcome To &6Ars Nouveau&f!"
 	quest.111F60263C10C60B.title: "&fHamburger"
+	quest.11284BF46CEB2F12.quest_desc: [
+		"Brew Cutting Fluid in the Tabula Vitae, dissolve an ore into 2 dust, then smelt it to an ingot."
+		""
+		"Blood multiplies more than power, it multiplies wealth. Brew a measure of Cutting Fluid in your Tabula Vitae, then dissolve an ore within it. The slab grinds the metal free of its stone into dust, two for every ore you offer; smelt that to a finished ingot. "
+	]
+	quest.11284BF46CEB2F12.title: "Alchemy of Ore"
 	quest.114B4840D2FA1CDF.quest_desc: [
 		"The &aPurification Chamber&r is mostly used to increase the yield from raw ores."
 		""
@@ -1888,6 +1913,8 @@
 	quest.1237537100194BED.title: "&fKill The &dWither"
 	quest.124509FFC6717603.quest_desc: [
 		"Your first sigil comes from the Alchemy Array. The &cDivination Sigil&r reads the well of Anima within you and the EV held in an altar before you."
+		""
+		"The &cSeer's Sigil&r reads an altar in detail: its progress, EV per tick, and charge reserve. Invaluable when building toward higher tiers."
 		""
 		"You cannot manage what you cannot measure."
 	]
@@ -2509,6 +2536,8 @@
 	]
 	quest.1A1161EF6276767F.quest_subtitle: "&oSteel The Deal"
 	quest.1A1161EF6276767F.title: "&fWelcome to &eMFFS"
+	quest.1A22280295ED9A42.quest_desc: ["Run an ore block through the full Athanor chain to ingots; and use Corrupted Dust with Ore Fragments in the Tabula Vitae to double them into Ore Gravel. If you fully max out the spiritus and processing cycle of corrupted dust you can take ore to ingot at over 8x the output of normal smelting!"]
+	quest.1A22280295ED9A42.title: "Ore Processing and Corrupted Dust"
 	quest.1A285EBFFDBAE30A.quest_desc: [
 		"You will encounter lots of different plants and trees through your journey, all which are exclusive to specific biomes and climates."
 		""
@@ -2602,6 +2631,7 @@
 		"While looking into the air, using the tool will switch between adding or removing drawers. If you sneak-use the tool in the air, it will switch between adding a single drawer at a time, or multiple!"
 	]
 	quest.1AA08B095A8B378F.title: "&fLinking Drawers"
+	quest.1AB874D6EADDB75D.title: "Tier 2"
 	quest.1ABA5F2ECAA6D9D2.quest_desc: [
 		"&eMekanism&r offers some of the best logistics cables and pipes in the pack! These items can be upgraded in the world, and also have an internal buffer."
 		""
@@ -5320,6 +5350,12 @@
 	quest.35865030C4D59D8C.title: "&bIce Unit"
 	quest.35A457C89558CF59.quest_subtitle: "7x7 Watering!"
 	quest.35A457C89558CF59.title: "&cTertium &fWatering Can"
+	quest.35A633381D0662EF.quest_desc: [
+		"The &bVitality Blade&r works similar to an &bHeart Amulet&r. It has its own slots for &6canisters&r."
+		""
+		"Each &6canister&r adds &e1&r additional damage to the sword."
+	]
+	quest.35A633381D0662EF.title: "The Sword of Friendship"
 	quest.35A96FBA7222DD74.quest_desc: [
 		"Nearby an &6Ancient City&r, you'll find a strange portal frame waiting to be activated."
 		""
@@ -5739,6 +5775,14 @@
 		"With the Wilden Tribute (and some other vanilla end game materials), you'll be able to upgrade your spell book to the highest tier!"
 	]
 	quest.39217B517F7C280A.title: "&6The Archmage Spell Book"
+	quest.393324AF2EE55949.quest_desc: [
+		"Enchantments are woven things, and what is woven can be unpicked. "
+		""
+		"Load the Athanor with a stack of plain Books and a single enchanted item such as armour, a tool, or even an Enchanted Book and the crucible lifts one enchantment at a time onto a fresh book, drawing it cleanly off the item. "
+		""
+		"Salvage a wasted enchant, or peel a prize apart to reforge it as you please."
+	]
+	quest.393324AF2EE55949.title: "Enchantment Stripping"
 	quest.3934E11B476FC834.title: "&d1024B Chemical Storage Part"
 	quest.393850960DC22BB1.quest_desc: [
 		"To push and pull items in and out of a Modular Router, there are several types of &aModules&r you can install."
@@ -6033,6 +6077,7 @@
 		"In order to complete the &6FTB Pyramid&r, it is recommended to automate &dWarden&r, &3Wither&r, and &5Ender Dragon &bPredictions&r."
 	]
 	quest.3C60FA46EA54C899.title: "&dGenerating Loot"
+	quest.3CA9125C16DD3124.quest_desc: ["While nodes autoconnect when placed, if you want to manually reconnect nodes to a different master routing node you can use the node router tool."]
 	quest.3CAA89E621ED5B6E.quest_desc: [
 		"The &aCamouflage Applicator&r can make camouflageable blocks such as tubes and heat pipes look like other blocks!"
 		""
@@ -6240,6 +6285,12 @@
 		"&bBreed Bees&r until you have created 8 new baby bees."
 	]
 	quest.3F18F0072624F4B0.title: "&fA Wittle &6Babee"
+	quest.3F263702F010167A.quest_desc: [
+		"At the heart of every Vitaemancer's workings is a leyline of magical routing nodes. These act as the piping and transmission controls for fluids, items and even energy. It all starts with a master routing node which controls the entire network."
+		""
+		"Create some routing nodes and an input/output node then start your network by first placing the master routing node and the other nodes will connect to it as you place them. "
+	]
+	quest.3F263702F010167A.title: "Laying the Veins"
 	quest.3F4C25DF20877606.quest_desc: [
 		"&aEthanol&r is a very useful resource that can be turned into &2Herbicide&r, &2Biodiesel&r, and &dAcetaldehyde&r."
 		""
@@ -6987,6 +7038,29 @@
 		"You will need a lot of these!"
 	]
 	quest.4699D9C4E03C844B.title: "&aWe Cannot Resist This"
+	quest.469CC73547403714.quest_desc: [
+		"&bHearts&r are a key componet of &zBaubley Heart Canisters&r."
+		""
+		"&cRed Hearts&r: Drop from Apothic Mobs "
+		"&eYellow Hearts&r: Drop from Bosses"
+		"&aGreen Hearts&r: Drop from the Ender Dragon"
+		"&9Blue Hearts&r: Made from Crafting"
+		""
+		"Hearts can be eaten and will restore health based on the level."
+		""
+		"{@pagebreak}"
+		"Each Tier Increases the base value healed."
+		""
+		"&cRed&r : 10 Hearts per use."
+		""
+		"&eYellow&r : 20 Hearts per use."
+		""
+		"&9Blue&r: 30 Hearts per use."
+		""
+		"&aGreen&r: 40 Hearts per use."
+		" "
+	]
+	quest.469CC73547403714.title: "The Unlimited Power of Hearts"
 	quest.46A1341E5E97ABDC.quest_desc: [
 		"Before you start building out your &bAE Network&r, it's time to talk about &2Channels&r. Don't worry, the pack's default is set to &b4x by default&r with the intention of having an easier time for players who might be new to AE2."
 		""
@@ -7102,6 +7176,10 @@
 		"Strange fruit grows in the Antechamber. &cWeak Tau&r is a seed of the demon realm's vitality."
 		""
 		"Carry it home and cultivate it."
+		""
+		"Cultivated and saturated, Weak Tau ripens into &cStrong Tau&r: dense enough to refine."
+		""
+		"To grow this you must allow it to grow with animals walking on it. They will be damaged over time and each time there is a chance the Tau will becomes saturated and will evolve into Strong Tau. "
 	]
 	quest.48784773302B05B5.title: "The Tau Harvest"
 	quest.4879B6C32F7B1749.quest_desc: [
@@ -7362,6 +7440,8 @@
 	quest.4A707D443EC2DE33.title: "&6Functional Drawers"
 	quest.4A7198127F58DA94.quest_desc: ["&aLogic Directors&r are used to craft advanced network components."]
 	quest.4A7198127F58DA94.title: "&fLogic Director"
+	quest.4AA1DC445CEF6FFC.quest_desc: ["&cBlood Mending&r can be applied to anything that has durability. It will repair by draining your &aEV&r to repair the gear. This process is done in the &bHellfire Forge&r. Add any damagable tool or armor to apply it."]
+	quest.4AA1DC445CEF6FFC.title: "Blood Mending"
 	quest.4AC0B8A467BB5FA8.quest_desc: [
 		"This book looks old, but is filled with an ancient magical power."
 		""
@@ -8232,7 +8312,7 @@
 	quest.530F5E2E4ADB1BA4.quest_desc: [
 		"If altar construction starts to drag, the &cpotioncrafting&r system opens at Tier I. Brew &cAlchemy Flasks&r or tip &cAmethyst Throwing Daggers&r with dozens of effects."
 		""
-		"A Vitaemancer with a well-stocked flask belt is never truly in danger."
+		"A Vitaemancer with a well-stocked flask belt is never truly in danger!"
 	]
 	quest.532DA0BDBF2F215A.title: "&fBeef Patty"
 	quest.53319642E4ECC11F.title: "&fFerricore Axe"
@@ -8268,6 +8348,7 @@
 		""
 		"While at Tier I you may hold an Orb in your off-hand and kill creatures to harvest EV straight into your Anima, sparing your own veins."
 	]
+	quest.53F28C95FE1BAF29.quest_subtitle: "Altar Upgrade"
 	quest.53F28C95FE1BAF29.title: "Tier I: The Ring of Runes"
 	quest.53FBBFC675F1FE7F.quest_desc: ["The &dChronon Battery&r can store much more &bChronon&r than the simple &aChronon Cell&r, and is also a crafting ingredient used in some of the more advanced &eTempad&r recipes."]
 	quest.53FBBFC675F1FE7F.title: "&dChronon Battery"
@@ -8422,6 +8503,16 @@
 		"Each &aChassis&r type has pros and cons to their functionality, so be sure to use the right one for the job."
 	]
 	quest.55897B86C2908176.title: "&fChassis"
+	quest.5590C24EF10C33A6.quest_desc: [
+		"The &b Heart Amulet&r holds all the &aHeart Canisters&r. "
+		""
+		"You add them into the amulet and equip them in the &eCurios Slot&r."
+		""
+		"You can press &6Shift&r when hovering over the item to see how many Total Canisters is stored inside."
+		""
+		"You can have a total of &640&r extra hearts in a base amulet."
+	]
+	quest.5590C24EF10C33A6.title: "The Amulet of the Heart"
 	quest.5593FBFD07336685.quest_desc: ["The &dCoille Slat&r grants a bonemeal-like effect when fully charged."]
 	quest.5593FBFD07336685.title: "&dCoille Slat"
 	quest.559506BB99B32914.quest_desc: [
@@ -8724,6 +8815,7 @@
 		""
 		"For each fully-grown crystal in range that it can afford it applies scaling Fortune based on the chunk's Raw Spiritus when harvesting."
 	]
+	quest.58503249A5084026.title: "Activate the Crystallum Fractura Ritual"
 	quest.586E18023A595A6C.quest_desc: [
 		"Bees are pretty cute, but you can only do so much with plain honey... but what if Bees could make more than just honey?"
 		""
@@ -9375,6 +9467,12 @@
 		"Armor from this mod can be upgraded using the &aTinkering Table&r using &dAugments&r."
 	]
 	quest.603BAFEF92DA275E.title: "&aInferium &fArmor"
+	quest.605681A4C03812D9.quest_desc: [
+		"The &bHeart Canister&r is the most important part of the mod. Canisters are slotted in &aAmulets&r and used to increase your max health points."
+		""
+		"Each Canister adds a single new heart and stacks at &610&r. "
+	]
+	quest.605681A4C03812D9.title: "The Baubliest of Heart Canisters"
 	quest.606A9E518DA6CAE5.quest_desc: [
 		"&eEntangled&r allows you to bind two blocks together, allowing you to interact with them as if they were the same block!"
 		""
@@ -9905,6 +10003,13 @@
 		"It can be obtained by killing Cows, Pigs, and Sheep."
 	]
 	quest.655E5701BDB7A27E.title: "&fTallow"
+	quest.658FDC15E1586B52.quest_desc: [
+		"The &bSoul Amulet&r holds even more by adding a &aSoul Canister&r you gain more max health."
+		"b"
+		""
+		"They work like a &6totem of undying&r if the player would &cdie&r and the soul canister will be consumed and reverted back to a &9blue heart canister&r."
+	]
+	quest.658FDC15E1586B52.title: "A Soul Bound Amulet"
 	quest.65A18B0DA64B7A42.quest_desc: [
 		"In &6I.E&r, items are generally moved around using various types of &aConveyor Belts&r."
 		""
@@ -9928,6 +10033,12 @@
 		"The &dShub Niggurath&r spawns small version of itself to fight for you, and will have the same bell as the &dGoat&r when upgraded."
 	]
 	quest.65BCDCF0CEB69283.title: "&3Chimera and Niggurath Familar"
+	quest.65C117B135CAFADD.quest_desc: [
+		"The &bRelic Apple&r is more than just an ordinary apple. "
+		""
+		"It gives you buffs when eaten and heals the player instantly upon consumption."
+	]
+	quest.65C117B135CAFADD.title: "Fancy Apple"
 	quest.65EB766D0445C1A6.quest_desc: [
 		"It is safe to destroy a &aStorage Stabilizer&r to ugprade it. The items in the &aStorage Actuator&r won't be lost or dropped, but you won't be able to add new items if until it has free slots again."
 		""
@@ -10599,6 +10710,12 @@
 		"We'll use these Coils to create a major crafting mat for most machines, the &aMotor&r!"
 	]
 	quest.6EA5652195DB5FE3.title: "&fCore &bCrafting Components"
+	quest.6EACF1D8F6D5B169.quest_desc: [
+		"The &bVigor Bow&r works similar to an &bHeart Amulet&r. It has its own slots for &6canisters&r."
+		""
+		"Each &6canister&r adds &e1&r additional damage and Draw Speed to the Bow."
+	]
+	quest.6EACF1D8F6D5B169.title: "Colorful Bullseye"
 	quest.6EE1C1B7FFB86C6C.quest_desc: ["&aSigils of Socketing&r are used to increase the amount of &bGem Sockets&r of an &bAffix&r item."]
 	quest.6EE1C1B7FFB86C6C.title: "&aSigil of Socketing"
 	quest.6F06B178DDBCAC38.quest_desc: [
@@ -11828,6 +11945,23 @@
 	quest.7A82CC64D8966010.title: "&3Crystallized Canola Seeds"
 	quest.7A8669713BE28E8F.quest_desc: ["Keepers of the &3Ancient Cities'&r silence. Call attention to yourself at your own peril."]
 	quest.7A8669713BE28E8F.title: "&fKill The &dWarden"
+	quest.7A8A924B9B6A8CFB.quest_desc: [
+		"The &bHeart Patch&r is like a band-aid it will heal the player based on its level so much health. "
+		""
+		"It has a cooldown so be careful when using it as a life-line."
+		""
+		"{@pagebreak}"
+		"Each Tier Increases the base value healed."
+		""
+		"&cRed&r : 1 Hearts per use."
+		""
+		"&eYellow&r : 3 Hearts per use."
+		""
+		"&9Blue&r: 6 Hearts per use."
+		""
+		"&aGreen&r: 10 Hearts per use."
+	]
+	quest.7A8A924B9B6A8CFB.title: "Patch Me Up!"
 	quest.7A9856F0E081944C.quest_desc: [
 		"Spell Imbuement allows you to turn your &dSpell Powder&r into an actual castable ability."
 		""
@@ -12377,6 +12511,8 @@
 	quest.7FF04E6E35CA419F.quest_desc: ["While out adventuring in the world, you are likely to run into &9Sourceberry Bushes&r. These will drop Sourceberries when harvested that can be eaten to give &9Mana Regen&r for a few seconds!"]
 	quest.7FF04E6E35CA419F.title: "&bRestoring Mana"
 	quest.7FF2F7E49EF7512E.title: "&2Prudentium &fMachine Upgrade"
+	reward.5F260183479B3F42.title: "+2500 EV"
+	reward.6151767D816C3443.title: "+250 EV"
 	task.0029527998A30224.title: "Energy Relay Crystals"
 	task.00A4D09EDA359F3C.title: "&fQuantum Storage"
 	task.00F90C52CBAECEBB.title: "&dSpell &aInks"
@@ -12504,8 +12640,8 @@
 	task.2951F1493E615F65.title: "&eSummon&r: &3Devil"
 	task.2988CAF299690CDB.title: "Useful Commands!"
 	task.29E62F8F9462B690.title: "&5Quantum Helmet"
-	task.2A007083FA537679.title: "Sentient Evolution"
 	task.2ACCB542504DF591.title: "Iron Mining Tools"
+	task.2AE0D73DD6B788CD.title: "Any Enchanted Book"
 	task.2B2473620B056467.title: "&fPlay For &d50 Hours"
 	task.2B2AC5A9A28F14A9.title: "Accumulators"
 	task.2B97A2DFF700B056.title: "&6Fargo's Talismans"
