@@ -206,7 +206,7 @@
 		""
 		"每1000mB&5反物质&r可制成一个&5反物质球&r。"
 		"{@pagebreak}"
-		"&eNote&r: You'll need 3 &5Antimatter Pellet&r for the &6FTB Pyramid&r."
+		"&e注意&r：你需要为&6FTB金字塔&r准备3个&5反物质球&r。"
 		""
 		"这相当于处理等价于30000个铀锭的裂变燃料，这还不算搭建别的所消耗的材料量。"
 		""
@@ -496,7 +496,7 @@
 	quest.0533C0C07AE600FD.quest_desc: [
 		"&e通用机械&r的&d裂变反应堆&r会消耗裂变燃料和冷却剂，然后将它们变为&4核废料&r与&b热冷却液&r。"
 		""
-		"[\"\", {\"text\": \"Fission Reactors\", \"color\": \"light_purple\"}, \" \", {\"text\": \"do not\", \"color\": \"red\"}, \" produce power by themselves. See the \", { \"text\": \"Industrial Turbine\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"31C83D9253FFF685\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Go to Industrial Turbine Quest\"}}, \" quest to convert steam into power.\" ]"
+		"[\"\", {\"text\": \"核裂变\", \"color\": \"light_purple\"}, \"\", {\"text\": \"不会\", \"color\": \"red\"}, \"自行发电，请查看\", { \"text\": \"工业蒸汽涡轮\", \"color\": \"yellow\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"31C83D9253FFF685\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"前往工业涡轮任务\"}}, \"来将蒸汽转化为电力。\" ] "
 		""
 		"&d裂变反应堆&r可以使用两种冷却剂，这两种冷却剂可以通过裂变反应堆端口输入。&b水冷&r更简单，但热交换效率较低。&6钠冷&r效率更强，但需要额外的多方块机器才能用。"
 		""
@@ -1833,7 +1833,7 @@
 		""
 		"你还可将结构保存至本地文件，既能在自己的世界中复用，也能使用其他玩家分享的&b蓝图&r！"
 	]
-	quest.1190DD56F5C5AB46.title: "&fSchematicannon"
+	quest.1190DD56F5C5AB46.title: "&f蓝图加农炮"
 	quest.11A35E8F97ACA240.quest_desc: ["The &6Draconic Staff of Power&r an All-In-One tool and weapon that is crafted by combining the &6Draconic Pickaxe, Shovel,&r and &6Sword&r. "]
 	quest.11A35E8F97ACA240.title: "&6Draconic Staff of Power&r"
 	quest.11B90CCB0C6ABE26.title: "Basic Universal Upgrades"
@@ -3328,7 +3328,7 @@
 	]
 	quest.227EFF4851CA07D1.title: "&f蛰死那个&d凋灵&f！"
 	quest.22878CFA5B7B90AD.quest_desc: [
-		"&6化学结晶器&r可以把气体变为固态结晶，用处很多，比如制造&a锂粉&r和&d反物质靶丸&r。"
+		"&6化学结晶器&r可以把气体变为固态结晶，用处很多，比如制造&a锂粉&r和&d反物质球&r。"
 		""
 		"如果是矿物处理产线的话，那么它的作用就是消耗1桶纯净矿物浆液，生产5个&6矿物晶体&r。"
 		""
@@ -4148,7 +4148,7 @@
 	quest.2B2BB685DE246BCC.quest_desc: ["消耗熔岩（加入红石可选）发电。"]
 	quest.2B2BB685DE246BCC.title: "&f菌丝网络熔岩发电机"
 	quest.2B2C42F215FD0385.quest_desc: ["&dClockwork Bearings&r turn attached contraptions relative to the time of day in minecraft, like a clock."]
-	quest.2B2C42F215FD0385.title: "&dClockwork Bearing"
+	quest.2B2C42F215FD0385.title: "&d时钟轴承"
 	quest.2B4392602E94D3D8.quest_desc: [
 		"你在下界探索的时候，可能会碰到&6Fargo's Talismans&r模组的&a地牢&r。"
 		""
@@ -5067,7 +5067,7 @@
 		"你也可以用&a离魂匕首&r杀死怪物来填充物品栏中的&e灵魂瓶&r。"
 	]
 	quest.33AC3264C0AE8FF1.title: "&f种植&b生物&r"
-	quest.33AC985718B5BA2D.title: "&fPulp"
+	quest.33AC985718B5BA2D.title: "&f纸浆"
 	quest.33B0290BBE5DD5BC.quest_desc: ["现在我们有了&2电力高炉&r，终于可以把我们的&2铝土矿粉&r熔炼成&b铝粒&r了！虽然在不久的将来你将会拥有效率更高的炼铝方案，但就目前起步来说你只能用它了。"]
 	quest.33B0290BBE5DD5BC.title: "&b铝锭"
 	quest.33C257571749A2EF.quest_desc: [
@@ -5102,7 +5102,7 @@
 	]
 	quest.33E4C81B762892B2.title: "&6欢迎游玩Oritech&f！"
 	quest.33E90998B6E11500.quest_desc: ["&a大型水车&r的RPM仅为&a水车&r的一半，但其&b应力量&r则显著更高。"]
-	quest.33E90998B6E11500.title: "&fLarge Water Wheel"
+	quest.33E90998B6E11500.title: "&f大型水车"
 	quest.33E96DCB466BC28C.quest_desc: [
 		"&d图书管理员符石&r增加50%经验获取。"
 		""
@@ -6656,7 +6656,7 @@
 		""
 		"它可以连接各种方块，但最好与&a风帆&r一起使用。"
 	]
-	quest.42FE1FD899C2EABB.title: "&fWindmills"
+	quest.42FE1FD899C2EABB.title: "&f风车"
 	quest.4322977FABD58A5D.title: "&c失物招领：顶层"
 	quest.4327499499C5397F.quest_desc: ["要制作&3电子电路&r，我们需要先制作&b电子电路板&r来承载各个元件。"]
 	quest.4327499499C5397F.title: "&b电子电路板"
@@ -8120,7 +8120,7 @@
 	]
 	quest.51DFB5D58190EEEF.title: "&c铀235粉"
 	quest.51F16AF1F497F05E.quest_desc: ["&a石磨&r是一种游戏早期的研磨机，可将某些物品/方块研磨成粉尘或其他粉碎后的副产品。"]
-	quest.51F16AF1F497F05E.title: "&fMillstone"
+	quest.51F16AF1F497F05E.title: "&f石磨"
 	quest.51F2FC13FA7C3A89.quest_desc: [
 		"在你有制造铁锭的能力后，是时候做一个&e锻压锤&r了！它可以让你粉碎任何矿石，甚至可以将锭加工成板，环，杆等形状。"
 		""
@@ -8587,8 +8587,8 @@
 		"这只会影响&bRPM&r，它仍然受其&b应力值&r的限制。"
 	]
 	quest.57260AC6D2C4A9F9.title: "&d转速控制器"
-	quest.573607053A3A6A53.quest_desc: ["The &aCuckoo Clock&r shows you minecraft time, and emits a sound twice a day during noon and dusk."]
-	quest.573607053A3A6A53.title: "&fCuckoo Clock"
+	quest.573607053A3A6A53.quest_desc: ["&a布谷鸟闹钟&r能显示MC里的时间，并在每天正午和黄昏时发出声响。"]
+	quest.573607053A3A6A53.title: "&f布谷鸟闹钟"
 	quest.5759DA1D4FD37834.quest_desc: [
 		"你需要&a魔源宝石&r才能制作&a魔源石&r，这种石头不仅仅是绝妙的建筑材料，还是一个重要的合成材料！"
 		""
@@ -8842,8 +8842,8 @@
 	quest.59CA9831FDCAFA10.title: "经验晶"
 	quest.59CBFA5583139A3B.quest_desc: ["[\"此\", {\"text\": \"重铸台\", \"color\": \"#B900B9\"}, \"是\", {\"text\": \"简易重铸台\", \"color\":\"#55FF55\"}, \"的升级版，它使你可以重铸所有稀有度的物品，包括\", {\"text\": \"神话\", \"color\":\"#EA6F14\"}, \"等级的物品。\"]"]
 	quest.59CBFA5583139A3B.title: "{\"text\": \"重铸台\", \"color\": \"#B900B9\"}"
-	quest.5A0865A75DD91A0E.quest_desc: ["Though mostly decorative, the &dPeculiar Bell&r can be placed above soulfire to convert it into the &dHaunted Bell&r, which shows nearby dark spots where mobs can spawn when rang."]
-	quest.5A0865A75DD91A0E.title: "&dPeculiar Bell"
+	quest.5A0865A75DD91A0E.quest_desc: ["尽管&d奇异钟&r主要用于装饰，但放置于灵魂火上时，它将转变为&d缠魂钟&r。敲响后会显示附近可生成生物的黑暗区域。"]
+	quest.5A0865A75DD91A0E.title: "&d奇异钟"
 	quest.5A09605B5A2134B2.quest_desc: [
 		"Use your &aOrb of Prophecy&r on the portal to traverse into the &dStarlight&r."
 		""
@@ -9389,7 +9389,7 @@
 		"&a拾取升级&r是最基础的，但升级到&a磁铁升级&r后就有更多设置，以及更大的拾取范围！"
 	]
 	quest.606BDEB81F65A79F.title: "&a拾取升级"
-	quest.6072C6281FBC7DCB.quest_desc: ["The &aAnalog Lever&r is a powerful redstone emitter that allows for fine control over a redstone output."]
+	quest.6072C6281FBC7DCB.quest_desc: ["&a模拟拉杆&r是一种强大的红石发射器，可实现对红石输出的精细控制。"]
 	quest.6072C6281FBC7DCB.title: "&f模拟拉杆"
 	quest.6081E348AE536CDA.quest_desc: [
 		"&6蜂后&r需要蜂巢，怎么多都不为过。"
