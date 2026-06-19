@@ -827,6 +827,30 @@
 			x: -9.5d
 			y: -9.5d
 		}
+		{
+			height: 2.0d
+			image: "bhc:item/blade_of_vitality"
+			rotation: 0.0d
+			width: 2.0d
+			x: -9.5d
+			y: 6.0d
+		}
+		{
+			height: 2.0d
+			image: "bhc:item/vigor_bow"
+			rotation: -90.0d
+			width: 2.0d
+			x: -12.5d
+			y: 6.0d
+		}
+		{
+			height: 5.0d
+			image: "ftbquests:textures/shapes/diamond/outline.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: -11.0d
+			y: 4.5d
+		}
 	]
 	order_index: 2
 	quest_links: [ ]
@@ -3063,6 +3087,236 @@
 			}]
 			x: -11.0d
 			y: -6.5d
+		}
+		{
+			icon: {
+				id: "bhc:red_heart"
+			}
+			id: "469CC73547403714"
+			rewards: [
+				{
+					id: "319D1056C9A684BE"
+					type: "xp"
+					xp: 10
+				}
+				{
+					exclude_from_claim_all: true
+					id: "36484C09EAC07AA5"
+					table_id: 8721787916292516836L
+					type: "loot"
+				}
+			]
+			shape: "diamond"
+			tasks: [
+				{
+					icon: {
+						id: "bhc:red_heart"
+					}
+					id: "0D8A4138650D9041"
+					item: { count: 1, id: "bhc:red_heart" }
+					type: "item"
+				}
+				{
+					id: "1123D728B53985BE"
+					item: { count: 1, id: "bhc:yellow_heart" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "32A6539C75E567CF"
+					item: { count: 1, id: "bhc:green_heart" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "70F9AAE4C448FAB4"
+					item: { count: 1, id: "bhc:blue_heart" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -11.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["469CC73547403714"]
+			id: "5590C24EF10C33A6"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "342CFFC70E966388"
+				item: { count: 1, id: "bhc:heart_amulet" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["469CC73547403714"]
+			id: "7A8A924B9B6A8CFB"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "6E82B27B4C3A255A"
+				item: { count: 1, id: "bhc:red_heart_patch" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["605681A4C03812D9"]
+			icon: {
+				id: "bhc:red_heartpulse_belt"
+			}
+			id: "0EEF432D13F80720"
+			optional: true
+			shape: "diamond"
+			tasks: [
+				{
+					id: "5F1C06303FDB248E"
+					item: { count: 1, id: "bhc:red_heartpulse_belt" }
+					type: "item"
+				}
+				{
+					id: "6919E1AF767E2887"
+					item: { count: 1, id: "bhc:yellow_heartpulse_belt" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "0026E8E32CB14DCC"
+					item: { count: 1, id: "bhc:green_heartpulse_belt" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "4D8A36D67D23DA9B"
+					item: { count: 1, id: "bhc:blue_heartpulse_belt" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["65C117B135CAFADD"]
+			icon: {
+				id: "bhc:red_heart_canister"
+			}
+			id: "605681A4C03812D9"
+			optional: true
+			shape: "diamond"
+			tasks: [
+				{
+					id: "38E58CEBF4121670"
+					item: { count: 1, id: "bhc:red_heart_canister" }
+					type: "item"
+				}
+				{
+					id: "64AE06E13CD195DD"
+					item: { count: 1, id: "bhc:yellow_heart_canister" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "2FEDBEAE667D904A"
+					item: { count: 1, id: "bhc:green_heart_canister" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7D50C399AC5AD379"
+					item: { count: 1, id: "bhc:blue_heart_canister" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -10.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["469CC73547403714"]
+			id: "65C117B135CAFADD"
+			optional: true
+			rewards: [{
+				id: "560200099E5AEFD6"
+				item: {
+					count: 1
+					id: "bhc:wither_bone"
+				}
+				random_bonus: 3
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1839B1CC1AAAC32C"
+				item: { count: 1, id: "bhc:relic_apple" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5590C24EF10C33A6"]
+			id: "658FDC15E1586B52"
+			optional: true
+			rewards: [{
+				id: "05E23FD91DC667A5"
+				item: {
+					count: 1
+					id: "minecraft:totem_of_undying"
+				}
+				random_bonus: 3
+				type: "item"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "329490F943F295D8"
+				item: { count: 1, id: "bhc:soul_heart_amulet" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["658FDC15E1586B52"]
+			id: "35A633381D0662EF"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57DA9EDD82224520"
+				table_id: 352034913589945553L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6167E7B3175DF0E7"
+				item: { count: 1, id: "bhc:blade_of_vitality" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["658FDC15E1586B52"]
+			id: "6EACF1D8F6D5B169"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E8985814F01998C"
+				table_id: 352034913589945553L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3967901E2013F79C"
+				item: { count: 1, id: "bhc:vigor_bow" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 4.5d
 		}
 	]
 }
