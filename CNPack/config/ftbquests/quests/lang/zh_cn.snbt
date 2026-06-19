@@ -618,6 +618,8 @@
 		"A ritual needs a heart. Lay a &cMaster Ritual Stone&r at the center, mark the lesser stones around it with the &cRitual Diviner&r, and ignite the working with a &cWeak Activation Crystal&r."
 		""
 		"From the Well of Suffering to Overgrowth to the Endless Quarry, the circle does the labor you would otherwise bleed for."
+		""
+		"The &aRitual Configurator&r lets you define the range and area a ritual works in."
 	]
 	quest.067E4D25501B94F3.title: "Rites and Rituals"
 	quest.06918197435AF24E.quest_desc: [
@@ -1519,6 +1521,8 @@
 	quest.0E19151FCABF4759.title: "&f重置运动技能树"
 	quest.0E1F59CE575178C7.title: "&d苍穹晶护腿"
 	quest.0E33289A3EE45E1A.quest_desc: [""]
+	quest.0E3D0533331945A1.quest_desc: ["Forge a Master Routing Node Core to widen the veins of your network. It will allow more items/liquid/energy to be carried with every transmission, and a Speed Core to quicken frequency of transmissions. Seat them within the Master Routing Node, and stack as many as your ambition demands. A network so driven will move oceans in moments."]
+	quest.0E3D0533331945A1.quest_subtitle: "A sluggish heart serves only a small body."
 	quest.0E610A03BB4007B6.quest_desc: ["消耗某些怪物的掉落物发电。"]
 	quest.0E610A03BB4007B6.title: "&f菌丝网络死灵发电机"
 	quest.0EA1B56A92D0403F.quest_desc: [
@@ -1584,6 +1588,21 @@
 	quest.0EE35D6E57FAD973.title: "&d魔咒图书馆"
 	quest.0EE67A1E7273D1A0.quest_desc: ["The &dWyvern Bow&r is a powered bow that allows for a ton of customization options using &aUpgrade Modules&r."]
 	quest.0EE67A1E7273D1A0.title: "&dWyvern &fBow"
+	quest.0EEF432D13F80720.quest_desc: [
+		"The &bHeart Pulse Belt&r is a curios when equipped the player gets an increased movement speed, step-assist, and increased jump height."
+		""
+		"{@pagebreak}"
+		"Each Upgrade Increases the base value."
+		""
+		"&cRed Heartpulse Belt&r : 1.5 Block Height Jump and slight speed increase."
+		""
+		"&eYellow Heartpulse Belt&r : 2 Block Height Jump and moderate speed increase."
+		""
+		"&9Blue Heartpulse Belt&r: 2.5 Block Height Jump and fast speed increase."
+		""
+		"&aGreen Heartpulse Belt&r: 3 Block Height Jump and very fast speed increase."
+	]
+	quest.0EEF432D13F80720.title: "A Better Movement"
 	quest.0EFA11536D00E653.quest_desc: [
 		"在前期，&2生物燃料&r是个不错的能量来源！"
 		""
@@ -1820,6 +1839,12 @@
 	]
 	quest.1114D1FD164E514B.title: "&f欢迎游玩&6新生魔艺&f！"
 	quest.111F60263C10C60B.title: "&f汉堡"
+	quest.11284BF46CEB2F12.quest_desc: [
+		"Brew Cutting Fluid in the Tabula Vitae, dissolve an ore into 2 dust, then smelt it to an ingot."
+		""
+		"Blood multiplies more than power, it multiplies wealth. Brew a measure of Cutting Fluid in your Tabula Vitae, then dissolve an ore within it. The slab grinds the metal free of its stone into dust, two for every ore you offer; smelt that to a finished ingot. "
+	]
+	quest.11284BF46CEB2F12.title: "Alchemy of Ore"
 	quest.114B4840D2FA1CDF.quest_desc: [
 		"&a提纯仓&r可以提升粗矿的矿物产量。"
 		""
@@ -1888,6 +1913,8 @@
 	quest.1237537100194BED.title: "&f击杀&d凋灵"
 	quest.124509FFC6717603.quest_desc: [
 		"Your first sigil comes from the Alchemy Array. The &cDivination Sigil&r reads the well of Anima within you and the EV held in an altar before you."
+		""
+		"The &cSeer's Sigil&r reads an altar in detail: its progress, EV per tick, and charge reserve. Invaluable when building toward higher tiers."
 		""
 		"You cannot manage what you cannot measure."
 	]
@@ -2509,6 +2536,8 @@
 	]
 	quest.1A1161EF6276767F.quest_subtitle: "&o钢铁生意"
 	quest.1A1161EF6276767F.title: "&f欢迎游玩&eMFFS"
+	quest.1A22280295ED9A42.quest_desc: ["Run an ore block through the full Athanor chain to ingots; and use Corrupted Dust with Ore Fragments in the Tabula Vitae to double them into Ore Gravel. If you fully max out the spiritus and processing cycle of corrupted dust you can take ore to ingot at over 8x the output of normal smelting!"]
+	quest.1A22280295ED9A42.title: "Ore Processing and Corrupted Dust"
 	quest.1A285EBFFDBAE30A.quest_desc: [
 		"You will encounter lots of different plants and trees through your journey, all which are exclusive to specific biomes and climates."
 		""
@@ -2602,6 +2631,7 @@
 		"对着空气使用工具会调整工具的添加或移除工作模式，如果对着空气潜行右击的话，会改变一次并入网络的抽屉数量！"
 	]
 	quest.1AA08B095A8B378F.title: "&f链接抽屉"
+	quest.1AB874D6EADDB75D.title: "Tier 2"
 	quest.1ABA5F2ECAA6D9D2.quest_desc: [
 		"&e通用机械&r提供的物流线缆和管道是这个整合包最好用的管线！已经放在地上的管线可以直接升级，而且它们都有自己的内部缓存。"
 		""
@@ -5320,6 +5350,12 @@
 	quest.35865030C4D59D8C.title: "&b冷却单元"
 	quest.35A457C89558CF59.quest_subtitle: "7x7的灌溉范围！"
 	quest.35A457C89558CF59.title: "&c中级精华&f洒水壶"
+	quest.35A633381D0662EF.quest_desc: [
+		"The &bVitality Blade&r works similar to an &bHeart Amulet&r. It has its own slots for &6canisters&r."
+		""
+		"Each &6canister&r adds &e1&r additional damage to the sword."
+	]
+	quest.35A633381D0662EF.title: "The Sword of Friendship"
 	quest.35A96FBA7222DD74.quest_desc: [
 		"你可以在&6远古城市&r找到一个奇怪的传送门框架，它正等着某人激活。"
 		""
@@ -5739,6 +5775,14 @@
 		"用荒野供物和其它的一些原版后期物品，就可以将你的法术书升到最高等级！"
 	]
 	quest.39217B517F7C280A.title: "&6大法师法术书"
+	quest.393324AF2EE55949.quest_desc: [
+		"Enchantments are woven things, and what is woven can be unpicked. "
+		""
+		"Load the Athanor with a stack of plain Books and a single enchanted item such as armour, a tool, or even an Enchanted Book and the crucible lifts one enchantment at a time onto a fresh book, drawing it cleanly off the item. "
+		""
+		"Salvage a wasted enchant, or peel a prize apart to reforge it as you please."
+	]
+	quest.393324AF2EE55949.title: "Enchantment Stripping"
 	quest.3934E11B476FC834.title: "&d1024B 化学品存储组件"
 	quest.393850960DC22BB1.quest_desc: [
 		"如果想要从模块化路由器中输入输出物品，需要加装一些&a模块&r。"
@@ -6033,6 +6077,7 @@
 		"为了完成&6FTB金字塔&r，推荐对&d监守者&r、&3凋灵&r和&5末影龙&r的&b预测产物&r进行自动化。"
 	]
 	quest.3C60FA46EA54C899.title: "&d生成战利品"
+	quest.3CA9125C16DD3124.quest_desc: ["While nodes autoconnect when placed, if you want to manually reconnect nodes to a different master routing node you can use the node router tool."]
 	quest.3CAA89E621ED5B6E.quest_desc: [
 		"&a伪装涂覆器&r可以将可伪装的方块，例如压力管道和热管伪装成其它方块的样子！"
 		""
@@ -6240,6 +6285,12 @@
 		"&b喂养幼蜂&r，直到你养出8个新幼蜂为止。（注：是蜜蜂领域模组的）"
 	]
 	quest.3F18F0072624F4B0.title: "&f蜂拥而出&r"
+	quest.3F263702F010167A.quest_desc: [
+		"At the heart of every Vitaemancer's workings is a leyline of magical routing nodes. These act as the piping and transmission controls for fluids, items and even energy. It all starts with a master routing node which controls the entire network."
+		""
+		"Create some routing nodes and an input/output node then start your network by first placing the master routing node and the other nodes will connect to it as you place them. "
+	]
+	quest.3F263702F010167A.title: "Laying the Veins"
 	quest.3F4C25DF20877606.quest_desc: [
 		"&a乙醇&r是一种很有用的资源，能够制作&2除草剂&r，&2生物柴油&r以及&d乙醛&r。"
 		""
@@ -6987,6 +7038,29 @@
 		"你将需要非常多的电路板！"
 	]
 	quest.4699D9C4E03C844B.title: "&a我们不能少了这个"
+	quest.469CC73547403714.quest_desc: [
+		"&bHearts&r are a key componet of &zBaubley Heart Canisters&r."
+		""
+		"&cRed Hearts&r: Drop from Apothic Mobs "
+		"&eYellow Hearts&r: Drop from Bosses"
+		"&aGreen Hearts&r: Drop from the Ender Dragon"
+		"&9Blue Hearts&r: Made from Crafting"
+		""
+		"Hearts can be eaten and will restore health based on the level."
+		""
+		"{@pagebreak}"
+		"Each Tier Increases the base value healed."
+		""
+		"&cRed&r : 10 Hearts per use."
+		""
+		"&eYellow&r : 20 Hearts per use."
+		""
+		"&9Blue&r: 30 Hearts per use."
+		""
+		"&aGreen&r: 40 Hearts per use."
+		" "
+	]
+	quest.469CC73547403714.title: "The Unlimited Power of Hearts"
 	quest.46A1341E5E97ABDC.quest_desc: [
 		"搭建属于你的&bAE网络&r前，首先了解一下有关&2频道&r的知识吧。也不必过分担心，这个包的AE频道数量&b翻了四倍&r，对AE2新手极其友好。"
 		""
@@ -7102,6 +7176,10 @@
 		"Strange fruit grows in the Antechamber. &cWeak Tau&r is a seed of the demon realm's vitality."
 		""
 		"Carry it home and cultivate it."
+		""
+		"Cultivated and saturated, Weak Tau ripens into &cStrong Tau&r: dense enough to refine."
+		""
+		"To grow this you must allow it to grow with animals walking on it. They will be damaged over time and each time there is a chance the Tau will becomes saturated and will evolve into Strong Tau. "
 	]
 	quest.48784773302B05B5.title: "The Tau Harvest"
 	quest.4879B6C32F7B1749.quest_desc: [
@@ -7159,12 +7237,6 @@
 	]
 	quest.493E152B4A7BB767.quest_desc: ["&a红石请求器&r在接收到红石信号时，从连接的库存网络中请求特定物品。"]
 	quest.493E152B4A7BB767.title: "&a红石请求器"
-	quest.494F66F00941F48C.quest_desc: [
-		"Cultivated and saturated, Weak Tau ripens into &cStrong Tau&r: dense enough to refine."
-		""
-		"To grow this you must allow it to grow with animals walking on it. They will be damaged over time and each time there is a chance the Tau will becomes saturated and will evolve into Strong Tau. "
-	]
-	quest.494F66F00941F48C.title: "Saturated Tau"
 	quest.49603EC381DD1818.quest_desc: [
 		"欢迎来到&6核能时代&r！是时候开始享受&6超高压&r的乐趣了。"
 		""
@@ -7362,6 +7434,8 @@
 	quest.4A707D443EC2DE33.title: "&6功能性存储"
 	quest.4A7198127F58DA94.quest_desc: ["&a逻辑导向零件&r用于制作高级网络组件，"]
 	quest.4A7198127F58DA94.title: "&f逻辑导向零件"
+	quest.4AA1DC445CEF6FFC.quest_desc: ["&cBlood Mending&r can be applied to anything that has durability. It will repair by draining your &aEV&r to repair the gear. This process is done in the &bHellfire Forge&r. Add any damagable tool or armor to apply it."]
+	quest.4AA1DC445CEF6FFC.title: "Blood Mending"
 	quest.4AC0B8A467BB5FA8.quest_desc: [
 		"这本书看起来老旧不堪，但其中涌动着远古魔法之力。"
 		""
@@ -8232,7 +8306,7 @@
 	quest.530F5E2E4ADB1BA4.quest_desc: [
 		"If altar construction starts to drag, the &cpotioncrafting&r system opens at Tier I. Brew &cAlchemy Flasks&r or tip &cAmethyst Throwing Daggers&r with dozens of effects."
 		""
-		"A Vitaemancer with a well-stocked flask belt is never truly in danger."
+		"A Vitaemancer with a well-stocked flask belt is never truly in danger!"
 	]
 	quest.532DA0BDBF2F215A.title: "&f牛肉饼"
 	quest.53319642E4ECC11F.title: "&f核源铁斧"
@@ -8268,6 +8342,7 @@
 		""
 		"While at Tier I you may hold an Orb in your off-hand and kill creatures to harvest EV straight into your Anima, sparing your own veins."
 	]
+	quest.53F28C95FE1BAF29.quest_subtitle: "Altar Upgrade"
 	quest.53F28C95FE1BAF29.title: "Tier I: The Ring of Runes"
 	quest.53FBBFC675F1FE7F.quest_desc: ["与普通的&a时间量子单元&r相比，&d时间量子电池&r可以存储更多的&b时间量子&r，而且它还是参与更高级合成的原材料。"]
 	quest.53FBBFC675F1FE7F.title: "&d时间量子电池"
@@ -8422,6 +8497,16 @@
 		"每种&a底盘&r类型都有其功能上的优缺点，因此务必根据任务选择合适的类型。"
 	]
 	quest.55897B86C2908176.title: "&f底盘"
+	quest.5590C24EF10C33A6.quest_desc: [
+		"The &b Heart Amulet&r holds all the &aHeart Canisters&r. "
+		""
+		"You add them into the amulet and equip them in the &eCurios Slot&r."
+		""
+		"You can press &6Shift&r when hovering over the item to see how many Total Canisters is stored inside."
+		""
+		"You can have a total of &640&r extra hearts in a base amulet."
+	]
+	quest.5590C24EF10C33A6.title: "The Amulet of the Heart"
 	quest.5593FBFD07336685.quest_desc: ["The &dCoille Slat&r grants a bonemeal-like effect when fully charged."]
 	quest.5593FBFD07336685.title: "&dCoille Slat"
 	quest.559506BB99B32914.quest_desc: [
@@ -8724,6 +8809,7 @@
 		""
 		"For each fully-grown crystal in range that it can afford it applies scaling Fortune based on the chunk's Raw Spiritus when harvesting."
 	]
+	quest.58503249A5084026.title: "Activate the Crystallum Fractura Ritual"
 	quest.586E18023A595A6C.quest_desc: [
 		"蜜蜂很可爱，但是只能产蜂蜜……要是蜜蜂能产其他的东西呢？"
 		""
@@ -9272,7 +9358,7 @@
 	quest.5EDAD39B73C1FF9C.quest_desc: ["在&3化学反应釜&r中把你的&e乙苯&r，&7蒸汽&r以及&a铁粉&r聚合为&d苯乙烯&r。"]
 	quest.5EDAD39B73C1FF9C.title: "&d苯乙烯"
 	quest.5F0AAD028931A220.quest_desc: [
-		"[ \"With \", {\"text\": \"Lime\", \"color\": \"#E2FC97\"}, \" and \", {\"text\": \"Light Gray\", \"color\": \"#C2C2C2\"}, \" chalks, you can now upgrade your \", {\"text\": \"Aviar's Circle\", \"color\": \"aqua\"}, \" to \", {\"text\": \"Ophynx' Calling\", \"color\": \"dark_aqua\"}, \" to clear the weather, skip the night, or summon a variety of \", {\"text\": \"Djinnis\", \"color\": \"dark_aqua\"}, \".\"]"
+		"[ \"有了\", {\"text\": \"黄绿色粉笔\", \"color\": \"#E2FC97\"}, \"和\", {\"text\": \"淡灰色粉笔\", \"color\": \"aqua\"}, \"，你现在就能把\", {\"text\": \"阿维亚之环\", \"color\": \"#55FFFF\"}, \"升级为\", {\"text\": \"欧菲克斯的呼唤\", \"color\": \"dark_aqua\"}, \"了，它可以驱散乌云、跳过夜晚、或者召唤一系列\", {\"text\": \"巨灵\", \"color\": \"dark_aqua\"}, \"。\"]"
 		""
 		"大多数使用&b五芒星&r的&b仪式&r都是可选择进行的。"
 	]
@@ -9306,8 +9392,6 @@
 		"对于初学者，蜜蜂小食可以用来制作&a蜜蜂笼&r，以便在旅途中捕获蜜蜂！这是一次性使用的，但你可以在战利品箱中找到可重复使用的版本！"
 	]
 	quest.5FB291FDE43A727F.title: "&e蜜蜂&f小食"
-	quest.5FB4402384B3143D.quest_desc: ["The &cSeer's Sigil&r reads an altar in detail: its progress, EV per tick, and charge reserve. Invaluable when building toward higher tiers."]
-	quest.5FB4402384B3143D.title: "The Seer's Eye"
 	quest.5FBD41923B66C239.quest_desc: [
 		"普通抽屉只能以基础存储上限存储东西，但是你可以升级它的存储上限！"
 		""
@@ -9375,6 +9459,12 @@
 		"该模组的盔甲可以在&a工具装配台&r中用各种&d升级&r进行升级。"
 	]
 	quest.603BAFEF92DA275E.title: "&a下级精华&f盔甲"
+	quest.605681A4C03812D9.quest_desc: [
+		"The &bHeart Canister&r is the most important part of the mod. Canisters are slotted in &aAmulets&r and used to increase your max health points."
+		""
+		"Each Canister adds a single new heart and stacks at &610&r. "
+	]
+	quest.605681A4C03812D9.title: "The Baubliest of Heart Canisters"
 	quest.606A9E518DA6CAE5.quest_desc: [
 		"&e纠缠方块&r允许你将两个方块绑定在一起，让你像同一个方块一样与它们交互！"
 		""
@@ -9905,6 +9995,13 @@
 		"It can be obtained by killing Cows, Pigs, and Sheep."
 	]
 	quest.655E5701BDB7A27E.title: "&fTallow"
+	quest.658FDC15E1586B52.quest_desc: [
+		"The &bSoul Amulet&r holds even more by adding a &aSoul Canister&r you gain more max health."
+		"b"
+		""
+		"They work like a &6totem of undying&r if the player would &cdie&r and the soul canister will be consumed and reverted back to a &9blue heart canister&r."
+	]
+	quest.658FDC15E1586B52.title: "A Soul Bound Amulet"
 	quest.65A18B0DA64B7A42.quest_desc: [
 		"&6沉浸工程&r中，物品使用不同种类的&a传送带&r进行运输。"
 		""
@@ -9928,6 +10025,12 @@
 		"&d莎布·尼古拉斯&r会召唤缩小版的自己为你战斗，升级后，拥有和&d山羊使魔&r一样的警钟。"
 	]
 	quest.65BCDCF0CEB69283.title: "&3奇美拉与尼古拉斯使魔"
+	quest.65C117B135CAFADD.quest_desc: [
+		"The &bRelic Apple&r is more than just an ordinary apple. "
+		""
+		"It gives you buffs when eaten and heals the player instantly upon consumption."
+	]
+	quest.65C117B135CAFADD.title: "Fancy Apple"
 	quest.65EB766D0445C1A6.quest_desc: [
 		"把&a存储稳定器&r挖下来升级是安全的，&a存储稳定器&r中的物品不会丢失也不会掉落，但是你无法添加新物品进入其中，直到它有空位。"
 		""
@@ -10599,6 +10702,12 @@
 		"你将要用这些电磁线圈来制作很多机器都需要的重要合成材料：&a马达&r！"
 	]
 	quest.6EA5652195DB5FE3.title: "核心&b合成组件"
+	quest.6EACF1D8F6D5B169.quest_desc: [
+		"The &bVigor Bow&r works similar to an &bHeart Amulet&r. It has its own slots for &6canisters&r."
+		""
+		"Each &6canister&r adds &e1&r additional damage and Draw Speed to the Bow."
+	]
+	quest.6EACF1D8F6D5B169.title: "Colorful Bullseye"
 	quest.6EE1C1B7FFB86C6C.quest_desc: ["&a镶孔符石&r能增加&b词缀&r物品的&b镶嵌槽&r数量。"]
 	quest.6EE1C1B7FFB86C6C.title: "&a镶孔符石"
 	quest.6F06B178DDBCAC38.quest_desc: [
@@ -10662,12 +10771,6 @@
 		"&c敌对生物&r也一样有效！"
 	]
 	quest.6FB2393F2348D59E.title: "&f转移生物"
-	quest.6FC8C1C775AB24BE.quest_desc: [
-		"Raw Spiritus slips through the fingers. A &cPetty Spiritus Gem&r holds it."
-		""
-		"Wound mobs with your daggers, gather what they shed, and forge your first gem."
-	]
-	quest.6FC8C1C775AB24BE.title: "A Vessel for the Soul"
 	quest.6FEA088D2D5A3AEF.quest_desc: [
 		"假如你想搭建以魔法生物为基础的数字化存储系统，那就先做一个&d书龙护符&r吧。"
 		""
@@ -11828,6 +11931,23 @@
 	quest.7A82CC64D8966010.title: "&3晶化油菜种子"
 	quest.7A8669713BE28E8F.quest_desc: ["守护着&3远古城市&r的寂静。若你惊扰了它们，后果自负。"]
 	quest.7A8669713BE28E8F.title: "&f击杀&d监守者"
+	quest.7A8A924B9B6A8CFB.quest_desc: [
+		"The &bHeart Patch&r is like a band-aid it will heal the player based on its level so much health. "
+		""
+		"It has a cooldown so be careful when using it as a life-line."
+		""
+		"{@pagebreak}"
+		"Each Tier Increases the base value healed."
+		""
+		"&cRed&r : 1 Hearts per use."
+		""
+		"&eYellow&r : 3 Hearts per use."
+		""
+		"&9Blue&r: 6 Hearts per use."
+		""
+		"&aGreen&r: 10 Hearts per use."
+	]
+	quest.7A8A924B9B6A8CFB.title: "Patch Me Up!"
 	quest.7A9856F0E081944C.quest_desc: [
 		"Spell Imbuement allows you to turn your &dSpell Powder&r into an actual castable ability."
 		""
@@ -12377,6 +12497,8 @@
 	quest.7FF04E6E35CA419F.quest_desc: ["探索这个世界的时候，也许你偶然会碰到&9魔源浆果丛&r。这种浆果丛会掉落魔源浆果，吃了以后可以获得几秒钟的&9魔力再生&r！"]
 	quest.7FF04E6E35CA419F.title: "&b魔力恢复"
 	quest.7FF2F7E49EF7512E.title: "&2初级&f机器升级"
+	reward.5F260183479B3F42.title: "+2500 EV"
+	reward.6151767D816C3443.title: "+250 EV"
 	reward_table.0486B5942C5AF078.title: "为你感到骄傲"
 	reward_table.04E2ADE3851064D1.title: "魔法奖励包"
 	reward_table.0AC2F0F1B57CD80E.title: "旧法术板条箱"
@@ -12543,8 +12665,8 @@
 	task.2951F1493E615F65.title: "&eSummon&r: &3Devil"
 	task.2988CAF299690CDB.title: "实用命令！"
 	task.29E62F8F9462B690.title: "&5量子头盔"
-	task.2A007083FA537679.title: "Sentient Evolution"
 	task.2ACCB542504DF591.title: "铁质挖掘工具"
+	task.2AE0D73DD6B788CD.title: "Any Enchanted Book"
 	task.2B2473620B056467.title: "游玩&d50小时"
 	task.2B2AC5A9A28F14A9.title: "蓄电池"
 	task.2B97A2DFF700B056.title: "&6Fargo的符石"
@@ -12572,7 +12694,6 @@
 	task.31D3D8C34525AC97.title: "&f过滤器实例演示"
 	task.327D6E2AE8863BC1.title: "&fKill: 1x &cPyromancer"
 	task.329BA2B5EB3185FC.title: "拆解可获得的材料"
-	task.32BB363771C3ABF3.title: "Crystallum Fractura"
 	task.32FB3083ABF6FFB4.title: "&f通用机械能量线缆"
 	task.33E428135EC63BC7.title: "&f玩家供电仪"
 	task.344DCD6A3921B1ED.title: "效率升级"
