@@ -45,11 +45,6 @@
 					permission_level: 3
 					type: "command"
 				}
-				{
-					amount: 5
-					id: "2CD120996BBA8D10"
-					type: "currency"
-				}
 			]
 			shape: "hexagon"
 			size: 2.0d
