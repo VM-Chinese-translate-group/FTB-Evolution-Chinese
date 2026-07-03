@@ -2933,6 +2933,7 @@
 				id: "hostilenetworks:deep_learner"
 			}
 			id: "74CC5FF2097C0839"
+			min_width: 300
 			rewards: [
 				{
 					id: "5CB389340A3A6136"
@@ -2961,7 +2962,7 @@
 					type: "item"
 				}
 			]
-			x: -1.0d
+			x: -1.5d
 			y: 4.0d
 		}
 		{
@@ -3006,13 +3007,13 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
+			x: -0.5d
 			y: 4.0d
 		}
 		{
 			dependencies: ["42C41784169B2308"]
-			hide_dependent_lines: true
 			id: "3C60FA46EA54C899"
+			min_width: 300
 			rewards: [
 				{
 					id: "6A4432138EF19AD2"
@@ -3034,11 +3035,12 @@
 				item: { count: 1, id: "hostilenetworks:loot_fabricator" }
 				type: "item"
 			}]
-			x: 1.0d
+			x: 0.5d
 			y: 4.0d
 		}
 		{
 			dependencies: ["3C60FA46EA54C899"]
+			hide_dependency_lines: true
 			id: "7F141E9CF9676D0F"
 			optional: true
 			rewards: [
@@ -3066,6 +3068,7 @@
 		}
 		{
 			dependencies: ["3C60FA46EA54C899"]
+			hide_dependency_lines: true
 			id: "59B6301AC3176C90"
 			optional: true
 			rewards: [
@@ -3093,6 +3096,7 @@
 		}
 		{
 			dependencies: ["3C60FA46EA54C899"]
+			hide_dependency_lines: true
 			id: "4F72F26389359EBD"
 			optional: true
 			rewards: [
@@ -3216,6 +3220,51 @@
 			}]
 			x: -1.0d
 			y: -5.5d
+		}
+		{
+			dependencies: ["3C60FA46EA54C899"]
+			icon: {
+				id: "hostilenetworks:data_center_io_port"
+			}
+			id: "37F6FA6FD524AB9F"
+			min_width: 350
+			rewards: [
+				{
+					count: 49
+					id: "69F2E1C20D648A16"
+					item: {
+						count: 1
+						id: "minecraft:obsidian"
+					}
+					type: "item"
+				}
+				{
+					count: 165
+					id: "15C6677FD4588787"
+					item: {
+						count: 1
+						id: "minecraft:black_stained_glass"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [
+				{
+					id: "060DC4E1800FCD4B"
+					item: { count: 1, id: "hostilenetworks:data_center" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "734B721E2353C71F"
+					item: { count: 1, id: "hostilenetworks:data_center_io_port" }
+					type: "item"
+				}
+			]
+			x: 1.75d
+			y: 4.0d
 		}
 	]
 }
