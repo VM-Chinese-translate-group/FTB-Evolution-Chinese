@@ -2171,7 +2171,7 @@
 	quest.154E08BC9091684F.title: "&eGlowstone Dust"
 	quest.15801A9BA5162395.title: "&fFerricore Boots"
 	quest.15AE2FB38468A8B3.quest_desc: [
-		"With pure &2Naphtha&r, you can combine it with &7Steam&r in another &3Checmical Reactor&r to make &dSteam-Cracked Naphtha&r."
+		"With pure &2Naphtha&r, you can combine it with &7Steam&r in another &3Chemical Reactor&r to make &dSteam-Cracked Naphtha&r."
 		""
 		"You'll want to process this in a new &3Distillation Tower&r with 8 outputs."
 		""
@@ -3282,7 +3282,7 @@
 	]
 	quest.21672A342A11A0DE.title: "&7Zombie Talisman"
 	quest.216FBD5E15FE2E7D.quest_desc: [
-		"If we want our machines to handle these levels of pwoer, we'll need to make &5Quantum Upgrades&r."
+		"If we want our machines to handle these levels of power, we'll need to make &5Quantum Upgrades&r."
 		""
 		"The first one you make should be used on your &3Electric Packer&r to unlock new recipes."
 		""
@@ -5660,6 +5660,17 @@
 		"These upgrades will allow machines to overclock and perform their functions faster at the cost of greater energy consumption."
 	]
 	quest.37EBE85B0FE81453.title: "&aBasic Upgrades"
+	quest.37F6FA6FD524AB9F.quest_desc: [
+		"The &6Data Center&f multiblock is a 7x7x7 structure that runs up to 25 &zSelf Aware&r data models at the same time."
+		""
+		"The multiblock is built with a 7x7 &dObsidian&r platform at the bottom and &aBlack Stained Glass&r walls, leaving the interior hollow. Then, the &6Data Center&r block and 3 &bIO Ports&r must be placed on the outer bottom layer, each configured to a different mode: Energy, Inputs, Outputs."
+		""
+		"You can optionally add a fourth Port confiured to Models for automatic input of data models, but this is not required."
+		""
+		"If built correctly, a blue outline will display around the multiblock, otherwise you can clikc the main &6Data Model&f block for more details."
+		""
+		"[\"You can also check out the \", {\"text\": \"Data Center GuideMe\", \"underlined\": true, \"color\": \"aqua\", \"clickEvent\": {\"action\": \"run_command\", \"value\": \"/guidemec hostilenetworks:guide open\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Open Data Center GuideMe\"}}, \", for an example structure.\"]"
+	]
 	quest.37F99696A47264FD.quest_desc: ["This chapter is all about teaching you some of the different ways to craft, enhance, and enchant any gear you might need on your adventures!"]
 	quest.37F99696A47264FD.title: "&fGearing Up For Adventure!"
 	quest.381B55C984A8BD33.quest_desc: [
@@ -6072,7 +6083,9 @@
 		""
 		"Some mobs can drop more than one loot type, so you can select which one you'd like to farm inside the &dLoot Fabricator's&r interface."
 		""
-		"When automating these machines, the Fabricator will remember the choice you make for the Mob Predictions. If no choice has been made, the machine will stop working."
+		"When automating these machines, the &dLoot Fabricator&f will remember the choice you make for the &bMob Predictions&f. If no choice has been made, the machine will stop working."
+		""
+		"In can also switch the &dLoot Fabricator&f to &2Queue Mode&r, which lets you cycle through a list of outputs instead of producing only one fixed drop."
 		""
 		"In order to complete the &6FTB Pyramid&r, it is recommended to automate &dWarden&r, &3Wither&r, and &5Ender Dragon &bPredictions&r."
 	]
@@ -6685,9 +6698,9 @@
 		""
 		"When provided with &2Prediction Matrices&r and power, the &aSimulation Chamber&r will run simulations as if you were killing that specific mob. The amount of power needed per simulation depends on the rarity of the mob you want to run simulations for."
 		""
-		"If the simulation fails, you'll get a &bGeneralized Prediction&r. If it succeds, you'll get that mob's &6Prediction&r."
+		"If the simulation fails, you'll get a &bGeneralized Prediction&r. If it succeeds, you'll get that mob's &6Prediction&r."
 		""
-		"Every time the &aChamber&r processes a &2Prediction Matrix&r, it will count towards leveling up your &cData Model&r, reducing the chance of failure."
+		"The &aSimulation Chamber&f has two modes: &2Training Mode&f runs simulations that upgrade the model's data and &dInference Mode&r produces predictions, but doesn't upgrade the model."
 	]
 	quest.42C41784169B2308.title: "&aSimulating Loot"
 	quest.42E45B47360C59F3.quest_desc: [
@@ -7639,7 +7652,7 @@
 	]
 	quest.4D1EBD92C674531E.title: "Unchained Blight"
 	quest.4D1FE471FC2D8EF4.quest_desc: [
-		"Combining &7Styrene-Butadiene&r with either &aLead Tiny Dust&r or &cChromuim Tiny Dust&r in another &3Chemical Reactor&r, we can make &dStyrene-Butadiene Rubber&r."
+		"Combining &7Styrene-Butadiene&r with either &aLead Tiny Dust&r or &cChromium Tiny Dust&r in another &3Chemical Reactor&r, we can make &dStyrene-Butadiene Rubber&r."
 		""
 		"This is a super insulator, and you can make tons of rubber at a time. It can also replace some of the &7Synthetic Rubber&r used in certain recipes, like making cables!"
 	]
