@@ -2171,7 +2171,7 @@
 	quest.154E08BC9091684F.title: "&e荧石粉"
 	quest.15801A9BA5162395.title: "&f核源铁靴子"
 	quest.15AE2FB38468A8B3.quest_desc: [
-		"将你的纯&2石脑油&r和&7蒸汽&r在&3化学反应釜&r中化合，即可制取&d蒸汽裂解石脑油&r。"
+		"With pure &2Naphtha&r, you can combine it with &7Steam&r in another &3Chemical Reactor&r to make &dSteam-Cracked Naphtha&r."
 		""
 		"接下来你会把它用有8个输出口的&3蒸馏塔&r处理。"
 		""
@@ -3282,7 +3282,7 @@
 	]
 	quest.21672A342A11A0DE.title: "&7僵尸护身符"
 	quest.216FBD5E15FE2E7D.quest_desc: [
-		"你需要&5量子升级&r才能让机器处理量子级能量。"
+		"If we want our machines to handle these levels of power, we'll need to make &5Quantum Upgrades&r."
 		""
 		"你做出来的第一个升级应该安装在&3电动打包机&r上，这样可以解锁新的配方。"
 		""
@@ -5660,6 +5660,17 @@
 		"这些升级将使机器能够超频并更快地运行，但代价是能耗更高。"
 	]
 	quest.37EBE85B0FE81453.title: "&a基本升级"
+	quest.37F6FA6FD524AB9F.quest_desc: [
+		"The &6Data Center&f multiblock is a 7x7x7 structure that runs up to 25 &zSelf Aware&r data models at the same time."
+		""
+		"The multiblock is built with a 7x7 &dObsidian&r platform at the bottom and &aBlack Stained Glass&r walls, leaving the interior hollow. Then, the &6Data Center&r block and 3 &bIO Ports&r must be placed on the outer bottom layer, each configured to a different mode: Energy, Inputs, Outputs."
+		""
+		"You can optionally add a fourth Port confiured to Models for automatic input of data models, but this is not required."
+		""
+		"If built correctly, a blue outline will display around the multiblock, otherwise you can clikc the main &6Data Model&f block for more details."
+		""
+		"[\"You can also check out the \", {\"text\": \"Data Center GuideMe\", \"underlined\": true, \"color\": \"aqua\", \"clickEvent\": {\"action\": \"run_command\", \"value\": \"/guidemec hostilenetworks:guide open\"}, \"hoverEvent\": {\"action\": \"show_text\", \"contents\": \"Open Data Center GuideMe\"}}, \", for an example structure.\"]"
+	]
 	quest.37F99696A47264FD.quest_desc: ["这一章节是教你怎么合成、升级和附魔冒险装备的！"]
 	quest.37F99696A47264FD.title: "&f穿戴整齐，出门探险！"
 	quest.381B55C984A8BD33.quest_desc: [
@@ -6072,9 +6083,11 @@
 		""
 		"一些生物会掉落多种战利品，你可以在&d战利品制造器&r的界面上选择想要获取的资源。"
 		""
-		"自动化方面，战利品制造器会记忆你对预测产物的选择，如果没有做出过选择，机器将不会工作。"
+		"When automating these machines, the &dLoot Fabricator&f will remember the choice you make for the &bMob Predictions&f. If no choice has been made, the machine will stop working."
 		""
-		"为了完成&6FTB金字塔&r，推荐对&d监守者&r、&3凋灵&r和&5末影龙&r的&b预测产物&r进行自动化。"
+		"In can also switch the &dLoot Fabricator&f to &2Queue Mode&r, which lets you cycle through a list of outputs instead of producing only one fixed drop."
+		""
+		"In order to complete the &6FTB Pyramid&r, it is recommended to automate &dWarden&r, &3Wither&r, and &5Ender Dragon &bPredictions&r."
 	]
 	quest.3C60FA46EA54C899.title: "&d生成战利品"
 	quest.3CA9125C16DD3124.quest_desc: ["While nodes autoconnect when placed, if you want to manually reconnect nodes to a different master routing node you can use the node router tool."]
@@ -6685,9 +6698,9 @@
 		""
 		"提供&2预测矩阵&r和能源后，&a模拟室&r将模拟你对该生物的击杀过程，每次模拟消耗的能源取决于被模拟生物的稀有度。"
 		""
-		"模拟失败时，会生成&b通用预测产物&r；模拟成功时，会生成对应生物的&6预测产物&r。"
+		"If the simulation fails, you'll get a &bGeneralized Prediction&r. If it succeeds, you'll get that mob's &6Prediction&r."
 		""
-		"&a模拟室&r每处理一个&2模拟矩阵&r，都将为你的&c数据模型&r增加一次升级计数，升级后的数据模型会降低失败的几率。"
+		"The &aSimulation Chamber&f has two modes: &2Training Mode&f runs simulations that upgrade the model's data and &dInference Mode&r produces predictions, but doesn't upgrade the model."
 	]
 	quest.42C41784169B2308.title: "&a模拟刷怪"
 	quest.42E45B47360C59F3.quest_desc: [
@@ -7633,7 +7646,7 @@
 	]
 	quest.4D1EBD92C674531E.title: "释缚仪式"
 	quest.4D1FE471FC2D8EF4.quest_desc: [
-		"在&3化学反应釜&r中将&7苯乙烯-丁二烯&r和&c铬粉末&r或&a铅粉末&r化合以得到&d丁苯橡胶&r。"
+		"Combining &7Styrene-Butadiene&r with either &aLead Tiny Dust&r or &cChromium Tiny Dust&r in another &3Chemical Reactor&r, we can make &dStyrene-Butadiene Rubber&r."
 		""
 		"这是超级绝缘体，不过到这个时候你已经能做成吨的橡胶了。但它可以取代特定配方中的合成橡胶，比如制造线缆！"
 	]
