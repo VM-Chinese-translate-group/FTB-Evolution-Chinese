@@ -4261,7 +4261,7 @@
 	quest.2C141655079AC173.quest_desc: ["The &dWyvern Sword&r is a powered sword that allows for a ton of customization options using &aUpgrade Modules&r."]
 	quest.2C141655079AC173.title: "&dWyvern &fSword"
 	quest.2C1649AE3DADD71D.quest_desc: [
-		"&b建筑之棒&r是一个旨在加快建造过程的模组。"
+		"&e建筑棒&r是一个旨在加快建筑过程的模组。"
 		""
 		"当手持&b建筑棒&r时，只需点击一下就可以在任何方向搭建方块！"
 		""
