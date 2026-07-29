@@ -11,6 +11,7 @@
 	id: "7FD6309F98258333"
 	images: [{
 		height: 2.0d
+		id: "4A640654F296A133"
 		image: "hexerei:textures/book/hexerei.png"
 		rotation: 0.0d
 		width: 8.0d

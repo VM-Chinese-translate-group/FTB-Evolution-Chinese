@@ -15,6 +15,7 @@
 	images: [
 		{
 			height: 4.5d
+			id: "4FC8C683918EF8E6"
 			image: "ftbevolution:textures/quests/irons/tomeupgrades.png"
 			rotation: 0.0d
 			width: 4.5d
@@ -23,6 +24,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2869D03DB3F9182B"
 			image: "irons_spellbooks:textures/mob_effect/echoing_strikes.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -31,6 +33,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0E5D0C942145E98E"
 			image: "irons_spellbooks:block/blood"
 			rotation: 0.0d
 			width: 1.0d
@@ -39,6 +42,7 @@
 		}
 		{
 			height: 1.75d
+			id: "5E70E77A8EDCD896"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: 0.0d
 			width: 1.75d
@@ -47,6 +51,7 @@
 		}
 		{
 			height: 1.5d
+			id: "5C255C757232E7CA"
 			image: "irons_spellbooks:item/upgrade_orb_holy"
 			rotation: 0.0d
 			width: 1.5d
@@ -55,6 +60,7 @@
 		}
 		{
 			height: 1.5d
+			id: "5DEEA8CD40DC8852"
 			image: "irons_spellbooks:item/upgrade_orb_lightning"
 			rotation: 0.0d
 			width: 1.5d
@@ -63,6 +69,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1B4AFEAB2D7D9926"
 			image: "irons_spellbooks:textures/mob_effect/chilled.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -71,6 +78,7 @@
 		}
 		{
 			height: 2.0d
+			id: "592D08F29FC01BF9"
 			image: "xycraft_world:block/connected/lamp_rgb_glowing_single"
 			order: -2
 			rotation: 45.0d
@@ -80,6 +88,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0495E6013B86BF83"
 			image: "framedblocks:block/gold_plate_frame"
 			order: 1
 			rotation: 45.0d
@@ -89,6 +98,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3CAFDB5C609278FC"
 			image: "framedblocks:block/gold_plate_frame"
 			order: 1
 			rotation: 135.0d
@@ -98,6 +108,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1CC9A0DC560E8D53"
 			image: "irons_spellbooks:block/scroll_forge_bottom"
 			rotation: 45.0d
 			width: 2.0d
@@ -106,6 +117,7 @@
 		}
 		{
 			height: 2.0d
+			id: "764CEAC681780795"
 			image: "framedblocks:block/gold_plate_frame"
 			order: 1
 			rotation: 135.0d
@@ -115,6 +127,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0FF4956547FEC3C3"
 			image: "irons_spellbooks:textures/mob_effect/frostbite.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -123,6 +136,7 @@
 		}
 		{
 			height: 2.0d
+			id: "73BD08F44755E1FB"
 			image: "irons_spellbooks:block/scroll_forge_bottom"
 			rotation: 45.0d
 			width: 2.0d
@@ -131,6 +145,7 @@
 		}
 		{
 			height: 2.0d
+			id: "67FDF351F0B9F72A"
 			image: "irons_spellbooks:block/scroll_forge_bottom"
 			rotation: 45.0d
 			width: 2.0d
@@ -139,6 +154,7 @@
 		}
 		{
 			height: 3.0d
+			id: "53BE896A9A2ECFA4"
 			image: "forbidden_arcanus:block/black_hole_aura_0"
 			order: -1
 			rotation: 0.0d
@@ -148,6 +164,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1A9BDB8F67EEC396"
 			image: "minecraft:block/sculk_shrieker_can_summon_inner_top"
 			order: -2
 			rotation: 45.0d
@@ -158,6 +175,7 @@
 		{
 			color: 16733695
 			height: 1.5d
+			id: "2D7EA203D9C70FFA"
 			image: "minecraft:textures/gui/sprites/advancements/challenge_frame_unobtained.png"
 			order: -2
 			rotation: 45.0d
@@ -168,6 +186,7 @@
 		{
 			color: 11141290
 			height: 1.5d
+			id: "060BA26D378B4E14"
 			image: "minecraft:textures/gui/sprites/advancements/challenge_frame_unobtained.png"
 			order: -3
 			rotation: 45.0d
@@ -177,6 +196,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7D79B4E0A812307D"
 			image: "minecraft:block/sculk_shrieker_can_summon_inner_top"
 			order: -2
 			rotation: 45.0d
@@ -186,6 +206,7 @@
 		}
 		{
 			height: 3.0d
+			id: "29BFFA80379932DB"
 			image: "ftbevolution:textures/quests/titles_and_logos/irons_spellbook_logo.png"
 			rotation: 0.0d
 			width: 10.5d
@@ -194,6 +215,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7F7CF5EAA6BDAEA0"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			rotation: 0.0d
 			width: 1.0d
@@ -202,6 +224,7 @@
 		}
 		{
 			height: 1.0d
+			id: "420BBDFEC6E9DC84"
 			image: "irons_spellbooks:item/upgrade_orb_fire"
 			order: 1
 			rotation: 0.0d
@@ -211,6 +234,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6E178EB455A93043"
 			image: "irons_spellbooks:block/inscription_table_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -219,6 +243,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2F2688D90D1556E5"
 			image: "irons_spellbooks:block/inscription_table_side"
 			order: -1
 			rotation: 0.0d
@@ -228,6 +253,7 @@
 		}
 		{
 			height: 1.0d
+			id: "452313900316AC95"
 			image: "irons_spellbooks:block/inscription_table_side"
 			rotation: 180.0d
 			width: 1.0d
@@ -236,6 +262,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75E2E9559B27230B"
 			image: "irons_spellbooks:block/inscription_table_side"
 			rotation: 180.0d
 			width: 1.0d
@@ -244,6 +271,7 @@
 		}
 		{
 			height: 2.0d
+			id: "559095BC5F04BACB"
 			image: "xycraft_world:block/connected/lamp_rgb_glowing_single"
 			order: -2
 			rotation: -45.0d
@@ -253,6 +281,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1F109D55A3F928F4"
 			image: "xycraft_world:block/connected/lamp_rgb_glowing_single"
 			order: -2
 			rotation: 45.0d
@@ -263,6 +292,7 @@
 		{
 			color: 8127276
 			height: 1.0d
+			id: "79EB243D42D9ABF9"
 			image: "minecraft:textures/gui/sprites/advancements/challenge_frame_unobtained.png"
 			rotation: 45.0d
 			width: 1.0d

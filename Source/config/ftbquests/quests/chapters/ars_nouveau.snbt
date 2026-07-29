@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "640A20A358D2ADDA"
 			image: "ars_nouveau:block/void_prism"
 			rotation: 0.0d
 			width: 1.0d
@@ -20,7 +21,7 @@
 		}
 		{
 			height: 5.0d
-			hover: ["A Drygmy and their Henge"]
+			id: "4320D48F8AA7F425"
 			image: "ftbevolution:textures/quests/ars/drygmyperch.png"
 			rotation: 0.0d
 			width: 4.016018306636155d
@@ -29,6 +30,7 @@
 		}
 		{
 			height: 3.0d
+			id: "48815C7618E49371"
 			image: "ftbevolution:textures/quests/ars/scribetable.png"
 			rotation: 0.0d
 			width: 4.17970401691332d
@@ -37,6 +39,7 @@
 		}
 		{
 			height: 4.0d
+			id: "280A9BD939F397C3"
 			image: "ftbevolution:textures/quests/ars/glyphmenu.png"
 			rotation: 0.0d
 			width: 5.566433566433567d
@@ -45,6 +48,7 @@
 		}
 		{
 			height: 2.0d
+			id: "14F949173FE931C1"
 			image: "ars_nouveau:block/fire_2"
 			rotation: 0.0d
 			width: 2.0d
@@ -53,6 +57,7 @@
 		}
 		{
 			height: 2.0d
+			id: "52BA9139A90CB0E9"
 			image: "ars_nouveau:block/gilded_sourcestone_large_bricks"
 			rotation: 0.0d
 			width: 2.0d
@@ -61,6 +66,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5875C9F6B55C0A53"
 			image: "ars_nouveau:block/gilded_sourcestone_large_bricks"
 			rotation: 180.0d
 			width: 2.0d
@@ -69,6 +75,7 @@
 		}
 		{
 			height: 2.0d
+			id: "51EA15CFFD20F4CF"
 			image: "ars_nouveau:block/fire_2"
 			order: -2
 			rotation: 0.0d
@@ -78,6 +85,7 @@
 		}
 		{
 			height: 2.0d
+			id: "661321534A8426B5"
 			image: "ars_nouveau:block/gilded_sourcestone_large_bricks"
 			rotation: 0.0d
 			width: 2.0d
@@ -86,6 +94,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2B84C188F577E599"
 			image: "ars_nouveau:block/fire_2"
 			order: -2
 			rotation: 0.0d
@@ -95,6 +104,7 @@
 		}
 		{
 			height: 3.0d
+			id: "3D49EDCE9B638189"
 			image: "ars_elemental:item/debug"
 			rotation: 0.0d
 			width: 3.0d
@@ -103,6 +113,7 @@
 		}
 		{
 			height: 4.0d
+			id: "6C95C8B7A264D1C6"
 			image: "ftbevolution:textures/quests/ars/alterationtable.png"
 			rotation: 0.0d
 			width: 5.572938689217759d
@@ -111,6 +122,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6F841F193C13991E"
 			image: "ftbevolution:textures/quests/titles_and_logos/ars_nouveau_title.png"
 			rotation: 0.0d
 			width: 10.0d

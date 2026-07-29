@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 6.5d
+			id: "20E78A8680029A5A"
 			image: "ftbevolution:textures/quests/titles_and_logos/wildhunt_logo.png"
 			rotation: 0.0d
 			width: 12.75d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 12.0d
+			id: "76AA3F0B0D39B715"
 			image: "ftbevolution:textures/quests/warden.png"
 			rotation: 0.0d
 			width: 10.447058823529412d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 3.0d
+			id: "346478A6AE840476"
 			image: "relics:textures/hud/abilities/card_frame_active.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -36,6 +39,7 @@
 		}
 		{
 			height: 3.0d
+			id: "0F2E99E59F5F34B7"
 			image: "relics:textures/hud/abilities/card_frame_active.png"
 			rotation: -45.0d
 			width: 3.0d
@@ -45,6 +49,7 @@
 		{
 			color: 28672
 			height: 2.7d
+			id: "15B35F5769EFFF65"
 			image: "minecraft:textures/map/map_background.png"
 			order: -1
 			rotation: 45.0d
@@ -54,6 +59,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3E503153C0BE5E78"
 			image: "relics:textures/gui/description/general/bottom_background.png"
 			order: -1
 			rotation: 0.0d
@@ -63,6 +69,7 @@
 		}
 		{
 			height: 1.0d
+			id: "27CB48BCA4C12816"
 			image: "relics:textures/gui/description/general/bottom_background.png"
 			order: -1
 			rotation: 0.0d
@@ -72,6 +79,7 @@
 		}
 		{
 			height: 1.0d
+			id: "574297717990D1BA"
 			image: "relics:textures/gui/description/general/bottom_background.png"
 			order: -1
 			rotation: 0.0d
@@ -81,6 +89,7 @@
 		}
 		{
 			height: 1.0d
+			id: "37D79121A8C5CEF2"
 			image: "relics:textures/gui/description/general/bottom_background.png"
 			order: -1
 			rotation: 0.0d
@@ -90,6 +99,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4C813C98BAF1390E"
 			image: "relics:textures/gui/description/general/bottom_background.png"
 			order: -1
 			rotation: 0.0d
@@ -99,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7049BA54E13895B1"
 			image: "relics:textures/gui/description/general/bottom_background.png"
 			order: -1
 			rotation: 0.0d
@@ -110,6 +121,7 @@
 			alpha: 155
 			color: 170
 			height: 3.0d
+			id: "7E36F3A6DCD7C7ED"
 			image: "relics:item/space_dissector"
 			rotation: 0.0d
 			width: 3.0d
@@ -118,6 +130,7 @@
 		}
 		{
 			height: 4.0d
+			id: "53DAF7FB62275B31"
 			image: "fargostalismans:item/hero_shield"
 			rotation: 0.0d
 			width: 4.0d
@@ -126,6 +139,7 @@
 		}
 		{
 			height: 4.0d
+			id: "691F71EC022B5DB0"
 			image: "fargostalismans:item/hero_shield"
 			rotation: 0.0d
 			width: 4.0d
@@ -134,6 +148,7 @@
 		}
 		{
 			height: 4.0d
+			id: "446DB71DA4C21D6D"
 			image: "justdirethings:item/celestigem_sword_active"
 			rotation: 135.0d
 			width: 4.0d
@@ -142,6 +157,7 @@
 		}
 		{
 			height: 4.0d
+			id: "45E00F73C409FB36"
 			image: "justdirethings:item/celestigem_sword_active"
 			rotation: 135.0d
 			width: 4.0d
@@ -151,6 +167,7 @@
 		{
 			color: 28672
 			height: 2.7d
+			id: "43CB67A61B8F9C49"
 			image: "minecraft:textures/map/map_background.png"
 			order: -1
 			rotation: -45.0d

@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 3.75d
+			id: "7A0512FC426B5F27"
 			image: "ftbevolution:textures/quests/titles_and_logos/ftb_pyramid_logo.png"
 			rotation: 0.0d
 			width: 9.58d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 2.0d
+			id: "39CBD12D693CDDC5"
 			image: "ftbevolution:item/creative_ascension"
 			rotation: 0.0d
 			width: 2.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1A313E6826E99D32"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4750178B06CAB0AD"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -46,6 +50,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1AC5D16027ADAB70"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -55,6 +60,7 @@
 		}
 		{
 			height: 2.0d
+			id: "25F3200B8EA9084C"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -64,6 +70,7 @@
 		}
 		{
 			height: 2.0d
+			id: "00B64B26CC5C8837"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -73,6 +80,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6B184E312435E187"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -82,6 +90,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3A03534ED1460D6D"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -91,6 +100,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5974C823E6F9E49D"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -100,6 +110,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3968EE7E561E1B17"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -109,6 +120,7 @@
 		}
 		{
 			height: 1.0d
+			id: "46D8ECF3356F04C9"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -118,6 +130,7 @@
 		}
 		{
 			height: 1.0d
+			id: "61AB16F0BAC0A8EB"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -127,6 +140,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1CB11B975AAEFDCD"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -136,6 +150,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1B7DA2177E28FBD5"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -145,6 +160,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2B8D4B5447451A82"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -154,6 +170,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3B72E46796B98A03"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -163,6 +180,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7B8D01CD0E306CE6"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -172,6 +190,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0B8CDDF58AB08B23"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -181,6 +200,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6B55EF65BAA235F3"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -190,6 +210,7 @@
 		}
 		{
 			height: 2.0d
+			id: "25419153D91CE29B"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -199,6 +220,7 @@
 		}
 		{
 			height: 2.0d
+			id: "36EAB297A1BF481F"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -208,6 +230,7 @@
 		}
 		{
 			height: 2.0d
+			id: "688036073B953EDB"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -217,6 +240,7 @@
 		}
 		{
 			height: 2.0d
+			id: "22D0E8CB32767FE2"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -226,6 +250,7 @@
 		}
 		{
 			height: 2.0d
+			id: "259CB44DD32177E4"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -235,6 +260,7 @@
 		}
 		{
 			height: 2.0d
+			id: "78590B0D87ACEBDC"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -244,6 +270,7 @@
 		}
 		{
 			height: 2.0d
+			id: "05DA28897F18BB48"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -253,6 +280,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2FA3FA62B02ADA0E"
 			image: "ftbevolution:block/pyramid_top"
 			order: -1
 			rotation: 0.0d
@@ -262,6 +290,7 @@
 		}
 		{
 			height: 2.0d
+			id: "01C9486F2C133FDB"
 			image: "ftbevolution:block/pyramid_base"
 			order: -1
 			rotation: 0.0d
@@ -271,6 +300,7 @@
 		}
 		{
 			height: 2.0d
+			id: "21EBE8B59FE048FE"
 			image: "ftbevolution:block/pyramid_base"
 			order: -1
 			rotation: 0.0d
@@ -280,6 +310,7 @@
 		}
 		{
 			height: 2.0d
+			id: "39CB50013F399D1A"
 			image: "ftbevolution:block/pyramid_base"
 			order: -1
 			rotation: 0.0d
@@ -289,6 +320,7 @@
 		}
 		{
 			height: 2.0d
+			id: "087EB4C37206EACA"
 			image: "ftbevolution:block/pyramid_base"
 			order: -1
 			rotation: 0.0d
@@ -298,6 +330,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7F0D40C88EC42ECA"
 			image: "ftbevolution:block/pyramid_base"
 			order: -1
 			rotation: 0.0d
@@ -307,6 +340,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4566BB0F61056F5D"
 			image: "ftbevolution:block/pyramid_base"
 			order: -1
 			rotation: 0.0d
@@ -316,6 +350,7 @@
 		}
 		{
 			height: 2.0d
+			id: "08E4650075078CE5"
 			image: "ftbevolution:block/pyramid_base"
 			order: -1
 			rotation: 0.0d
@@ -325,6 +360,7 @@
 		}
 		{
 			height: 2.0d
+			id: "66A2A8D9E9FED955"
 			image: "ftbevolution:block/pyramid_base"
 			order: -1
 			rotation: 0.0d
@@ -334,6 +370,7 @@
 		}
 		{
 			height: 2.0d
+			id: "58400BEA483934C6"
 			image: "ftbevolution:block/pyramid_base"
 			order: -1
 			rotation: 0.0d
@@ -343,6 +380,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2574908F5CF85283"
 			image: "ftbevolution:item/creative_ascension"
 			order: -1
 			rotation: 0.0d
@@ -352,6 +390,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2738D316E36322C0"
 			image: "ftbevolution:block/pyramid_base"
 			order: -2
 			rotation: 0.0d

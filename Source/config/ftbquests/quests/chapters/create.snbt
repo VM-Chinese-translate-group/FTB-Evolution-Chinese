@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 5.25d
+			id: "3EAC1487A856C568"
 			image: "ftbevolution:textures/quests/create/train.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7CA5625AC1FCD988"
 			image: "ftbevolution:textures/quests/create/pipes.png"
 			rotation: 0.0d
 			width: 6.5d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 1.0d
+			id: "06700A56FE391E7F"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -36,6 +39,7 @@
 		}
 		{
 			height: 1.0d
+			id: "08F4ACBA2CDF636B"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -44,6 +48,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0BDEE59A38B6A763"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -52,6 +57,7 @@
 		}
 		{
 			height: 1.25d
+			id: "50A122D327531608"
 			image: "ftbevolution:textures/quests/create/placard.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -60,6 +66,7 @@
 		}
 		{
 			height: 2.4d
+			id: "4A8C454DADA369F3"
 			image: "ftbevolution:textures/quests/create/panels.png"
 			rotation: 0.0d
 			width: 2.4d
@@ -68,6 +75,7 @@
 		}
 		{
 			height: 2.4d
+			id: "507AD40DFEFAE400"
 			image: "ftbevolution:textures/quests/create/panels.png"
 			rotation: 0.0d
 			width: 2.4d
@@ -76,6 +84,7 @@
 		}
 		{
 			height: 1.0d
+			id: "07D1128A5ACC2623"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -84,6 +93,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F549C1A0A5CB090"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -92,6 +102,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1FB1B2396A11FB2A"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -100,6 +111,7 @@
 		}
 		{
 			height: 1.0d
+			id: "346DA2F072ECE3C9"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -108,6 +120,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7DD60ED6E3528D96"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -116,6 +129,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F14462AF077C66D"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -124,6 +138,7 @@
 		}
 		{
 			height: 1.25d
+			id: "43391711CFFE4B7C"
 			image: "ftbevolution:textures/quests/create/placard.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -132,6 +147,7 @@
 		}
 		{
 			height: 4.0d
+			id: "4196B1DB73893F01"
 			image: "ftbevolution:textures/quests/create/create.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -140,6 +156,7 @@
 		}
 		{
 			height: 6.0d
+			id: "7710D03072D60B43"
 			image: "ftbevolution:textures/quests/create/casings.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -148,6 +165,7 @@
 		}
 		{
 			height: 1.25d
+			id: "20002523E4047683"
 			image: "ftbevolution:textures/quests/create/placard.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -156,6 +174,7 @@
 		}
 		{
 			height: 2.45d
+			id: "4032C0ABEB488A64"
 			image: "ftbevolution:textures/quests/create/panels3x2.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -164,6 +183,7 @@
 		}
 		{
 			height: 2.4d
+			id: "235921F8104D5ACE"
 			image: "ftbevolution:textures/quests/create/panels.png"
 			rotation: 0.0d
 			width: 2.4d
@@ -172,6 +192,7 @@
 		}
 		{
 			height: 2.4d
+			id: "07B9DD00E48E6551"
 			image: "ftbevolution:textures/quests/create/panels.png"
 			rotation: 0.0d
 			width: 2.4d

@@ -11,6 +11,7 @@
 	id: "57B80311B81CBCBD"
 	images: [{
 		height: 3.5d
+		id: "65F1EBA8E371248B"
 		image: "ftbevolution:textures/quests/titles_and_logos/draconic_evolution_logo.png"
 		rotation: 0.0d
 		width: 11.0d
@@ -419,7 +420,10 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["48935E2DFCA1E835"]
+			dependencies: [
+				"48935E2DFCA1E835"
+				"660955FF7D0920A8"
+			]
 			hide_dependency_lines: true
 			id: "3C0508E6233BC014"
 			rewards: [
@@ -446,7 +450,10 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["48935E2DFCA1E835"]
+			dependencies: [
+				"48935E2DFCA1E835"
+				"660955FF7D0920A8"
+			]
 			hide_dependency_lines: true
 			id: "7244348CAB8356E0"
 			rewards: [
@@ -508,7 +515,10 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["48935E2DFCA1E835"]
+			dependencies: [
+				"48935E2DFCA1E835"
+				"660955FF7D0920A8"
+			]
 			hide_dependency_lines: true
 			icon: {
 				components: {
@@ -562,8 +572,7 @@
 		{
 			dependencies: [
 				"48935E2DFCA1E835"
-				"0D38D67E3FD120CB"
-				"1ABB93F87483CA3E"
+				"11A35E8F97ACA240"
 			]
 			hide_dependency_lines: true
 			id: "5E2F4A6147694D5C"
@@ -591,7 +600,10 @@
 			y: -5.5d
 		}
 		{
-			dependencies: ["48935E2DFCA1E835"]
+			dependencies: [
+				"48935E2DFCA1E835"
+				"660955FF7D0920A8"
+			]
 			hide_dependency_lines: true
 			id: "0D38D67E3FD120CB"
 			rewards: [

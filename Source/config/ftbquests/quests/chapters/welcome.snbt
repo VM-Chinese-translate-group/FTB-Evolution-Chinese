@@ -15,6 +15,7 @@
 	images: [
 		{
 			height: 4.0d
+			id: "7131F5B6B2ADD523"
 			image: "ftbevolution:textures/quests/titles_and_logos/evo_logo.png"
 			rotation: 0.0d
 			width: 18.0d
@@ -25,6 +26,7 @@
 			alpha: 100
 			color: 0
 			height: 2.5d
+			id: "4D8BC23951C75114"
 			image: "ftbquests:textures/shapes/hexagon/shape.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -32,34 +34,35 @@
 			y: 0.0d
 		}
 		{
-			click: "https://discord.com/invite/X5UGvBs"
+			click_action: "open_uri:https://discord.com/invite/X5UGvBs"
 			height: 1.0d
-			hover: ["Join The Discord!"]
+			id: "3350FD305A0E8ACB"
 			image: "ftbevolution:textures/quests/titles_and_logos/discord_logo.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: -1.0d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
-			click: "https://github.com/FTBTeam/FTB-Modpack-Issues/issues"
+			click_action: "open_uri:https://github.com/FTBTeam/FTB-Modpack-Issues/issues"
 			height: 1.0d
-			hover: ["Report A Bug"]
+			id: "44E324C93413B8C5"
 			image: "refinedstorage:textures/gui/sprites/error.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 1.0d
-			y: 3.0d
+			y: 3.5d
 		}
 		{
 			color: 16774136
 			height: 1.0d
+			id: "145CF266C933A5C0"
 			image: "ftbquests:textures/shapes/square/background.png"
 			order: -1
 			rotation: 0.0d
 			width: 1.0d
 			x: 1.0d
-			y: 3.0d
+			y: 3.5d
 		}
 	]
 	order_index: 0
@@ -127,6 +130,28 @@
 			}]
 			x: 1.5d
 			y: 1.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbteams:textures/teams.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "261B2184A4839741"
+			rewards: [{
+				id: "613A44B867ED7006"
+				team_reward: false
+				type: "xp"
+				xp: 5
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "035C4884AAC6C3AB"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
 		}
 	]
 }

@@ -254,8 +254,11 @@
 		{
 			id: "3291A830E443A256"
 			item: {
+				components: {
+					"ftbquests:missing_item": "the_bumblezone:variant_bee_spawn_egg"
+				}
 				count: 1
-				id: "the_bumblezone:variant_bee_spawn_egg"
+				id: "ftbquests:missing_item"
 			}
 			weight: 10.0f
 		}
