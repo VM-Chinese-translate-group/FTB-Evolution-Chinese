@@ -2886,7 +2886,7 @@
 		""
 		"5. The 4 Ore Dusts are then smelted into 4 Ingots."
 		""
-		"This means for every 1 ore block you send into the chain, you'll get a return of 4 ingots. Raw Ore can be processed too, but at a reduced rate: 3 Raw Ore become 8 Shards, since mining with Fortune already multiplies your raw ore."
+		"This means for every 1 ore block you send into the chain, you'll get a return of 4 ingots. Raw Ore can be processed too, but at a reduced rate: 3 Raw Ore become 8 Shards, since mining with Fortune already multiplies your raw ore. A Block of Raw Ore is just that same reduced rate in bulk: 1 Block becomes 24 Shards, which is the same as 9 Raw Ore."
 	]
 	quest.1CEA8C4CF222E70B.title: "&dTier 3 Ore Processing"
 	quest.1CEEACA025EDE94D.quest_desc: ["Pie Crust serves as the base for many different recipes."]
@@ -3624,7 +3624,7 @@
 		""
 		"To break down ores, it will need the &aHydrogen Chloride&r from the previous quest to operate. You can also use Salt, but you'll burn through it all pretty fast."
 		""
-		"Once you've got it up and running, this machine breaks down 1 ore block into 4 &aOre Shards&r, or 3 raw ore into 8. The Shards can then be sent into the Purification Chamber to be further processed. "
+		"Once you've got it up and running, this machine breaks down 1 ore block into 4 &aOre Shards&r, 3 raw ore into 8, or 1 Block of Raw Ore into 24. The Shards can then be sent into the Purification Chamber to be further processed. "
 	]
 	quest.24E7FEB8D24FAB4A.title: "&aChemical Injection Chamber"
 	quest.24F17FA24ED466FA.quest_desc: [
