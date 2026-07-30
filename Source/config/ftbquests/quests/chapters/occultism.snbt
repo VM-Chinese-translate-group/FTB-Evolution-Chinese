@@ -16,6 +16,7 @@
 		{
 			alpha: 125
 			height: 45.0d
+			id: "4FC791B4D12A4870"
 			image: "minecraft:block/white_stained_glass_pane_top"
 			rotation: 90.0d
 			width: 1.0d
@@ -25,6 +26,7 @@
 		{
 			alpha: 125
 			height: 45.0d
+			id: "1E6FEFC4BB493CC9"
 			image: "minecraft:block/white_stained_glass_pane_top"
 			rotation: 90.0d
 			width: 1.0d
@@ -34,6 +36,7 @@
 		{
 			alpha: 125
 			height: 45.0d
+			id: "6137CE2A00B6ECAD"
 			image: "minecraft:block/white_stained_glass_pane_top"
 			rotation: 90.0d
 			width: 1.0d
@@ -43,6 +46,7 @@
 		{
 			alpha: 125
 			height: 45.0d
+			id: "55D49AEB5A3801EE"
 			image: "minecraft:block/white_stained_glass_pane_top"
 			rotation: 90.0d
 			width: 1.0d
@@ -50,8 +54,9 @@
 			y: 38.0d
 		}
 		{
-			dev: true
+			dev: 1b
 			height: 45.0d
+			id: "43BBB839B55A8413"
 			image: "minecraft:block/white_stained_glass_pane_top"
 			rotation: 90.0d
 			width: 1.0d
@@ -61,6 +66,7 @@
 		{
 			alpha: 125
 			height: 45.0d
+			id: "3ABD8AA285C7B434"
 			image: "minecraft:block/white_stained_glass_pane_top"
 			rotation: 90.0d
 			width: 1.0d
@@ -68,8 +74,9 @@
 			y: 18.0d
 		}
 		{
-			dev: true
+			dev: 1b
 			height: 45.0d
+			id: "519B14831E5A0B2D"
 			image: "minecraft:block/white_stained_glass_pane_top"
 			rotation: 90.0d
 			width: 1.0d
@@ -79,6 +86,7 @@
 		{
 			alpha: 155
 			height: 3.0d
+			id: "0EADC159ACC9EC43"
 			image: "forbidden_arcanus:textures/gui/sprites/research/frame/master.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -88,6 +96,7 @@
 		{
 			alpha: 155
 			height: 3.0d
+			id: "07ABF9FE472FD200"
 			image: "forbidden_arcanus:textures/gui/sprites/research/frame/master.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -97,6 +106,7 @@
 		{
 			alpha: 155
 			height: 3.0d
+			id: "128978A7118EB9BF"
 			image: "forbidden_arcanus:textures/gui/sprites/research/frame/master.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -106,6 +116,7 @@
 		{
 			alpha: 155
 			height: 3.0d
+			id: "694A2624DE51DF40"
 			image: "forbidden_arcanus:textures/gui/sprites/research/frame/master.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -116,6 +127,7 @@
 			alpha: 125
 			color: 16755200
 			height: 30.0d
+			id: "47CEDCBB3DF590B8"
 			image: "minecraft:block/white_stained_glass_pane_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -126,6 +138,7 @@
 			alpha: 125
 			color: 16755200
 			height: 30.0d
+			id: "12C848F31DF49177"
 			image: "minecraft:block/white_stained_glass_pane_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -135,6 +148,7 @@
 		{
 			alpha: 155
 			height: 6.0d
+			id: "1A22A63B0A08F376"
 			image: "forbidden_arcanus:textures/gui/sprites/research/frame/advanced.png"
 			order: -1
 			rotation: 0.0d
@@ -144,6 +158,7 @@
 		}
 		{
 			height: 4.0d
+			id: "58332B8B709B2149"
 			image: "occultism:block/dimensional_mineshaft_portal"
 			rotation: 0.0d
 			width: 4.0d
@@ -152,6 +167,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3BC3CFC6DD7BA559"
 			image: "occultism:block/dimensional_mineshaft_portal"
 			order: 1
 			rotation: 45.0d
@@ -161,6 +177,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0EABA13D9F5ABF74"
 			image: "occultism:block/dimensional_mineshaft_portal"
 			order: 1
 			rotation: 45.0d
@@ -170,6 +187,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6C1A9B30913282A2"
 			image: "occultism:block/dimensional_mineshaft_portal"
 			order: 1
 			rotation: 45.0d
@@ -179,6 +197,7 @@
 		}
 		{
 			height: 2.0d
+			id: "21FC8789EBDDDD91"
 			image: "occultism:block/dimensional_mineshaft_portal"
 			order: 1
 			rotation: 45.0d
@@ -189,6 +208,7 @@
 		{
 			color: 16733695
 			height: 6.0d
+			id: "1E285C4099103E87"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/hecate.png"
 			rotation: 45.0d
 			width: 6.0d
@@ -199,6 +219,7 @@
 			alpha: 55
 			color: 16777045
 			height: 4.0d
+			id: "627C814E2C5DC19A"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/pactum.png"
 			order: -2
 			rotation: 45.0d
@@ -209,6 +230,7 @@
 		{
 			alpha: 155
 			height: 4.5d
+			id: "2A5856DEBE2FCE3F"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/repel.png"
 			order: -2
 			rotation: 45.0d
@@ -220,6 +242,7 @@
 			alpha: 155
 			color: 11141120
 			height: 4.5d
+			id: "0CB99778F5F52A23"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/summon.png"
 			order: -2
 			rotation: 45.0d
@@ -231,6 +254,7 @@
 			alpha: 155
 			color: 16733695
 			height: 4.5d
+			id: "31921F708E9A3E20"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/summon.png"
 			order: -2
 			rotation: 45.0d
@@ -240,6 +264,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1175AF5B52335768"
 			image: "occultism:textures/gui/book/familiar_fairy.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -248,6 +273,7 @@
 		}
 		{
 			height: 3.0d
+			id: "0765699E6BC2D99B"
 			image: "occultism:textures/gui/book/familiar_beholder.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -257,6 +283,7 @@
 		{
 			color: 16733525
 			height: 1.0d
+			id: "079E4A443EF5FC15"
 			image: "occultism:block/chalk_glyph/5"
 			rotation: 25.0d
 			width: 1.0d
@@ -266,6 +293,7 @@
 		{
 			color: 5592575
 			height: 1.0d
+			id: "771CD72F5621709C"
 			image: "occultism:block/chalk_glyph/0"
 			rotation: 65.0d
 			width: 1.0d
@@ -275,6 +303,7 @@
 		{
 			color: 43520
 			height: 1.0d
+			id: "5A0E1B6BFCB0E761"
 			image: "occultism:block/chalk_glyph/12"
 			rotation: -35.0d
 			width: 1.0d
@@ -283,6 +312,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2AE0BE479699A13A"
 			image: "occultism:textures/gui/book/familiar_deer.png"
 			rotation: 20.0d
 			width: 3.0d
@@ -291,6 +321,7 @@
 		}
 		{
 			height: 5.0d
+			id: "18C867ED9F4243A0"
 			image: "occultism:textures/gui/book/familiar_cthulhu.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -299,6 +330,7 @@
 		}
 		{
 			height: 3.0d
+			id: "26288617B0BF7579"
 			image: "occultism:textures/gui/book/familiar_headless_ratman.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -307,6 +339,7 @@
 		}
 		{
 			height: 5.0d
+			id: "6925E5E6701F4A99"
 			image: "occultism:textures/gui/book/familiar_mummy.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -315,6 +348,7 @@
 		}
 		{
 			height: 5.0d
+			id: "47E82A893C3D20DC"
 			image: "occultism:textures/gui/book/familiar_chimera.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -324,6 +358,7 @@
 		{
 			color: 16755200
 			height: 2.0d
+			id: "2B33CBAB29C95BD6"
 			image: "occultism:block/stable_wormhole_frame"
 			rotation: 45.0d
 			width: 2.0d
@@ -333,6 +368,7 @@
 		{
 			color: 16733695
 			height: 2.0d
+			id: "18FF65FD3E8E94B3"
 			image: "occultism:block/stable_wormhole_frame"
 			rotation: 45.0d
 			width: 2.0d
@@ -341,6 +377,7 @@
 		}
 		{
 			height: 2.0d
+			id: "695177E878C8F4C5"
 			image: "occultism:block/stable_wormhole_frame"
 			rotation: 45.0d
 			width: 2.0d
@@ -349,6 +386,7 @@
 		}
 		{
 			height: 5.0d
+			id: "2C7B6B657BA60F61"
 			image: "occultism:block/dimensional_mineshaft_portal"
 			rotation: 45.0d
 			width: 5.0d
@@ -358,6 +396,7 @@
 		{
 			color: 11141290
 			height: 6.0d
+			id: "1D6B4D016BD90666"
 			image: "ftbquests:tasks/input_only"
 			order: -1
 			rotation: 45.0d
@@ -367,6 +406,7 @@
 		}
 		{
 			height: 4.0d
+			id: "27EFB0FB4EA6D7C4"
 			image: "forbidden_arcanus:textures/effect/magic_circle/inner/protection.png"
 			rotation: 45.0d
 			width: 4.0d
@@ -376,6 +416,7 @@
 		{
 			color: 16733525
 			height: 4.0d
+			id: "02FF8CB0E3F5F305"
 			image: "forbidden_arcanus:textures/effect/magic_circle/inner/transmutation.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -385,6 +426,7 @@
 		{
 			color: 16733525
 			height: 4.0d
+			id: "5594BFFDC5853788"
 			image: "forbidden_arcanus:textures/effect/magic_circle/inner/union.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -394,6 +436,7 @@
 		{
 			color: 11141120
 			height: 4.0d
+			id: "3B38A060BE7A265D"
 			image: "forbidden_arcanus:textures/effect/magic_circle/inner/protection.png"
 			rotation: 45.0d
 			width: 4.0d
@@ -403,6 +446,7 @@
 		{
 			color: 5592575
 			height: 3.0d
+			id: "259FBAEFBD901F76"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/corrupt_interpolate.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -412,6 +456,7 @@
 		{
 			color: 5592575
 			height: 3.0d
+			id: "582627BC08D81639"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/summon.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -421,6 +466,7 @@
 		{
 			color: 170
 			height: 2.5d
+			id: "5ACFC9507274C52E"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/pactum.png"
 			rotation: 45.0d
 			width: 2.5d
@@ -430,6 +476,7 @@
 		{
 			color: 16755200
 			height: 3.0d
+			id: "7F3C88BE7C2154C2"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/summon.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -439,6 +486,7 @@
 		{
 			color: 16733525
 			height: 2.5d
+			id: "2CD6C8CFA76176B6"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/summon.png"
 			rotation: 45.0d
 			width: 2.5d
@@ -447,6 +495,7 @@
 		}
 		{
 			height: 3.0d
+			id: "71A47E355C42DC18"
 			image: "ftbevolution:textures/quests/titles_and_logos/occultism_title2.png"
 			rotation: 0.0d
 			width: 12.0d

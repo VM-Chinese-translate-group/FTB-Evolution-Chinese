@@ -14,6 +14,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "09B3E99EEBCC51A5"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_5/top_layer"
 			rotation: 0.0d
 			width: 2.0d
@@ -22,6 +23,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7382617D210BBF55"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_5/top"
 			order: -1
 			rotation: 0.0d
@@ -31,6 +33,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2CA9DB2CE36297D7"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_4/top_layer"
 			rotation: 0.0d
 			width: 1.5d
@@ -39,6 +42,7 @@
 		}
 		{
 			height: 1.5d
+			id: "198DA04752A0459F"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_4/top"
 			order: -1
 			rotation: 0.0d
@@ -48,6 +52,7 @@
 		}
 		{
 			height: 1.5d
+			id: "28A475734AD88567"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_3/top_layer"
 			rotation: 0.0d
 			width: 1.5d
@@ -56,6 +61,7 @@
 		}
 		{
 			height: 1.5d
+			id: "6B5743B70DD2B310"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_3/top"
 			order: -1
 			rotation: 0.0d
@@ -65,6 +71,7 @@
 		}
 		{
 			height: 1.25d
+			id: "75C759C009518719"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_2/top_layer"
 			rotation: 0.0d
 			width: 1.25d
@@ -73,6 +80,7 @@
 		}
 		{
 			height: 1.25d
+			id: "07CC24D8AECCEA7F"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_2/top"
 			order: -1
 			rotation: 0.0d
@@ -82,6 +90,7 @@
 		}
 		{
 			height: 3.0d
+			id: "7629146CA4C8EBC5"
 			image: "forbidden_arcanus:item/dark_matter"
 			order: 1
 			rotation: 0.0d
@@ -91,6 +100,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2DE97094F39579EA"
 			image: "forbidden_arcanus:block/black_hole_aura_0"
 			rotation: 0.0d
 			width: 3.0d
@@ -99,6 +109,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4A8E2BF84927F67C"
 			image: "forbidden_arcanus:textures/gui/research/frame/top_right_corner.png"
 			order: -1
 			rotation: 0.0d
@@ -108,6 +119,7 @@
 		}
 		{
 			height: 1.5d
+			id: "03B930883D6D929F"
 			image: "forbidden_arcanus:block/clibano/enchanted_fire/clibano_center_front"
 			rotation: 0.0d
 			width: 1.5d
@@ -116,6 +128,7 @@
 		}
 		{
 			height: 1.5d
+			id: "50EE1379B9A2E19E"
 			image: "forbidden_arcanus:block/clibano/enchanted_fire/clibano_side"
 			rotation: 0.0d
 			width: 1.5d
@@ -124,6 +137,7 @@
 		}
 		{
 			height: 1.5d
+			id: "6AC7D66DE26355BC"
 			image: "forbidden_arcanus:block/edelwood_log/edelwood_log_face"
 			order: 1
 			rotation: 0.0d
@@ -133,6 +147,7 @@
 		}
 		{
 			height: 1.5d
+			id: "178F727EAB903E3B"
 			image: "forbidden_arcanus:block/edelwood_log/edelwood_log_inside"
 			rotation: 0.0d
 			width: 1.5d
@@ -141,6 +156,7 @@
 		}
 		{
 			height: 1.5d
+			id: "4DAC083F86BE85CB"
 			image: "forbidden_arcanus:block/edelwood_log/edelwood_log_leaves"
 			order: -1
 			rotation: 0.0d
@@ -150,6 +166,7 @@
 		}
 		{
 			height: 1.4d
+			id: "0A1CAFABC859A7C7"
 			image: "forbidden_arcanus:block/edelwood_log/edelwood_log_leaves"
 			order: -1
 			rotation: 180.0d
@@ -159,6 +176,7 @@
 		}
 		{
 			height: 4.0d
+			id: "18DEEB5D75C86ED2"
 			image: "forbidden_arcanus:textures/gui/sprites/research/frame/unlock/unlock_4.png"
 			order: -1
 			rotation: 45.0d
@@ -168,6 +186,7 @@
 		}
 		{
 			height: 2.0d
+			id: "037A530A12C12759"
 			image: "forbidden_arcanus:textures/gui/sprites/research/frame/unlock/unlock_1.png"
 			order: -1
 			rotation: 0.0d
@@ -177,6 +196,7 @@
 		}
 		{
 			height: 4.0d
+			id: "6A0D37DBBE1FD033"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/hecate.png"
 			order: -2
 			rotation: 45.0d
@@ -186,6 +206,7 @@
 		}
 		{
 			height: 2.0d
+			id: "33AF7D3B2CAA1E7D"
 			image: "forbidden_arcanus:textures/gui/research/frame/top_left_corner.png"
 			order: -1
 			rotation: 0.0d
@@ -195,6 +216,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2B2F9E3ECDAF5193"
 			image: "forbidden_arcanus:textures/gui/research/frame/top_right_corner.png"
 			order: -1
 			rotation: 90.0d
@@ -204,6 +226,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5C0504E6AF076C02"
 			image: "forbidden_arcanus:textures/gui/research/frame/top_left_corner.png"
 			order: -1
 			rotation: -90.0d
@@ -213,6 +236,7 @@
 		}
 		{
 			height: 1.5d
+			id: "066DFC81DCF4BABB"
 			image: "forbidden_arcanus:item/dark_matter"
 			rotation: 0.0d
 			width: 1.5d
@@ -221,6 +245,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0BF546958FBADCA5"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_3/side"
 			rotation: 0.0d
 			width: 1.0d
@@ -229,6 +254,7 @@
 		}
 		{
 			height: 1.0d
+			id: "19DCECBCED9B6941"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_2/side"
 			rotation: 0.0d
 			width: 1.0d
@@ -237,6 +263,7 @@
 		}
 		{
 			height: 1.0d
+			id: "19BA843F3AD8A3EC"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_4/side"
 			rotation: 0.0d
 			width: 1.0d
@@ -245,6 +272,7 @@
 		}
 		{
 			height: 1.0d
+			id: "541626A3950FF3A3"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_5/side"
 			rotation: 0.0d
 			width: 1.0d
@@ -253,6 +281,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1662F3706EF56AC2"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_1/side"
 			rotation: 0.0d
 			width: 1.0d
@@ -261,6 +290,7 @@
 		}
 		{
 			height: 0.75d
+			id: "506DEB476BB62607"
 			image: "forbidden_arcanus:item/smelter_prism"
 			rotation: 0.0d
 			width: 0.75d
@@ -269,6 +299,7 @@
 		}
 		{
 			height: 0.75d
+			id: "54374EDBC0B76306"
 			image: "forbidden_arcanus:item/terrastomp_prism"
 			rotation: 0.0d
 			width: 0.75d
@@ -277,6 +308,7 @@
 		}
 		{
 			height: 0.75d
+			id: "08B28D2E78A31E10"
 			image: "forbidden_arcanus:item/sea_prism"
 			rotation: 0.0d
 			width: 0.75d
@@ -285,6 +317,7 @@
 		}
 		{
 			height: 0.75d
+			id: "531A6A098B1A88C9"
 			image: "forbidden_arcanus:item/whirlwind_prism"
 			rotation: 0.0d
 			width: 0.75d
@@ -293,6 +326,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0551E420FFAD9451"
 			image: "forbidden_arcanus:item/eternal_stella"
 			rotation: 0.0d
 			width: 1.0d
@@ -301,6 +335,7 @@
 		}
 		{
 			height: 1.0d
+			id: "702688009117C44E"
 			image: "forbidden_arcanus:block/obelisk/arcane_crystal_obelisk_upper"
 			rotation: 0.0d
 			width: 1.0d
@@ -309,6 +344,7 @@
 		}
 		{
 			height: 1.0d
+			id: "266604B1CE8CB6A3"
 			image: "forbidden_arcanus:block/obelisk/arcane_crystal_obelisk_middle"
 			rotation: 0.0d
 			width: 1.0d
@@ -317,6 +353,7 @@
 		}
 		{
 			height: 1.0d
+			id: "141E34058C5D82C5"
 			image: "forbidden_arcanus:block/obelisk_lower"
 			rotation: 0.0d
 			width: 1.0d
@@ -325,6 +362,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7BEBF29D9982D474"
 			image: "forbidden_arcanus:block/obelisk_lower"
 			rotation: 0.0d
 			width: 1.0d
@@ -333,6 +371,7 @@
 		}
 		{
 			height: 1.0d
+			id: "074B3AD818C174B4"
 			image: "forbidden_arcanus:block/obelisk/arcane_crystal_obelisk_middle"
 			rotation: 0.0d
 			width: 1.0d
@@ -341,6 +380,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4BA0F4288D219892"
 			image: "forbidden_arcanus:block/obelisk/arcane_crystal_obelisk_upper"
 			rotation: 0.0d
 			width: 1.0d
@@ -349,6 +389,7 @@
 		}
 		{
 			height: 3.25d
+			id: "4B940F7371250B5A"
 			image: "ftbevolution:textures/quests/titles_and_logos/forbidden_logo.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -357,6 +398,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5456C3D4D6C50032"
 			image: "forbidden_arcanus:textures/particle/soul_5.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -365,6 +407,7 @@
 		}
 		{
 			height: 1.0d
+			id: "12CE87D59212536E"
 			image: "forbidden_arcanus:textures/particle/soul_9.png"
 			rotation: 15.0d
 			width: 1.0d
@@ -373,6 +416,7 @@
 		}
 		{
 			height: 1.0d
+			id: "66D4AAD6AD521F0B"
 			image: "forbidden_arcanus:textures/particle/soul_4.png"
 			rotation: -60.0d
 			width: 1.0d
@@ -381,6 +425,7 @@
 		}
 		{
 			height: 1.0d
+			id: "59FA96FAE58E59F4"
 			image: "forbidden_arcanus:textures/particle/soul_7.png"
 			rotation: 135.0d
 			width: 1.0d
@@ -389,6 +434,7 @@
 		}
 		{
 			height: 3.0d
+			id: "72679D055E5536CC"
 			image: "forbidden_arcanus:block/chiseled_arcane_polished_darkstone"
 			rotation: 45.0d
 			width: 3.0d
@@ -397,6 +443,7 @@
 		}
 		{
 			height: 3.0d
+			id: "09A91224C1534ED3"
 			image: "forbidden_arcanus:block/obelisk_base"
 			order: -1
 			rotation: 0.0d
@@ -406,6 +453,7 @@
 		}
 		{
 			height: 3.0d
+			id: "074A107A4E26DF90"
 			image: "forbidden_arcanus:block/hephaestus_forge/tier_5/top_layer"
 			rotation: 45.0d
 			width: 3.0d
@@ -414,6 +462,7 @@
 		}
 		{
 			height: 5.0d
+			id: "191539AF86A3CE43"
 			image: "forbidden_arcanus:textures/gui/sprites/research/frame/unlock/unlock_5.png"
 			order: -1
 			rotation: 45.0d
@@ -423,6 +472,7 @@
 		}
 		{
 			height: 1.5d
+			id: "340F42B567E3796C"
 			image: "forbidden_arcanus:block/edelwood_log/edelwood_log_face"
 			order: 1
 			rotation: 0.0d
@@ -432,6 +482,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3FFEEE6ACEEA0639"
 			image: "forbidden_arcanus:block/edelwood_log/edelwood_log_face"
 			order: 1
 			rotation: 0.0d

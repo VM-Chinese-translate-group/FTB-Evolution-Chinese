@@ -9,6 +9,7 @@
 		id: "neovitae:ara_vitae"
 	}
 	id: "67DDE0406A5EE303"
+	images: [ ]
 	order_index: 5
 	quest_links: [ ]
 	quests: [
@@ -153,6 +154,8 @@
 				{
 					id: "5D42F6CC5ADFB3C2"
 					item: { components: { "neovitae:spiritus_amount": 1.0d }, count: 1, id: "neovitae:raw_spiritus" }
+					match_components: "fuzzy"
+					optional_task: true
 					type: "item"
 				}
 			]

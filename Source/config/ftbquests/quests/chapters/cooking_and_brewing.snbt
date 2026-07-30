@@ -13,6 +13,7 @@
 		{
 			alpha: 150
 			height: 12.0d
+			id: "6FBCEAFB596894E9"
 			image: "ftbevolution:textures/quests/cooking.png"
 			rotation: 0.0d
 			width: 43.165217391304346d
@@ -21,6 +22,7 @@
 		}
 		{
 			height: 9.0d
+			id: "14DC28054EE86FC5"
 			image: "ftbevolution:textures/quests/merchant.png"
 			rotation: 0.0d
 			width: 5.8591836734693885d
@@ -29,6 +31,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2559014186BF78D1"
 			image: "ftbevolution:textures/quests/titles_and_logos/cook_and_brewing.png"
 			rotation: 0.0d
 			width: 16.333333333333336d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7CE65DAFFAE86148"
 			image: "minecraft:item/cake"
 			rotation: 0.0d
 			width: 1.0d
@@ -45,6 +49,7 @@
 		}
 		{
 			height: 1.0d
+			id: "22269878CA871ED4"
 			image: "minecraft:item/cake"
 			rotation: 0.0d
 			width: 1.0d
@@ -53,6 +58,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4B665F7DEEFED175"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -61,6 +67,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4FFBBADBF92BED30"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -69,6 +76,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7B006A801FEF52EE"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -77,6 +85,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1CB6CDE4CCD050CF"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -85,6 +94,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3B0EFDC58489DD0E"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -93,6 +103,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0F91EF95979A49D5"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -101,6 +112,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2A9E61A6AD4BBFEF"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -109,6 +121,7 @@
 		}
 		{
 			height: 1.0d
+			id: "030709C8DCC06E9E"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -117,6 +130,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1A4CD141A63EE585"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -125,6 +139,7 @@
 		}
 		{
 			height: 1.0d
+			id: "30EE2229BA4E4459"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -133,6 +148,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0DD1DE2B999FD06A"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -141,6 +157,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7FAD04DE360D15D9"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -149,6 +166,7 @@
 		}
 		{
 			height: 1.0d
+			id: "62D0F5B83AB16C96"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -157,6 +175,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5951D45C003EC3C0"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -165,6 +184,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7068BD902DFBE5D5"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -173,6 +193,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5AC4A4A525995872"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -181,6 +202,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5B483C727EE2CC1C"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -189,6 +211,7 @@
 		}
 		{
 			height: 1.0d
+			id: "70DAFFC6738BE84F"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -197,6 +220,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5DBA9AC095FD4CCE"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -205,6 +229,7 @@
 		}
 		{
 			height: 1.0d
+			id: "25C8BFB9244F118C"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -213,6 +238,7 @@
 		}
 		{
 			height: 1.0d
+			id: "46BE954DC9ACC8D4"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -221,6 +247,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7BFC977B2F59F849"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -229,6 +256,7 @@
 		}
 		{
 			height: 1.0d
+			id: "53C0022A02480E4C"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -237,6 +265,7 @@
 		}
 		{
 			height: 1.0d
+			id: "488563C3AF130B9D"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -245,6 +274,7 @@
 		}
 		{
 			height: 1.0d
+			id: "67F8B8B4770EFF10"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -253,6 +283,7 @@
 		}
 		{
 			height: 1.0d
+			id: "02BAB7D0890C3FF2"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -261,6 +292,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1EF41EE833D4DD48"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -269,6 +301,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3538CAE3FDE36BB5"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -277,6 +310,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7B6D3A76D111FD71"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -285,6 +319,7 @@
 		}
 		{
 			height: 1.0d
+			id: "36F1AE6C8DA468E1"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -293,6 +328,7 @@
 		}
 		{
 			height: 1.0d
+			id: "64706DF3A360EF66"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -301,6 +337,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1B72AF1039F61C54"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d
@@ -309,6 +346,7 @@
 		}
 		{
 			height: 1.0d
+			id: "457A6943480322C5"
 			image: "cookingforblockheads:block/spicerack"
 			rotation: 0.0d
 			width: 1.0d

@@ -15,6 +15,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "751034F1A9D3C6EB"
 			image: "forbidden_arcanus:textures/gui/sprites/research/frame/advanced.png"
 			rotation: 45.0d
 			width: 2.0d
@@ -23,6 +24,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1F5F39FBA281D4DC"
 			image: "the_bumblezone:block/royal_jelly_fluid/flow_diagonal"
 			order: -1
 			rotation: 0.0d
@@ -32,6 +34,7 @@
 		}
 		{
 			height: 3.5d
+			id: "768BA6E78D3F3CAC"
 			image: "the_bumblezone:textures/gui/dimension_teleporting_background.png"
 			order: -2
 			rotation: 0.0d
@@ -41,6 +44,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1ADD5495BC5D4105"
 			image: "the_bumblezone:textures/mob_effect/wrath_of_the_hive.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -49,6 +53,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7CD1EB2457832B81"
 			image: "the_bumblezone:textures/mob_effect/wrath_of_the_hive.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -57,6 +62,7 @@
 		}
 		{
 			height: 2.0d
+			id: "64D79C629E38CA22"
 			image: "the_bumblezone:textures/mob_effect/wrath_of_the_hive.png"
 			order: -1
 			rotation: 0.0d
@@ -66,6 +72,7 @@
 		}
 		{
 			height: 3.0d
+			id: "36091BF8349D01F0"
 			image: "the_bumblezone:textures/mob_effect/protection_of_the_hive.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -74,6 +81,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7463EC3357968F81"
 			image: "the_bumblezone:textures/mob_effect/protection_of_the_hive.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -82,6 +90,7 @@
 		}
 		{
 			height: 2.0d
+			id: "57902B8350B83CA3"
 			image: "the_bumblezone:textures/mob_effect/protection_of_the_hive.png"
 			order: -1
 			rotation: 0.0d
@@ -91,6 +100,7 @@
 		}
 		{
 			height: 1.5d
+			id: "4E552F22A0B2AA05"
 			image: "eternal_starlight:textures/gui/screen/book/background.png"
 			rotation: -180.0d
 			width: 1.5d
@@ -99,6 +109,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7EEFB146901F9E7F"
 			image: "minecraft:block/sculk_shrieker_can_summon_inner_top"
 			rotation: 0.0d
 			width: 1.5d
@@ -107,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0E3C92DB0A44C5E0"
 			image: "minecraft:block/cobblestone"
 			rotation: 45.0d
 			width: 1.0d
@@ -116,6 +128,7 @@
 		{
 			color: 5592575
 			height: 1.0d
+			id: "474E60439F0E0688"
 			image: "minecraft:entity/end_portal"
 			rotation: 45.0d
 			width: 1.0d
@@ -124,6 +137,7 @@
 		}
 		{
 			height: 1.0d
+			id: "377F0FE07CE52374"
 			image: "hyperbox:block/hyperbox_wall"
 			rotation: 45.0d
 			width: 1.0d
@@ -132,6 +146,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4173797A770BBF59"
 			image: "minecraft:textures/entity/end_portal.png"
 			rotation: 45.0d
 			width: 1.0d
@@ -140,6 +155,7 @@
 		}
 		{
 			height: 1.0d
+			id: "457E765755ABCA0E"
 			image: "minecraft:block/lava_still"
 			rotation: 45.0d
 			width: 1.0d
@@ -148,6 +164,7 @@
 		}
 		{
 			height: 4.0d
+			id: "3E57995957959E7F"
 			image: "ftbevolution:textures/quests/titles_and_logos/travelers_quest_logo.png"
 			order: -1
 			rotation: 0.0d
@@ -158,6 +175,7 @@
 		{
 			color: 9764864
 			height: 1.0d
+			id: "20C59E84C925976B"
 			image: "minecraft:block/crimson_stem"
 			rotation: 45.0d
 			width: 1.0d
@@ -508,7 +526,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "48858FC6F487FDA0"
-				item: { count: 1, id: "the_bumblezone:honey_compass" }
+				item: { components: { "ftbquests:missing_item": "the_bumblezone:honey_compass" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -875,7 +893,10 @@
 				advancement: "the_bumblezone:the_queens_desire/back_in_action"
 				criterion: ""
 				icon: {
-					id: "the_bumblezone:bee_stinger"
+					components: {
+						"ftbquests:missing_item": "the_bumblezone:bee_stinger"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "54F0F5C856D8A6A5"
 				type: "advancement"
@@ -930,7 +951,10 @@
 				advancement: "the_bumblezone:the_queens_desire/peak_inefficiency"
 				criterion: ""
 				icon: {
-					id: "the_bumblezone:stinger_spear"
+					components: {
+						"ftbquests:missing_item": "the_bumblezone:stinger_spear"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "4F2AE9F95E1AFE27"
 				type: "advancement"
@@ -951,7 +975,10 @@
 				advancement: "the_bumblezone:the_queens_desire/hungry_hungry_bees"
 				criterion: ""
 				icon: {
-					id: "the_bumblezone:sugar_water_bottle"
+					components: {
+						"ftbquests:missing_item": "the_bumblezone:sugar_water_bottle"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "5E8746E064502505"
 				type: "advancement"
@@ -1053,7 +1080,10 @@
 				advancement: "the_bumblezone:the_queens_desire/the_great_dragon_slayer"
 				criterion: ""
 				icon: {
-					id: "the_bumblezone:stingless_bee_helmet_1"
+					components: {
+						"ftbquests:missing_item": "the_bumblezone:stingless_bee_helmet_1"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "633456CDF4ACDADF"
 				type: "advancement"
@@ -1107,8 +1137,11 @@
 					count: 4
 					id: "6503BE3B184EBC58"
 					item: {
+						components: {
+							"ftbquests:missing_item": "the_bumblezone:royal_jelly_bottle"
+						}
 						count: 1
-						id: "the_bumblezone:royal_jelly_bottle"
+						id: "ftbquests:missing_item"
 					}
 					random_bonus: 4
 					type: "item"

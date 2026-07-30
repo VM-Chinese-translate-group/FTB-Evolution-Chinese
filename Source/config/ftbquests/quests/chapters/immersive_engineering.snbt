@@ -12,7 +12,7 @@
 	images: [
 		{
 			height: 8.0d
-			hover: ["Arc Furnace"]
+			id: "1C20F6DC17242574"
 			image: "ftbevolution:textures/quests/immersive/arc_furnace.png"
 			rotation: 0.0d
 			width: 10.745098039215685d
@@ -21,6 +21,7 @@
 		}
 		{
 			height: 5.0d
+			id: "0A4E7EBE2DAC04F1"
 			image: "ftbevolution:textures/quests/immersive/immersive_logo.png"
 			rotation: 0.0d
 			width: 15.060240963855422d

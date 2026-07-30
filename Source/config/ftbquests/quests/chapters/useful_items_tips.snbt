@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "022F98B30034EA38"
 			image: "ftbquests:tasks/input_only"
 			order: -1
 			rotation: 45.0d
@@ -21,6 +22,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2AA4E8483B984833"
 			image: "xycraft_world:block/connected/glass_viewer_silicon_single"
 			order: -1
 			rotation: 0.0d
@@ -30,6 +32,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2CAA75CEB2007CF8"
 			image: "xycraft_world:block/connected/glass_viewer_dire_single"
 			rotation: 0.0d
 			width: 3.0d
@@ -38,6 +41,7 @@
 		}
 		{
 			height: 3.0d
+			id: "272E3257B406D707"
 			image: "xycraft_world:block/connected/glass_viewer_dire_single"
 			rotation: 0.0d
 			width: 3.0d
@@ -46,6 +50,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2807B32D3DB604E0"
 			image: "enderio:block/ctm/clear_glass/particle"
 			rotation: 0.0d
 			width: 3.0d
@@ -54,6 +59,7 @@
 		}
 		{
 			height: 3.0d
+			id: "310D3DE3AADDFD90"
 			image: "enderio:block/ctm/clear_glass/particle"
 			rotation: 0.0d
 			width: 3.0d
@@ -62,6 +68,7 @@
 		}
 		{
 			height: 2.0d
+			id: "70FC701BA0DCAD55"
 			image: "ftbevolution:textures/quests/titles_and_logos/useful_items_title.png"
 			rotation: 0.0d
 			width: 14.2d
@@ -70,6 +77,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6335952A8C895444"
 			image: "ftbquests:tasks/input_only"
 			order: -1
 			rotation: 0.0d
@@ -79,6 +87,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5D1A2CF11034DD54"
 			image: "ftbquests:tasks/input_only"
 			order: -1
 			rotation: 0.0d
@@ -88,6 +97,7 @@
 		}
 		{
 			height: 2.0d
+			id: "516946C7129D0A81"
 			image: "ftbquests:tasks/input_only"
 			order: -1
 			rotation: 0.0d
@@ -97,6 +107,7 @@
 		}
 		{
 			height: 2.0d
+			id: "58A1665D6A281F5A"
 			image: "ftbquests:tasks/input_only"
 			order: -1
 			rotation: 0.0d

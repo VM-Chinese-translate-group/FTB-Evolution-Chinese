@@ -13,6 +13,7 @@
 		{
 			alpha: 191
 			height: 12.5d
+			id: "0D6B27F30EAAF520"
 			image: "ftbevolution:textures/quests/titles_and_logos/tempad_bg.png"
 			order: -10
 			rotation: 0.0d
@@ -23,6 +24,7 @@
 		{
 			alpha: 127
 			height: 1.0d
+			id: "759B51E5E0C46246"
 			image: "tempad:textures/gui/sprites/app/tp_to/normal.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -32,6 +34,7 @@
 		{
 			alpha: 127
 			height: 1.0d
+			id: "46140BF103CABEF3"
 			image: "tempad:textures/gui/sprites/app/timeline/normal.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -41,6 +44,7 @@
 		{
 			alpha: 127
 			height: 1.0d
+			id: "595F9CD68E9A76F4"
 			image: "tempad:textures/gui/sprites/app/knowledge_repository/normal.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +54,7 @@
 		{
 			alpha: 127
 			height: 1.0d
+			id: "1BD61ABD60B37785"
 			image: "tempad:textures/gui/sprites/button/teleport/normal.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -59,6 +64,7 @@
 		{
 			alpha: 127
 			height: 1.0d
+			id: "2943FCF4F8234FBE"
 			image: "tempad:textures/gui/sprites/guide/images/tva.png"
 			rotation: 0.0d
 			width: 2.0d

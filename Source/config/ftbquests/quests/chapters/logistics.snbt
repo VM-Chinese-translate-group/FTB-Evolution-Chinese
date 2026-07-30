@@ -15,6 +15,7 @@
 	images: [
 		{
 			height: 7.0d
+			id: "3D89B3E03847D399"
 			image: "ftbquests:tasks/input_only"
 			order: -3
 			rotation: 0.0d
@@ -24,6 +25,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4C985BAC96266721"
 			image: "ftbevolution:textures/quests/titles_and_logos/logistics_title.png"
 			rotation: 0.0d
 			width: 13.410526315789474d
@@ -33,6 +35,7 @@
 		{
 			alpha: 100
 			height: 6.0d
+			id: "1DC10A4EA43CDE43"
 			image: "xycraft_world:block/connected/glass_viewer_silicon_single"
 			order: -2
 			rotation: 0.0d

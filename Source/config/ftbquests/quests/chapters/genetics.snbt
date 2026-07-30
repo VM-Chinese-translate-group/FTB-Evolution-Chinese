@@ -14,6 +14,7 @@
 	id: "4142E847135C4F5E"
 	images: [{
 		height: 2.5d
+		id: "35B04AC26AC0B4D3"
 		image: "ftbevolution:textures/quests/titles_and_logos/geneticsresequenced.png"
 		rotation: 0.0d
 		width: 2.5d

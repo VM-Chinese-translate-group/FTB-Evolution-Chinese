@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "081BC10FFFF81F26"
 			image: "ae2:block/molecular_assembler_lights"
 			rotation: 0.0d
 			width: 2.0d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1D6BC3636C03E20F"
 			image: "ae2:block/mysterious_cube_side"
 			rotation: 0.0d
 			width: 2.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7B43D40EF02C13D5"
 			image: "xycraft_world:block/connected/glass_viewer_single"
 			order: 1
 			rotation: 0.0d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 1.5d
+			id: "68D8FB58ED5BB4BC"
 			image: "industrialforegoing:block/mob_slaughter_factory_back"
 			rotation: 45.0d
 			width: 1.5d
@@ -45,6 +49,7 @@
 		}
 		{
 			height: 1.5d
+			id: "12A19CC1EB0570F0"
 			image: "industrialforegoing:block/mob_slaughter_factory_back"
 			rotation: 0.0d
 			width: 1.5d
@@ -53,6 +58,7 @@
 		}
 		{
 			height: 1.0d
+			id: "473FABE5445D2D7C"
 			image: "mekanismcovers:block/cover"
 			rotation: 45.0d
 			width: 1.0d
@@ -61,6 +67,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F74CC2BA5EF7FD4"
 			image: "mekanism_lasers:block/energy_storage_casing"
 			order: -1
 			rotation: 45.0d
@@ -70,6 +77,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3F82D413B286F473"
 			image: "xycraft_world:block/connected/lamp_rgb_glowing_single"
 			order: -2
 			rotation: 0.0d
@@ -79,6 +87,7 @@
 		}
 		{
 			height: 1.5d
+			id: "189BBE55EECE0A42"
 			image: "powah:block/solar_panel_nitro_frame"
 			order: -2
 			rotation: 0.0d
@@ -88,6 +97,7 @@
 		}
 		{
 			height: 1.5d
+			id: "5B0539288573F933"
 			image: "powah:block/ender_cell_nitro"
 			order: -1
 			rotation: 45.0d
@@ -97,6 +107,7 @@
 		}
 		{
 			height: 3.0d
+			id: "73EF2501D2E60E99"
 			image: "powah:block/thermo_generator_nitro_top"
 			order: -2
 			rotation: 0.0d
@@ -106,6 +117,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1C3B3916E62D6A9A"
 			image: "powah:block/thermo_generator_nitro_top"
 			order: -2
 			rotation: 0.0d
@@ -115,6 +127,7 @@
 		}
 		{
 			height: 3.0d
+			id: "33FE4766388EF8DF"
 			image: "powah:block/niotic_crystal_block"
 			order: -1
 			rotation: 0.0d
@@ -124,6 +137,7 @@
 		}
 		{
 			height: 3.0d
+			id: "178AAF4384F8D25F"
 			image: "xycraft_world:block/connected/lamp_rgb_glowing_single"
 			rotation: 0.0d
 			width: 3.0d
@@ -132,6 +146,7 @@
 		}
 		{
 			height: 3.5d
+			id: "316C0BCC0641E224"
 			image: "ftbquests:block/detector_on"
 			order: -3
 			rotation: 0.0d
@@ -141,6 +156,7 @@
 		}
 		{
 			height: 3.5d
+			id: "1710BC1AE46530E7"
 			image: "ftbquests:block/detector_on"
 			order: -3
 			rotation: 0.0d
@@ -150,6 +166,7 @@
 		}
 		{
 			height: 3.0d
+			id: "34828117824A2549"
 			image: "powah:block/niotic_crystal_block"
 			order: -1
 			rotation: 0.0d
@@ -159,6 +176,7 @@
 		}
 		{
 			height: 3.0d
+			id: "253AC3D032B0E45A"
 			image: "xycraft_world:block/connected/lamp_rgb_glowing_single"
 			rotation: 0.0d
 			width: 3.0d
@@ -167,6 +185,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5D9BF4FBFBD72B0C"
 			image: "powah:block/solar_panel_nitro_frame"
 			order: -2
 			rotation: 0.0d
@@ -176,6 +195,7 @@
 		}
 		{
 			height: 1.5d
+			id: "094155C7F502AB7D"
 			image: "powah:block/solar_panel_nitro_frame"
 			order: -2
 			rotation: 0.0d
@@ -185,6 +205,7 @@
 		}
 		{
 			height: 1.5d
+			id: "0C12A0AE55DA3768"
 			image: "powah:block/solar_panel_nitro_frame"
 			order: -2
 			rotation: 0.0d
@@ -194,6 +215,7 @@
 		}
 		{
 			height: 1.5d
+			id: "4D26CD5E8ACD15FB"
 			image: "powah:block/solar_panel_nitro_frame"
 			order: -2
 			rotation: 0.0d
@@ -203,6 +225,7 @@
 		}
 		{
 			height: 1.5d
+			id: "168EC45BE0768DAE"
 			image: "powah:block/solar_panel_nitro_frame"
 			order: -2
 			rotation: 0.0d
@@ -212,6 +235,7 @@
 		}
 		{
 			height: 1.5d
+			id: "54C08C347BBC4EE3"
 			image: "powah:block/solar_panel_nitro_frame"
 			order: -2
 			rotation: 0.0d
@@ -221,6 +245,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7284E31ADE077646"
 			image: "mekanism:block/elite_induction_provider_led"
 			rotation: 45.0d
 			width: 2.0d
@@ -230,6 +255,7 @@
 		{
 			alpha: 200
 			height: 2.0d
+			id: "49D136B72082ECAF"
 			image: "xycraft_world:block/connected/glass_viewer_silicon_single"
 			rotation: 45.0d
 			width: 2.0d
@@ -238,6 +264,7 @@
 		}
 		{
 			height: 2.5d
+			id: "7023D8EEF2BDBAE6"
 			image: "industrialforegoing:block/laser_drill_bottom"
 			order: 1
 			rotation: 45.0d
@@ -247,6 +274,7 @@
 		}
 		{
 			height: 2.5d
+			id: "1D33491D32019E9E"
 			image: "ftbquests:tasks/input_only"
 			order: 1
 			rotation: 45.0d
@@ -258,6 +286,7 @@
 			alpha: 155
 			color: 0
 			height: 4.5d
+			id: "3C9047986574F920"
 			image: "ftbquests:textures/shapes/square/background.png"
 			rotation: 0.0d
 			width: 6.5d
@@ -266,6 +295,7 @@
 		}
 		{
 			height: 3.0d
+			id: "46DB6293DE521AB9"
 			image: "ftbevolution:textures/quests/titles_and_logos/power_gen_title.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -274,6 +304,7 @@
 		}
 		{
 			height: 2.0d
+			id: "04DB745AA5A0ACDF"
 			image: "modularrouters:item/upgrade/energy_upgrade"
 			order: -1
 			rotation: 90.0d
@@ -283,6 +314,7 @@
 		}
 		{
 			height: 2.0d
+			id: "424064C1E536BA81"
 			image: "modularrouters:item/upgrade/energy_upgrade"
 			order: -1
 			rotation: -90.0d
@@ -292,6 +324,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1BEA87D4BFD43CC5"
 			image: "powah:item/battery_nitro"
 			rotation: 0.0d
 			width: 3.0d
@@ -300,6 +333,7 @@
 		}
 		{
 			height: 5.0d
+			id: "67E42DF502EC753C"
 			image: "mekanismgenerators:block/fission_reactor_casing"
 			rotation: 0.0d
 			width: 5.0d
@@ -308,6 +342,7 @@
 		}
 		{
 			height: 1.6d
+			id: "7F7D6FA9731D5649"
 			image: "mekanismgenerators:block/fission_reactor_port_output_coolant"
 			rotation: 0.0d
 			width: 1.6d
@@ -316,6 +351,7 @@
 		}
 		{
 			height: 1.6d
+			id: "346A26327925CCDD"
 			image: "mekanismgenerators:block/fission_reactor_port_output_waste"
 			rotation: 0.0d
 			width: 1.6d
@@ -324,6 +360,7 @@
 		}
 		{
 			height: 1.6d
+			id: "1DA5671DE46AAAA8"
 			image: "mekanismgenerators:block/fission_reactor_logic_adapter"
 			rotation: 0.0d
 			width: 1.6d
@@ -332,6 +369,7 @@
 		}
 		{
 			height: 1.6d
+			id: "5DEE408D1D70CC7A"
 			image: "mekanismgenerators:block/fission_reactor_port_input"
 			rotation: 0.0d
 			width: 1.6d
@@ -340,6 +378,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6ADE057C5846DE13"
 			image: "productivetrees:block/leaves/flickering_sun"
 			rotation: 0.0d
 			width: 1.0d

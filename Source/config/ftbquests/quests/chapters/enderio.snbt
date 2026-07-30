@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 1.25d
+			id: "4E4C40D942312696"
 			image: "enderio:textures/gui/sprites/conduit_icon/energy.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 1.5d
+			id: "15176D26EA48BEC2"
 			image: "enderio:block/enhanced_machine_chassis"
 			rotation: 45.0d
 			width: 1.5d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 1.5d
+			id: "5024B44E8FE916F2"
 			image: "xycraft_world:block/connected/glass_viewer_silicon_single"
 			order: 1
 			rotation: 45.0d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5CE0469E0511E9FB"
 			image: "minecraft:block/fire_1"
 			rotation: 0.0d
 			width: 2.0d
@@ -45,6 +49,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0B8A5A3E2C7D5B95"
 			image: "minecraft:block/bedrock"
 			rotation: 0.0d
 			width: 2.0d
@@ -53,6 +58,7 @@
 		}
 		{
 			height: 1.5d
+			id: "6E4F4A9C148851A4"
 			image: "enderio:block/void_chassis"
 			rotation: 0.0d
 			width: 1.5d
@@ -61,6 +67,7 @@
 		}
 		{
 			height: 0.5d
+			id: "56FC7CC78D38A834"
 			image: "ftblibrary:textures/faces/minecraft/enderman.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -69,6 +76,7 @@
 		}
 		{
 			height: 0.5d
+			id: "5A61C829C9A02BF4"
 			image: "ftblibrary:textures/faces/minecraft/enderman.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -77,6 +85,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4DDCCF0E63628770"
 			image: "enderio:block/xp_juice_flowing"
 			rotation: 0.0d
 			width: 1.0d
@@ -85,6 +94,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5F8B2C452A2E3A86"
 			image: "enderio:block/ender_still"
 			rotation: 0.0d
 			width: 1.0d
@@ -94,6 +104,7 @@
 		{
 			color: 5636095
 			height: 1.0d
+			id: "237083878EFACF08"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 1.0d
@@ -102,6 +113,7 @@
 		}
 		{
 			height: 1.5d
+			id: "64233F34F84BFF88"
 			image: "enderio:item/conduit_facade"
 			rotation: 45.0d
 			width: 1.5d
@@ -110,6 +122,7 @@
 		}
 		{
 			height: 2.0d
+			id: "01DA4D71BEC11593"
 			image: "minecraft:block/end_portal_frame_top"
 			rotation: 45.0d
 			width: 2.0d
@@ -118,6 +131,7 @@
 		}
 		{
 			height: 1.0d
+			id: "09B3EA7FC1440316"
 			image: "enderio:item/ender_resonator"
 			rotation: 0.0d
 			width: 1.0d
@@ -126,6 +140,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2927DBE655E19FEC"
 			image: "enderio:item/zombie_electrode"
 			rotation: 0.0d
 			width: 1.0d
@@ -134,6 +149,7 @@
 		}
 		{
 			height: 1.0d
+			id: "54780294930C3B9F"
 			image: "enderio:item/soularium_nugget"
 			rotation: 30.0d
 			width: 1.0d
@@ -142,6 +158,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3D37EC82B9A649E0"
 			image: "enderio:item/soularium_nugget"
 			rotation: 135.0d
 			width: 1.0d
@@ -152,6 +169,7 @@
 			alpha: 175
 			color: 16733695
 			height: 1.0d
+			id: "16ADC89BAD9957B1"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 1.0d
@@ -162,6 +180,7 @@
 			alpha: 100
 			color: 5592575
 			height: 1.0d
+			id: "3E1EF99518AB4809"
 			image: "ftbquests:tasks/input_only"
 			rotation: 45.0d
 			width: 1.0d
@@ -170,6 +189,7 @@
 		}
 		{
 			height: 1.0d
+			id: "52B30D46B51659C0"
 			image: "xycraft_world:block/connected/glass_viewer_glowing_single"
 			rotation: 0.0d
 			width: 1.0d
@@ -178,6 +198,7 @@
 		}
 		{
 			height: 1.0d
+			id: "79B986FFEADA09B7"
 			image: "xycraft_world:block/connected/glass_viewer_silicon_single"
 			rotation: 0.0d
 			width: 1.0d
@@ -187,6 +208,7 @@
 		{
 			color: 16733525
 			height: 1.0d
+			id: "3393BFA3114713A0"
 			image: "xycraft_world:block/connected/glass_viewer_silicon_single"
 			rotation: 0.0d
 			width: 1.0d
@@ -195,6 +217,7 @@
 		}
 		{
 			height: 8.0d
+			id: "4448527E76E261EB"
 			image: "ftbevolution:textures/quests/enderio/enderface_none.png"
 			rotation: 0.0d
 			width: 8.0d

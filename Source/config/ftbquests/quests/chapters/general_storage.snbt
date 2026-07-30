@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "04C2CBB22746FFA9"
 			image: "functionalstorage:item/copper_upgrade"
 			rotation: 0.0d
 			width: 1.0d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 1.5d
+			id: "536F46BC8643236C"
 			image: "sophisticatedstorage:block/gold_barrel_bottom"
 			order: 1
 			rotation: 45.0d
@@ -29,6 +31,7 @@
 		}
 		{
 			height: 2.5d
+			id: "1EFA3116ADC0D46F"
 			image: "easy_piglins:block/top_frame"
 			order: -1
 			rotation: 45.0d
@@ -38,6 +41,7 @@
 		}
 		{
 			height: 1.5d
+			id: "06213E09F67EF173"
 			image: "chipped:block/barrel/oak_barrel_bottom"
 			rotation: 45.0d
 			width: 1.5d
@@ -46,6 +50,7 @@
 		}
 		{
 			height: 1.0d
+			id: "40C38684891E2603"
 			image: "functionalstorage:block/framed_side"
 			order: -1
 			rotation: 0.0d
@@ -55,6 +60,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7DEB7827E483A2F5"
 			image: "functionalstorage:block/controller_front"
 			order: -1
 			rotation: 0.0d
@@ -64,6 +70,7 @@
 		}
 		{
 			height: 2.0d
+			id: "69224BA728FB8059"
 			image: "enderio:block/ctm/clear_glass/particle"
 			rotation: 45.0d
 			width: 2.0d
@@ -72,6 +79,7 @@
 		}
 		{
 			height: 2.0d
+			id: "394DD2F587596D64"
 			image: "enderio:block/ctm/clear_glass/particle"
 			rotation: 45.0d
 			width: 2.0d
@@ -80,6 +88,7 @@
 		}
 		{
 			height: 3.0d
+			id: "24D0C1E39E65F658"
 			image: "ftbevolution:textures/quests/titles_and_logos/storage_text.png"
 			rotation: 0.0d
 			width: 8.892857142857142d
@@ -88,6 +97,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1ACB5E511EF7B048"
 			image: "ftbevolution:textures/quests/chest.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -96,6 +106,7 @@
 		}
 		{
 			height: 1.5d
+			id: "08C9B31B69ADC4C3"
 			image: "ftbevolution:textures/quests/chestflipped.png"
 			rotation: 0.0d
 			width: 1.5d
