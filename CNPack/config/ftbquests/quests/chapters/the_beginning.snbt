@@ -12,6 +12,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "39C89C63901DD8C6"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/hecate.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -20,6 +21,7 @@
 		}
 		{
 			height: 1.5d
+			id: "09645A12A4061E46"
 			image: "forbidden_arcanus:textures/effect/magic_circle/outer/attract.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -29,6 +31,7 @@
 		{
 			color: 5592575
 			height: 1.0d
+			id: "6232DA4820AAC09C"
 			image: "minecraft:block/water_still"
 			order: -1
 			rotation: 45.0d
@@ -38,6 +41,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5A06BB5483A1EC9A"
 			image: "xycraft_world:block/connected/lamp_rgb_glowing_single"
 			rotation: 0.0d
 			width: 2.0d
@@ -46,6 +50,7 @@
 		}
 		{
 			height: 3.0d
+			id: "364FFC339B4E6A95"
 			image: "forbidden_arcanus:textures/effect/magic_circle/inner/damnare.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -54,6 +59,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4128606AB7532D04"
 			image: "xycraft_world:block/connected/glass_viewer_single"
 			rotation: 0.0d
 			width: 2.0d
@@ -63,6 +69,7 @@
 		{
 			color: 5592575
 			height: 1.0d
+			id: "0131F24D1D217708"
 			image: "minecraft:block/water_still"
 			order: -1
 			rotation: 0.0d
@@ -72,6 +79,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3DE02B945DB23FF2"
 			image: "minecraft:block/cobblestone"
 			rotation: 0.0d
 			width: 1.0d
@@ -80,6 +88,7 @@
 		}
 		{
 			height: 1.0d
+			id: "20594C9F345F6C4E"
 			image: "ars_nouveau:block/log_oak_top"
 			rotation: 0.0d
 			width: 1.0d
@@ -88,6 +97,7 @@
 		}
 		{
 			height: 6.0d
+			id: "7AB6030C74FB1825"
 			image: "ftbevolution:textures/quests/topview2.png"
 			rotation: 0.0d
 			width: 10.32808988764045d
@@ -96,6 +106,7 @@
 		}
 		{
 			height: 10.0d
+			id: "528F95BF68AD6C01"
 			image: "ftbevolution:textures/quests/enderdragon.png"
 			rotation: 0.0d
 			width: 19.4d
@@ -104,6 +115,7 @@
 		}
 		{
 			height: 3.5d
+			id: "339F7CA6D114FFA7"
 			image: "ftbevolution:textures/quests/titles_and_logos/getting_started_title.png"
 			rotation: 0.0d
 			width: 9.645933014354068d

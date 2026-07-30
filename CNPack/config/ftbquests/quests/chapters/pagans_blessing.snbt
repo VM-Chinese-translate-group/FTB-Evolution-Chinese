@@ -17,6 +17,7 @@
 	images: [
 		{
 			height: 4.5d
+			id: "55573E0B9F588B2B"
 			image: "ftbevolution:textures/quests/titles_and_logos/roots_classic_logo.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -25,6 +26,7 @@
 		}
 		{
 			height: 5.0d
+			id: "694CB34B814E5063"
 			image: "ftbevolution:textures/quests/titles_and_logos/pagan_logo.png"
 			rotation: 0.0d
 			width: 5.0d
