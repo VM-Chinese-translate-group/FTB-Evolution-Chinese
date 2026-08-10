@@ -7855,10 +7855,8 @@
 		"Combining &aSulfuric Trioxide&r with &bWater Vapor&r in a Chemical Infuser will give you &eSulfuric Acid&r."
 		""
 		"This is a strong acid used to break down certain items in a &6Chemical Dissolution Chamber&r. It is needed for the progression!"
-		""
-		"&7You'll need to put the chemical through a &aRotary Condensentrator &7in order to bucket or pump a bucket's worth (1000mB) into an assigned &aTask Screen&r."
 	]
-	quest.4EAE9F58776D84C8.title: "&fSulfuric Acid"
+	quest.4EAE9F58776D84C8.title: "&6Sulfuric Acid&f"
 	quest.4EB43B146ED82F1E.quest_desc: ["Turns the wearer into John Cena."]
 	quest.4EB43B146ED82F1E.title: "&5Midnight Robe"
 	quest.4ECDF58A8FB43590.quest_subtitle: "Transfers Gases or Chemicals"
@@ -12685,6 +12683,7 @@
 	task.344DCD6A3921B1ED.title: "Efficiency Upgrades"
 	task.345089696B5A7211.title: "Food Diversity"
 	task.346A097A266F1BCD.title: "&fA Note For The Questline"
+	task.34AE87901BB09814.title: "&6Sulfuric Acid&f"
 	task.34C81AE26CFD0DE9.title: "&eSummon&r: &dGuardian"
 	task.34E4854C5D701F99.title: "&fDimensional Storage Actuator"
 	task.34F38A214F5DEFC3.title: "&eSummoning Rituals"
