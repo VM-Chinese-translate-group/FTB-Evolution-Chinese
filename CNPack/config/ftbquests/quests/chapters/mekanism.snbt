@@ -1620,26 +1620,10 @@
 				type: "loot"
 			}]
 			shape: "hexagon"
-			tasks: [
-				{
-					fluid: {
-						amount: 1000
-						id: "modern_industrialization:sulfuric_acid"
-					}
-					id: "0FC6E89DD1C13CEA"
-					optional_task: true
-					type: "fluid"
-				}
-				{
-					id: "0B4D753BAE5A3568"
-					item: {
-						count: 1
-						id: "modern_industrialization:sulfuric_acid_bucket"
-					}
-					optional_task: true
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "34AE87901BB09814"
+				type: "checkmark"
+			}]
 			x: 4.5d
 			y: 9.0d
 		}
