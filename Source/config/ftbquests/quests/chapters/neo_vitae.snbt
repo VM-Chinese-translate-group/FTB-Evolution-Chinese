@@ -1267,6 +1267,7 @@
 						id: "neovitae:essentia_vitae_bucket"
 					}
 					id: "5F260183479B3F42"
+					permission_level: 3
 					type: "command"
 				}
 			]
@@ -1748,6 +1749,24 @@
 		{
 			dependencies: ["3BB1A111D7035936"]
 			id: "1AB874D6EADDB75D"
+			rewards: [
+				{
+					id: "5A51CCA7AEF98AF8"
+					item: {
+						count: 1
+						id: "neovitae:rune_sacrifice"
+					}
+					type: "item"
+				}
+				{
+					id: "6FA3657676D22AAE"
+					item: {
+						count: 1
+						id: "neovitae:rune_sacrifice_self"
+					}
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			size: 1.25d
 			tasks: [{

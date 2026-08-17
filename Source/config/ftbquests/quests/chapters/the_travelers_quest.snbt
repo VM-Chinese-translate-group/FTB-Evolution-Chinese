@@ -517,6 +517,9 @@
 		}
 		{
 			dependencies: ["6A5EC34554DB4B95"]
+			icon: {
+				id: "the_bumblezone:honey_compass"
+			}
 			id: "40BBCE1F8363235B"
 			rewards: [{
 				id: "37096669C2E13FA4"
@@ -525,8 +528,8 @@
 			}]
 			shape: "hexagon"
 			tasks: [{
-				id: "48858FC6F487FDA0"
-				item: { components: { "ftbquests:missing_item": "the_bumblezone:honey_compass" }, count: 1, id: "ftbquests:missing_item" }
+				id: "073AFD857D2C8470"
+				item: { count: 1, id: "the_bumblezone:honey_compass" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -883,6 +886,9 @@
 		}
 		{
 			dependencies: ["196CFDFF585A2E85"]
+			icon: {
+				id: "the_bumblezone:bee_queen_spawn_egg"
+			}
 			id: "1E88395535AA93DC"
 			rewards: [{
 				id: "2141150D938137BC"
@@ -892,13 +898,7 @@
 			tasks: [{
 				advancement: "the_bumblezone:the_queens_desire/back_in_action"
 				criterion: ""
-				icon: {
-					components: {
-						"ftbquests:missing_item": "the_bumblezone:bee_stinger"
-					}
-					id: "ftbquests:missing_item"
-				}
-				id: "54F0F5C856D8A6A5"
+				id: "609B3621C5E87310"
 				type: "advancement"
 			}]
 			x: -0.5d
@@ -926,6 +926,9 @@
 		}
 		{
 			dependencies: ["57229B7D91D3DD38"]
+			icon: {
+				id: "the_bumblezone:bee_queen_spawn_egg"
+			}
 			id: "227EFF4851CA07D1"
 			rewards: [
 				{
@@ -950,13 +953,7 @@
 			tasks: [{
 				advancement: "the_bumblezone:the_queens_desire/peak_inefficiency"
 				criterion: ""
-				icon: {
-					components: {
-						"ftbquests:missing_item": "the_bumblezone:stinger_spear"
-					}
-					id: "ftbquests:missing_item"
-				}
-				id: "4F2AE9F95E1AFE27"
+				id: "71719A6C29AAD075"
 				type: "advancement"
 			}]
 			x: -2.5d
@@ -964,6 +961,9 @@
 		}
 		{
 			dependencies: ["227EFF4851CA07D1"]
+			icon: {
+				id: "the_bumblezone:bee_queen_spawn_egg"
+			}
 			id: "3E692E6066ECB45B"
 			min_width: 200
 			rewards: [{
@@ -974,13 +974,7 @@
 			tasks: [{
 				advancement: "the_bumblezone:the_queens_desire/hungry_hungry_bees"
 				criterion: ""
-				icon: {
-					components: {
-						"ftbquests:missing_item": "the_bumblezone:sugar_water_bottle"
-					}
-					id: "ftbquests:missing_item"
-				}
-				id: "5E8746E064502505"
+				id: "7692DD4DB05E3FD8"
 				type: "advancement"
 			}]
 			x: -2.5d
@@ -1054,6 +1048,9 @@
 		}
 		{
 			dependencies: ["0EB231522990C9DA"]
+			icon: {
+				id: "the_bumblezone:bee_queen_spawn_egg"
+			}
 			id: "757191CC5F6D98CC"
 			min_width: 300
 			rewards: [
@@ -1079,13 +1076,7 @@
 			tasks: [{
 				advancement: "the_bumblezone:the_queens_desire/the_great_dragon_slayer"
 				criterion: ""
-				icon: {
-					components: {
-						"ftbquests:missing_item": "the_bumblezone:stingless_bee_helmet_1"
-					}
-					id: "ftbquests:missing_item"
-				}
-				id: "633456CDF4ACDADF"
+				id: "4586DE19ADCF8917"
 				type: "advancement"
 			}]
 			x: -1.5d

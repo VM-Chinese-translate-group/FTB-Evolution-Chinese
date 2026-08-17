@@ -2629,6 +2629,13 @@
 		"While looking into the air, using the tool will switch between adding or removing drawers. If you sneak-use the tool in the air, it will switch between adding a single drawer at a time, or multiple!"
 	]
 	quest.1AA08B095A8B378F.title: "&fLinking Drawers"
+	quest.1AB874D6EADDB75D.quest_desc: [
+		"In order to build a more powerful altar you will need &2runes&r to upgrade it. You'll need 8 for the first tier upgrade. Blank &2runes&r will work but the variant runes will provide much more power to your altar in the long run. "
+		""
+		"The good news is you can &eupgrade&r the blank runes into more useful variants as you progress. "
+		""
+		"&6NOTE:&r The Orb is NOT consumed when crafting these."
+	]
 	quest.1AB874D6EADDB75D.title: "Tier 2"
 	quest.1ABA5F2ECAA6D9D2.quest_desc: [
 		"&eMekanism&r offers some of the best logistics cables and pipes in the pack! These items can be upgraded in the world, and also have an internal buffer."
@@ -7855,10 +7862,8 @@
 		"Combining &aSulfuric Trioxide&r with &bWater Vapor&r in a Chemical Infuser will give you &eSulfuric Acid&r."
 		""
 		"This is a strong acid used to break down certain items in a &6Chemical Dissolution Chamber&r. It is needed for the progression!"
-		""
-		"&7You'll need to put the chemical through a &aRotary Condensentrator &7in order to bucket or pump a bucket's worth (1000mB) into an assigned &aTask Screen&r."
 	]
-	quest.4EAE9F58776D84C8.title: "&fSulfuric Acid"
+	quest.4EAE9F58776D84C8.title: "&6Sulfuric Acid&f"
 	quest.4EB43B146ED82F1E.quest_desc: ["Turns the wearer into John Cena."]
 	quest.4EB43B146ED82F1E.title: "&5Midnight Robe"
 	quest.4ECDF58A8FB43590.quest_subtitle: "Transfers Gases or Chemicals"
@@ -12518,8 +12523,12 @@
 	quest.7FF04E6E35CA419F.quest_desc: ["While out adventuring in the world, you are likely to run into &9Sourceberry Bushes&r. These will drop Sourceberries when harvested that can be eaten to give &9Mana Regen&r for a few seconds!"]
 	quest.7FF04E6E35CA419F.title: "&bRestoring Mana"
 	quest.7FF2F7E49EF7512E.title: "&2Prudentium &fMachine Upgrade"
+	reward.53A32BDE506D3A8C.title: "+500 EV"
+	reward.58FC98BAEDB8920C.title: "+10000 EV"
+	reward.5E62E9CA6162C2E0.title: "+1000 EV"
 	reward.5F260183479B3F42.title: "+2500 EV"
 	reward.6151767D816C3443.title: "+250 EV"
+	reward.64C5DA9AA3A26E3E.title: "+500 EV"
 	task.0029527998A30224.title: "Energy Relay Crystals"
 	task.00A4D09EDA359F3C.title: "&fQuantum Storage"
 	task.00F90C52CBAECEBB.title: "&dSpell &aInks"
@@ -12685,6 +12694,7 @@
 	task.344DCD6A3921B1ED.title: "Efficiency Upgrades"
 	task.345089696B5A7211.title: "Food Diversity"
 	task.346A097A266F1BCD.title: "&fA Note For The Questline"
+	task.34AE87901BB09814.title: "&6Sulfuric Acid&f"
 	task.34C81AE26CFD0DE9.title: "&eSummon&r: &dGuardian"
 	task.34E4854C5D701F99.title: "&fDimensional Storage Actuator"
 	task.34F38A214F5DEFC3.title: "&eSummoning Rituals"
