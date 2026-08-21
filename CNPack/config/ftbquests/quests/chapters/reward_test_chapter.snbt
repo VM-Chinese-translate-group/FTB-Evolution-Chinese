@@ -3292,6 +3292,7 @@
 									{
 										Name: "minecraft:bamboo_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											shape: "straight"
@@ -3301,6 +3302,7 @@
 									{
 										Name: "chipped:heavy_bamboo_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											open: "true"
@@ -3323,6 +3325,7 @@
 									{
 										Name: "minecraft:bamboo_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "bottom"
 											waterlogged: "false"
 										}
@@ -3330,6 +3333,7 @@
 									{
 										Name: "minecraft:spruce_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "top"
 											waterlogged: "false"
 										}
@@ -3337,6 +3341,7 @@
 									{
 										Name: "minecraft:bamboo_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "top"
 											waterlogged: "false"
 										}
@@ -3344,6 +3349,7 @@
 									{
 										Name: "minecraft:spruce_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "double"
 											waterlogged: "false"
 										}
@@ -3361,6 +3367,7 @@
 									{
 										Name: "chipped:heavy_bamboo_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											open: "true"
@@ -3379,6 +3386,7 @@
 									{
 										Name: "minecraft:bamboo_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											shape: "straight"
@@ -3388,6 +3396,7 @@
 									{
 										Name: "chipped:heavy_bamboo_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "bottom"
 											open: "false"
@@ -3398,6 +3407,7 @@
 									{
 										Name: "chipped:heavy_bamboo_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											open: "false"
@@ -3408,6 +3418,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "top"
 											shape: "straight"
@@ -3417,6 +3428,7 @@
 									{
 										Name: "chipped:heavy_bamboo_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "top"
 											open: "false"
@@ -3427,6 +3439,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "top"
 											shape: "straight"
@@ -3436,6 +3449,7 @@
 									{
 										Name: "chipped:heavy_bamboo_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "top"
 											open: "false"
@@ -3452,6 +3466,7 @@
 									{
 										Name: "minecraft:spruce_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "bottom"
 											waterlogged: "false"
 										}
@@ -3459,6 +3474,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											shape: "straight"
@@ -3468,6 +3484,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											shape: "straight"
@@ -3477,6 +3494,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "bottom"
 											open: "true"
@@ -3487,6 +3505,7 @@
 									{
 										Name: "minecraft:bamboo_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "double"
 											waterlogged: "false"
 										}
@@ -3494,6 +3513,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "top"
 											open: "true"
@@ -3504,6 +3524,7 @@
 									{
 										Name: "chipped:heavy_bamboo_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "bottom"
 											open: "true"
@@ -3514,6 +3535,7 @@
 									{
 										Name: "farmersdelight:yellow_wall_hanging_canvas_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											waterlogged: "false"
 										}
@@ -3574,6 +3596,7 @@
 									{
 										Name: "chipped:heavy_bamboo_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "bottom"
 											open: "true"
@@ -3605,6 +3628,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "top"
 											open: "true"
@@ -3622,6 +3646,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "bottom"
 											open: "true"
@@ -6912,6 +6937,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											shape: "straight"
@@ -6927,6 +6953,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "top"
 											shape: "straight"
@@ -6945,6 +6972,7 @@
 									{
 										Name: "productivetrees:sugar_maple_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											shape: "straight"
@@ -6954,6 +6982,7 @@
 									{
 										Name: "productivetrees:sugar_maple_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "bottom"
 											waterlogged: "false"
 										}
@@ -6962,6 +6991,7 @@
 										Name: "chipped:arched_red_stained_glass_pane_pillar"
 										Properties: {
 											east: "false"
+											essentia_logged: "false"
 											north: "true"
 											south: "true"
 											waterlogged: "false"
@@ -6988,6 +7018,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "top"
 											shape: "straight"
@@ -6997,6 +7028,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											open: "true"
@@ -7021,6 +7053,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											shape: "straight"
@@ -7041,6 +7074,7 @@
 									{
 										Name: "productivetrees:sugar_maple_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											shape: "straight"
@@ -7056,6 +7090,7 @@
 									{
 										Name: "productivetrees:sugar_maple_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "bottom"
 											shape: "inner_right"
@@ -7076,6 +7111,7 @@
 										Name: "minecraft:mud_brick_wall"
 										Properties: {
 											east: "none"
+											essentia_logged: "false"
 											north: "none"
 											south: "none"
 											up: "true"
@@ -7086,6 +7122,7 @@
 									{
 										Name: "productivetrees:sugar_maple_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "bottom"
 											shape: "inner_left"
@@ -7096,6 +7133,7 @@
 										Name: "minecraft:jungle_fence"
 										Properties: {
 											east: "false"
+											essentia_logged: "false"
 											north: "false"
 											south: "false"
 											waterlogged: "false"
@@ -7106,6 +7144,7 @@
 										Name: "chipped:apple_oak_leaves"
 										Properties: {
 											distance: "7"
+											essentia_logged: "false"
 											persistent: "true"
 											waterlogged: "false"
 										}
@@ -7113,6 +7152,7 @@
 									{
 										Name: "productivetrees:sugar_maple_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "bottom"
 											shape: "inner_right"
@@ -7133,6 +7173,7 @@
 										Name: "chipped:arched_red_stained_glass_pane_pillar"
 										Properties: {
 											east: "true"
+											essentia_logged: "false"
 											north: "false"
 											south: "false"
 											waterlogged: "false"
@@ -7142,6 +7183,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											open: "true"
@@ -7236,6 +7278,7 @@
 									{
 										Name: "minecraft:spruce_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "double"
 											waterlogged: "false"
 										}
@@ -7243,6 +7286,7 @@
 									{
 										Name: "minecraft:spruce_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "bottom"
 											waterlogged: "false"
 										}
@@ -11458,6 +11502,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											shape: "straight"
@@ -11482,6 +11527,7 @@
 									{
 										Name: "minecraft:spruce_wall_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											waterlogged: "false"
 										}
@@ -11489,6 +11535,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "top"
 											open: "false"
@@ -11499,6 +11546,7 @@
 									{
 										Name: "minecraft:diorite_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											shape: "straight"
@@ -11509,6 +11557,7 @@
 										Name: "chipped:circular_white_stained_glass_pane"
 										Properties: {
 											east: "false"
+											essentia_logged: "false"
 											north: "true"
 											south: "true"
 											waterlogged: "false"
@@ -11518,6 +11567,7 @@
 									{
 										Name: "minecraft:campfire"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											lit: "false"
 											signal_fire: "false"
@@ -11528,6 +11578,7 @@
 										Name: "minecraft:tuff_brick_wall"
 										Properties: {
 											east: "none"
+											essentia_logged: "false"
 											north: "none"
 											south: "none"
 											up: "true"
@@ -11547,6 +11598,7 @@
 									{
 										Name: "minecraft:diorite_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											shape: "straight"
@@ -11566,6 +11618,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "bottom"
 											open: "true"
@@ -11587,6 +11640,7 @@
 										Name: "chipped:white_flower_oak_leaves"
 										Properties: {
 											distance: "1"
+											essentia_logged: "false"
 											persistent: "true"
 											waterlogged: "false"
 										}
@@ -11604,6 +11658,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											open: "false"
@@ -11614,6 +11669,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											shape: "straight"
@@ -11623,6 +11679,7 @@
 									{
 										Name: "minecraft:diorite_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "bottom"
 											waterlogged: "false"
 										}
@@ -11648,6 +11705,7 @@
 									{
 										Name: "minecraft:spruce_wall_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											waterlogged: "false"
 										}
@@ -11673,6 +11731,7 @@
 									{
 										Name: "minecraft:spruce_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "double"
 											waterlogged: "false"
 										}
@@ -11680,6 +11739,7 @@
 									{
 										Name: "minecraft:spruce_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "top"
 											waterlogged: "false"
 										}
@@ -11693,6 +11753,7 @@
 									{
 										Name: "minecraft:spruce_wall_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											waterlogged: "false"
 										}
@@ -11700,6 +11761,7 @@
 									{
 										Name: "chipped:slotted_spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "top"
 											open: "true"
@@ -11710,6 +11772,7 @@
 									{
 										Name: "minecraft:spruce_wall_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											waterlogged: "false"
 										}
@@ -11717,6 +11780,7 @@
 									{
 										Name: "chipped:slotted_spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "top"
 											open: "true"
@@ -11727,6 +11791,7 @@
 									{
 										Name: "chipped:slotted_spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "top"
 											open: "true"
@@ -11737,6 +11802,7 @@
 									{
 										Name: "minecraft:spruce_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "bottom"
 											waterlogged: "false"
 										}
@@ -11744,6 +11810,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "top"
 											shape: "straight"
@@ -11753,6 +11820,7 @@
 									{
 										Name: "minecraft:spruce_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "top"
 											shape: "straight"
@@ -11763,6 +11831,7 @@
 										Name: "minecraft:spruce_fence"
 										Properties: {
 											east: "false"
+											essentia_logged: "false"
 											north: "false"
 											south: "false"
 											waterlogged: "false"
@@ -11790,6 +11859,7 @@
 									{
 										Name: "chipped:slotted_spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "top"
 											open: "true"
@@ -11800,6 +11870,7 @@
 									{
 										Name: "farmersdelight:white_wall_hanging_canvas_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											waterlogged: "false"
 										}
@@ -11811,6 +11882,7 @@
 										Name: "minecraft:mud_brick_wall"
 										Properties: {
 											east: "none"
+											essentia_logged: "false"
 											north: "none"
 											south: "none"
 											up: "true"
@@ -11849,6 +11921,7 @@
 										Name: "minecraft:decorated_pot"
 										Properties: {
 											cracked: "false"
+											essentia_logged: "false"
 											facing: "west"
 											waterlogged: "false"
 										}
@@ -11887,6 +11960,7 @@
 										Name: "chipped:white_flower_oak_leaves"
 										Properties: {
 											distance: "2"
+											essentia_logged: "false"
 											persistent: "true"
 											waterlogged: "false"
 										}
@@ -11908,6 +11982,7 @@
 										Name: "chipped:white_flower_oak_leaves"
 										Properties: {
 											distance: "3"
+											essentia_logged: "false"
 											persistent: "true"
 											waterlogged: "false"
 										}
@@ -11974,6 +12049,7 @@
 										Name: "chipped:circular_white_stained_glass_pane"
 										Properties: {
 											east: "true"
+											essentia_logged: "false"
 											north: "false"
 											south: "false"
 											waterlogged: "false"
@@ -12078,6 +12154,7 @@
 									{
 										Name: "chipped:slotted_spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											open: "true"
@@ -16043,6 +16120,7 @@
 									{
 										Name: "minecraft:spruce_wall_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											waterlogged: "false"
 										}
@@ -16051,6 +16129,7 @@
 										Name: "chipped:arched_light_gray_stained_glass_pane_pillar"
 										Properties: {
 											east: "false"
+											essentia_logged: "false"
 											north: "true"
 											south: "true"
 											waterlogged: "false"
@@ -16069,6 +16148,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "bottom"
 											shape: "straight"
@@ -16086,6 +16166,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "bottom"
 											shape: "inner_right"
@@ -16095,6 +16176,7 @@
 									{
 										Name: "minecraft:spruce_wall_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											waterlogged: "false"
 										}
@@ -16102,6 +16184,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											shape: "straight"
@@ -16120,6 +16203,7 @@
 										Name: "minecraft:tuff_brick_wall"
 										Properties: {
 											east: "none"
+											essentia_logged: "false"
 											north: "none"
 											south: "none"
 											up: "true"
@@ -16130,6 +16214,7 @@
 									{
 										Name: "minecraft:dark_oak_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											open: "false"
@@ -16140,6 +16225,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "bottom"
 											open: "true"
@@ -16150,6 +16236,7 @@
 									{
 										Name: "minecraft:dark_oak_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "top"
 											waterlogged: "false"
 										}
@@ -16157,6 +16244,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "top"
 											shape: "straight"
@@ -16166,6 +16254,7 @@
 									{
 										Name: "minecraft:dark_oak_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "top"
 											open: "false"
@@ -16176,6 +16265,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "top"
 											shape: "straight"
@@ -16185,6 +16275,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											open: "true"
@@ -16195,6 +16286,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "top"
 											shape: "straight"
@@ -16204,6 +16296,7 @@
 									{
 										Name: "minecraft:dark_oak_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "bottom"
 											waterlogged: "false"
 										}
@@ -16220,6 +16313,7 @@
 									{
 										Name: "minecraft:dark_oak_slab"
 										Properties: {
+											essentia_logged: "false"
 											type: "double"
 											waterlogged: "false"
 										}
@@ -16227,6 +16321,7 @@
 									{
 										Name: "minecraft:dark_oak_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "top"
 											open: "false"
@@ -16237,6 +16332,7 @@
 									{
 										Name: "minecraft:dark_oak_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "top"
 											open: "false"
@@ -16247,6 +16343,7 @@
 									{
 										Name: "minecraft:dark_oak_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "top"
 											open: "false"
@@ -16257,6 +16354,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "top"
 											shape: "straight"
@@ -16267,6 +16365,7 @@
 										Name: "minecraft:tuff_brick_wall"
 										Properties: {
 											east: "none"
+											essentia_logged: "false"
 											north: "none"
 											south: "none"
 											up: "true"
@@ -16278,6 +16377,7 @@
 										Name: "minecraft:tuff_brick_wall"
 										Properties: {
 											east: "none"
+											essentia_logged: "false"
 											north: "none"
 											south: "tall"
 											up: "true"
@@ -16288,6 +16388,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											shape: "straight"
@@ -16297,6 +16398,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "bottom"
 											open: "true"
@@ -16308,6 +16410,7 @@
 										Name: "productivetrees:sweetgum_fence"
 										Properties: {
 											east: "false"
+											essentia_logged: "false"
 											north: "false"
 											south: "false"
 											waterlogged: "false"
@@ -16325,6 +16428,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "bottom"
 											shape: "inner_right"
@@ -16334,6 +16438,7 @@
 									{
 										Name: "minecraft:dark_oak_stairs"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "bottom"
 											shape: "straight"
@@ -16343,6 +16448,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "north"
 											half: "top"
 											open: "true"
@@ -16372,6 +16478,7 @@
 									{
 										Name: "farmersdelight:gray_wall_hanging_canvas_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											waterlogged: "false"
 										}
@@ -16379,6 +16486,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "west"
 											half: "top"
 											open: "true"
@@ -16389,6 +16497,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "east"
 											half: "top"
 											open: "true"
@@ -16399,6 +16508,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "top"
 											open: "true"
@@ -16409,6 +16519,7 @@
 									{
 										Name: "minecraft:spruce_wall_sign"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											waterlogged: "false"
 										}
@@ -16417,6 +16528,7 @@
 										Name: "minecraft:tuff_brick_wall"
 										Properties: {
 											east: "none"
+											essentia_logged: "false"
 											north: "tall"
 											south: "none"
 											up: "true"
@@ -16496,6 +16608,7 @@
 									{
 										Name: "minecraft:spruce_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "bottom"
 											open: "true"
@@ -16507,6 +16620,7 @@
 										Name: "chipped:arched_light_gray_stained_glass_pane_pillar"
 										Properties: {
 											east: "true"
+											essentia_logged: "false"
 											north: "false"
 											south: "false"
 											waterlogged: "false"
@@ -16524,6 +16638,7 @@
 										Name: "minecraft:tuff_brick_wall"
 										Properties: {
 											east: "tall"
+											essentia_logged: "false"
 											north: "tall"
 											south: "none"
 											up: "true"
@@ -16559,6 +16674,7 @@
 									{
 										Name: "minecraft:dark_oak_trapdoor"
 										Properties: {
+											essentia_logged: "false"
 											facing: "south"
 											half: "bottom"
 											open: "false"
