@@ -882,7 +882,7 @@
 				}
 				{
 					id: "30BED0B4B186C3EA"
-					item: { count: 1, id: "neovitae:ritual_diviner_dusk" }
+					item: { count: 1, id: "neovitae:ritual_diviner_tenebrae" }
 					type: "item"
 				}
 				{
