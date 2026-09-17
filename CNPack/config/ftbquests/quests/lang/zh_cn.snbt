@@ -2652,7 +2652,7 @@
 		""
 		"This tier has the most storage for &aUpgrade Modules&r."
 	]
-	quest.1ABB93F87483CA3E.title: "&zChaotic&r Tools"
+	quest.1ABB93F87483CA3E.title: "&z混沌&r工具"
 	quest.1ADE323F448DCF12.quest_desc: [
 		"在基地内的箱子里到处放这些&a位置卡&r，是一件非常痛苦的事情。"
 		""
@@ -3797,7 +3797,7 @@
 	]
 	quest.26B6680DCE14A228.title: "&f充气站"
 	quest.26C56E80D6F15838.quest_desc: ["&dWyvern&r tools consume power instead of durability and can be customized using &aUpgrade Modules&r."]
-	quest.26C56E80D6F15838.title: "&dWyvern &fTools"
+	quest.26C56E80D6F15838.title: "&d双足飞龙&f工具"
 	quest.26D4074DECF26C04.quest_desc: ["&6等离子涡轮机&r是&e现代工业化&r最高级的发电设施，它会通过消耗&5氦等离子体&r以产出&c一百万EU/t&r的能量。"]
 	quest.26D4074DECF26C04.title: "&6等离子涡轮机"
 	quest.26D59E04760C5747.quest_desc: [
@@ -4610,7 +4610,7 @@
 		""
 		"[\"To install a module, press \", { \"keybind\": \"key.draconicevolution.tool_modules\", \"color\": \"green\" }, \" while holding the tool in your hand.\"]"
 	]
-	quest.2F32FF00B68F8618.title: "Draconic Modules"
+	quest.2F32FF00B68F8618.title: "龙之模块"
 	quest.2F34A04C7FB2D605.quest_desc: [
 		"你可以通过&6聚变反应堆&r将多种流体制成&5氦等离子体&r。"
 		""
@@ -12757,7 +12757,7 @@
 	task.2B2473620B056467.title: "游玩&d50小时"
 	task.2B2AC5A9A28F14A9.title: "蓄电池"
 	task.2B97A2DFF700B056.title: "&6Fargo的符石"
-	task.2BAC28B76BC52485.title: "Wyvern Tools"
+	task.2BAC28B76BC52485.title: "双足飞龙工具"
 	task.2BB5021FC9A3E6EB.title: "&e召唤一个&a鹦鹉"
 	task.2C1245371800E1E7.title: "蜜蜂种类"
 	task.2C718A1A0353A93C.title: "升级海洋书架"
@@ -12765,7 +12765,7 @@
 	task.2CA99A333EDFB6FC.title: "&a精华耕地&r"
 	task.2CC8184A4A0C3AED.title: "就地升级"
 	task.2D6AEF337BEAFA58.title: "任意坩埚增强"
-	task.2D9AA4F523B2C5B5.title: "&zChaotic&r Tools"
+	task.2D9AA4F523B2C5B5.title: "&z混沌&r工具"
 	task.2DCE94139CB2078D.title: "&a实用升级"
 	task.2E079C677B170563.title: "基础粉笔"
 	task.2E1EB6FEC1AE28D0.title: "寂静装备蓝图"
