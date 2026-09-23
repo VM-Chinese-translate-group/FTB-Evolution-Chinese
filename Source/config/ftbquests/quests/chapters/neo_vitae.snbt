@@ -888,6 +888,7 @@
 				{
 					id: "65C7723B5CB07C1E"
 					item: { count: 1, id: "neovitae:activation_crystal_awakened" }
+					optional_task: true
 					type: "item"
 				}
 			]
