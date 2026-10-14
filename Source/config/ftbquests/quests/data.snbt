@@ -41,6 +41,7 @@
 	}
 	progression_mode: "flexible"
 	show_lock_icons: true
+	tags: ["standard"]
 	verify_on_load: false
 	version: 13
 }
