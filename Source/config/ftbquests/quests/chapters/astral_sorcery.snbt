@@ -1,0 +1,1113 @@
+{
+	autofocus_id: "19A802860BE1693E"
+	default_hide_dependency_lines: false
+	default_min_width: 250
+	default_quest_shape: ""
+	filename: "astral_sorcery"
+	group: "33401D44ADADF4FC"
+	icon: {
+		id: "astralsorcery:tome"
+	}
+	id: "29056B535C4654A3"
+	images: [
+		{
+			height: 5.0d
+			id: "1766FF581144010B"
+			image: "ftbevolution:textures/quests/titles_and_logos/astral_sorcery_logo.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			alpha: 190
+			height: 4.5d
+			id: "31584F7AEDFCC7E6"
+			image: "astralsorcery:textures/screen/tome/cluster_shimmer.png"
+			rotation: 0.0d
+			width: 4.5d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			alpha: 190
+			height: 4.5d
+			id: "6DF704B1DE624DBB"
+			image: "astralsorcery:textures/screen/tome/cluster_illumination.png"
+			rotation: 0.0d
+			width: 4.5d
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			alpha: 190
+			height: 4.5d
+			id: "535D7F980A2D9310"
+			image: "astralsorcery:textures/screen/tome/cluster_resonance.png"
+			rotation: 0.0d
+			width: 4.5d
+			x: 19.5d
+			y: 0.0d
+		}
+		{
+			alpha: 190
+			height: 4.5d
+			id: "70C8D638AB5DDDA4"
+			image: "astralsorcery:textures/screen/tome/cluster_luminance.png"
+			rotation: 0.0d
+			width: 4.5d
+			x: 30.0d
+			y: 0.0d
+		}
+		{
+			alpha: 190
+			height: 4.5d
+			id: "283BF8DADDC94B5F"
+			image: "astralsorcery:textures/screen/tome/cluster_radiance.png"
+			rotation: 0.0d
+			width: 4.5d
+			x: 40.0d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "astralsorcery:aquamarine"
+			}
+			id: "19A802860BE1693E"
+			rewards: [{
+				id: "340610F9FB83208A"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "550B914FAF8E1DF9"
+				item: { count: 1, id: "astralsorcery:aquamarine" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19A802860BE1693E"]
+			icon: {
+				id: "astralsorcery:tome"
+			}
+			id: "0D45D9EEFC4B10AB"
+			rewards: [{
+				id: "79EB60319123EF70"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7C0382032974BA21"
+				item: { count: 1, id: "astralsorcery:tome" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["19A802860BE1693E"]
+			icon: {
+				id: "astralsorcery:constellation_paper"
+			}
+			id: "177AA072321C8090"
+			rewards: [{
+				id: "53D689C254CF28A8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0AFA73C8E2CC08E6"
+				item: { count: 1, id: "astralsorcery:constellation_paper" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["177AA072321C8090"]
+			icon: {
+				id: "astralsorcery:astrolabe"
+			}
+			id: "659CDF6941749519"
+			rewards: [{
+				id: "18DC3B47CD715FF9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "31C276878BC1306F"
+				item: { count: 1, id: "astralsorcery:astrolabe" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["659CDF6941749519"]
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "31893B7163684E99"
+			rewards: [{
+				id: "356927CE44A2FB30"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1DEDBC410F232A69"
+				type: "checkmark"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31893B7163684E99"]
+			icon: {
+				id: "astralsorcery:wand"
+			}
+			id: "0B4B5C864F6D5BBB"
+			rewards: [{
+				id: "1B37D9A9C3FEB8B4"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "0147F6B228F64F8A"
+				item: { count: 1, id: "astralsorcery:wand" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0B4B5C864F6D5BBB"]
+			icon: {
+				id: "astralsorcery:rock_crystal"
+			}
+			id: "1EC1DB83108201AE"
+			rewards: [{
+				id: "7AB56005A75B0774"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "0D9A0FADCF9FB599"
+				item: { count: 1, id: "astralsorcery:rock_crystal" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["31893B7163684E99"]
+			icon: {
+				id: "astralsorcery:altar_illumination"
+			}
+			id: "1E6A8B0B25062315"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6531F50789F8DAFD"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+				{
+					id: "57CC1BA67CD64E02"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "7483F8BBBBA7A7E5"
+				item: { count: 1, id: "astralsorcery:altar_illumination" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1E6A8B0B25062315"]
+			icon: {
+				id: "astralsorcery:artifact"
+			}
+			id: "551CEC018EF4B76D"
+			min_width: 350
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "2339513B53A02AEB"
+				item: { count: 1, id: "astralsorcery:artifact" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"1E6A8B0B25062315"
+				"1EC1DB83108201AE"
+			]
+			icon: {
+				id: "astralsorcery:crystal_pickaxe"
+			}
+			id: "4E51B59207212BF5"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "265D2EB35D540573"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astralsorcery:crystal_pickaxe)item(astralsorcery:crystal_axe)item(astralsorcery:crystal_shovel)item(astralsorcery:crystal_sword))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1E6A8B0B25062315"]
+			icon: {
+				id: "astralsorcery:lightwell"
+			}
+			id: "1BB3578F45B78F38"
+			min_width: 300
+			rewards: [{
+				id: "2D9426E72DCEE6C4"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "54D39B7F4B3D0A7F"
+				item: { count: 1, id: "astralsorcery:lightwell" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1BB3578F45B78F38"]
+			icon: {
+				id: "astralsorcery:infused_wood"
+			}
+			id: "33AF04527684D9B5"
+			rewards: [{
+				id: "23BBBD750AAF405F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3B8E1BD8D93A4FA7"
+				item: { count: 1, id: "astralsorcery:infused_wood" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33AF04527684D9B5"]
+			icon: {
+				id: "astralsorcery:focus_relay"
+			}
+			id: "35AEBB19E643C7F7"
+			rewards: [{
+				id: "0EB6A5C3590EDCB5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "607940C63A8B3E2E"
+				item: { count: 1, id: "astralsorcery:focus_relay" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1E6A8B0B25062315"]
+			icon: {
+				id: "astralsorcery:sooty_marble_raw"
+			}
+			id: "7BC23E4A4F041C68"
+			rewards: [{
+				id: "3860B1F3EA74D80E"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7AC4B8AED39FBF60"
+				item: { count: 1, id: "astralsorcery:sooty_marble_raw" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1BB3578F45B78F38"]
+			icon: {
+				id: "astralsorcery:illumination_powder"
+			}
+			id: "413E7A87ADA5503C"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "2AD4E2D9F3C909E8"
+				item: { count: 1, id: "astralsorcery:illumination_powder" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["413E7A87ADA5503C"]
+			icon: {
+				id: "astralsorcery:cave_illuminator"
+			}
+			id: "590F7EFC6F5D70A4"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "09D6C45559A9A8D7"
+				item: { count: 1, id: "astralsorcery:cave_illuminator" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1E6A8B0B25062315"]
+			icon: {
+				id: "astralsorcery:starmetal_ingot"
+			}
+			id: "5EE2A20A5C233813"
+			rewards: [{
+				id: "47D58021016B43F2"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3493DEB3EE2C7CE2"
+				item: { count: 1, id: "astralsorcery:starmetal_ingot" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"5EE2A20A5C233813"
+				"33AF04527684D9B5"
+			]
+			icon: {
+				id: "astralsorcery:stardust"
+			}
+			id: "13E519C96A1997A0"
+			rewards: [{
+				id: "123E6A9E1429829A"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "0E1AF634CF905AC3"
+					item: { count: 1, id: "astralsorcery:chisel" }
+					type: "item"
+				}
+				{
+					id: "18D18F3C8F4110FE"
+					item: { count: 1, id: "astralsorcery:stardust" }
+					type: "item"
+				}
+			]
+			x: 14.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["13E519C96A1997A0"]
+			icon: {
+				id: "astralsorcery:celestial_crystal"
+			}
+			id: "3560772906E36142"
+			rewards: [{
+				id: "029F061A0FF810F3"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "0A8526ECFBBDB3CB"
+				item: { count: 1, id: "astralsorcery:celestial_crystal" }
+				type: "item"
+			}]
+			x: 16.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["13E519C96A1997A0"]
+			icon: {
+				id: "astralsorcery:knowledge_share"
+			}
+			id: "442EB58BFF66C799"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "57B3952066FAFED1"
+				item: { count: 1, id: "astralsorcery:knowledge_share" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13E519C96A1997A0"]
+			icon: {
+				id: "astralsorcery:architect_wand"
+			}
+			id: "60E48C0FFB71F8A7"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "4E4162BD98F7392F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astralsorcery:architect_wand)item(astralsorcery:exchange_wand))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 15.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["35AEBB19E643C7F7"]
+			icon: {
+				id: "astralsorcery:altar_resonance"
+			}
+			id: "3CE393B3589BFC58"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7BBA98BD20200F8E"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+				{
+					id: "465DB4B8A7C29CAC"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				icon: {
+					id: "astralsorcery:altar_resonance"
+				}
+				id: "10962AF53B23FDF0"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "astralsorcery:altar_resonance"
+				type: "observation"
+			}]
+			x: 19.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3CE393B3589BFC58"]
+			icon: {
+				id: "astralsorcery:celestial_gateway"
+			}
+			id: "410667AB401D8E75"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "78AC64A0C1DA1B05"
+				item: { count: 1, id: "astralsorcery:celestial_gateway" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3CE393B3589BFC58"]
+			icon: {
+				id: "astralsorcery:blink_wand"
+			}
+			id: "230501AEC4ACF1A5"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "15F89FB62AEFC870"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astralsorcery:blink_wand)item(astralsorcery:grappling_wand))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3CE393B3589BFC58"]
+			icon: {
+				id: "astralsorcery:infuser"
+			}
+			id: "00F6AB7FE28D6835"
+			rewards: [{
+				id: "116D08A412279AD7"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1279B2CA38149024"
+				item: { count: 1, id: "astralsorcery:infuser" }
+				type: "item"
+			}]
+			x: 23.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["00F6AB7FE28D6835"]
+			icon: {
+				id: "astralsorcery:resonating_gem"
+			}
+			id: "79F797E27C723B0E"
+			rewards: [{
+				id: "1AD6C6E66D1C1191"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "19D0F5895E27716F"
+				item: { count: 1, id: "astralsorcery:resonating_gem" }
+				type: "item"
+			}]
+			x: 25.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["79F797E27C723B0E"]
+			icon: {
+				id: "astralsorcery:chalice"
+			}
+			id: "7B21752E363AC030"
+			rewards: [{
+				id: "67F91A7062572B6D"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1F5E09F192DB9347"
+				item: { count: 1, id: "astralsorcery:chalice" }
+				type: "item"
+			}]
+			x: 27.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3CE393B3589BFC58"]
+			icon: {
+				id: "astralsorcery:hyacinth"
+			}
+			id: "006F6E0EF5D249AF"
+			rewards: [{
+				id: "0B9DCC5A5922F168"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "50D1B9D5C02104EB"
+					item: { count: 1, id: "astralsorcery:hyacinth" }
+					type: "item"
+				}
+				{
+					id: "1AA13BD543210F4B"
+					item: { count: 1, id: "astralsorcery:orchid" }
+					type: "item"
+				}
+				{
+					id: "743D3070FFC09B6D"
+					item: { count: 1, id: "astralsorcery:thistle" }
+					type: "item"
+				}
+				{
+					id: "022F9654ADC0FC8D"
+					item: { count: 1, id: "astralsorcery:protea" }
+					type: "item"
+				}
+				{
+					id: "2BFD945BFC40EF2B"
+					item: { count: 1, id: "astralsorcery:iris" }
+					type: "item"
+				}
+			]
+			x: 22.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["006F6E0EF5D249AF"]
+			icon: {
+				id: "astralsorcery:lumen_array"
+			}
+			id: "7775C103AE390F9C"
+			min_width: 300
+			rewards: [{
+				id: "2C0595538AE52446"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1968AB5B1CA56D54"
+				item: { count: 1, id: "astralsorcery:lumen_array" }
+				type: "item"
+			}]
+			x: 24.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7775C103AE390F9C"]
+			icon: {
+				id: "astralsorcery:lumen_filament"
+			}
+			id: "5DA8371E532D6F90"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "629BD544F3ECC0EB"
+				item: { count: 1, id: "astralsorcery:lumen_filament" }
+				type: "item"
+			}]
+			x: 24.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7775C103AE390F9C"]
+			icon: {
+				id: "astralsorcery:lumen_crystallizer"
+			}
+			id: "40B3198B50FE426F"
+			rewards: [{
+				id: "17F4FAB9F1F6E3B8"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "65903CBC612E39F3"
+					item: { count: 1, id: "astralsorcery:lumen_crystallizer" }
+					type: "item"
+				}
+				{
+					id: "64CFF09815746569"
+					item: { count: 1, id: "astralsorcery:lumen_crystal" }
+					type: "item"
+				}
+			]
+			x: 26.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["40B3198B50FE426F"]
+			icon: {
+				id: "astralsorcery:stardew"
+			}
+			id: "44F3DD36CE3B6D30"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "1A35E3DF007AFDDC"
+				item: { count: 1, id: "astralsorcery:stardew" }
+				type: "item"
+			}]
+			x: 26.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3CE393B3589BFC58"]
+			icon: {
+				id: "astralsorcery:attunement_altar"
+			}
+			id: "52413A193881CDB6"
+			min_width: 300
+			rewards: [{
+				id: "12090AE8E8D590E6"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "25AD4CB74A9BB877"
+					item: { count: 1, id: "astralsorcery:attunement_altar" }
+					type: "item"
+				}
+				{
+					id: "03010930C4B521E2"
+					type: "checkmark"
+				}
+			]
+			x: 22.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["52413A193881CDB6"]
+			icon: {
+				id: "astralsorcery:attuned_rock_crystal"
+			}
+			id: "49234BFAD4D8AD7A"
+			rewards: [{
+				id: "6CFFC6D5618B5AEA"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1808E455697B5545"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(astralsorcery:attuned_crystal)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 22.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["52413A193881CDB6"]
+			icon: {
+				id: "astralsorcery:dynamism_gem_sky"
+			}
+			id: "7570C01FBD44131E"
+			min_width: 300
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "0FECA79D0177892E"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astralsorcery:dynamism_gem_day)item(astralsorcery:dynamism_gem_sky)item(astralsorcery:dynamism_gem_night))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 23.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["52413A193881CDB6"]
+			icon: {
+				id: "astralsorcery:perk_seal"
+			}
+			id: "0196001BFB76C64E"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "448C3463352D9D25"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astralsorcery:perk_seal)item(astralsorcery:perk_nullifier))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 20.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"79F797E27C723B0E"
+				"52413A193881CDB6"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "astralsorcery:shifting_star"
+			}
+			id: "2EF3DBACABA0FC7B"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "5B86262969FF6841"
+				item: { count: 1, id: "astralsorcery:shifting_star" }
+				type: "item"
+			}]
+			x: 25.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7B21752E363AC030"]
+			icon: {
+				id: "astralsorcery:altar_luminance"
+			}
+			id: "132C28EB0CB4D7BF"
+			min_width: 350
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "42B9583D247F2FE9"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+				{
+					id: "52653C4F28EDBAB9"
+					type: "xp"
+					xp: 50
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				icon: {
+					id: "astralsorcery:altar_luminance"
+				}
+				id: "4631F6DB15A4041F"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "astralsorcery:altar_luminance"
+				type: "observation"
+			}]
+			x: 30.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["132C28EB0CB4D7BF"]
+			icon: {
+				id: "astralsorcery:shifting_star_aevitas"
+			}
+			id: "14FBB5D65C324838"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "7FEFF1AA88208EBF"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astralsorcery:shifting_star_aevitas)item(astralsorcery:shifting_star_armara)item(astralsorcery:shifting_star_discidia)item(astralsorcery:shifting_star_evorsio)item(astralsorcery:shifting_star_vicio))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["132C28EB0CB4D7BF"]
+			icon: {
+				id: "astralsorcery:starlight_focus_rock_crystal"
+			}
+			id: "380C4417E7F958A6"
+			min_width: 300
+			rewards: [{
+				id: "36A1D5D3FE1A684F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "7F9973AE88E29E14"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astralsorcery:starlight_focus_rock_crystal)item(astralsorcery:starlight_focus_celestial_crystal))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 32.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["380C4417E7F958A6"]
+			icon: {
+				id: "astralsorcery:linking_tool"
+			}
+			id: "5AAFD41FB606DA18"
+			rewards: [{
+				id: "250446E815452389"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2B5EC0D797A13473"
+				item: { count: 1, id: "astralsorcery:linking_tool" }
+				type: "item"
+			}]
+			x: 34.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5AAFD41FB606DA18"]
+			icon: {
+				id: "astralsorcery:lens"
+			}
+			id: "045C81345A1B6BEB"
+			rewards: [{
+				id: "13479102D04EBD34"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6E6C8135E407E2AA"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astralsorcery:lens)item(astralsorcery:prism))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 34.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["132C28EB0CB4D7BF"]
+			icon: {
+				id: "astralsorcery:lumen_alchemy_array"
+			}
+			id: "570DECF250E2DABD"
+			rewards: [{
+				id: "27575C66CFB3B480"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "0FB5FD82F17B8EF9"
+				item: { count: 1, id: "astralsorcery:lumen_alchemy_array" }
+				type: "item"
+			}]
+			x: 32.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["570DECF250E2DABD"]
+			icon: {
+				id: "astralsorcery:lumen_crystal"
+			}
+			id: "742DA30B430B17C0"
+			min_width: 300
+			rewards: [{
+				id: "2FD8A50B59C1AFEF"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "60A51E3809A48A62"
+				type: "checkmark"
+			}]
+			x: 34.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["132C28EB0CB4D7BF"]
+			icon: {
+				id: "astralsorcery:iridescent_crystal_pickaxe"
+			}
+			id: "3CFDCA2717FC524D"
+			min_width: 350
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "43F4B0C9A8D4CD9D"
+				item: { components: { "ftbfiltersystem:filter": "or(item(astralsorcery:iridescent_crystal_pickaxe)item(astralsorcery:iridescent_crystal_axe)item(astralsorcery:iridescent_crystal_shovel)item(astralsorcery:iridescent_crystal_sword))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 32.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5AAFD41FB606DA18"]
+			icon: {
+				id: "astralsorcery:altar_radiance"
+			}
+			id: "7C35B39DA62BA26F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56F4246566782B5A"
+					table_id: 352034913589945553L
+					type: "random"
+				}
+				{
+					id: "0FD0B9EFBC63D731"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				icon: {
+					id: "astralsorcery:altar_radiance"
+				}
+				id: "7E0C250271E8FECD"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "astralsorcery:altar_radiance"
+				type: "observation"
+			}]
+			x: 40.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C35B39DA62BA26F"]
+			icon: {
+				id: "astralsorcery:stellar_filament"
+			}
+			id: "52FB130CD9550AB3"
+			rewards: [{
+				id: "647A8F692F363C1D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0CC04CBD30305129"
+				item: { count: 1, id: "astralsorcery:stellar_filament" }
+				type: "item"
+			}]
+			x: 42.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7C35B39DA62BA26F"]
+			icon: {
+				id: "astralsorcery:artifact"
+			}
+			id: "5174B3FF6EFDC49F"
+			rewards: [{
+				id: "54BBB7587FE0E9AB"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "26A61C0594DCAFBA"
+				type: "checkmark"
+			}]
+			x: 42.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["551CEC018EF4B76D"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"astralsorcery:artifact": {
+						conditionCount: 5
+						conditions: [ ]
+						failureEffects: [ ]
+						lastPulseGameTick: -1L
+						seed: 4058868311443142109L
+						stability: 0
+						stats: {
+							emptyTriggers: 0
+							partialTriggers: 0
+							pulses: 0
+						}
+						type: "astralsorcery:sidereal"
+					}
+				}
+				id: "astralsorcery:artifact"
+			}
+			id: "7878EDB447B7DFDA"
+			min_width: 300
+			optional: true
+			shape: "gear"
+			tasks: [{
+				id: "4ACB536D94142EEC"
+				type: "checkmark"
+			}]
+			x: 9.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["132C28EB0CB4D7BF"]
+			icon: {
+				id: "astralsorcery:enchantment_amulet"
+			}
+			id: "6672D8CE0007FBFB"
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				id: "63C2A3A76A25D830"
+				item: { count: 1, id: "astralsorcery:enchantment_amulet" }
+				type: "item"
+			}]
+			x: 30.0d
+			y: 2.0d
+		}
+	]
+}
