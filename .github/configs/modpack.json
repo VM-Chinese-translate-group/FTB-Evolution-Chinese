@@ -1,13 +1,28 @@
 {
+  "configured": false,
   "packId": 125,
   "packName": "FTB Evolution",
+  "versionPattern": "FTB Evolution {version}",
+  "mcVersion": "1.21.1", 
+  "loader": "neoforge",
+  "updateMethod": "cursethebeast",
   "infoFilePath": "CNPack/modpackinfo.json",
   "sourceDir": "Source",
+  "paratranz": {
+    "jsonSplits": [],
+    "pathRedirects": []
+  },
   "attentionList": {
     "folders": [
       {
         "path": "config/ftbquests/quests",
         "ignoreDeletions": false
+      }
+    ],
+    "filePatterns": [
+      {
+        "pattern": "kubejs/assets/*/lang/en_us.json",
+        "ignoreDeletions": true
       }
     ]
   },
