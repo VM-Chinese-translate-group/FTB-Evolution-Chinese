@@ -1,5 +1,5 @@
 {
-  "configured": false,
+  "configured": true,
   "packId": 125,
   "packName": "FTB Evolution",
   "versionPattern": "FTB Evolution {version}",
