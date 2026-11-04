@@ -4,7 +4,7 @@
   "description": "FTB Evolution整合包简体中文汉化，记得额外下载i18n模组",
   "modpack": {
     "name": "FTB Evolution",
-    "versionRange": "[1.45.1,)"
+    "versionRange": "[1.46.0,)"
   },
   "authors": [
     "VM汉化组"
