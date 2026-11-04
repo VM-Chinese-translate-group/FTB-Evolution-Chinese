@@ -649,5 +649,106 @@
     "ftbquests.chapter.quantumania.quest8.description1": "&dQuantum Gear&r is the best there is. You can fly freely for no power cost, never take damage from external sources, and kill any mob in one hit with the &dQuantum Sword&r.",
     "ftbquests.chapter.quantumania.quest8.description2": "&oIt better one hit mobs since it's technically made out of the power of 64 Nukes.&r",
     "ftbquests.chapter.quantumania.quest8.title": "&5Quantum Gear&r",
-    "ftbquests.chapter.quantumania.title": "7. Quantumania"
-  }
+    "ftbquests.chapter.quantumania.title": "7. Quantumania",
+
+    "ftb.pyramid.initial_message": "An Ancient being as old as time itself, stirs once more... It awaits the culmination of your journey, the knowledge and artifacts you’ve gathered across worlds.",
+    "ftb.pyramid.initial_message.pyramid": "Are you Ready to Feed the Beast? ∆",
+
+    "ftb.tooltip.ae2.cable_anchor.facade_info": "§aⓘ You can Craft AE2s Cable Facades by Mixing 4 Cable Anchors and a Block like this:§f",
+    "ftb.tooltip.ae2.cable_anchor.facade_pattern_1": "§a      Anchor§f",
+    "ftb.tooltip.ae2.cable_anchor.facade_pattern_2": "§aAnchor ■ Anchor§f",
+    "ftb.tooltip.ae2.cable_anchor.facade_pattern_3": "§a      Anchor§f",
+    
+    "ftb.tooltip.justdirethings.experienceholder.bucket_info": "§aⓘ You can Right Click with a Bucket to fill it with XP. (§nMust be Exactly 1 Bucket§f§a)§f",
+    
+    "ftb.tooltip.apothic_enchanting.boon_of_the_earth.warning": "§c§l⚠ WARNING§f: Can cause weird Breaking Patterns if enchanted on Hammers.§f",
+    
+    "ftb.tooltip.toolbelt.belt.open_menu": "§aⓘ Press [V] §8(Default Key)§a to open the Belt Slot Menu to Equip it.",
+    "ftb.tooltip.toolbelt.belt.use_item": "§a    Press [R] §8(Default Key)§a to Use it.§f",
+    
+    "ftb.tooltip.compactmachines.new_machine.recipe_visualize": "§aⓘ Other Sizes do Exist, Press [R] to Visualize All Recipes!§f",
+    
+    "ftb.tooltip.ae2.not_so_mysterious_cube.description": "§aⓘ A Not so Mysterious Cube made for Not so Mysterious Decoration Purposes.§f",
+    
+    "ftb.tooltip.easy_villagers.contents_disabled": "§c§l⚠ Attention§f: §bRendering of Contents§f is §b§lDisabled§f.",
+    "ftb.tooltip.easy_villagers.contents_config_warning": "§8§o(You can re-enable it manually in the configs at the risk of impacting performance)§f",
+    
+    "ftb.tooltip.modern_industrialization.cables.flux_warning": "§c§l⚠ Attention§f: Do not connect directly to §bFlux Plugs§f, connections may be reset after §6Server Restarts§f.",
+    
+    "ftb.tooltip.fargostalismans.abominable_energy.source_1": "§7Can be found in Fargo's Treasure Rooms,",
+    "ftb.tooltip.fargostalismans.abominable_energy.source_2": "§7Looted from Bosses or obtained through Particle Collision.§f",
+    
+    "ftb.tooltip.industrialforegoing.dryrubber.recipe_info": "§aⓘ§f §7Made from§f 750mb of Latex§7 and §9500mb of Water§7.",
+    "ftb.tooltip.mekanism.oredictionificator": "§c⚠§f This Block is §cDisabled§f as it may produce incorrect results.",
+    "ftb.tooltip.custom.sludge_baby": "§5Try not to Think about the Smell§f",
+    "ftb.tooltip.custom.ethereal_essence": "§5Requires 4 Entire Source Jars to Make§f",
+    "ftb.tooltip.custom.ultimate_singularity": "§aⓘ Tip:§f Use an §dInfinity Cobblestone Cell§f to help you make it.",
+
+    "ftb.tooltip.pyramid.component": "§a◦ Pyramid Subcomponent§f",
+    "ftb.tooltip.pyramid.main": "§e∆ Pyramid Main Component§f",
+    "ftb.tooltip.pyramid.unique": "§6© Pyramid Unique Component§f",
+    "ftb.tooltip.pyramid.needs_automation": "§7ⓘ Make sure to consider Automating this Item.",
+    "ftb.tooltip.pyramid.no_automation": "§7ⓘ You won't need to Automate this Item.",
+
+    "ftb.tooltip.bhc.red_heart.source": "§aⓘ §fDropped by §cApothic Mobs§f",
+    "ftb.tooltip.bhc.yellow_heart.source": "§aⓘ §fDropped by §eBosses§f",
+    "ftb.tooltip.bhc.green_heart.source": "§aⓘ §fDropped by §aEnder Dragon§f",
+    "ftb.tooltip.bhc.blue_heart.source": "§aⓘ §fMade from §9Crafting§f",
+    "ftb.tooltip.ftbevolution.ruby_gem.migration": "§c§l⚠ Legacy Item§f: Craft it into an FTB Materials Ruby.",
+
+    "item.ftbevolution.ender_apple": "Ender Apple",
+    "item.ftbevolution.ultimate_singularity": "Ultimate Singularity",
+    "item.ftbevolution.skill_reset_magic": "Magic Skill Reset Sigil",
+    "item.ftbevolution.skill_reset_melee": "Melee Skill Reset Sigil",
+    "item.ftbevolution.skill_reset_ranged": "Ranged Skill Reset Sigil",
+    "item.ftbevolution.skill_reset_athletics": "Atheletics Skill Reset Sigil",
+    "item.ftbevolution.skill_reset_mining": "Mining Skill Reset Sigil",
+    "item.ftbevolution.skill_reset_defense": "Defense Skill Reset Sigil",
+    "item.ftbevolution.elemental_arcanite": "Elemental Arcanite",
+    "item.ftbevolution.primal_essence": "Primal Essence",
+    "item.ftbevolution.omega_dragon_egg": "Omega Dragon Egg",
+    "item.ftbevolution.evolutionary_matter": "Evolutionary Matter",
+    "item.ftbevolution.prediction_amalgam": "Evolutionary Amalgam",
+    "item.ftbevolution.bio_neural_circuit": "Bio-Neural Circuit",
+    "item.ftbevolution.evolutionary_arcanum": "Evolutionary Arcanum",
+    "item.ftbevolution.mekanized_super_computer": "Mekanized Super Computer",
+    "item.ftbevolution.ender_transmitter": "Ender Transmitter",
+    "item.ftbevolution.creative_ascension": "Creative Ascension",
+    "item.ftbevolution.dissolved_potential": "Dissolved Potential",
+    "item.ftbevolution.realized_transcendence": "Realized Transcendence",
+    "item.ftbevolution.ethereal_essence": "Ethereal Essence",
+    "item.ftbevolution.infinitely_compressed_circuit_board": "Infinitely Compressed Circuit Board",
+    "item.ftbevolution.time_prism": "Time Prism",
+    "item.ftbevolution.prismatic_xychorium": "Prismatic Xychorium",
+    "item.ftbevolution.dimensional_memory_fragment": "Dimensional Memory Fragment",
+    "item.ftbevolution.supercritical_mass": "Supercritical Mass",
+    "item.ftbevolution.xy_aluminum_dust": "Xyluminum Dust",
+    "item.ftbevolution.ruby_gem": "Ruby",
+    "item.ftbevolution.eclipse_alloy_plate": "Eclipse Alloy Plate",
+    "item.ftbevolution.eclipse_alloy_large_plate": "Eclipse Alloy Large Plate",
+    "item.ftbevolution.shriveling_mixture": "Shriveling Mixture",
+    "item.ftbevolution.sludge_baby": "Sludge Jelly Baby",
+    "item.ftbevolution.sewage_baby": "Sewage Jelly Baby",
+    "item.ftbevolution.diluted_metaturnal_gene": "Diluted Metaturnal Gene Bottle",
+    "item.ftbevolution.diluted_very_high_productivity_gene": "Diluted High Productivity Gene Bottle",
+    "item.ftbevolution.white_star": "White Star",
+    "item.ftbevolution.black_star": "Black Star",
+    "item.ftbevolution.supernova": "Supernova",
+    "item.ftbevolution.plasmatic_core": "Plasmatic Core",
+    "item.ftbevolution.refined_nitro_crystal": "Refined Nitro Crystal",
+    "item.ftbevolution.fortron_infused_ingot": "Fortron Infused Steel",
+    "item.ftbevolution.fortron_infused_plate": "Fortron Infused Steel Plate",
+    "item.ftbevolution.fortron_infused_large_plate": "Fortron Infused Steel Large Plate",
+    "item.ftbevolution.genetic_substrate": "Genetic Substrate",
+
+    "fluid.ftbevolution.dna_mixture": "Impure DNA Mixture",
+    "fluid.ftbevolution.pure_dna_mixture": "Pure DNA Mixture",
+
+    "block.ftbevolution.pyramid_base": "FTB Pyramid Base",
+    "block.ftbevolution.pyra_mid_lower": "FTB Pyramid Mid Lower",
+    "block.ftbevolution.pyra_mid_upper": "FTB Pyramid Mid Upper",
+    "block.ftbevolution.pyramid_top": "FTB Pyramid Top"
+
+}
+
+
